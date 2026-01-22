@@ -1,0 +1,83 @@
+.records-page {
+  min-height: 100vh;
+  padding: 30px;
+  background: #fef9f3;
+
+  .stats-card {
+    background: #fff;
+    border-radius: 20px;
+    padding: 40px 20px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+
+    .stat-item {
+      text-align: center;
+
+      .stat-value {
+        display: block;
+        font-size: 48px;
+        font-weight: bold;
+        color: #ff6b6b;
+        margin-bottom: 10px;
+      }
+
+      .stat-label {
+        display: block;
+        font-size: 26px;
+        color: #6c757d;
+      }
+    }
+  }
+
+  .records-list {
+    .list-title {
+      display: block;
+      font-size: 32px;
+      font-weight: bold;
+      color: #212529;
+      margin-bottom: 20px;
+    }
+
+    .record-item {
+      background: #fff;
+      border-radius: 15px;
+      padding: 25px;
+      margin-bottom: 15px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+
+      .record-date {
+        .date {
+          display: block;
+          font-size: 32px;
+          font-weight: bold;
+          color: #212529;
+          margin-bottom: 5px;
+        }
+
+        .weekday {
+          display: block;
+          font-size: 24px;
+          color: #6c757d;
+        }
+      }
+
+      .record-time {
+        font-size: 28px;
+        color: #52b788;
+        font-weight: bold;
+      }
+    }
+
+    .empty {
+      text-align: center;
+      padding: 60px 0;
+      color: #6c757d;
+      font-size: 28px;
+    }
+  }
+}
