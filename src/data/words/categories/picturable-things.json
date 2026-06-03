@@ -1,0 +1,6802 @@
+[
+  {
+    "id": "angle",
+    "word": "angle",
+    "category": "pt",
+    "zh": "角",
+    "definition": "corner where two lines meet",
+    "example": "Cut at a right angle.",
+    "exampleZh": "直角切。",
+    "synonyms": [
+      "corner",
+      "bend",
+      "point"
+    ],
+    "core": "两条线相遇折出的方向转角。",
+    "ipaUk": "/ˈæŋɡəl/",
+    "ipaUs": "/ˈæŋɡəl/",
+    "synDetail": {
+      "corner": {
+        "def": "角落",
+        "vs": "两面相交处",
+        "use": "in the corner"
+      },
+      "bend": {
+        "def": "弯曲处",
+        "vs": "侧重弯曲点",
+        "use": "a sharp bend"
+      },
+      "point": {
+        "def": "尖点",
+        "vs": "侧重锐尖",
+        "use": "a sharp point"
+      }
+    }
+  },
+  {
+    "id": "ant",
+    "word": "ant",
+    "category": "pt",
+    "zh": "蚂蚁",
+    "definition": "small insect that lives in colonies",
+    "example": "An ant is on the bread.",
+    "exampleZh": "面包上有只蚂蚁。",
+    "synonyms": [
+      "insect",
+      "pismire",
+      "bug"
+    ],
+    "core": "贴着地面成群搬运的小昆虫。",
+    "ipaUk": "/ænt/",
+    "ipaUs": "/ænt/",
+    "synDetail": {
+      "insect": {
+        "def": "昆虫",
+        "vs": "广义类别",
+        "use": "a small insect"
+      },
+      "pismire": {
+        "def": "蚂蚁(古)",
+        "vs": "古英语",
+        "use": "a hill of pismires"
+      },
+      "bug": {
+        "def": "虫子",
+        "vs": "口语,泛指",
+        "use": "a tiny bug"
+      }
+    }
+  },
+  {
+    "id": "apple",
+    "word": "apple",
+    "category": "pt",
+    "zh": "苹果",
+    "definition": "round red or green fruit",
+    "example": "An apple a day.",
+    "exampleZh": "每天一苹果。",
+    "synonyms": [
+      "fruit",
+      "produce",
+      "pome"
+    ],
+    "core": "手里可握的圆形脆甜果实。",
+    "ipaUk": "/ˈæpəl/",
+    "ipaUs": "/ˈæpəl/",
+    "synDetail": {
+      "fruit": {
+        "def": "水果",
+        "vs": "广义类别",
+        "use": "fresh fruit"
+      },
+      "produce": {
+        "def": "农产品",
+        "vs": "侧重新鲜果蔬",
+        "use": "local produce"
+      },
+      "pome": {
+        "def": "梨果",
+        "vs": "植物学,梨苹果类",
+        "use": "the pome family"
+      }
+    }
+  },
+  {
+    "id": "arch",
+    "word": "arch",
+    "category": "pt",
+    "zh": "拱门",
+    "definition": "curved structure over an opening",
+    "example": "Walk through the arch.",
+    "exampleZh": "从拱门下走过。",
+    "synonyms": [
+      "archway",
+      "curve",
+      "vault"
+    ],
+    "core": "向上弯起跨过开口的支撑形。",
+    "ipaUk": "/ɑːtʃ/",
+    "ipaUs": "/ɑɹtʃ/",
+    "synDetail": {
+      "archway": {
+        "def": "拱形通道",
+        "vs": "侧重通道",
+        "use": "under the archway"
+      },
+      "curve": {
+        "def": "曲线",
+        "vs": "广义弯曲",
+        "use": "a graceful curve"
+      },
+      "vault": {
+        "def": "拱顶",
+        "vs": "侧重穹顶",
+        "use": "a stone vault"
+      }
+    }
+  },
+  {
+    "id": "arm",
+    "word": "arm",
+    "category": "pt",
+    "zh": "手臂",
+    "definition": "limb from shoulder to hand",
+    "example": "Lift your arm up.",
+    "exampleZh": "抬起手臂。",
+    "synonyms": [
+      "limb",
+      "forearm",
+      "appendage"
+    ],
+    "core": "从肩伸出用来拿取拥抱的肢体。",
+    "ipaUk": "/ɑːm/",
+    "ipaUs": "/ɑɹm/",
+    "synDetail": {
+      "limb": {
+        "def": "四肢",
+        "vs": "广义,手或脚",
+        "use": "a missing limb"
+      },
+      "forearm": {
+        "def": "前臂",
+        "vs": "侧重肘以下",
+        "use": "a strong forearm"
+      },
+      "appendage": {
+        "def": "附肢",
+        "vs": "正式,生物学术语",
+        "use": "the spider's appendages"
+      }
+    }
+  },
+  {
+    "id": "army",
+    "word": "army",
+    "category": "pt",
+    "zh": "军队",
+    "definition": "large group of soldiers",
+    "example": "The army marched in.",
+    "exampleZh": "军队开进来了。",
+    "synonyms": [
+      "troops",
+      "forces",
+      "military"
+    ],
+    "core": "许多人按命令集结作战的队伍。",
+    "ipaUk": "/ˈɑːmi/",
+    "ipaUs": "/ˈɑɹmi/",
+    "synDetail": {
+      "troops": {
+        "def": "部队",
+        "vs": "侧重作战人员",
+        "use": "deploy troops"
+      },
+      "forces": {
+        "def": "军队,武装",
+        "vs": "侧重武装力量",
+        "use": "armed forces"
+      },
+      "military": {
+        "def": "军方",
+        "vs": "侧重军事机构",
+        "use": "join the military"
+      }
+    }
+  },
+  {
+    "id": "baby",
+    "word": "baby",
+    "category": "pt",
+    "zh": "婴儿",
+    "definition": "very young child",
+    "example": "The baby is sleeping.",
+    "exampleZh": "宝宝在睡觉。",
+    "synonyms": [
+      "infant",
+      "newborn",
+      "child"
+    ],
+    "core": "刚来到世界尚需照看的小生命。",
+    "ipaUk": "/ˈbeɪbi/",
+    "ipaUs": "/ˈbeɪbi/",
+    "synDetail": {
+      "infant": {
+        "def": "婴儿",
+        "vs": "正式,医学用",
+        "use": "infant mortality"
+      },
+      "newborn": {
+        "def": "新生儿",
+        "vs": "刚出生",
+        "use": "a newborn child"
+      },
+      "child": {
+        "def": "孩子",
+        "vs": "广义,可指更大",
+        "use": "a small child"
+      }
+    }
+  },
+  {
+    "id": "bag",
+    "word": "bag",
+    "category": "pt",
+    "zh": "包,袋子",
+    "definition": "soft container for things",
+    "example": "My bag is heavy.",
+    "exampleZh": "我的包很重。",
+    "synonyms": [
+      "sack",
+      "purse",
+      "pouch"
+    ],
+    "core": "柔软开口能装东西随身带的容器。",
+    "ipaUk": "/bæɡ/",
+    "ipaUs": "/bæɡ/",
+    "synDetail": {
+      "sack": {
+        "def": "麻袋",
+        "vs": "较大的粗布袋",
+        "use": "a sack of grain"
+      },
+      "purse": {
+        "def": "钱包,手提包",
+        "vs": "侧重女用手包",
+        "use": "a leather purse"
+      },
+      "pouch": {
+        "def": "小袋",
+        "vs": "小且软的袋",
+        "use": "a tobacco pouch"
+      }
+    }
+  },
+  {
+    "id": "ball",
+    "word": "ball",
+    "category": "pt",
+    "zh": "球",
+    "definition": "round object for sports",
+    "example": "Throw me the ball.",
+    "exampleZh": "把球扔给我。",
+    "synonyms": [
+      "sphere",
+      "globe",
+      "orb"
+    ],
+    "core": "能滚动能抛接的圆圆物体。",
+    "ipaUk": "/bɔːl/",
+    "ipaUs": "/bɔl/",
+    "synDetail": {
+      "sphere": {
+        "def": "球体",
+        "vs": "几何术语",
+        "use": "a perfect sphere"
+      },
+      "globe": {
+        "def": "地球仪,球",
+        "vs": "侧重大球",
+        "use": "spin the globe"
+      },
+      "orb": {
+        "def": "球状物(文学)",
+        "vs": "诗意,常指天体",
+        "use": "the celestial orb"
+      }
+    }
+  },
+  {
+    "id": "band",
+    "word": "band",
+    "category": "pt",
+    "zh": "带子;乐队",
+    "definition": "strip or music group",
+    "example": "A band of gold.",
+    "exampleZh": "一条金色带子。",
+    "synonyms": [
+      "strip",
+      "group",
+      "ring"
+    ],
+    "core": "绕住或连起事物的一条带状物。",
+    "ipaUk": "/bænd/",
+    "ipaUs": "/bænd/",
+    "synDetail": {
+      "strip": {
+        "def": "条状物",
+        "vs": "侧重细长一片",
+        "use": "a strip of cloth"
+      },
+      "group": {
+        "def": "团体",
+        "vs": "侧重人的小群体",
+        "use": "a music group"
+      },
+      "ring": {
+        "def": "环",
+        "vs": "侧重圆环",
+        "use": "a metal ring"
+      }
+    }
+  },
+  {
+    "id": "basin",
+    "word": "basin",
+    "category": "pt",
+    "zh": "盆,水池",
+    "definition": "round container for liquids",
+    "example": "Wash hands in the basin.",
+    "exampleZh": "在水池洗手。",
+    "synonyms": [
+      "bowl",
+      "sink",
+      "tub"
+    ],
+    "core": "浅而宽用来盛水洗涤的盆形容器。",
+    "ipaUk": "/ˈbeɪsɪn/",
+    "ipaUs": "/ˈbeɪsən/",
+    "synDetail": {
+      "bowl": {
+        "def": "碗",
+        "vs": "侧重食用碗",
+        "use": "a soup bowl"
+      },
+      "sink": {
+        "def": "水槽",
+        "vs": "侧重厨/卫水槽",
+        "use": "the kitchen sink"
+      },
+      "tub": {
+        "def": "盆,桶",
+        "vs": "侧重浴盆",
+        "use": "hot tub"
+      }
+    }
+  },
+  {
+    "id": "basket",
+    "word": "basket",
+    "category": "pt",
+    "zh": "篮子",
+    "definition": "woven container",
+    "example": "A basket of apples.",
+    "exampleZh": "一篮苹果。",
+    "synonyms": [
+      "hamper",
+      "creel",
+      "pannier"
+    ],
+    "core": "编成网状可提可装物的轻容器。",
+    "ipaUk": "/ˈbɑːskɪt/",
+    "ipaUs": "/ˈbæskət/",
+    "synDetail": {
+      "hamper": {
+        "def": "提篮",
+        "vs": "有盖的大篮",
+        "use": "a picnic hamper"
+      },
+      "creel": {
+        "def": "鱼篓",
+        "vs": "渔民用篓",
+        "use": "a fisherman's creel"
+      },
+      "pannier": {
+        "def": "驮篮",
+        "vs": "驮在牲畜两侧",
+        "use": "bicycle panniers"
+      }
+    }
+  },
+  {
+    "id": "bath",
+    "word": "bath",
+    "category": "pt",
+    "zh": "浴缸,洗澡",
+    "definition": "tub or act of washing body",
+    "example": "Take a warm bath.",
+    "exampleZh": "洗个热水澡。",
+    "synonyms": [
+      "tub",
+      "soak",
+      "wash"
+    ],
+    "core": "让身体浸入水中清洗的地方或过程。",
+    "ipaUk": "/bɑːθ/",
+    "ipaUs": "/bæθ/",
+    "synDetail": {
+      "tub": {
+        "def": "浴盆",
+        "vs": "具体器具",
+        "use": "a bath tub"
+      },
+      "soak": {
+        "def": "浸泡",
+        "vs": "侧重浸的动作",
+        "use": "a long soak"
+      },
+      "wash": {
+        "def": "洗,沐浴",
+        "vs": "广义,洗涤",
+        "use": "a quick wash"
+      }
+    }
+  },
+  {
+    "id": "bed",
+    "word": "bed",
+    "category": "pt",
+    "zh": "床",
+    "definition": "furniture for sleeping",
+    "example": "Go to bed.",
+    "exampleZh": "去睡觉。",
+    "synonyms": [
+      "cot",
+      "bunk",
+      "mattress"
+    ],
+    "core": "让身体平躺休息睡眠的软平台。",
+    "ipaUk": "/bɛd/",
+    "ipaUs": "/bɛd/",
+    "synDetail": {
+      "cot": {
+        "def": "小床,折叠床",
+        "vs": "侧重简易床",
+        "use": "a baby cot"
+      },
+      "bunk": {
+        "def": "双层床位",
+        "vs": "侧重叠层",
+        "use": "the top bunk"
+      },
+      "mattress": {
+        "def": "床垫",
+        "vs": "侧重床上垫",
+        "use": "a firm mattress"
+      }
+    }
+  },
+  {
+    "id": "bee",
+    "word": "bee",
+    "category": "pt",
+    "zh": "蜜蜂",
+    "definition": "insect that makes honey",
+    "example": "The bee landed on a flower.",
+    "exampleZh": "蜜蜂落在花上。",
+    "synonyms": [
+      "insect",
+      "bug",
+      "honey-maker"
+    ],
+    "core": "飞在花间采蜜并会蜇人的小虫。",
+    "ipaUk": "/biː/",
+    "ipaUs": "/bi/",
+    "synDetail": {
+      "insect": {
+        "def": "昆虫",
+        "vs": "广义类别",
+        "use": "flying insect"
+      },
+      "bug": {
+        "def": "虫子",
+        "vs": "口语",
+        "use": "a tiny bug"
+      },
+      "honey-maker": {
+        "def": "产蜜者",
+        "vs": "字面描述",
+        "use": "the honey-maker"
+      }
+    }
+  },
+  {
+    "id": "bell",
+    "word": "bell",
+    "category": "pt",
+    "zh": "铃",
+    "definition": "hollow object that rings",
+    "example": "The bell is ringing.",
+    "exampleZh": "铃响了。",
+    "synonyms": [
+      "chime",
+      "gong",
+      "ringer"
+    ],
+    "core": "被敲击后发出清亮声响的中空物。",
+    "ipaUk": "/bɛl/",
+    "ipaUs": "/bɛl/",
+    "synDetail": {
+      "chime": {
+        "def": "钟声,排钟",
+        "vs": "侧重悦耳音",
+        "use": "wind chimes"
+      },
+      "gong": {
+        "def": "锣",
+        "vs": "东方/低沉",
+        "use": "a loud gong"
+      },
+      "ringer": {
+        "def": "敲钟者/响铃",
+        "vs": "侧重响铃物",
+        "use": "a dead ringer"
+      }
+    }
+  },
+  {
+    "id": "berry",
+    "word": "berry",
+    "category": "pt",
+    "zh": "浆果",
+    "definition": "small soft fruit",
+    "example": "Pick wild berries.",
+    "exampleZh": "采野果。",
+    "synonyms": [
+      "fruit",
+      "seed",
+      "kernel"
+    ],
+    "core": "小而多汁可一口吃下的圆果。",
+    "ipaUk": "/ˈbɛɹi/",
+    "ipaUs": "/ˈbɛɹi/",
+    "synDetail": {
+      "fruit": {
+        "def": "水果",
+        "vs": "广义类别",
+        "use": "fresh fruit"
+      },
+      "seed": {
+        "def": "种子",
+        "vs": "侧重果中种",
+        "use": "contains seeds"
+      },
+      "kernel": {
+        "def": "果仁",
+        "vs": "侧重内核",
+        "use": "the kernel inside"
+      }
+    }
+  },
+  {
+    "id": "bird",
+    "word": "bird",
+    "category": "pt",
+    "zh": "鸟",
+    "definition": "animal with feathers and wings",
+    "example": "A bird flew away.",
+    "exampleZh": "鸟飞走了。",
+    "synonyms": [
+      "fowl",
+      "creature",
+      "avian"
+    ],
+    "core": "有羽毛和翅膀能飞行的生灵。",
+    "ipaUk": "/bɜːd/",
+    "ipaUs": "/bɝd/",
+    "synDetail": {
+      "fowl": {
+        "def": "家禽",
+        "vs": "侧重可食用",
+        "use": "wild fowl"
+      },
+      "creature": {
+        "def": "生物",
+        "vs": "广义,任何生灵",
+        "use": "a tiny creature"
+      },
+      "avian": {
+        "def": "鸟类的",
+        "vs": "形容词,科学",
+        "use": "avian species"
+      }
+    }
+  },
+  {
+    "id": "blade",
+    "word": "blade",
+    "category": "pt",
+    "zh": "刀刃",
+    "definition": "sharp edge of a cutting tool",
+    "example": "The blade is sharp.",
+    "exampleZh": "刀刃很锋利。",
+    "synonyms": [
+      "edge",
+      "knife",
+      "cutter"
+    ],
+    "core": "薄而锋利用来切开的边缘片。",
+    "ipaUk": "/bleɪd/",
+    "ipaUs": "/bleɪd/",
+    "synDetail": {
+      "edge": {
+        "def": "边缘",
+        "vs": "侧重锋利边",
+        "use": "a sharp edge"
+      },
+      "knife": {
+        "def": "刀",
+        "vs": "侧重整把刀",
+        "use": "a kitchen knife"
+      },
+      "cutter": {
+        "def": "切割器",
+        "vs": "侧重切割工具",
+        "use": "a box cutter"
+      }
+    }
+  },
+  {
+    "id": "board",
+    "word": "board",
+    "category": "pt",
+    "zh": "木板",
+    "definition": "long flat piece of wood",
+    "example": "Walk the board.",
+    "exampleZh": "走在木板上。",
+    "synonyms": [
+      "plank",
+      "panel",
+      "slab"
+    ],
+    "core": "平直结实可承托或书写的板面。",
+    "ipaUk": "/bɔːd/",
+    "ipaUs": "/bɔɹd/",
+    "synDetail": {
+      "plank": {
+        "def": "厚木板",
+        "vs": "侧重一长块",
+        "use": "a wooden plank"
+      },
+      "panel": {
+        "def": "嵌板",
+        "vs": "侧重装饰面板",
+        "use": "a control panel"
+      },
+      "slab": {
+        "def": "厚板",
+        "vs": "侧重厚重平板",
+        "use": "a concrete slab"
+      }
+    }
+  },
+  {
+    "id": "boat",
+    "word": "boat",
+    "category": "pt",
+    "zh": "船",
+    "definition": "small water craft",
+    "example": "Take the boat across.",
+    "exampleZh": "乘船过去。",
+    "synonyms": [
+      "vessel",
+      "ship",
+      "craft"
+    ],
+    "core": "浮在水上载人载物的小船体。",
+    "ipaUk": "/bəʊt/",
+    "ipaUs": "/boʊt/",
+    "synDetail": {
+      "vessel": {
+        "def": "船只",
+        "vs": "正式,任何船",
+        "use": "a sailing vessel"
+      },
+      "ship": {
+        "def": "大船,轮船",
+        "vs": "侧重远洋大船",
+        "use": "a cargo ship"
+      },
+      "craft": {
+        "def": "小船",
+        "vs": "广义,船或飞行器",
+        "use": "a small craft"
+      }
+    }
+  },
+  {
+    "id": "bone",
+    "word": "bone",
+    "category": "pt",
+    "zh": "骨头",
+    "definition": "hard part inside body",
+    "example": "The dog has a bone.",
+    "exampleZh": "狗有根骨头。",
+    "synonyms": [
+      "skeleton",
+      "ossicle",
+      "frame"
+    ],
+    "core": "藏在身体里支撑形状的硬架。",
+    "ipaUk": "/bəʊn/",
+    "ipaUs": "/boʊn/",
+    "synDetail": {
+      "skeleton": {
+        "def": "骨骼",
+        "vs": "侧重整副骨架",
+        "use": "a human skeleton"
+      },
+      "ossicle": {
+        "def": "小骨",
+        "vs": "医学术语",
+        "use": "the ear ossicles"
+      },
+      "frame": {
+        "def": "骨架",
+        "vs": "侧重整体结构",
+        "use": "a thin frame"
+      }
+    }
+  },
+  {
+    "id": "book",
+    "word": "book",
+    "category": "pt",
+    "zh": "书",
+    "definition": "bound pages for reading",
+    "example": "Read this book.",
+    "exampleZh": "读这本书。",
+    "synonyms": [
+      "volume",
+      "text",
+      "tome"
+    ],
+    "core": "一页页合在一起承载文字的物。",
+    "ipaUk": "/bʊk/",
+    "ipaUs": "/bʊk/",
+    "synDetail": {
+      "volume": {
+        "def": "卷",
+        "vs": "侧重多卷之一",
+        "use": "volume one"
+      },
+      "text": {
+        "def": "文本",
+        "vs": "侧重文字内容",
+        "use": "the original text"
+      },
+      "tome": {
+        "def": "大部头",
+        "vs": "侧重厚重大书",
+        "use": "a hefty tome"
+      }
+    }
+  },
+  {
+    "id": "boot",
+    "word": "boot",
+    "category": "pt",
+    "zh": "靴子",
+    "definition": "high shoe",
+    "example": "Pull on your boots.",
+    "exampleZh": "穿上靴子。",
+    "synonyms": [
+      "shoe",
+      "footwear",
+      "wellington"
+    ],
+    "core": "包住脚和踝部的结实高鞋。",
+    "ipaUk": "/buːt/",
+    "ipaUs": "/but/",
+    "synDetail": {
+      "shoe": {
+        "def": "鞋",
+        "vs": "广义,任何鞋",
+        "use": "a pair of shoes"
+      },
+      "footwear": {
+        "def": "鞋类",
+        "vs": "正式,鞋的统称",
+        "use": "sturdy footwear"
+      },
+      "wellington": {
+        "def": "长筒胶靴",
+        "vs": "特指雨靴",
+        "use": "a pair of wellingtons"
+      }
+    }
+  },
+  {
+    "id": "bottle",
+    "word": "bottle",
+    "category": "pt",
+    "zh": "瓶子",
+    "definition": "container with narrow neck",
+    "example": "A bottle of water.",
+    "exampleZh": "一瓶水。",
+    "synonyms": [
+      "flask",
+      "jug",
+      "vial"
+    ],
+    "core": "细口长身用来盛液体的容器。",
+    "ipaUk": "/ˈbɒtəl/",
+    "ipaUs": "/ˈbɑtəl/",
+    "synDetail": {
+      "flask": {
+        "def": "细颈瓶",
+        "vs": "侧重平扁或保温",
+        "use": "a hip flask"
+      },
+      "jug": {
+        "def": "罐,壶",
+        "vs": "侧重大容量",
+        "use": "a milk jug"
+      },
+      "vial": {
+        "def": "小瓶",
+        "vs": "小巧,常药用",
+        "use": "a vial of medicine"
+      }
+    }
+  },
+  {
+    "id": "box",
+    "word": "box",
+    "category": "pt",
+    "zh": "盒子",
+    "definition": "square container",
+    "example": "Put it in the box.",
+    "exampleZh": "放进盒里。",
+    "synonyms": [
+      "case",
+      "crate",
+      "carton"
+    ],
+    "core": "有平面和边角能收纳物件的硬容器。",
+    "ipaUk": "/bɒks/",
+    "ipaUs": "/bɑks/",
+    "synDetail": {
+      "case": {
+        "def": "盒子,箱",
+        "vs": "侧重保护用",
+        "use": "a phone case"
+      },
+      "crate": {
+        "def": "板条箱",
+        "vs": "侧重运输用大箱",
+        "use": "a wooden crate"
+      },
+      "carton": {
+        "def": "纸盒",
+        "vs": "侧重纸质盒",
+        "use": "a milk carton"
+      }
+    }
+  },
+  {
+    "id": "boy",
+    "word": "boy",
+    "category": "pt",
+    "zh": "男孩",
+    "definition": "young male child",
+    "example": "The boy is playing.",
+    "exampleZh": "那男孩在玩。",
+    "synonyms": [
+      "lad",
+      "kid",
+      "youth"
+    ],
+    "core": "尚未长成男人的年少男性。",
+    "ipaUk": "/bɔɪ/",
+    "ipaUs": "/bɔɪ/",
+    "synDetail": {
+      "lad": {
+        "def": "小伙子",
+        "vs": "英式或文学",
+        "use": "a fine lad"
+      },
+      "kid": {
+        "def": "小孩",
+        "vs": "口语,不分性别",
+        "use": "good kid"
+      },
+      "youth": {
+        "def": "青年",
+        "vs": "侧重青少年",
+        "use": "a young youth"
+      }
+    }
+  },
+  {
+    "id": "brain",
+    "word": "brain",
+    "category": "pt",
+    "zh": "大脑",
+    "definition": "organ in the head",
+    "example": "Use your brain.",
+    "exampleZh": "动动脑子。",
+    "synonyms": [
+      "mind",
+      "intellect",
+      "head"
+    ],
+    "core": "头颅中思考感知和指挥身体的核心。",
+    "ipaUk": "/bɹeɪn/",
+    "ipaUs": "/bɹeɪn/",
+    "synDetail": {
+      "mind": {
+        "def": "心智",
+        "vs": "侧重思维功能",
+        "use": "a clear mind"
+      },
+      "intellect": {
+        "def": "智力",
+        "vs": "侧重智慧能力",
+        "use": "sharp intellect"
+      },
+      "head": {
+        "def": "头脑",
+        "vs": "口语,头部",
+        "use": "use your head"
+      }
+    }
+  },
+  {
+    "id": "brake",
+    "word": "brake",
+    "category": "pt",
+    "zh": "刹车",
+    "definition": "device to stop a vehicle",
+    "example": "Hit the brake.",
+    "exampleZh": "踩刹车。",
+    "synonyms": [
+      "stopper",
+      "check",
+      "curb"
+    ],
+    "core": "让运动慢下来或停住的控制件。",
+    "ipaUk": "/bɹeɪk/",
+    "ipaUs": "/bɹeɪk/",
+    "synDetail": {
+      "stopper": {
+        "def": "塞子,止动器",
+        "vs": "侧重塞住",
+        "use": "a door stopper"
+      },
+      "check": {
+        "def": "制止",
+        "vs": "侧重抑制",
+        "use": "keep in check"
+      },
+      "curb": {
+        "def": "勒制",
+        "vs": "侧重约束",
+        "use": "curb the impulse"
+      }
+    }
+  },
+  {
+    "id": "branch",
+    "word": "branch",
+    "category": "pt",
+    "zh": "树枝",
+    "definition": "arm of a tree",
+    "example": "A branch broke off.",
+    "exampleZh": "一根树枝断了。",
+    "synonyms": [
+      "limb",
+      "bough",
+      "arm"
+    ],
+    "core": "从树干伸出的分叉木臂。",
+    "ipaUk": "/bɹɑːntʃ/",
+    "ipaUs": "/bɹæntʃ/",
+    "synDetail": {
+      "limb": {
+        "def": "大树枝",
+        "vs": "侧重粗枝",
+        "use": "a sturdy limb"
+      },
+      "bough": {
+        "def": "大枝",
+        "vs": "文学,主枝",
+        "use": "under the bough"
+      },
+      "arm": {
+        "def": "分支",
+        "vs": "比喻,分支机构",
+        "use": "an arm of the company"
+      }
+    }
+  },
+  {
+    "id": "brick",
+    "word": "brick",
+    "category": "pt",
+    "zh": "砖",
+    "definition": "hard block for building",
+    "example": "Build a wall of brick.",
+    "exampleZh": "用砖砌墙。",
+    "synonyms": [
+      "block",
+      "stone",
+      "clay block"
+    ],
+    "core": "一块块烧硬后可砌墙的长方土石。",
+    "ipaUk": "/bɹɪk/",
+    "ipaUs": "/bɹɪk/",
+    "synDetail": {
+      "block": {
+        "def": "块",
+        "vs": "广义,任何方块",
+        "use": "a stone block"
+      },
+      "stone": {
+        "def": "石头",
+        "vs": "侧重天然石",
+        "use": "a heavy stone"
+      },
+      "clay block": {
+        "def": "黏土块",
+        "vs": "字面描述,材料",
+        "use": "a clay block"
+      }
+    }
+  },
+  {
+    "id": "bridge",
+    "word": "bridge",
+    "category": "pt",
+    "zh": "桥",
+    "definition": "structure across water",
+    "example": "Cross the bridge.",
+    "exampleZh": "过桥。",
+    "synonyms": [
+      "span",
+      "overpass",
+      "crossing"
+    ],
+    "core": "跨过水沟或空处连接两端的结构。",
+    "ipaUk": "/bɹɪdʒ/",
+    "ipaUs": "/bɹɪdʒ/",
+    "synDetail": {
+      "span": {
+        "def": "跨度,桥跨",
+        "use": "a single span",
+        "vs": "侧重跨距"
+      },
+      "overpass": {
+        "def": "立交桥",
+        "vs": "侧重跨马路",
+        "use": "highway overpass"
+      },
+      "crossing": {
+        "def": "过桥处",
+        "vs": "侧重穿越点",
+        "use": "a railway crossing"
+      }
+    }
+  },
+  {
+    "id": "brush",
+    "word": "brush",
+    "category": "pt",
+    "zh": "刷子",
+    "definition": "tool with bristles",
+    "example": "Use a brush for paint.",
+    "exampleZh": "用刷子刷漆。",
+    "synonyms": [
+      "broom",
+      "comb",
+      "whisk"
+    ],
+    "core": "带许多细毛用来刷洗涂抹的工具。",
+    "ipaUk": "/bɹʌʃ/",
+    "ipaUs": "/bɹʌʃ/",
+    "synDetail": {
+      "broom": {
+        "def": "扫帚",
+        "vs": "侧重扫地用",
+        "use": "a kitchen broom"
+      },
+      "comb": {
+        "def": "梳子",
+        "vs": "侧重梳头用",
+        "use": "a fine comb"
+      },
+      "whisk": {
+        "def": "打蛋器",
+        "vs": "侧重搅拌用",
+        "use": "a wire whisk"
+      }
+    }
+  },
+  {
+    "id": "bucket",
+    "word": "bucket",
+    "category": "pt",
+    "zh": "桶",
+    "definition": "open container with handle",
+    "example": "Fill the bucket.",
+    "exampleZh": "把桶装满。",
+    "synonyms": [
+      "pail",
+      "tub",
+      "scuttle"
+    ],
+    "core": "有提手可盛水搬物的深桶。",
+    "ipaUk": "/ˈbʌkɪt/",
+    "ipaUs": "/ˈbʌkət/",
+    "synDetail": {
+      "pail": {
+        "def": "提桶",
+        "vs": "侧重小提桶",
+        "use": "a milk pail"
+      },
+      "tub": {
+        "def": "盆,桶",
+        "vs": "侧重宽口",
+        "use": "a small tub"
+      },
+      "scuttle": {
+        "def": "煤桶",
+        "vs": "侧重盛煤",
+        "use": "a coal scuttle"
+      }
+    }
+  },
+  {
+    "id": "bulb",
+    "word": "bulb",
+    "category": "pt",
+    "zh": "灯泡;球茎",
+    "definition": "glass for light or plant root",
+    "example": "Change the bulb.",
+    "exampleZh": "换灯泡。",
+    "synonyms": [
+      "lamp",
+      "globe",
+      "root"
+    ],
+    "core": "圆鼓外壳里能发光或生芽的头状物。",
+    "ipaUk": "/bʌlb/",
+    "ipaUs": "/bʌlb/",
+    "synDetail": {
+      "lamp": {
+        "def": "灯",
+        "vs": "侧重灯具整体",
+        "use": "a desk lamp"
+      },
+      "globe": {
+        "def": "灯泡(口)",
+        "vs": "口语,球形灯",
+        "use": "a glass globe"
+      },
+      "root": {
+        "def": "球茎",
+        "vs": "植物学,鳞茎",
+        "use": "a flower root"
+      }
+    }
+  },
+  {
+    "id": "button",
+    "word": "button",
+    "category": "pt",
+    "zh": "纽扣",
+    "definition": "small disk to fasten clothes",
+    "example": "A button came off.",
+    "exampleZh": "一颗扣子掉了。",
+    "synonyms": [
+      "fastener",
+      "stud",
+      "snap"
+    ],
+    "core": "小圆片穿过扣眼把衣物合住。",
+    "ipaUk": "/ˈbʌtən/",
+    "ipaUs": "/ˈbʌtən/",
+    "synDetail": {
+      "fastener": {
+        "def": "扣件",
+        "vs": "广义,任何扣具",
+        "use": "a metal fastener"
+      },
+      "stud": {
+        "def": "饰钉,扣钉",
+        "vs": "侧重装饰扣",
+        "use": "a stud earring"
+      },
+      "snap": {
+        "def": "按扣",
+        "vs": "侧重啪嗒扣",
+        "use": "a snap fastener"
+      }
+    }
+  },
+  {
+    "id": "cake",
+    "word": "cake",
+    "category": "pt",
+    "zh": "蛋糕",
+    "definition": "sweet baked food",
+    "example": "Have a piece of cake.",
+    "exampleZh": "吃块蛋糕。",
+    "synonyms": [
+      "pastry",
+      "dessert",
+      "gateau"
+    ],
+    "core": "烤成的柔软甜食常被切块分享。",
+    "ipaUk": "/keɪk/",
+    "ipaUs": "/keɪk/",
+    "synDetail": {
+      "pastry": {
+        "def": "糕点",
+        "vs": "广义,任何烘焙",
+        "use": "flaky pastry"
+      },
+      "dessert": {
+        "def": "甜点",
+        "vs": "侧重餐后甜食",
+        "use": "a sweet dessert"
+      },
+      "gateau": {
+        "def": "奶油蛋糕(法)",
+        "vs": "法式正式蛋糕",
+        "use": "a chocolate gateau"
+      }
+    }
+  },
+  {
+    "id": "camera",
+    "word": "camera",
+    "category": "pt",
+    "zh": "相机",
+    "definition": "device for taking pictures",
+    "example": "Bring your camera.",
+    "exampleZh": "带上相机。",
+    "synonyms": [
+      "device",
+      "recorder",
+      "lens"
+    ],
+    "core": "把眼前景象留下成影像的器具。",
+    "ipaUk": "/ˈkæmɹə/",
+    "ipaUs": "/ˈkæmɝə/",
+    "synDetail": {
+      "device": {
+        "def": "装置",
+        "vs": "广义电子设备",
+        "use": "a smart device"
+      },
+      "recorder": {
+        "def": "录制器",
+        "vs": "侧重录像/录音",
+        "use": "a video recorder"
+      },
+      "lens": {
+        "def": "镜头",
+        "vs": "侧重相机的镜片",
+        "use": "a wide lens"
+      }
+    }
+  },
+  {
+    "id": "card",
+    "word": "card",
+    "category": "pt",
+    "zh": "卡片",
+    "definition": "small stiff paper",
+    "example": "Send me a card.",
+    "exampleZh": "给我寄张卡。",
+    "synonyms": [
+      "note",
+      "ticket",
+      "pass"
+    ],
+    "core": "一张小而硬的片子承载信息或用途。",
+    "ipaUk": "/kɑːd/",
+    "ipaUs": "/kɑɹd/",
+    "synDetail": {
+      "note": {
+        "def": "便条",
+        "vs": "侧重短信息",
+        "use": "a thank-you note"
+      },
+      "ticket": {
+        "def": "票券",
+        "vs": "侧重入场凭证",
+        "use": "a movie ticket"
+      },
+      "pass": {
+        "def": "通行证",
+        "vs": "侧重出入许可",
+        "use": "a season pass"
+      }
+    }
+  },
+  {
+    "id": "cart",
+    "word": "cart",
+    "category": "pt",
+    "zh": "手推车",
+    "definition": "small wagon",
+    "example": "Push the cart.",
+    "exampleZh": "推车。",
+    "synonyms": [
+      "wagon",
+      "trolley",
+      "wheelbarrow"
+    ],
+    "core": "有轮子可推拉搬运东西的小车。",
+    "ipaUk": "/kɑːt/",
+    "ipaUs": "/kɑɹt/",
+    "synDetail": {
+      "wagon": {
+        "def": "四轮车",
+        "vs": "侧重四轮货车",
+        "use": "a covered wagon"
+      },
+      "trolley": {
+        "def": "手推车,购物车",
+        "vs": "侧重商场用",
+        "use": "shopping trolley"
+      },
+      "wheelbarrow": {
+        "def": "独轮手推车",
+        "vs": "侧重单轮园艺",
+        "use": "push a wheelbarrow"
+      }
+    }
+  },
+  {
+    "id": "carriage",
+    "word": "carriage",
+    "category": "pt",
+    "zh": "马车,车厢",
+    "definition": "vehicle pulled by horses",
+    "example": "A horse-drawn carriage.",
+    "exampleZh": "马拉的车。",
+    "synonyms": [
+      "coach",
+      "cart",
+      "wagon"
+    ],
+    "core": "载人或载物移动的车厢式结构。",
+    "ipaUk": "/ˈkæɹɪdʒ/",
+    "ipaUs": "/ˈkæɹɪdʒ/",
+    "synDetail": {
+      "coach": {
+        "def": "四轮马车",
+        "vs": "侧重大型客运",
+        "use": "a horse-drawn coach"
+      },
+      "cart": {
+        "def": "手推车",
+        "vs": "侧重较小",
+        "use": "a wooden cart"
+      },
+      "wagon": {
+        "def": "运货马车",
+        "vs": "侧重运输",
+        "use": "a covered wagon"
+      }
+    }
+  },
+  {
+    "id": "cat",
+    "word": "cat",
+    "category": "pt",
+    "zh": "猫",
+    "definition": "small furry pet",
+    "example": "The cat is sleeping.",
+    "exampleZh": "猫在睡觉。",
+    "synonyms": [
+      "feline",
+      "kitty",
+      "puss"
+    ],
+    "core": "柔软敏捷会捕鼠也会亲近人的小兽。",
+    "ipaUk": "/kæt/",
+    "ipaUs": "/kæt/",
+    "synDetail": {
+      "feline": {
+        "def": "猫科动物",
+        "vs": "正式,生物学",
+        "use": "feline behavior"
+      },
+      "kitty": {
+        "def": "小猫咪",
+        "vs": "昵称,儿语",
+        "use": "here kitty"
+      },
+      "puss": {
+        "def": "猫咪",
+        "vs": "亲昵称呼",
+        "use": "pretty puss"
+      }
+    }
+  },
+  {
+    "id": "chain",
+    "word": "chain",
+    "category": "pt",
+    "zh": "链子",
+    "definition": "line of joined metal rings",
+    "example": "A chain of mountains.",
+    "exampleZh": "一条山脉。",
+    "synonyms": [
+      "link",
+      "series",
+      "tether"
+    ],
+    "core": "一环扣一环连成长条的金属物。",
+    "ipaUk": "/tʃeɪn/",
+    "ipaUs": "/tʃeɪn/",
+    "synDetail": {
+      "link": {
+        "def": "链节;链接",
+        "vs": "侧重单个环",
+        "use": "a missing link"
+      },
+      "series": {
+        "def": "系列",
+        "vs": "侧重连续一组",
+        "use": "a TV series"
+      },
+      "tether": {
+        "def": "系绳",
+        "vs": "侧重拴住",
+        "use": "on a tether"
+      }
+    }
+  },
+  {
+    "id": "cheese",
+    "word": "cheese",
+    "category": "pt",
+    "zh": "奶酪",
+    "definition": "food from milk",
+    "example": "Bread and cheese, please.",
+    "exampleZh": "请给我面包和奶酪。",
+    "synonyms": [
+      "dairy",
+      "curd",
+      "fromage"
+    ],
+    "core": "奶凝成的浓香软硬食物。",
+    "ipaUk": "/tʃiːz/",
+    "ipaUs": "/tʃiz/",
+    "synDetail": {
+      "dairy": {
+        "def": "乳制品",
+        "vs": "广义,奶产品",
+        "use": "dairy aisle"
+      },
+      "curd": {
+        "def": "凝乳",
+        "vs": "侧重制奶酪原料",
+        "use": "cottage curd"
+      },
+      "fromage": {
+        "def": "奶酪(法语)",
+        "vs": "法式说法",
+        "use": "fromage frais"
+      }
+    }
+  },
+  {
+    "id": "chest",
+    "word": "chest",
+    "category": "pt",
+    "zh": "胸部;箱子",
+    "definition": "upper body or storage box",
+    "example": "A pain in the chest.",
+    "exampleZh": "胸口疼。",
+    "synonyms": [
+      "torso",
+      "trunk",
+      "bosom"
+    ],
+    "core": "身体前方护着心肺的宽厚部位。",
+    "ipaUk": "/tʃɛst/",
+    "ipaUs": "/tʃɛst/",
+    "synDetail": {
+      "torso": {
+        "def": "躯干",
+        "vs": "侧重整个躯干",
+        "use": "the upper torso"
+      },
+      "trunk": {
+        "def": "躯干;箱子",
+        "vs": "侧重身体或大箱",
+        "use": "a wooden trunk"
+      },
+      "bosom": {
+        "def": "胸怀",
+        "vs": "文学,温暖的胸",
+        "use": "close to my bosom"
+      }
+    }
+  },
+  {
+    "id": "chin",
+    "word": "chin",
+    "category": "pt",
+    "zh": "下巴",
+    "definition": "part of face below mouth",
+    "example": "He has a strong chin.",
+    "exampleZh": "他下巴线条很硬。",
+    "synonyms": [
+      "jaw",
+      "jowl",
+      "mandible"
+    ],
+    "core": "脸下端突出承接嘴部的骨感部位。",
+    "ipaUk": "/tʃɪn/",
+    "ipaUs": "/tʃɪn/",
+    "synDetail": {
+      "jaw": {
+        "def": "下颚",
+        "vs": "侧重下颌整个",
+        "use": "a strong jaw"
+      },
+      "jowl": {
+        "def": "下巴颊",
+        "vs": "侧重下垂的颊",
+        "use": "heavy jowls"
+      },
+      "mandible": {
+        "def": "下颌骨",
+        "vs": "医学术语",
+        "use": "the lower mandible"
+      }
+    }
+  },
+  {
+    "id": "church",
+    "word": "church",
+    "category": "pt",
+    "zh": "教堂",
+    "definition": "building for Christian worship",
+    "example": "Go to church on Sunday.",
+    "exampleZh": "周日去教堂。",
+    "synonyms": [
+      "chapel",
+      "cathedral",
+      "temple"
+    ],
+    "core": "人们聚集祈祷敬拜的宗教建筑。",
+    "ipaUk": "/tʃɜːtʃ/",
+    "ipaUs": "/tʃɝtʃ/",
+    "synDetail": {
+      "chapel": {
+        "def": "小教堂",
+        "vs": "侧重附属小教堂",
+        "use": "a wedding chapel"
+      },
+      "cathedral": {
+        "def": "大教堂",
+        "vs": "侧重主教座堂",
+        "use": "Notre-Dame cathedral"
+      },
+      "temple": {
+        "def": "庙宇",
+        "vs": "侧重其他宗教",
+        "use": "a Hindu temple"
+      }
+    }
+  },
+  {
+    "id": "circle",
+    "word": "circle",
+    "category": "pt",
+    "zh": "圆",
+    "definition": "round shape",
+    "example": "Draw a circle.",
+    "exampleZh": "画个圆。",
+    "synonyms": [
+      "ring",
+      "loop",
+      "disk"
+    ],
+    "core": "围绕中心没有角也不断开的圆形线。",
+    "ipaUk": "/ˈsɜːkəl/",
+    "ipaUs": "/ˈsɝkəl/",
+    "synDetail": {
+      "ring": {
+        "def": "环",
+        "vs": "侧重圆环",
+        "use": "a smoke ring"
+      },
+      "loop": {
+        "def": "环形",
+        "vs": "侧重封闭路径",
+        "use": "a closed loop"
+      },
+      "disk": {
+        "def": "圆盘",
+        "vs": "侧重平面圆",
+        "use": "a flat disk"
+      }
+    }
+  },
+  {
+    "id": "clock",
+    "word": "clock",
+    "category": "pt",
+    "zh": "时钟",
+    "definition": "device that shows time",
+    "example": "The clock is fast.",
+    "exampleZh": "钟快了。",
+    "synonyms": [
+      "timepiece",
+      "watch",
+      "timer"
+    ],
+    "core": "用指针或数字显示时间流动的器具。",
+    "ipaUk": "/klɒk/",
+    "ipaUs": "/klɑk/",
+    "synDetail": {
+      "timepiece": {
+        "def": "计时器",
+        "vs": "正式,钟表统称",
+        "use": "an antique timepiece"
+      },
+      "watch": {
+        "def": "手表",
+        "vs": "侧重佩戴",
+        "use": "a wrist watch"
+      },
+      "timer": {
+        "def": "计时器",
+        "vs": "侧重定时器",
+        "use": "set the timer"
+      }
+    }
+  },
+  {
+    "id": "cloud",
+    "word": "cloud",
+    "category": "pt",
+    "zh": "云",
+    "definition": "white mass in sky",
+    "example": "A cloud blocked the sun.",
+    "exampleZh": "云挡住了太阳。",
+    "synonyms": [
+      "mist",
+      "vapor",
+      "puff"
+    ],
+    "core": "漂在天空中聚成团的水汽形状。",
+    "ipaUk": "/klaʊd/",
+    "ipaUs": "/klaʊd/",
+    "synDetail": {
+      "mist": {
+        "def": "薄雾",
+        "vs": "侧重接近地面",
+        "use": "morning mist"
+      },
+      "vapor": {
+        "def": "蒸气",
+        "vs": "侧重气化水",
+        "use": "water vapor"
+      },
+      "puff": {
+        "def": "一团烟/云",
+        "vs": "侧重小团状",
+        "use": "a puff of smoke"
+      }
+    }
+  },
+  {
+    "id": "coat",
+    "word": "coat",
+    "category": "pt",
+    "zh": "外套",
+    "definition": "outer garment",
+    "example": "Put on your coat.",
+    "exampleZh": "穿上外套。",
+    "synonyms": [
+      "jacket",
+      "overcoat",
+      "cloak"
+    ],
+    "core": "穿在外层挡风保暖的长衣。",
+    "ipaUk": "/kəʊt/",
+    "ipaUs": "/koʊt/",
+    "synDetail": {
+      "jacket": {
+        "def": "夹克",
+        "vs": "侧重短款",
+        "use": "a leather jacket"
+      },
+      "overcoat": {
+        "def": "大衣",
+        "vs": "侧重长款厚",
+        "use": "a wool overcoat"
+      },
+      "cloak": {
+        "def": "斗篷",
+        "vs": "无袖披风",
+        "use": "a long cloak"
+      }
+    }
+  },
+  {
+    "id": "collar",
+    "word": "collar",
+    "category": "pt",
+    "zh": "衣领",
+    "definition": "part of shirt around neck",
+    "example": "His collar is white.",
+    "exampleZh": "他的衣领是白的。",
+    "synonyms": [
+      "neckband",
+      "band",
+      "ring"
+    ],
+    "core": "围在脖子周围的衣领部分。",
+    "ipaUk": "/ˈkɒlə/",
+    "ipaUs": "/ˈkɑlɝ/",
+    "synDetail": {
+      "neckband": {
+        "def": "颈带",
+        "vs": "侧重狗项圈或饰物",
+        "use": "a leather neckband"
+      },
+      "band": {
+        "def": "带子",
+        "vs": "广义,带状物",
+        "use": "a rubber band"
+      },
+      "ring": {
+        "def": "环",
+        "vs": "侧重圆环形",
+        "use": "a metal ring"
+      }
+    }
+  },
+  {
+    "id": "comb",
+    "word": "comb",
+    "category": "pt",
+    "zh": "梳子",
+    "definition": "tool for hair",
+    "example": "Use a comb.",
+    "exampleZh": "用梳子。",
+    "synonyms": [
+      "brush",
+      "rake",
+      "pick"
+    ],
+    "core": "带一排细齿用来理顺头发的工具。",
+    "ipaUk": "/kəʊm/",
+    "ipaUs": "/koʊm/",
+    "synDetail": {
+      "brush": {
+        "def": "刷子",
+        "vs": "侧重刷的工具",
+        "use": "a hair brush"
+      },
+      "rake": {
+        "def": "耙子",
+        "vs": "侧重大齿耙",
+        "use": "a garden rake"
+      },
+      "pick": {
+        "def": "挑头梳",
+        "vs": "侧重大齿梳",
+        "use": "a hair pick"
+      }
+    }
+  },
+  {
+    "id": "cord",
+    "word": "cord",
+    "category": "pt",
+    "zh": "绳,线",
+    "definition": "thin rope",
+    "example": "Tie it with a cord.",
+    "exampleZh": "用绳子绑上。",
+    "synonyms": [
+      "rope",
+      "string",
+      "line"
+    ],
+    "core": "柔软细长可绑扎连接的绳线。",
+    "ipaUk": "/kɔːd/",
+    "ipaUs": "/kɔɹd/",
+    "synDetail": {
+      "rope": {
+        "def": "绳子",
+        "vs": "较粗的绳",
+        "use": "a thick rope"
+      },
+      "string": {
+        "def": "绳,线",
+        "vs": "较细的",
+        "use": "a piece of string"
+      },
+      "line": {
+        "def": "线",
+        "vs": "侧重一根长线",
+        "use": "a fishing line"
+      }
+    }
+  },
+  {
+    "id": "cow",
+    "word": "cow",
+    "category": "pt",
+    "zh": "母牛",
+    "definition": "large animal that gives milk",
+    "example": "The cow gives milk.",
+    "exampleZh": "母牛产奶。",
+    "synonyms": [
+      "cattle",
+      "bovine",
+      "heifer"
+    ],
+    "core": "产奶吃草体形厚重的家养大兽。",
+    "ipaUk": "/kaʊ/",
+    "ipaUs": "/kaʊ/",
+    "synDetail": {
+      "cattle": {
+        "def": "牛群",
+        "vs": "集合统称",
+        "use": "a herd of cattle"
+      },
+      "bovine": {
+        "def": "牛科动物",
+        "vs": "科学术语",
+        "use": "bovine disease"
+      },
+      "heifer": {
+        "def": "小母牛",
+        "vs": "侧重未生产",
+        "use": "a young heifer"
+      }
+    }
+  },
+  {
+    "id": "cup",
+    "word": "cup",
+    "category": "pt",
+    "zh": "杯子",
+    "definition": "small drinking vessel",
+    "example": "A cup of tea.",
+    "exampleZh": "一杯茶。",
+    "synonyms": [
+      "mug",
+      "glass",
+      "beaker"
+    ],
+    "core": "可握在手中盛饮料的小容器。",
+    "ipaUk": "/kʌp/",
+    "ipaUs": "/kʌp/",
+    "synDetail": {
+      "mug": {
+        "def": "马克杯",
+        "vs": "侧重带把大杯",
+        "use": "a coffee mug"
+      },
+      "glass": {
+        "def": "玻璃杯",
+        "vs": "侧重玻璃材质",
+        "use": "a glass of water"
+      },
+      "beaker": {
+        "def": "烧杯",
+        "vs": "实验室用",
+        "use": "a glass beaker"
+      }
+    }
+  },
+  {
+    "id": "curtain",
+    "word": "curtain",
+    "category": "pt",
+    "zh": "窗帘",
+    "definition": "cloth covering a window",
+    "example": "Pull the curtain.",
+    "exampleZh": "拉上窗帘。",
+    "synonyms": [
+      "drape",
+      "screen",
+      "blind"
+    ],
+    "core": "挂在窗前可拉开遮住视线的布。",
+    "ipaUk": "/ˈkɜːtən/",
+    "ipaUs": "/ˈkɝtən/",
+    "synDetail": {
+      "drape": {
+        "def": "窗帘(厚)",
+        "vs": "侧重悬垂厚布",
+        "use": "velvet drapes"
+      },
+      "screen": {
+        "def": "屏风,屏",
+        "vs": "侧重隔挡用",
+        "use": "a privacy screen"
+      },
+      "blind": {
+        "def": "百叶帘",
+        "vs": "侧重可调遮光",
+        "use": "venetian blinds"
+      }
+    }
+  },
+  {
+    "id": "cushion",
+    "word": "cushion",
+    "category": "pt",
+    "zh": "垫子",
+    "definition": "soft pad for comfort",
+    "example": "Sit on a cushion.",
+    "exampleZh": "坐在垫子上。",
+    "synonyms": [
+      "pillow",
+      "pad",
+      "bolster"
+    ],
+    "core": "垫在身下或背后使人柔软舒适的垫物。",
+    "ipaUk": "/ˈkʊʃən/",
+    "ipaUs": "/ˈkʊʃən/",
+    "synDetail": {
+      "pillow": {
+        "def": "枕头",
+        "vs": "侧重睡觉用",
+        "use": "a soft pillow"
+      },
+      "pad": {
+        "def": "垫",
+        "vs": "广义,任何衬垫",
+        "use": "a knee pad"
+      },
+      "bolster": {
+        "def": "长枕",
+        "vs": "侧重长筒形",
+        "use": "a sofa bolster"
+      }
+    }
+  },
+  {
+    "id": "dog",
+    "word": "dog",
+    "category": "pt",
+    "zh": "狗",
+    "definition": "common pet animal",
+    "example": "The dog barks.",
+    "exampleZh": "狗在叫。",
+    "synonyms": [
+      "pup",
+      "hound",
+      "canine"
+    ],
+    "core": "忠于主人会看守陪伴的家养兽。",
+    "ipaUk": "/dɒɡ/",
+    "ipaUs": "/dɔɡ/",
+    "synDetail": {
+      "pup": {
+        "def": "小狗",
+        "vs": "侧重幼犬",
+        "use": "a tiny pup"
+      },
+      "hound": {
+        "def": "猎犬",
+        "vs": "侧重特定品种",
+        "use": "a hunting hound"
+      },
+      "canine": {
+        "def": "犬科",
+        "vs": "正式,科学",
+        "use": "canine companion"
+      }
+    }
+  },
+  {
+    "id": "door",
+    "word": "door",
+    "category": "pt",
+    "zh": "门",
+    "definition": "opening with hinges",
+    "example": "Close the door.",
+    "exampleZh": "关门。",
+    "synonyms": [
+      "entrance",
+      "portal",
+      "gate"
+    ],
+    "core": "墙上可开合让人进出的板。",
+    "ipaUk": "/dɔː/",
+    "ipaUs": "/dɔɹ/",
+    "synDetail": {
+      "entrance": {
+        "def": "入口",
+        "vs": "侧重进入处",
+        "use": "the main entrance"
+      },
+      "portal": {
+        "def": "门户(正式)",
+        "vs": "侧重大型/虚拟",
+        "use": "a web portal"
+      },
+      "gate": {
+        "def": "大门",
+        "vs": "侧重院门或栅门",
+        "use": "the garden gate"
+      }
+    }
+  },
+  {
+    "id": "drain",
+    "word": "drain",
+    "category": "pt",
+    "zh": "排水管",
+    "definition": "pipe for waste water",
+    "example": "The drain is blocked.",
+    "exampleZh": "下水道堵了。",
+    "synonyms": [
+      "pipe",
+      "sewer",
+      "outlet"
+    ],
+    "core": "让水从低处流走的孔道。",
+    "ipaUk": "/dɹeɪn/",
+    "ipaUs": "/dɹeɪn/",
+    "synDetail": {
+      "pipe": {
+        "def": "管子",
+        "vs": "广义,管道",
+        "use": "water pipe"
+      },
+      "sewer": {
+        "def": "下水道",
+        "vs": "侧重废水管道",
+        "use": "the sewer system"
+      },
+      "outlet": {
+        "def": "出水口,出口",
+        "vs": "侧重排出处",
+        "use": "a drain outlet"
+      }
+    }
+  },
+  {
+    "id": "drawer",
+    "word": "drawer",
+    "category": "pt",
+    "zh": "抽屉",
+    "definition": "sliding storage box",
+    "example": "Open the drawer.",
+    "exampleZh": "打开抽屉。",
+    "synonyms": [
+      "compartment",
+      "tray",
+      "box"
+    ],
+    "core": "可从柜中拉出的收纳盒。",
+    "ipaUk": "/ˈdɹɔːə/",
+    "ipaUs": "/dɹɔɹ/",
+    "synDetail": {
+      "compartment": {
+        "def": "格,隔层",
+        "vs": "侧重分隔空间",
+        "use": "a storage compartment"
+      },
+      "tray": {
+        "def": "托盘",
+        "vs": "侧重浅盘",
+        "use": "a desk tray"
+      },
+      "box": {
+        "def": "盒子",
+        "vs": "广义,盒型",
+        "use": "a small box"
+      }
+    }
+  },
+  {
+    "id": "dress",
+    "word": "dress",
+    "category": "pt",
+    "zh": "连衣裙",
+    "definition": "woman's outer garment",
+    "example": "A red dress.",
+    "exampleZh": "一条红裙子。",
+    "synonyms": [
+      "gown",
+      "frock",
+      "outfit"
+    ],
+    "core": "从肩垂下包住身体的女式连衣物。",
+    "ipaUk": "/dɹɛs/",
+    "ipaUs": "/dɹɛs/",
+    "synDetail": {
+      "gown": {
+        "def": "长袍,礼服",
+        "vs": "侧重正式长款",
+        "use": "a ball gown"
+      },
+      "frock": {
+        "def": "连衣裙(童/英)",
+        "vs": "侧重儿童或老式",
+        "use": "a flower frock"
+      },
+      "outfit": {
+        "def": "全套服装",
+        "vs": "侧重整套搭配",
+        "use": "a stylish outfit"
+      }
+    }
+  },
+  {
+    "id": "drop",
+    "word": "drop",
+    "category": "pt",
+    "zh": "水滴",
+    "definition": "small round bit of liquid",
+    "example": "A drop of water.",
+    "exampleZh": "一滴水。",
+    "synonyms": [
+      "bead",
+      "droplet",
+      "blob"
+    ],
+    "core": "从液体分出的小圆珠。",
+    "ipaUk": "/dɹɒp/",
+    "ipaUs": "/dɹɑp/",
+    "synDetail": {
+      "bead": {
+        "def": "珠状物",
+        "vs": "侧重小圆珠",
+        "use": "beads of sweat"
+      },
+      "droplet": {
+        "def": "小液滴",
+        "vs": "侧重极小",
+        "use": "water droplets"
+      },
+      "blob": {
+        "def": "小斑点",
+        "vs": "侧重不规则",
+        "use": "a blob of paint"
+      }
+    }
+  },
+  {
+    "id": "ear",
+    "word": "ear",
+    "category": "pt",
+    "zh": "耳朵",
+    "definition": "organ for hearing",
+    "example": "My ear hurts.",
+    "exampleZh": "我耳朵疼。",
+    "synonyms": [
+      "lobe",
+      "hearing organ",
+      "listener"
+    ],
+    "core": "头两侧接收声音的外露器官。",
+    "ipaUk": "/ɪə/",
+    "ipaUs": "/iɹ/",
+    "synDetail": {
+      "lobe": {
+        "def": "耳垂",
+        "vs": "侧重耳下部",
+        "use": "the ear lobe"
+      },
+      "hearing organ": {
+        "def": "听觉器官",
+        "vs": "科学描述",
+        "use": "the hearing organ"
+      },
+      "listener": {
+        "def": "听者",
+        "vs": "侧重听的人",
+        "use": "a good listener"
+      }
+    }
+  },
+  {
+    "id": "egg",
+    "word": "egg",
+    "category": "pt",
+    "zh": "蛋",
+    "definition": "oval thing laid by birds",
+    "example": "Boil two eggs.",
+    "exampleZh": "煮两个蛋。",
+    "synonyms": [
+      "ovum",
+      "yolk",
+      "ovoid"
+    ],
+    "core": "薄壳包着新生命或食物的圆体。",
+    "ipaUk": "/ɛɡ/",
+    "ipaUs": "/ɛɡ/",
+    "synDetail": {
+      "ovum": {
+        "def": "卵子",
+        "vs": "生物学",
+        "use": "the female ovum"
+      },
+      "yolk": {
+        "def": "蛋黄",
+        "vs": "侧重黄色部分",
+        "use": "a runny yolk"
+      },
+      "ovoid": {
+        "def": "卵形物",
+        "vs": "形状描述",
+        "use": "an ovoid shape"
+      }
+    }
+  },
+  {
+    "id": "engine",
+    "word": "engine",
+    "category": "pt",
+    "zh": "引擎",
+    "definition": "machine that makes power",
+    "example": "The engine roared.",
+    "exampleZh": "引擎轰鸣。",
+    "synonyms": [
+      "motor",
+      "machine",
+      "powerhouse"
+    ],
+    "core": "把能量转成运动力量的机器心脏。",
+    "ipaUk": "/ˈɛndʒɪn/",
+    "ipaUs": "/ˈɛndʒən/",
+    "synDetail": {
+      "motor": {
+        "def": "马达,电机",
+        "vs": "侧重电动",
+        "use": "an electric motor"
+      },
+      "machine": {
+        "def": "机器",
+        "vs": "广义,各种机器",
+        "use": "a complex machine"
+      },
+      "powerhouse": {
+        "def": "动力源",
+        "vs": "侧重强力来源",
+        "use": "a powerhouse engine"
+      }
+    }
+  },
+  {
+    "id": "eye",
+    "word": "eye",
+    "category": "pt",
+    "zh": "眼睛",
+    "definition": "organ for seeing",
+    "example": "Close your eyes.",
+    "exampleZh": "闭上眼睛。",
+    "synonyms": [
+      "sight",
+      "orb",
+      "peeper"
+    ],
+    "core": "让光进入身体形成视觉的器官。",
+    "ipaUk": "/aɪ/",
+    "ipaUs": "/aɪ/",
+    "synDetail": {
+      "sight": {
+        "def": "视力",
+        "vs": "侧重视觉能力",
+        "use": "good sight"
+      },
+      "orb": {
+        "def": "眼珠(文)",
+        "vs": "文学,圆球",
+        "use": "his shining orbs"
+      },
+      "peeper": {
+        "def": "眼(俚)",
+        "vs": "俚语,眼睛",
+        "use": "close your peepers"
+      }
+    }
+  },
+  {
+    "id": "face",
+    "word": "face",
+    "category": "pt",
+    "zh": "脸",
+    "definition": "front of head",
+    "example": "Wash your face.",
+    "exampleZh": "洗脸。",
+    "synonyms": [
+      "countenance",
+      "visage",
+      "mug"
+    ],
+    "core": "头前方显出表情和身份的部分。",
+    "ipaUk": "/feɪs/",
+    "ipaUs": "/feɪs/",
+    "synDetail": {
+      "countenance": {
+        "def": "面容(正式)",
+        "vs": "正式书面",
+        "use": "a stern countenance"
+      },
+      "visage": {
+        "def": "面孔(文)",
+        "vs": "文学,容貌",
+        "use": "a noble visage"
+      },
+      "mug": {
+        "def": "脸(俚)",
+        "vs": "俚语,贬意",
+        "use": "his ugly mug"
+      }
+    }
+  },
+  {
+    "id": "farm",
+    "word": "farm",
+    "category": "pt",
+    "zh": "农场",
+    "definition": "land for growing food",
+    "example": "Live on a farm.",
+    "exampleZh": "住在农场。",
+    "synonyms": [
+      "ranch",
+      "estate",
+      "homestead"
+    ],
+    "core": "种作物养牲畜获取食物的土地。",
+    "ipaUk": "/fɑːm/",
+    "ipaUs": "/fɑɹm/",
+    "synDetail": {
+      "ranch": {
+        "def": "大牧场",
+        "vs": "侧重畜牧",
+        "use": "a cattle ranch"
+      },
+      "estate": {
+        "def": "庄园",
+        "vs": "侧重大片地产",
+        "use": "a country estate"
+      },
+      "homestead": {
+        "def": "宅院田产",
+        "vs": "侧重自家土地",
+        "use": "the family homestead"
+      }
+    }
+  },
+  {
+    "id": "feather",
+    "word": "feather",
+    "category": "pt",
+    "zh": "羽毛",
+    "definition": "light part of bird's covering",
+    "example": "As light as a feather.",
+    "exampleZh": "轻如鸿毛。",
+    "synonyms": [
+      "plume",
+      "down",
+      "quill"
+    ],
+    "core": "覆盖鸟身帮助保暖飞行的轻片。",
+    "ipaUk": "/ˈfɛðə/",
+    "ipaUs": "/ˈfɛðɝ/",
+    "synDetail": {
+      "plume": {
+        "def": "羽饰",
+        "vs": "侧重大长羽",
+        "use": "a peacock plume"
+      },
+      "down": {
+        "def": "绒毛",
+        "vs": "侧重柔细羽",
+        "use": "goose down"
+      },
+      "quill": {
+        "def": "翎管,鹅毛笔",
+        "vs": "侧重大羽轴",
+        "use": "a porcupine quill"
+      }
+    }
+  },
+  {
+    "id": "finger",
+    "word": "finger",
+    "category": "pt",
+    "zh": "手指",
+    "definition": "one of five parts on hand",
+    "example": "Point with your finger.",
+    "exampleZh": "用手指点。",
+    "synonyms": [
+      "digit",
+      "thumb",
+      "pinky"
+    ],
+    "core": "手掌末端能触摸抓握的细长部分。",
+    "ipaUk": "/ˈfɪŋɡə/",
+    "ipaUs": "/ˈfɪŋɡɝ/",
+    "synDetail": {
+      "digit": {
+        "def": "手指(医学)",
+        "vs": "医学术语",
+        "use": "the index digit"
+      },
+      "thumb": {
+        "def": "拇指",
+        "vs": "特指最粗指",
+        "use": "thumbs up"
+      },
+      "pinky": {
+        "def": "小指",
+        "vs": "特指最小指",
+        "use": "the pinky finger"
+      }
+    }
+  },
+  {
+    "id": "fish",
+    "word": "fish",
+    "category": "pt",
+    "zh": "鱼",
+    "definition": "animal living in water",
+    "example": "Catch a fish.",
+    "exampleZh": "钓条鱼。",
+    "synonyms": [
+      "catch",
+      "seafood",
+      "trout"
+    ],
+    "core": "在水中用鳍游动呼吸的动物。",
+    "ipaUk": "/fɪʃ/",
+    "ipaUs": "/fɪʃ/",
+    "synDetail": {
+      "catch": {
+        "def": "渔获",
+        "vs": "侧重捕到的鱼",
+        "use": "a big catch"
+      },
+      "seafood": {
+        "def": "海鲜",
+        "vs": "侧重食用",
+        "use": "fresh seafood"
+      },
+      "trout": {
+        "def": "鳟鱼",
+        "vs": "具体种类",
+        "use": "rainbow trout"
+      }
+    }
+  },
+  {
+    "id": "flag",
+    "word": "flag",
+    "category": "pt",
+    "zh": "旗帜",
+    "definition": "cloth showing country or sign",
+    "example": "The flag flies high.",
+    "exampleZh": "旗帜高高飘扬。",
+    "synonyms": [
+      "banner",
+      "standard",
+      "ensign"
+    ],
+    "core": "挂在杆上随风显示身份的布片。",
+    "ipaUk": "/flæɡ/",
+    "ipaUs": "/flæɡ/",
+    "synDetail": {
+      "banner": {
+        "def": "横幅",
+        "vs": "侧重横挂",
+        "use": "a wide banner"
+      },
+      "standard": {
+        "def": "军旗,旗帜",
+        "vs": "正式,军/团旗",
+        "use": "the royal standard"
+      },
+      "ensign": {
+        "def": "舰旗,军旗",
+        "vs": "海军/军用",
+        "use": "the naval ensign"
+      }
+    }
+  },
+  {
+    "id": "floor",
+    "word": "floor",
+    "category": "pt",
+    "zh": "地板",
+    "definition": "bottom surface of a room",
+    "example": "Sit on the floor.",
+    "exampleZh": "坐在地板上。",
+    "synonyms": [
+      "ground",
+      "level",
+      "story"
+    ],
+    "core": "脚下承托站立行走的平面。",
+    "ipaUk": "/flɔː/",
+    "ipaUs": "/flɔɹ/",
+    "synDetail": {
+      "ground": {
+        "def": "地面",
+        "vs": "侧重室外或建筑外",
+        "use": "hit the ground"
+      },
+      "level": {
+        "def": "楼层",
+        "vs": "侧重水平面/层",
+        "use": "ground level"
+      },
+      "story": {
+        "def": "楼层",
+        "vs": "美式,一层楼",
+        "use": "a three-story house"
+      }
+    }
+  },
+  {
+    "id": "fly",
+    "word": "fly",
+    "category": "pt",
+    "zh": "苍蝇",
+    "definition": "small flying insect",
+    "example": "There's a fly on the window.",
+    "exampleZh": "窗上有只苍蝇。",
+    "synonyms": [
+      "insect",
+      "bug",
+      "gnat"
+    ],
+    "core": "带翅膀嗡嗡乱飞的小昆虫。",
+    "ipaUk": "/flaɪ/",
+    "ipaUs": "/flaɪ/",
+    "synDetail": {
+      "insect": {
+        "def": "昆虫",
+        "vs": "广义类别",
+        "use": "flying insect"
+      },
+      "bug": {
+        "def": "虫子",
+        "vs": "口语",
+        "use": "a tiny bug"
+      },
+      "gnat": {
+        "def": "小昆虫,蚋",
+        "vs": "侧重小蝇类",
+        "use": "swarming gnats"
+      }
+    }
+  },
+  {
+    "id": "foot",
+    "word": "foot",
+    "category": "pt",
+    "zh": "脚",
+    "definition": "part of leg below ankle",
+    "example": "My foot hurts.",
+    "exampleZh": "我脚疼。",
+    "synonyms": [
+      "sole",
+      "paw",
+      "base"
+    ],
+    "core": "身体最下端支撑行走的部位。",
+    "ipaUk": "/fʊt/",
+    "ipaUs": "/fʊt/",
+    "synDetail": {
+      "sole": {
+        "def": "脚底",
+        "vs": "侧重脚的底部",
+        "use": "the sole of the foot"
+      },
+      "paw": {
+        "def": "爪",
+        "vs": "侧重动物脚",
+        "use": "a dog's paw"
+      },
+      "base": {
+        "def": "底部",
+        "vs": "侧重物体底",
+        "use": "the base of the lamp"
+      }
+    }
+  },
+  {
+    "id": "fork",
+    "word": "fork",
+    "category": "pt",
+    "zh": "叉子",
+    "definition": "tool with prongs for eating",
+    "example": "Use a fork.",
+    "exampleZh": "用叉子。",
+    "synonyms": [
+      "utensil",
+      "trident",
+      "prong"
+    ],
+    "core": "带几根尖齿用来叉取食物的器具。",
+    "ipaUk": "/fɔːk/",
+    "ipaUs": "/fɔɹk/",
+    "synDetail": {
+      "utensil": {
+        "def": "餐具",
+        "vs": "广义,餐用具",
+        "use": "kitchen utensils"
+      },
+      "trident": {
+        "def": "三叉戟",
+        "vs": "侧重三齿",
+        "use": "Poseidon's trident"
+      },
+      "prong": {
+        "def": "叉齿",
+        "vs": "侧重叉的尖",
+        "use": "a four-prong fork"
+      }
+    }
+  },
+  {
+    "id": "fowl",
+    "word": "fowl",
+    "category": "pt",
+    "zh": "家禽",
+    "definition": "bird kept for food",
+    "example": "Raise fowl on the farm.",
+    "exampleZh": "农场养家禽。",
+    "synonyms": [
+      "chicken",
+      "poultry",
+      "bird"
+    ],
+    "core": "家中饲养可下蛋可食用的禽鸟。",
+    "ipaUk": "/faʊl/",
+    "ipaUs": "/faʊl/",
+    "synDetail": {
+      "chicken": {
+        "def": "鸡",
+        "vs": "具体一种",
+        "use": "fried chicken"
+      },
+      "poultry": {
+        "def": "家禽",
+        "vs": "侧重食用类",
+        "use": "poultry farm"
+      },
+      "bird": {
+        "def": "鸟",
+        "vs": "广义,所有禽鸟",
+        "use": "a beautiful bird"
+      }
+    }
+  },
+  {
+    "id": "frame",
+    "word": "frame",
+    "category": "pt",
+    "zh": "框架",
+    "definition": "border or structure",
+    "example": "A picture frame.",
+    "exampleZh": "相框。",
+    "synonyms": [
+      "border",
+      "structure",
+      "skeleton"
+    ],
+    "core": "围住边缘支撑形状的外架。",
+    "ipaUk": "/fɹeɪm/",
+    "ipaUs": "/fɹeɪm/",
+    "synDetail": {
+      "border": {
+        "def": "边框",
+        "vs": "侧重四周边线",
+        "use": "a thin border"
+      },
+      "structure": {
+        "def": "结构",
+        "vs": "侧重支撑骨架",
+        "use": "a wooden structure"
+      },
+      "skeleton": {
+        "def": "骨架",
+        "vs": "侧重支撑骨",
+        "use": "the building's skeleton"
+      }
+    }
+  },
+  {
+    "id": "garden",
+    "word": "garden",
+    "category": "pt",
+    "zh": "花园",
+    "definition": "area with plants",
+    "example": "Work in the garden.",
+    "exampleZh": "在花园里干活。",
+    "synonyms": [
+      "yard",
+      "plot",
+      "grounds"
+    ],
+    "core": "种花草树木供照看欣赏的小地。",
+    "ipaUk": "/ˈɡɑːdən/",
+    "ipaUs": "/ˈɡɑɹdən/",
+    "synDetail": {
+      "yard": {
+        "def": "院子",
+        "vs": "侧重房前屋后",
+        "use": "the back yard"
+      },
+      "plot": {
+        "def": "小块地",
+        "vs": "侧重一小片",
+        "use": "a vegetable plot"
+      },
+      "grounds": {
+        "def": "场地,庭园",
+        "vs": "侧重大型园地",
+        "use": "palace grounds"
+      }
+    }
+  },
+  {
+    "id": "girl",
+    "word": "girl",
+    "category": "pt",
+    "zh": "女孩",
+    "definition": "young female child",
+    "example": "The girl is happy.",
+    "exampleZh": "那女孩很开心。",
+    "synonyms": [
+      "lass",
+      "maid",
+      "kid"
+    ],
+    "core": "尚未长成女人的年少女性。",
+    "ipaUk": "/ɡɜːl/",
+    "ipaUs": "/ɡɝl/",
+    "synDetail": {
+      "lass": {
+        "def": "姑娘",
+        "vs": "苏格兰/文学",
+        "use": "a bonny lass"
+      },
+      "maid": {
+        "def": "少女",
+        "vs": "古英语,未婚女",
+        "use": "a young maid"
+      },
+      "kid": {
+        "def": "小孩",
+        "vs": "口语,不分性别",
+        "use": "a little kid"
+      }
+    }
+  },
+  {
+    "id": "glove",
+    "word": "glove",
+    "category": "pt",
+    "zh": "手套",
+    "definition": "covering for hand",
+    "example": "Wear warm gloves.",
+    "exampleZh": "戴上保暖手套。",
+    "synonyms": [
+      "mitten",
+      "gauntlet",
+      "mitt"
+    ],
+    "core": "套住手掌和手指的柔软护套。",
+    "ipaUk": "/ɡlʌv/",
+    "ipaUs": "/ɡlʌv/",
+    "synDetail": {
+      "mitten": {
+        "def": "连指手套",
+        "vs": "侧重无分指",
+        "use": "warm mittens"
+      },
+      "gauntlet": {
+        "def": "护手套",
+        "vs": "侧重护臂手套",
+        "use": "throw down the gauntlet"
+      },
+      "mitt": {
+        "def": "棒球手套",
+        "vs": "侧重运动",
+        "use": "a baseball mitt"
+      }
+    }
+  },
+  {
+    "id": "goat",
+    "word": "goat",
+    "category": "pt",
+    "zh": "山羊",
+    "definition": "horned farm animal",
+    "example": "The goat eats grass.",
+    "exampleZh": "山羊在吃草。",
+    "synonyms": [
+      "livestock",
+      "billy",
+      "kid"
+    ],
+    "core": "有角善攀吃草的家养小兽。",
+    "ipaUk": "/ɡəʊt/",
+    "ipaUs": "/ɡoʊt/",
+    "synDetail": {
+      "livestock": {
+        "def": "牲畜",
+        "vs": "广义,家畜",
+        "use": "raise livestock"
+      },
+      "billy": {
+        "def": "公山羊",
+        "vs": "侧重雄性",
+        "use": "a billy goat"
+      },
+      "kid": {
+        "def": "小山羊",
+        "vs": "侧重幼崽",
+        "use": "a baby kid"
+      }
+    }
+  },
+  {
+    "id": "gun",
+    "word": "gun",
+    "category": "pt",
+    "zh": "枪",
+    "definition": "weapon that shoots",
+    "example": "He put down the gun.",
+    "exampleZh": "他放下了枪。",
+    "synonyms": [
+      "firearm",
+      "pistol",
+      "weapon"
+    ],
+    "core": "把弹丸快速射出去的武器。",
+    "ipaUk": "/ɡʌn/",
+    "ipaUs": "/ɡʌn/",
+    "synDetail": {
+      "firearm": {
+        "def": "火器",
+        "vs": "正式法律用语",
+        "use": "licensed firearm"
+      },
+      "pistol": {
+        "def": "手枪",
+        "vs": "具体短枪",
+        "use": "a pistol shot"
+      },
+      "weapon": {
+        "def": "武器",
+        "vs": "广义,任何武器",
+        "use": "a deadly weapon"
+      }
+    }
+  },
+  {
+    "id": "hair",
+    "word": "hair",
+    "category": "pt",
+    "zh": "头发",
+    "definition": "threads growing on head",
+    "example": "Her hair is long.",
+    "exampleZh": "她头发很长。",
+    "synonyms": [
+      "mane",
+      "locks",
+      "tresses"
+    ],
+    "core": "从皮肤长出的细丝状覆盖物。",
+    "ipaUk": "/hɛə/",
+    "ipaUs": "/hɛɹ/",
+    "synDetail": {
+      "mane": {
+        "def": "鬃毛,长发",
+        "vs": "侧重浓密长发",
+        "use": "a flowing mane"
+      },
+      "locks": {
+        "def": "头发(文)",
+        "vs": "文学,常指卷发",
+        "use": "golden locks"
+      },
+      "tresses": {
+        "def": "长发,辫发",
+        "vs": "文学,女性长发",
+        "use": "long tresses"
+      }
+    }
+  },
+  {
+    "id": "hammer",
+    "word": "hammer",
+    "category": "pt",
+    "zh": "锤子",
+    "definition": "tool for hitting nails",
+    "example": "Use a hammer.",
+    "exampleZh": "用锤子。",
+    "synonyms": [
+      "mallet",
+      "gavel",
+      "beater"
+    ],
+    "core": "用沉重头部敲打钉物的工具。",
+    "ipaUk": "/ˈhæmə/",
+    "ipaUs": "/ˈhæmɝ/",
+    "synDetail": {
+      "mallet": {
+        "def": "木槌",
+        "vs": "侧重木质头",
+        "use": "a wooden mallet"
+      },
+      "gavel": {
+        "def": "小木槌",
+        "vs": "侧重法官或拍卖用",
+        "use": "the judge's gavel"
+      },
+      "beater": {
+        "def": "打击器",
+        "vs": "侧重击打用具",
+        "use": "a carpet beater"
+      }
+    }
+  },
+  {
+    "id": "hand",
+    "word": "hand",
+    "category": "pt",
+    "zh": "手",
+    "definition": "part of arm with fingers",
+    "example": "Give me your hand.",
+    "exampleZh": "把手给我。",
+    "synonyms": [
+      "palm",
+      "fist",
+      "paw"
+    ],
+    "core": "手臂末端能抓握创造的部位。",
+    "ipaUk": "/hænd/",
+    "ipaUs": "/hænd/",
+    "synDetail": {
+      "palm": {
+        "def": "手掌",
+        "vs": "侧重手心",
+        "use": "the palm of my hand"
+      },
+      "fist": {
+        "def": "拳头",
+        "vs": "侧重握紧",
+        "use": "clenched fist"
+      },
+      "paw": {
+        "def": "爪",
+        "vs": "侧重动物的",
+        "use": "the dog's paw"
+      }
+    }
+  },
+  {
+    "id": "hat",
+    "word": "hat",
+    "category": "pt",
+    "zh": "帽子",
+    "definition": "head covering",
+    "example": "Wear a sun hat.",
+    "exampleZh": "戴顶遮阳帽。",
+    "synonyms": [
+      "cap",
+      "headgear",
+      "bonnet"
+    ],
+    "core": "戴在头上遮阳保暖或表身份的物。",
+    "ipaUk": "/hæt/",
+    "ipaUs": "/hæt/",
+    "synDetail": {
+      "cap": {
+        "def": "鸭舌帽",
+        "vs": "侧重无檐或短檐",
+        "use": "a baseball cap"
+      },
+      "headgear": {
+        "def": "头饰,头盔",
+        "vs": "广义,任何头戴",
+        "use": "protective headgear"
+      },
+      "bonnet": {
+        "def": "软帽",
+        "vs": "侧重婴/古女帽",
+        "use": "a baby bonnet"
+      }
+    }
+  },
+  {
+    "id": "head",
+    "word": "head",
+    "category": "pt",
+    "zh": "头",
+    "definition": "top part of body",
+    "example": "My head hurts.",
+    "exampleZh": "我头疼。",
+    "synonyms": [
+      "skull",
+      "pate",
+      "noggin"
+    ],
+    "core": "身体最高处容纳脸和脑的部位。",
+    "ipaUk": "/hɛd/",
+    "ipaUs": "/hɛd/",
+    "synDetail": {
+      "skull": {
+        "def": "头骨",
+        "vs": "侧重骨头部分",
+        "use": "the human skull"
+      },
+      "pate": {
+        "def": "头顶(古)",
+        "vs": "古英语,头顶",
+        "use": "a bald pate"
+      },
+      "noggin": {
+        "def": "脑袋(俚)",
+        "vs": "俚语,头",
+        "use": "use your noggin"
+      }
+    }
+  },
+  {
+    "id": "heart",
+    "word": "heart",
+    "category": "pt",
+    "zh": "心脏",
+    "definition": "organ that pumps blood",
+    "example": "My heart beats fast.",
+    "exampleZh": "我心跳很快。",
+    "synonyms": [
+      "cardiac",
+      "core",
+      "center"
+    ],
+    "core": "胸中不断跳动推动血液的核心。",
+    "ipaUk": "/hɑːt/",
+    "ipaUs": "/hɑɹt/",
+    "synDetail": {
+      "cardiac": {
+        "def": "心脏的",
+        "vs": "医学形容词",
+        "use": "cardiac arrest"
+      },
+      "core": {
+        "def": "核心",
+        "vs": "侧重核心部分",
+        "use": "the core of the apple"
+      },
+      "center": {
+        "def": "中心",
+        "vs": "侧重正中",
+        "use": "city center"
+      }
+    }
+  },
+  {
+    "id": "hook",
+    "word": "hook",
+    "category": "pt",
+    "zh": "钩子",
+    "definition": "curved metal for catching",
+    "example": "Hang it on the hook.",
+    "exampleZh": "挂到钩子上。",
+    "synonyms": [
+      "clasp",
+      "peg",
+      "catch"
+    ],
+    "core": "弯成钩状用来挂住拉住的物。",
+    "ipaUk": "/hʊk/",
+    "ipaUs": "/hʊk/",
+    "synDetail": {
+      "clasp": {
+        "def": "扣钩",
+        "vs": "侧重扣紧",
+        "use": "a necklace clasp"
+      },
+      "peg": {
+        "def": "挂钉,木钉",
+        "vs": "侧重小钉",
+        "use": "a wooden peg"
+      },
+      "catch": {
+        "def": "扣件,门搭扣",
+        "vs": "侧重扣住",
+        "use": "the window catch"
+      }
+    }
+  },
+  {
+    "id": "horn",
+    "word": "horn",
+    "category": "pt",
+    "zh": "角;喇叭",
+    "definition": "hard growth on animal head",
+    "example": "The bull has horns.",
+    "exampleZh": "公牛有角。",
+    "synonyms": [
+      "antler",
+      "trumpet",
+      "klaxon"
+    ],
+    "core": "头上长出的硬尖角或发声器。",
+    "ipaUk": "/hɔːn/",
+    "ipaUs": "/hɔɹn/",
+    "synDetail": {
+      "antler": {
+        "def": "鹿角",
+        "vs": "专指鹿",
+        "use": "deer antlers"
+      },
+      "trumpet": {
+        "def": "喇叭",
+        "vs": "侧重乐器",
+        "use": "a brass trumpet"
+      },
+      "klaxon": {
+        "def": "警笛",
+        "vs": "侧重警报喇叭",
+        "use": "the klaxon sounded"
+      }
+    }
+  },
+  {
+    "id": "horse",
+    "word": "horse",
+    "category": "pt",
+    "zh": "马",
+    "definition": "large animal for riding",
+    "example": "Ride the horse.",
+    "exampleZh": "骑马。",
+    "synonyms": [
+      "steed",
+      "mare",
+      "stallion"
+    ],
+    "core": "强壮善跑可骑乘拉车的大兽。",
+    "ipaUk": "/hɔːs/",
+    "ipaUs": "/hɔɹs/",
+    "synDetail": {
+      "steed": {
+        "def": "骏马",
+        "vs": "文学,坐骑",
+        "use": "a noble steed"
+      },
+      "mare": {
+        "def": "母马",
+        "vs": "侧重雌性",
+        "use": "a young mare"
+      },
+      "stallion": {
+        "def": "种马",
+        "vs": "侧重雄性",
+        "use": "a black stallion"
+      }
+    }
+  },
+  {
+    "id": "hospital",
+    "word": "hospital",
+    "category": "pt",
+    "zh": "医院",
+    "definition": "place for sick people",
+    "example": "Take her to hospital.",
+    "exampleZh": "送她去医院。",
+    "synonyms": [
+      "clinic",
+      "infirmary",
+      "sanatorium"
+    ],
+    "core": "病人接受照护和治疗的地方。",
+    "ipaUk": "/ˈhɒˌspɪtəl/",
+    "ipaUs": "/ˈhɑˌspɪtəl/",
+    "synDetail": {
+      "clinic": {
+        "def": "诊所",
+        "vs": "侧重门诊",
+        "use": "a private clinic"
+      },
+      "infirmary": {
+        "def": "医务室,医院",
+        "vs": "侧重学校/单位",
+        "use": "the school infirmary"
+      },
+      "sanatorium": {
+        "def": "疗养院",
+        "vs": "侧重长期康复",
+        "use": "a mountain sanatorium"
+      }
+    }
+  },
+  {
+    "id": "house",
+    "word": "house",
+    "category": "pt",
+    "zh": "房子",
+    "definition": "building where people live",
+    "example": "My house is small.",
+    "exampleZh": "我家房子小。",
+    "synonyms": [
+      "home",
+      "dwelling",
+      "residence"
+    ],
+    "core": "围出安全空间供人居住的建筑。",
+    "ipaUk": "/haʊs/",
+    "ipaUs": "/haʊs/",
+    "synDetail": {
+      "home": {
+        "def": "家",
+        "vs": "侧重温暖归属",
+        "use": "go home"
+      },
+      "dwelling": {
+        "def": "住所",
+        "vs": "正式,居住处",
+        "use": "a small dwelling"
+      },
+      "residence": {
+        "def": "住宅",
+        "vs": "正式,常指豪宅",
+        "use": "the official residence"
+      }
+    }
+  },
+  {
+    "id": "island",
+    "word": "island",
+    "category": "pt",
+    "zh": "岛",
+    "definition": "land with water all around",
+    "example": "The island is small.",
+    "exampleZh": "这岛很小。",
+    "synonyms": [
+      "isle",
+      "atoll",
+      "key"
+    ],
+    "core": "四周被水围住的一块陆地。",
+    "ipaUk": "/ˈaɪlənd/",
+    "ipaUs": "/ˈaɪlənd/",
+    "synDetail": {
+      "isle": {
+        "def": "小岛",
+        "vs": "文学,小型岛",
+        "use": "a green isle"
+      },
+      "atoll": {
+        "def": "环礁",
+        "vs": "侧重珊瑚环岛",
+        "use": "a coral atoll"
+      },
+      "key": {
+        "def": "低岛,小岛",
+        "vs": "侧重珊瑚低岛",
+        "use": "Florida Keys"
+      }
+    }
+  },
+  {
+    "id": "jewel",
+    "word": "jewel",
+    "category": "pt",
+    "zh": "宝石",
+    "definition": "precious stone",
+    "example": "The ring has a jewel.",
+    "exampleZh": "戒指上有颗宝石。",
+    "synonyms": [
+      "gem",
+      "stone",
+      "precious"
+    ],
+    "core": "因光泽稀少而被珍藏佩戴的宝物。",
+    "ipaUk": "/ˈdʒuːəl/",
+    "ipaUs": "/ˈdʒuəl/",
+    "synDetail": {
+      "gem": {
+        "def": "宝石",
+        "vs": "侧重宝石本身",
+        "use": "a precious gem"
+      },
+      "stone": {
+        "def": "宝石,石头",
+        "vs": "侧重原石",
+        "use": "a birth stone"
+      },
+      "precious": {
+        "def": "贵重物",
+        "vs": "侧重珍贵",
+        "use": "something precious"
+      }
+    }
+  },
+  {
+    "id": "kettle",
+    "word": "kettle",
+    "category": "pt",
+    "zh": "水壶",
+    "definition": "pot for boiling water",
+    "example": "Put the kettle on.",
+    "exampleZh": "烧上水。",
+    "synonyms": [
+      "pot",
+      "teapot",
+      "boiler"
+    ],
+    "core": "有嘴有把用来烧水倒水的壶。",
+    "ipaUk": "/ˈkɛtəl/",
+    "ipaUs": "/ˈkɛtəl/",
+    "synDetail": {
+      "pot": {
+        "def": "锅",
+        "vs": "广义,任何盛器",
+        "use": "a cooking pot"
+      },
+      "teapot": {
+        "def": "茶壶",
+        "vs": "侧重泡茶",
+        "use": "a porcelain teapot"
+      },
+      "boiler": {
+        "def": "锅炉",
+        "vs": "侧重供热设备",
+        "use": "the central boiler"
+      }
+    }
+  },
+  {
+    "id": "key",
+    "word": "key",
+    "category": "pt",
+    "zh": "钥匙",
+    "definition": "metal piece to open lock",
+    "example": "I lost my key.",
+    "exampleZh": "我丢了钥匙。",
+    "synonyms": [
+      "opener",
+      "clue",
+      "code"
+    ],
+    "core": "插入锁中转动后打开入口的小物。",
+    "ipaUk": "/kiː/",
+    "ipaUs": "/ki/",
+    "synDetail": {
+      "opener": {
+        "def": "开启工具",
+        "vs": "广义,任何开启物",
+        "use": "a bottle opener"
+      },
+      "clue": {
+        "def": "线索",
+        "vs": "侧重解谜",
+        "use": "a vital clue"
+      },
+      "code": {
+        "def": "密码",
+        "vs": "侧重数字密码",
+        "use": "a secret code"
+      }
+    }
+  },
+  {
+    "id": "knee",
+    "word": "knee",
+    "category": "pt",
+    "zh": "膝盖",
+    "definition": "middle joint of leg",
+    "example": "Bend your knee.",
+    "exampleZh": "弯膝盖。",
+    "synonyms": [
+      "joint",
+      "patella",
+      "kneecap"
+    ],
+    "core": "腿中间弯曲支撑下蹲的关节。",
+    "ipaUk": "/niː/",
+    "ipaUs": "/ni/",
+    "synDetail": {
+      "joint": {
+        "def": "关节",
+        "vs": "广义,任何关节",
+        "use": "a sore joint"
+      },
+      "patella": {
+        "def": "髌骨",
+        "vs": "医学术语",
+        "use": "the patella bone"
+      },
+      "kneecap": {
+        "def": "膝盖骨",
+        "vs": "口语版",
+        "use": "hurt my kneecap"
+      }
+    }
+  },
+  {
+    "id": "knife",
+    "word": "knife",
+    "category": "pt",
+    "zh": "刀",
+    "definition": "sharp tool for cutting",
+    "example": "Use a sharp knife.",
+    "exampleZh": "用锋利的刀。",
+    "synonyms": [
+      "blade",
+      "cutter",
+      "dagger"
+    ],
+    "core": "握在手中用锋刃切分东西的工具。",
+    "ipaUk": "/naɪf/",
+    "ipaUs": "/naɪf/",
+    "synDetail": {
+      "blade": {
+        "def": "刀片",
+        "vs": "侧重刃",
+        "use": "a sharp blade"
+      },
+      "cutter": {
+        "def": "切割器",
+        "vs": "侧重工具",
+        "use": "a paper cutter"
+      },
+      "dagger": {
+        "def": "匕首",
+        "vs": "侧重短剑武器",
+        "use": "a hidden dagger"
+      }
+    }
+  },
+  {
+    "id": "knot",
+    "word": "knot",
+    "category": "pt",
+    "zh": "结",
+    "definition": "tied loop in rope",
+    "example": "Make a strong knot.",
+    "exampleZh": "打个结实的结。",
+    "synonyms": [
+      "tie",
+      "loop",
+      "tangle"
+    ],
+    "core": "绳线自身交缠后形成的紧结。",
+    "ipaUk": "/nɒt/",
+    "ipaUs": "/nɑt/",
+    "synDetail": {
+      "tie": {
+        "def": "系结",
+        "vs": "侧重打结的动作",
+        "use": "a tight tie"
+      },
+      "loop": {
+        "def": "环",
+        "vs": "侧重圈状",
+        "use": "a closed loop"
+      },
+      "tangle": {
+        "def": "乱结",
+        "vs": "侧重缠绕乱",
+        "use": "a tangle of hair"
+      }
+    }
+  },
+  {
+    "id": "leaf",
+    "word": "leaf",
+    "category": "pt",
+    "zh": "叶子",
+    "definition": "flat green part of plant",
+    "example": "The leaf is yellow.",
+    "exampleZh": "叶子黄了。",
+    "synonyms": [
+      "foliage",
+      "blade",
+      "frond"
+    ],
+    "core": "树枝上展开吸收阳光的薄绿片。",
+    "ipaUk": "/liːf/",
+    "ipaUs": "/lif/",
+    "synDetail": {
+      "foliage": {
+        "def": "叶子(集)",
+        "vs": "集合统称",
+        "use": "dense foliage"
+      },
+      "blade": {
+        "def": "叶片",
+        "vs": "侧重细长叶",
+        "use": "a blade of grass"
+      },
+      "frond": {
+        "def": "棕榈/蕨叶",
+        "vs": "侧重大羽状叶",
+        "use": "a palm frond"
+      }
+    }
+  },
+  {
+    "id": "leg",
+    "word": "leg",
+    "category": "pt",
+    "zh": "腿",
+    "definition": "limb for walking",
+    "example": "My leg is sore.",
+    "exampleZh": "我腿疼。",
+    "synonyms": [
+      "limb",
+      "shank",
+      "stilt"
+    ],
+    "core": "支撑身体站立奔走的长肢。",
+    "ipaUk": "/lɛɡ/",
+    "ipaUs": "/lɛɡ/",
+    "synDetail": {
+      "limb": {
+        "def": "四肢",
+        "vs": "广义,手或脚",
+        "use": "a missing limb"
+      },
+      "shank": {
+        "def": "小腿",
+        "vs": "侧重膝下",
+        "use": "a strong shank"
+      },
+      "stilt": {
+        "def": "高跷",
+        "vs": "比喻长腿",
+        "use": "walk on stilts"
+      }
+    }
+  },
+  {
+    "id": "library",
+    "word": "library",
+    "category": "pt",
+    "zh": "图书馆",
+    "definition": "place with books",
+    "example": "Borrow from the library.",
+    "exampleZh": "从图书馆借。",
+    "synonyms": [
+      "bookhouse",
+      "archive",
+      "collection"
+    ],
+    "core": "收藏书本供人查阅学习的地方。",
+    "ipaUk": "/ˈlaɪbɹəɹi/",
+    "ipaUs": "/ˈlaɪbɹɛˌɹi/",
+    "synDetail": {
+      "bookhouse": {
+        "def": "藏书处",
+        "vs": "字面描述",
+        "use": "a small bookhouse"
+      },
+      "archive": {
+        "def": "档案馆",
+        "vs": "侧重保存史料",
+        "use": "the national archive"
+      },
+      "collection": {
+        "def": "藏书,收藏",
+        "vs": "侧重所收集",
+        "use": "a private collection"
+      }
+    }
+  },
+  {
+    "id": "line",
+    "word": "line",
+    "category": "pt",
+    "zh": "线",
+    "definition": "long thin mark",
+    "example": "Draw a straight line.",
+    "exampleZh": "画条直线。",
+    "synonyms": [
+      "stripe",
+      "row",
+      "string"
+    ],
+    "core": "从一点延向另一点的细长痕迹。",
+    "ipaUk": "/laɪn/",
+    "ipaUs": "/laɪn/",
+    "synDetail": {
+      "stripe": {
+        "def": "条纹",
+        "vs": "侧重宽条纹",
+        "use": "red stripes"
+      },
+      "row": {
+        "def": "一排",
+        "vs": "侧重并列排",
+        "use": "a front row"
+      },
+      "string": {
+        "def": "线绳",
+        "vs": "侧重细绳",
+        "use": "a piece of string"
+      }
+    }
+  },
+  {
+    "id": "lip",
+    "word": "lip",
+    "category": "pt",
+    "zh": "嘴唇",
+    "definition": "edge of mouth",
+    "example": "Bite your lip.",
+    "exampleZh": "咬嘴唇。",
+    "synonyms": [
+      "mouth",
+      "rim",
+      "edge"
+    ],
+    "core": "围住口边用于闭合说话的柔软边。",
+    "ipaUk": "/lɪp/",
+    "ipaUs": "/lɪp/",
+    "synDetail": {
+      "mouth": {
+        "def": "嘴",
+        "vs": "侧重整个嘴",
+        "use": "open your mouth"
+      },
+      "rim": {
+        "def": "边缘",
+        "vs": "侧重圆口边",
+        "use": "the rim of the cup"
+      },
+      "edge": {
+        "def": "边缘",
+        "vs": "广义,任何边",
+        "use": "a sharp edge"
+      }
+    }
+  },
+  {
+    "id": "lock",
+    "word": "lock",
+    "category": "pt",
+    "zh": "锁",
+    "definition": "device that fastens",
+    "example": "Turn the lock.",
+    "exampleZh": "转动锁。",
+    "synonyms": [
+      "latch",
+      "bolt",
+      "catch"
+    ],
+    "core": "把门箱固定住需钥匙开启的装置。",
+    "ipaUk": "/lɒk/",
+    "ipaUs": "/lɑk/",
+    "synDetail": {
+      "latch": {
+        "def": "门闩",
+        "vs": "侧重简单锁",
+        "use": "the door latch"
+      },
+      "bolt": {
+        "def": "门栓",
+        "vs": "侧重粗插销",
+        "use": "slide the bolt"
+      },
+      "catch": {
+        "def": "卡扣,锁扣",
+        "vs": "侧重小卡件",
+        "use": "the window catch"
+      }
+    }
+  },
+  {
+    "id": "map",
+    "word": "map",
+    "category": "pt",
+    "zh": "地图",
+    "definition": "drawing of an area",
+    "example": "Read the map.",
+    "exampleZh": "看地图。",
+    "synonyms": [
+      "chart",
+      "plan",
+      "atlas"
+    ],
+    "core": "把大地位置缩小画在平面上的图。",
+    "ipaUk": "/mæp/",
+    "ipaUs": "/mæp/",
+    "synDetail": {
+      "chart": {
+        "def": "图表,海图",
+        "vs": "侧重航海/数据",
+        "use": "a nautical chart"
+      },
+      "plan": {
+        "def": "平面图",
+        "vs": "侧重设计图",
+        "use": "the floor plan"
+      },
+      "atlas": {
+        "def": "地图集",
+        "vs": "侧重成册地图",
+        "use": "a world atlas"
+      }
+    }
+  },
+  {
+    "id": "match",
+    "word": "match",
+    "category": "pt",
+    "zh": "火柴",
+    "definition": "short stick that lights fire",
+    "example": "Light a match.",
+    "exampleZh": "点根火柴。",
+    "synonyms": [
+      "light",
+      "fuse",
+      "striker"
+    ],
+    "core": "一擦即燃用来点火的小木棒。",
+    "ipaUk": "/mætʃ/",
+    "ipaUs": "/mætʃ/",
+    "synDetail": {
+      "light": {
+        "def": "打火工具",
+        "vs": "侧重点火",
+        "use": "a light for my cigarette"
+      },
+      "fuse": {
+        "def": "导火线,保险丝",
+        "vs": "侧重引爆/保险",
+        "use": "a slow fuse"
+      },
+      "striker": {
+        "def": "打火者",
+        "vs": "侧重击发",
+        "use": "the striker plate"
+      }
+    }
+  },
+  {
+    "id": "monkey",
+    "word": "monkey",
+    "category": "pt",
+    "zh": "猴子",
+    "definition": "climbing animal with tail",
+    "example": "The monkey climbed up.",
+    "exampleZh": "猴子爬上去了。",
+    "synonyms": [
+      "ape",
+      "primate",
+      "simian"
+    ],
+    "core": "灵活攀跳像人的长尾兽。",
+    "ipaUk": "/ˈmʌŋki/",
+    "ipaUs": "/ˈmʌŋki/",
+    "synDetail": {
+      "ape": {
+        "def": "猿",
+        "vs": "侧重无尾",
+        "use": "a great ape"
+      },
+      "primate": {
+        "def": "灵长类",
+        "vs": "科学术语",
+        "use": "primate behavior"
+      },
+      "simian": {
+        "def": "猿猴的",
+        "vs": "形容词,科学",
+        "use": "simian features"
+      }
+    }
+  },
+  {
+    "id": "moon",
+    "word": "moon",
+    "category": "pt",
+    "zh": "月亮",
+    "definition": "earth's satellite",
+    "example": "The moon is bright.",
+    "exampleZh": "月亮很亮。",
+    "synonyms": [
+      "satellite",
+      "lunar body",
+      "crescent"
+    ],
+    "core": "夜空中反光变化圆缺的天体。",
+    "ipaUk": "/muːn/",
+    "ipaUs": "/mun/",
+    "synDetail": {
+      "satellite": {
+        "def": "卫星",
+        "vs": "科学,广义",
+        "use": "natural satellite"
+      },
+      "lunar body": {
+        "def": "月体",
+        "vs": "科学描述",
+        "use": "the lunar body"
+      },
+      "crescent": {
+        "def": "新月",
+        "vs": "侧重月相",
+        "use": "a crescent moon"
+      }
+    }
+  },
+  {
+    "id": "mouth",
+    "word": "mouth",
+    "category": "pt",
+    "zh": "嘴",
+    "definition": "opening for eating",
+    "example": "Open your mouth.",
+    "exampleZh": "张开嘴。",
+    "synonyms": [
+      "lips",
+      "jaws",
+      "oral cavity"
+    ],
+    "core": "吃东西说话呼吸的面部开口。",
+    "ipaUk": "/maʊθ/",
+    "ipaUs": "/maʊθ/",
+    "synDetail": {
+      "lips": {
+        "def": "嘴唇",
+        "vs": "侧重唇",
+        "use": "red lips"
+      },
+      "jaws": {
+        "def": "上下颌",
+        "vs": "侧重颌骨",
+        "use": "powerful jaws"
+      },
+      "oral cavity": {
+        "def": "口腔",
+        "vs": "医学术语",
+        "use": "the oral cavity"
+      }
+    }
+  },
+  {
+    "id": "muscle",
+    "word": "muscle",
+    "category": "pt",
+    "zh": "肌肉",
+    "definition": "body tissue that moves bones",
+    "example": "Build muscle.",
+    "exampleZh": "练肌肉。",
+    "synonyms": [
+      "sinew",
+      "brawn",
+      "tissue"
+    ],
+    "core": "收缩发力让身体运动的肉。",
+    "ipaUk": "/ˈmʌsəl/",
+    "ipaUs": "/ˈmʌsəl/",
+    "synDetail": {
+      "sinew": {
+        "def": "肌腱",
+        "vs": "侧重筋",
+        "use": "taut sinews"
+      },
+      "brawn": {
+        "def": "肌肉力量",
+        "vs": "侧重肌力",
+        "use": "all brawn"
+      },
+      "tissue": {
+        "def": "组织",
+        "vs": "医学,身体组织",
+        "use": "muscle tissue"
+      }
+    }
+  },
+  {
+    "id": "nail",
+    "word": "nail",
+    "category": "pt",
+    "zh": "钉子;指甲",
+    "definition": "metal pin or finger end",
+    "example": "Hammer the nail.",
+    "exampleZh": "锤钉子。",
+    "synonyms": [
+      "pin",
+      "tack",
+      "spike"
+    ],
+    "core": "手脚尖端或钉入木中的硬片。",
+    "ipaUk": "/neɪl/",
+    "ipaUs": "/neɪl/",
+    "synDetail": {
+      "pin": {
+        "def": "大头针,销",
+        "vs": "侧重细长针",
+        "use": "a safety pin"
+      },
+      "tack": {
+        "def": "图钉",
+        "vs": "侧重短粗钉",
+        "use": "a thumb tack"
+      },
+      "spike": {
+        "def": "长钉,尖刺",
+        "vs": "侧重粗长尖",
+        "use": "a metal spike"
+      }
+    }
+  },
+  {
+    "id": "neck",
+    "word": "neck",
+    "category": "pt",
+    "zh": "脖子",
+    "definition": "part between head and body",
+    "example": "My neck hurts.",
+    "exampleZh": "我脖子疼。",
+    "synonyms": [
+      "nape",
+      "throat",
+      "collar"
+    ],
+    "core": "连接头和身体的可转动柱状部位。",
+    "ipaUk": "/nɛk/",
+    "ipaUs": "/nɛk/",
+    "synDetail": {
+      "nape": {
+        "def": "颈背",
+        "vs": "侧重颈后部",
+        "use": "the nape of the neck"
+      },
+      "throat": {
+        "def": "喉咙",
+        "vs": "侧重内部",
+        "use": "a sore throat"
+      },
+      "collar": {
+        "def": "领,颈圈",
+        "vs": "侧重穿戴的",
+        "use": "a stiff collar"
+      }
+    }
+  },
+  {
+    "id": "needle",
+    "word": "needle",
+    "category": "pt",
+    "zh": "针",
+    "definition": "thin pointed tool",
+    "example": "Thread the needle.",
+    "exampleZh": "穿针引线。",
+    "synonyms": [
+      "pin",
+      "spike",
+      "quill"
+    ],
+    "core": "细长尖锐可穿刺或引线的工具。",
+    "ipaUk": "/ˈniːdəl/",
+    "ipaUs": "/ˈnidəl/",
+    "synDetail": {
+      "pin": {
+        "def": "针,大头针",
+        "vs": "侧重细小",
+        "use": "a sewing pin"
+      },
+      "spike": {
+        "def": "长尖钉",
+        "vs": "侧重粗长",
+        "use": "a sharp spike"
+      },
+      "quill": {
+        "def": "刺,翎管",
+        "vs": "侧重豪猪刺/羽",
+        "use": "porcupine quills"
+      }
+    }
+  },
+  {
+    "id": "nerve",
+    "word": "nerve",
+    "category": "pt",
+    "zh": "神经",
+    "definition": "fiber carrying body signals",
+    "example": "He has nerves of steel.",
+    "exampleZh": "他有钢铁般的神经。",
+    "synonyms": [
+      "fiber",
+      "sensation",
+      "courage"
+    ],
+    "core": "在身体里传递感觉和命令的细线。",
+    "ipaUk": "/nɜːv/",
+    "ipaUs": "/nɝv/",
+    "synDetail": {
+      "fiber": {
+        "def": "神经纤维",
+        "vs": "医学,细丝",
+        "use": "nerve fiber"
+      },
+      "sensation": {
+        "def": "感觉",
+        "vs": "侧重感觉本身",
+        "use": "a tingling sensation"
+      },
+      "courage": {
+        "def": "勇气",
+        "vs": "nerve 的引申义",
+        "use": "have the nerve"
+      }
+    }
+  },
+  {
+    "id": "net",
+    "word": "net",
+    "category": "pt",
+    "zh": "网",
+    "definition": "mesh of strings",
+    "example": "Catch fish with a net.",
+    "exampleZh": "用网抓鱼。",
+    "synonyms": [
+      "mesh",
+      "web",
+      "snare"
+    ],
+    "core": "许多线交织成孔用来捕捉承托的物。",
+    "ipaUk": "/nɛt/",
+    "ipaUs": "/nɛt/",
+    "synDetail": {
+      "mesh": {
+        "def": "网眼",
+        "vs": "侧重网孔结构",
+        "use": "fine mesh"
+      },
+      "web": {
+        "def": "网络,蛛网",
+        "vs": "侧重网状结构",
+        "use": "a spider web"
+      },
+      "snare": {
+        "def": "陷阱网",
+        "vs": "侧重捕捉用",
+        "use": "set a snare"
+      }
+    }
+  },
+  {
+    "id": "nose",
+    "word": "nose",
+    "category": "pt",
+    "zh": "鼻子",
+    "definition": "organ for smelling",
+    "example": "Blow your nose.",
+    "exampleZh": "擤鼻涕。",
+    "synonyms": [
+      "snout",
+      "beak",
+      "sniffer"
+    ],
+    "core": "脸中央闻气味并呼吸的突出部位。",
+    "ipaUk": "/nəʊz/",
+    "ipaUs": "/noʊz/",
+    "synDetail": {
+      "snout": {
+        "def": "动物鼻吻",
+        "vs": "侧重动物",
+        "use": "a pig's snout"
+      },
+      "beak": {
+        "def": "鸟喙",
+        "vs": "侧重禽鸟",
+        "use": "a sharp beak"
+      },
+      "sniffer": {
+        "def": "嗅探者",
+        "vs": "侧重嗅觉",
+        "use": "sniffer dog"
+      }
+    }
+  },
+  {
+    "id": "nut",
+    "word": "nut",
+    "category": "pt",
+    "zh": "坚果;螺母",
+    "definition": "hard-shelled seed or fastener",
+    "example": "Crack the nut.",
+    "exampleZh": "敲开坚果。",
+    "synonyms": [
+      "seed",
+      "kernel",
+      "bolt"
+    ],
+    "core": "硬壳包住可食仁的小果实或紧固件。",
+    "ipaUk": "/nʌt/",
+    "ipaUs": "/nʌt/",
+    "synDetail": {
+      "seed": {
+        "def": "种子",
+        "vs": "广义,可繁殖",
+        "use": "plant a seed"
+      },
+      "kernel": {
+        "def": "果仁",
+        "vs": "侧重核内",
+        "use": "a corn kernel"
+      },
+      "bolt": {
+        "def": "螺栓",
+        "vs": "侧重金属配对",
+        "use": "nuts and bolts"
+      }
+    }
+  },
+  {
+    "id": "office",
+    "word": "office",
+    "category": "pt",
+    "zh": "办公室",
+    "definition": "place where work is done",
+    "example": "Go to the office.",
+    "exampleZh": "去办公室。",
+    "synonyms": [
+      "workplace",
+      "bureau",
+      "study"
+    ],
+    "core": "人们坐下处理事务工作的房间。",
+    "ipaUk": "/ˈɒfɪs/",
+    "ipaUs": "/ˈɔfɪs/",
+    "synDetail": {
+      "workplace": {
+        "def": "工作场所",
+        "vs": "侧重工作地点",
+        "use": "a busy workplace"
+      },
+      "bureau": {
+        "def": "局,办事处",
+        "vs": "侧重政府机构",
+        "use": "a federal bureau"
+      },
+      "study": {
+        "def": "书房",
+        "vs": "侧重家中办公",
+        "use": "the home study"
+      }
+    }
+  },
+  {
+    "id": "orange",
+    "word": "orange",
+    "category": "pt",
+    "zh": "橙子",
+    "definition": "round citrus fruit",
+    "example": "Peel the orange.",
+    "exampleZh": "剥橙子。",
+    "synonyms": [
+      "citrus",
+      "fruit",
+      "mandarin"
+    ],
+    "core": "圆而多汁带清香的橙色果实。",
+    "ipaUk": "/ˈɒɹɪndʒ/",
+    "ipaUs": "/ˈɔɹəndʒ/",
+    "synDetail": {
+      "citrus": {
+        "def": "柑橘类",
+        "vs": "侧重类别",
+        "use": "citrus fruits"
+      },
+      "fruit": {
+        "def": "水果",
+        "vs": "广义类别",
+        "use": "fresh fruit"
+      },
+      "mandarin": {
+        "def": "橘子",
+        "vs": "侧重小橘类",
+        "use": "a sweet mandarin"
+      }
+    }
+  },
+  {
+    "id": "oven",
+    "word": "oven",
+    "category": "pt",
+    "zh": "烤箱",
+    "definition": "enclosed space for cooking",
+    "example": "Put it in the oven.",
+    "exampleZh": "放进烤箱。",
+    "synonyms": [
+      "stove",
+      "kiln",
+      "furnace"
+    ],
+    "core": "用封闭热空间烤熟食物的器具。",
+    "ipaUk": "/ˈʌvən/",
+    "ipaUs": "/ˈʌvən/",
+    "synDetail": {
+      "stove": {
+        "def": "炉灶",
+        "vs": "侧重灶台",
+        "use": "a gas stove"
+      },
+      "kiln": {
+        "def": "窑",
+        "vs": "侧重高温烧制",
+        "use": "a brick kiln"
+      },
+      "furnace": {
+        "def": "熔炉",
+        "vs": "侧重工业大炉",
+        "use": "a blast furnace"
+      }
+    }
+  },
+  {
+    "id": "parcel",
+    "word": "parcel",
+    "category": "pt",
+    "zh": "包裹",
+    "definition": "wrapped package",
+    "example": "A parcel arrived for you.",
+    "exampleZh": "你的包裹到了。",
+    "synonyms": [
+      "package",
+      "bundle",
+      "carton"
+    ],
+    "core": "包好后等待搬运寄送的一件物。",
+    "ipaUk": "/ˈpɑːsəl/",
+    "ipaUs": "/ˈpɑɹsəl/",
+    "synDetail": {
+      "package": {
+        "def": "包裹",
+        "vs": "广义,任何包装件",
+        "use": "a delivery package"
+      },
+      "bundle": {
+        "def": "捆,束",
+        "vs": "侧重捆扎",
+        "use": "a bundle of sticks"
+      },
+      "carton": {
+        "def": "纸盒",
+        "vs": "侧重纸质",
+        "use": "a carton of eggs"
+      }
+    }
+  },
+  {
+    "id": "pen",
+    "word": "pen",
+    "category": "pt",
+    "zh": "钢笔",
+    "definition": "writing tool with ink",
+    "example": "Write with a pen.",
+    "exampleZh": "用笔写。",
+    "synonyms": [
+      "ballpoint",
+      "quill",
+      "biro"
+    ],
+    "core": "握在手里让墨水留下字迹的工具。",
+    "ipaUk": "/pɛn/",
+    "ipaUs": "/pɛn/",
+    "synDetail": {
+      "ballpoint": {
+        "def": "圆珠笔",
+        "vs": "具体种类",
+        "use": "a ballpoint pen"
+      },
+      "quill": {
+        "def": "羽毛笔",
+        "vs": "古老书写",
+        "use": "a goose quill"
+      },
+      "biro": {
+        "def": "圆珠笔(英)",
+        "vs": "英式品牌名",
+        "use": "a blue biro"
+      }
+    }
+  },
+  {
+    "id": "pencil",
+    "word": "pencil",
+    "category": "pt",
+    "zh": "铅笔",
+    "definition": "writing tool with lead",
+    "example": "Sharpen the pencil.",
+    "exampleZh": "削铅笔。",
+    "synonyms": [
+      "graphite",
+      "drawing tool",
+      "crayon"
+    ],
+    "core": "用石墨尖在纸上留下可擦痕迹。",
+    "ipaUk": "/ˈpɛnsəl/",
+    "ipaUs": "/ˈpɛnsəl/",
+    "synDetail": {
+      "graphite": {
+        "def": "石墨",
+        "vs": "侧重铅笔芯材",
+        "use": "graphite leads"
+      },
+      "drawing tool": {
+        "def": "绘画工具",
+        "vs": "字面描述",
+        "use": "a basic drawing tool"
+      },
+      "crayon": {
+        "def": "蜡笔",
+        "vs": "侧重彩色",
+        "use": "a wax crayon"
+      }
+    }
+  },
+  {
+    "id": "picture",
+    "word": "picture",
+    "category": "pt",
+    "zh": "图画",
+    "definition": "painting or photograph",
+    "example": "A beautiful picture.",
+    "exampleZh": "一幅美丽的画。",
+    "synonyms": [
+      "image",
+      "photo",
+      "painting"
+    ],
+    "core": "把景物或想法呈现在平面上的图像。",
+    "ipaUk": "/ˈpɪktʃə/",
+    "ipaUs": "/ˈpɪktʃɝ/",
+    "synDetail": {
+      "image": {
+        "def": "图像",
+        "vs": "广义,任何视觉",
+        "use": "a digital image"
+      },
+      "photo": {
+        "def": "照片",
+        "vs": "侧重摄影",
+        "use": "a family photo"
+      },
+      "painting": {
+        "def": "画作",
+        "vs": "侧重绘画",
+        "use": "an oil painting"
+      }
+    }
+  },
+  {
+    "id": "pig",
+    "word": "pig",
+    "category": "pt",
+    "zh": "猪",
+    "definition": "farm animal raised for meat",
+    "example": "The pig is in the mud.",
+    "exampleZh": "猪在泥里。",
+    "synonyms": [
+      "swine",
+      "hog",
+      "boar"
+    ],
+    "core": "短腿厚身常被饲养取肉的动物。",
+    "ipaUk": "/pɪɡ/",
+    "ipaUs": "/pɪɡ/",
+    "synDetail": {
+      "swine": {
+        "def": "猪(正式)",
+        "vs": "正式,集合",
+        "use": "swine flu"
+      },
+      "hog": {
+        "def": "成年公猪",
+        "vs": "侧重大的",
+        "use": "a fat hog"
+      },
+      "boar": {
+        "def": "野猪",
+        "vs": "侧重野生雄",
+        "use": "a wild boar"
+      }
+    }
+  },
+  {
+    "id": "pin",
+    "word": "pin",
+    "category": "pt",
+    "zh": "别针",
+    "definition": "thin sharp piece of metal",
+    "example": "Pin it to the board.",
+    "exampleZh": "把它别在板上。",
+    "synonyms": [
+      "needle",
+      "tack",
+      "peg"
+    ],
+    "core": "细小尖物可刺入固定东西。",
+    "ipaUk": "/pɪn/",
+    "ipaUs": "/pɪn/",
+    "synDetail": {
+      "needle": {
+        "def": "针",
+        "vs": "侧重缝纫针",
+        "use": "a sewing needle"
+      },
+      "tack": {
+        "def": "图钉",
+        "vs": "侧重短钉",
+        "use": "a thumb tack"
+      },
+      "peg": {
+        "def": "小桩,挂钉",
+        "vs": "侧重圆柱形",
+        "use": "a clothes peg"
+      }
+    }
+  },
+  {
+    "id": "pipe",
+    "word": "pipe",
+    "category": "pt",
+    "zh": "管子",
+    "definition": "tube for liquid or gas",
+    "example": "The pipe is leaking.",
+    "exampleZh": "管子漏了。",
+    "synonyms": [
+      "tube",
+      "duct",
+      "conduit"
+    ],
+    "core": "中空长管让水气烟通过。",
+    "ipaUk": "/paɪp/",
+    "ipaUs": "/paɪp/",
+    "synDetail": {
+      "tube": {
+        "def": "管,筒",
+        "vs": "广义,空心圆筒",
+        "use": "a test tube"
+      },
+      "duct": {
+        "def": "导管,管道",
+        "vs": "侧重输送通道",
+        "use": "air duct"
+      },
+      "conduit": {
+        "def": "导管,渠道",
+        "vs": "正式,输送通道",
+        "use": "a cable conduit"
+      }
+    }
+  },
+  {
+    "id": "plane",
+    "word": "plane",
+    "category": "pt",
+    "zh": "飞机",
+    "definition": "flying machine",
+    "example": "The plane took off.",
+    "exampleZh": "飞机起飞了。",
+    "synonyms": [
+      "aircraft",
+      "jet",
+      "airliner"
+    ],
+    "core": "带翼在空中载人载物飞行的机器。",
+    "ipaUk": "/pleɪn/",
+    "ipaUs": "/pleɪn/",
+    "synDetail": {
+      "aircraft": {
+        "def": "飞行器",
+        "vs": "正式,统称",
+        "use": "military aircraft"
+      },
+      "jet": {
+        "def": "喷气飞机",
+        "vs": "侧重喷气式",
+        "use": "a private jet"
+      },
+      "airliner": {
+        "def": "客机",
+        "vs": "侧重大型客运",
+        "use": "a commercial airliner"
+      }
+    }
+  },
+  {
+    "id": "plate",
+    "word": "plate",
+    "category": "pt",
+    "zh": "盘子",
+    "definition": "flat dish for food",
+    "example": "Clean the plate.",
+    "exampleZh": "把盘子刷干净。",
+    "synonyms": [
+      "dish",
+      "saucer",
+      "platter"
+    ],
+    "core": "平而浅用来盛放食物的盘。",
+    "ipaUk": "/pleɪt/",
+    "ipaUs": "/pleɪt/",
+    "synDetail": {
+      "dish": {
+        "def": "碟,盘",
+        "vs": "广义,任何盘",
+        "use": "do the dishes"
+      },
+      "saucer": {
+        "def": "小托盘",
+        "vs": "侧重茶碟",
+        "use": "a tea saucer"
+      },
+      "platter": {
+        "def": "大浅盘",
+        "vs": "侧重大盘上菜",
+        "use": "a cheese platter"
+      }
+    }
+  },
+  {
+    "id": "plough",
+    "word": "plough",
+    "category": "pt",
+    "zh": "犁",
+    "definition": "farm tool to break soil",
+    "example": "Drive the plough.",
+    "exampleZh": "驾驶犁。",
+    "synonyms": [
+      "plow",
+      "tiller",
+      "cultivator"
+    ],
+    "core": "翻开土地准备播种的农具。",
+    "ipaUk": "/plaʊ/",
+    "ipaUs": "/plaʊ/",
+    "synDetail": {
+      "plow": {
+        "def": "犁(美拼)",
+        "vs": "美式拼写",
+        "use": "a steel plow"
+      },
+      "tiller": {
+        "def": "耕种者,耕耘机",
+        "vs": "侧重小型机具",
+        "use": "a garden tiller"
+      },
+      "cultivator": {
+        "def": "中耕机",
+        "vs": "侧重深松/除草",
+        "use": "a row cultivator"
+      }
+    }
+  },
+  {
+    "id": "pocket",
+    "word": "pocket",
+    "category": "pt",
+    "zh": "口袋",
+    "definition": "small bag in clothes",
+    "example": "In my pocket.",
+    "exampleZh": "在我口袋里。",
+    "synonyms": [
+      "pouch",
+      "bag",
+      "compartment"
+    ],
+    "core": "衣物上缝出的可放小物的袋。",
+    "ipaUk": "/ˈpɒkɪt/",
+    "ipaUs": "/ˈpɑkət/",
+    "synDetail": {
+      "pouch": {
+        "def": "小袋",
+        "vs": "侧重独立小袋",
+        "use": "a coin pouch"
+      },
+      "bag": {
+        "def": "袋",
+        "vs": "广义,任何袋",
+        "use": "a small bag"
+      },
+      "compartment": {
+        "def": "分隔间",
+        "vs": "侧重内部隔层",
+        "use": "a hidden compartment"
+      }
+    }
+  },
+  {
+    "id": "pot",
+    "word": "pot",
+    "category": "pt",
+    "zh": "罐,锅",
+    "definition": "deep round container",
+    "example": "A pot of tea.",
+    "exampleZh": "一壶茶。",
+    "synonyms": [
+      "jar",
+      "kettle",
+      "vessel"
+    ],
+    "core": "深腹容器用来煮盛或栽种东西。",
+    "ipaUk": "/pɒt/",
+    "ipaUs": "/pɑt/",
+    "synDetail": {
+      "jar": {
+        "def": "罐子",
+        "vs": "侧重玻璃罐",
+        "use": "a jam jar"
+      },
+      "kettle": {
+        "def": "水壶",
+        "vs": "侧重烧水",
+        "use": "a tea kettle"
+      },
+      "vessel": {
+        "def": "容器",
+        "vs": "正式,广义",
+        "use": "a clay vessel"
+      }
+    }
+  },
+  {
+    "id": "potato",
+    "word": "potato",
+    "category": "pt",
+    "zh": "土豆",
+    "definition": "round root vegetable",
+    "example": "Mash the potato.",
+    "exampleZh": "把土豆压碎。",
+    "synonyms": [
+      "spud",
+      "tuber",
+      "vegetable"
+    ],
+    "core": "长在土里的淀粉块茎食物。",
+    "ipaUk": "/pəˈteɪˌtəʊ/",
+    "ipaUs": "/pəˈteɪˌtoʊ/",
+    "synDetail": {
+      "spud": {
+        "def": "土豆(俚)",
+        "vs": "口语俚语",
+        "use": "peel the spuds"
+      },
+      "tuber": {
+        "def": "块茎",
+        "vs": "植物学,根茎",
+        "use": "a starchy tuber"
+      },
+      "vegetable": {
+        "def": "蔬菜",
+        "vs": "广义类别",
+        "use": "green vegetables"
+      }
+    }
+  },
+  {
+    "id": "prison",
+    "word": "prison",
+    "category": "pt",
+    "zh": "监狱",
+    "definition": "place for criminals",
+    "example": "He went to prison.",
+    "exampleZh": "他进了监狱。",
+    "synonyms": [
+      "jail",
+      "gaol",
+      "penitentiary"
+    ],
+    "core": "把犯错者关住限制自由的地方。",
+    "ipaUk": "/ˈpɹɪzən/",
+    "ipaUs": "/ˈpɹɪzən/",
+    "synDetail": {
+      "jail": {
+        "def": "监狱",
+        "vs": "侧重短期/地方",
+        "use": "county jail"
+      },
+      "gaol": {
+        "def": "监狱(英)",
+        "vs": "英式拼写",
+        "use": "in gaol"
+      },
+      "penitentiary": {
+        "def": "监狱(美正式)",
+        "vs": "美式联邦监狱",
+        "use": "a federal penitentiary"
+      }
+    }
+  },
+  {
+    "id": "pump",
+    "word": "pump",
+    "category": "pt",
+    "zh": "泵",
+    "definition": "machine moving liquid",
+    "example": "Use the pump.",
+    "exampleZh": "用泵。",
+    "synonyms": [
+      "compressor",
+      "siphon",
+      "piston"
+    ],
+    "core": "借力量把液体或气体推送出去的装置。",
+    "ipaUk": "/pʌmp/",
+    "ipaUs": "/pʌmp/",
+    "synDetail": {
+      "compressor": {
+        "def": "压缩机",
+        "vs": "侧重压缩气体",
+        "use": "an air compressor"
+      },
+      "siphon": {
+        "def": "虹吸管",
+        "vs": "侧重虹吸原理",
+        "use": "a fuel siphon"
+      },
+      "piston": {
+        "def": "活塞",
+        "vs": "侧重往复运动部件",
+        "use": "the engine piston"
+      }
+    }
+  },
+  {
+    "id": "rail",
+    "word": "rail",
+    "category": "pt",
+    "zh": "铁轨",
+    "definition": "metal track for trains",
+    "example": "The train left the rail.",
+    "exampleZh": "火车出轨了。",
+    "synonyms": [
+      "track",
+      "bar",
+      "banister"
+    ],
+    "core": "细长坚硬的栏杆或车轮行走的轨。",
+    "ipaUk": "/ɹeɪl/",
+    "ipaUs": "/ɹeɪl/",
+    "synDetail": {
+      "track": {
+        "def": "轨道",
+        "vs": "侧重路径",
+        "use": "on track"
+      },
+      "bar": {
+        "def": "棒条",
+        "vs": "广义,任何条状",
+        "use": "a metal bar"
+      },
+      "banister": {
+        "def": "楼梯扶手",
+        "vs": "侧重楼梯栏杆",
+        "use": "hold the banister"
+      }
+    }
+  },
+  {
+    "id": "rat",
+    "word": "rat",
+    "category": "pt",
+    "zh": "老鼠",
+    "definition": "large mouse",
+    "example": "A rat ran by.",
+    "exampleZh": "老鼠跑过。",
+    "synonyms": [
+      "rodent",
+      "vermin",
+      "mouse"
+    ],
+    "core": "尖嘴长尾善啃咬的大老鼠。",
+    "ipaUk": "/ɹæt/",
+    "ipaUs": "/ɹæt/",
+    "synDetail": {
+      "rodent": {
+        "def": "啮齿动物",
+        "vs": "科学,广义",
+        "use": "a small rodent"
+      },
+      "vermin": {
+        "def": "害兽",
+        "vs": "贬义,有害动物",
+        "use": "control vermin"
+      },
+      "mouse": {
+        "def": "老鼠",
+        "vs": "侧重较小",
+        "use": "a tiny mouse"
+      }
+    }
+  },
+  {
+    "id": "receipt",
+    "word": "receipt",
+    "category": "pt",
+    "zh": "收据",
+    "definition": "paper proving payment",
+    "example": "Keep your receipt.",
+    "exampleZh": "留好收据。",
+    "synonyms": [
+      "bill",
+      "slip",
+      "voucher"
+    ],
+    "core": "证明钱物已交付的一张凭据。",
+    "ipaUk": "/ɹɪˈsiːt/",
+    "ipaUs": "/ɹiˈsit/",
+    "synDetail": {
+      "bill": {
+        "def": "账单",
+        "vs": "侧重应付款单",
+        "use": "pay the bill"
+      },
+      "slip": {
+        "def": "小条,凭单",
+        "vs": "侧重小纸条",
+        "use": "a deposit slip"
+      },
+      "voucher": {
+        "def": "凭证,优惠券",
+        "vs": "侧重抵用",
+        "use": "a gift voucher"
+      }
+    }
+  },
+  {
+    "id": "ring",
+    "word": "ring",
+    "category": "pt",
+    "zh": "戒指,环",
+    "definition": "round band of metal",
+    "example": "She wears a gold ring.",
+    "exampleZh": "她戴着金戒指。",
+    "synonyms": [
+      "band",
+      "loop",
+      "circle"
+    ],
+    "core": "围成圆圈可套在手上或连接的物。",
+    "ipaUk": "/ɹɪŋ/",
+    "ipaUs": "/ɹɪŋ/",
+    "synDetail": {
+      "band": {
+        "def": "环带",
+        "vs": "侧重戒指/带",
+        "use": "wedding band"
+      },
+      "loop": {
+        "def": "环",
+        "vs": "侧重圈状物",
+        "use": "a closed loop"
+      },
+      "circle": {
+        "def": "圆",
+        "vs": "侧重几何圆",
+        "use": "draw a circle"
+      }
+    }
+  },
+  {
+    "id": "rod",
+    "word": "rod",
+    "category": "pt",
+    "zh": "杆,棒",
+    "definition": "long thin pole",
+    "example": "A fishing rod.",
+    "exampleZh": "一根鱼竿。",
+    "synonyms": [
+      "pole",
+      "stick",
+      "bar"
+    ],
+    "core": "直而细长有硬度的棍状物。",
+    "ipaUk": "/ɹɒd/",
+    "ipaUs": "/ɹɑd/",
+    "synDetail": {
+      "pole": {
+        "def": "杆",
+        "vs": "侧重长直立杆",
+        "use": "a flag pole"
+      },
+      "stick": {
+        "def": "棍子",
+        "vs": "侧重短小",
+        "use": "a walking stick"
+      },
+      "bar": {
+        "def": "棒,杆",
+        "vs": "侧重金属/扁",
+        "use": "an iron bar"
+      }
+    }
+  },
+  {
+    "id": "roof",
+    "word": "roof",
+    "category": "pt",
+    "zh": "屋顶",
+    "definition": "top covering of building",
+    "example": "The roof is red.",
+    "exampleZh": "屋顶是红色的。",
+    "synonyms": [
+      "covering",
+      "top",
+      "ceiling"
+    ],
+    "core": "盖在建筑最上方挡雨遮阳的面。",
+    "ipaUk": "/ɹuːf/",
+    "ipaUs": "/ɹuf/",
+    "synDetail": {
+      "covering": {
+        "def": "覆盖物",
+        "vs": "广义,任何盖",
+        "use": "protective covering"
+      },
+      "top": {
+        "def": "顶部",
+        "vs": "侧重最上",
+        "use": "on top"
+      },
+      "ceiling": {
+        "def": "天花板",
+        "vs": "侧重室内顶",
+        "use": "a high ceiling"
+      }
+    }
+  },
+  {
+    "id": "root",
+    "word": "root",
+    "category": "pt",
+    "zh": "根",
+    "definition": "part of plant in soil",
+    "example": "The tree has deep roots.",
+    "exampleZh": "树根扎得深。",
+    "synonyms": [
+      "base",
+      "origin",
+      "foundation"
+    ],
+    "core": "植物伸入土中吸水并固定身体的部分。",
+    "ipaUk": "/ɹuːt/",
+    "ipaUs": "/ɹut/",
+    "synDetail": {
+      "base": {
+        "def": "基础",
+        "vs": "侧重根基",
+        "use": "the base of the tower"
+      },
+      "origin": {
+        "def": "起源",
+        "vs": "侧重起点",
+        "use": "the origin of life"
+      },
+      "foundation": {
+        "def": "地基,基础",
+        "vs": "侧重支撑根基",
+        "use": "a solid foundation"
+      }
+    }
+  },
+  {
+    "id": "sail",
+    "word": "sail",
+    "category": "pt",
+    "zh": "帆",
+    "definition": "cloth on a boat",
+    "example": "Set the sail.",
+    "exampleZh": "扬帆。",
+    "synonyms": [
+      "canvas",
+      "sheet",
+      "mainsail"
+    ],
+    "core": "借风张开推动船前进的大布。",
+    "ipaUk": "/seɪl/",
+    "ipaUs": "/seɪl/",
+    "synDetail": {
+      "canvas": {
+        "def": "帆布",
+        "vs": "侧重材料",
+        "use": "sturdy canvas"
+      },
+      "sheet": {
+        "def": "帆布,大块布",
+        "vs": "侧重一大幅",
+        "use": "a sheet of sail"
+      },
+      "mainsail": {
+        "def": "主帆",
+        "vs": "侧重最大那张帆",
+        "use": "raise the mainsail"
+      }
+    }
+  },
+  {
+    "id": "school",
+    "word": "school",
+    "category": "pt",
+    "zh": "学校",
+    "definition": "place for learning",
+    "example": "Go to school.",
+    "exampleZh": "去上学。",
+    "synonyms": [
+      "academy",
+      "institute",
+      "college"
+    ],
+    "core": "孩子聚集接受教导学习的地方。",
+    "ipaUk": "/skuːl/",
+    "ipaUs": "/skul/",
+    "synDetail": {
+      "academy": {
+        "def": "学院",
+        "vs": "侧重专业/私立",
+        "use": "a music academy"
+      },
+      "institute": {
+        "def": "学院,研究所",
+        "vs": "侧重研究/高等",
+        "use": "a research institute"
+      },
+      "college": {
+        "def": "大学,学院",
+        "vs": "侧重高等院校",
+        "use": "go to college"
+      }
+    }
+  },
+  {
+    "id": "scissors",
+    "word": "scissors",
+    "category": "pt",
+    "zh": "剪刀",
+    "definition": "two-bladed cutting tool",
+    "example": "Use the scissors.",
+    "exampleZh": "用剪刀。",
+    "synonyms": [
+      "shears",
+      "clippers",
+      "cutters"
+    ],
+    "core": "两片交叉刀刃合拢剪断东西的工具。",
+    "ipaUk": "/ˈsɪzəz/",
+    "ipaUs": "/ˈsɪzɝz/",
+    "synDetail": {
+      "shears": {
+        "def": "大剪刀",
+        "vs": "侧重大型修剪",
+        "use": "garden shears"
+      },
+      "clippers": {
+        "def": "指甲钳,剪具",
+        "vs": "侧重小型修剪",
+        "use": "nail clippers"
+      },
+      "cutters": {
+        "def": "切割工具",
+        "vs": "广义,任何切",
+        "use": "wire cutters"
+      }
+    }
+  },
+  {
+    "id": "screw",
+    "word": "screw",
+    "category": "pt",
+    "zh": "螺丝",
+    "definition": "metal pin with twisting grooves",
+    "example": "Tighten the screw.",
+    "exampleZh": "拧紧螺丝。",
+    "synonyms": [
+      "bolt",
+      "fastener",
+      "spiral"
+    ],
+    "core": "带旋纹转进去固定物件的小钉。",
+    "ipaUk": "/skɹuː/",
+    "ipaUs": "/skɹu/",
+    "synDetail": {
+      "bolt": {
+        "def": "螺栓",
+        "vs": "侧重粗大",
+        "use": "nuts and bolts"
+      },
+      "fastener": {
+        "def": "紧固件",
+        "vs": "广义,任何扣件",
+        "use": "a metal fastener"
+      },
+      "spiral": {
+        "def": "螺旋",
+        "vs": "侧重螺旋形",
+        "use": "a spiral staircase"
+      }
+    }
+  },
+  {
+    "id": "seed",
+    "word": "seed",
+    "category": "pt",
+    "zh": "种子",
+    "definition": "small part of plant for growing",
+    "example": "Plant the seed.",
+    "exampleZh": "播下种子。",
+    "synonyms": [
+      "kernel",
+      "grain",
+      "pip"
+    ],
+    "core": "藏着新植物开端的小颗粒。",
+    "ipaUk": "/siːd/",
+    "ipaUs": "/sid/",
+    "synDetail": {
+      "kernel": {
+        "def": "果核,内仁",
+        "vs": "侧重内核",
+        "use": "a corn kernel"
+      },
+      "grain": {
+        "def": "谷粒",
+        "vs": "侧重谷类",
+        "use": "a grain of rice"
+      },
+      "pip": {
+        "def": "果核,小种",
+        "vs": "侧重柑橘核",
+        "use": "orange pips"
+      }
+    }
+  },
+  {
+    "id": "sheep",
+    "word": "sheep",
+    "category": "pt",
+    "zh": "羊",
+    "definition": "woolly farm animal",
+    "example": "The sheep graze in the field.",
+    "exampleZh": "羊在田里吃草。",
+    "synonyms": [
+      "lamb",
+      "livestock",
+      "ewe"
+    ],
+    "core": "披着厚毛温顺吃草的家畜。",
+    "ipaUk": "/ʃiːp/",
+    "ipaUs": "/ʃip/",
+    "synDetail": {
+      "lamb": {
+        "def": "羔羊",
+        "vs": "侧重小羊",
+        "use": "a baby lamb"
+      },
+      "livestock": {
+        "def": "家畜",
+        "vs": "广义,饲养动物",
+        "use": "raise livestock"
+      },
+      "ewe": {
+        "def": "母绵羊",
+        "vs": "侧重雌性",
+        "use": "a pregnant ewe"
+      }
+    }
+  },
+  {
+    "id": "shelf",
+    "word": "shelf",
+    "category": "pt",
+    "zh": "架子",
+    "definition": "flat board for storage",
+    "example": "Put it on the shelf.",
+    "exampleZh": "放架子上。",
+    "synonyms": [
+      "ledge",
+      "rack",
+      "stand"
+    ],
+    "core": "固定在墙上或柜中放物的横板。",
+    "ipaUk": "/ʃɛlf/",
+    "ipaUs": "/ʃɛlf/",
+    "synDetail": {
+      "ledge": {
+        "def": "壁架",
+        "vs": "侧重窗台/岩架",
+        "use": "a window ledge"
+      },
+      "rack": {
+        "def": "架子",
+        "vs": "侧重支架/晾衣",
+        "use": "a coat rack"
+      },
+      "stand": {
+        "def": "架,座",
+        "vs": "侧重支撑底座",
+        "use": "a music stand"
+      }
+    }
+  },
+  {
+    "id": "ship",
+    "word": "ship",
+    "category": "pt",
+    "zh": "船,轮船",
+    "definition": "large boat",
+    "example": "The ship sailed away.",
+    "exampleZh": "轮船开走了。",
+    "synonyms": [
+      "vessel",
+      "craft",
+      "boat"
+    ],
+    "core": "在水面远行载人大量货物的大船。",
+    "ipaUk": "/ʃɪp/",
+    "ipaUs": "/ʃɪp/",
+    "synDetail": {
+      "vessel": {
+        "def": "船只",
+        "vs": "正式,广义",
+        "use": "a fishing vessel"
+      },
+      "craft": {
+        "def": "船,小艇",
+        "vs": "广义,船或飞行器",
+        "use": "a sailing craft"
+      },
+      "boat": {
+        "def": "船,艇",
+        "vs": "侧重小型",
+        "use": "a row boat"
+      }
+    }
+  },
+  {
+    "id": "shirt",
+    "word": "shirt",
+    "category": "pt",
+    "zh": "衬衫",
+    "definition": "upper body garment",
+    "example": "He wears a white shirt.",
+    "exampleZh": "他穿着白衬衫。",
+    "synonyms": [
+      "blouse",
+      "top",
+      "tee"
+    ],
+    "core": "穿在上身贴近身体的有袖衣物。",
+    "ipaUk": "/ʃɜːt/",
+    "ipaUs": "/ʃɝt/",
+    "synDetail": {
+      "blouse": {
+        "def": "女衬衫",
+        "vs": "侧重女式",
+        "use": "a silk blouse"
+      },
+      "top": {
+        "def": "上衣",
+        "vs": "广义,任何上衣",
+        "use": "a tank top"
+      },
+      "tee": {
+        "def": "T恤",
+        "vs": "侧重短袖T恤",
+        "use": "a graphic tee"
+      }
+    }
+  },
+  {
+    "id": "shoe",
+    "word": "shoe",
+    "category": "pt",
+    "zh": "鞋",
+    "definition": "covering for foot",
+    "example": "Tie your shoe.",
+    "exampleZh": "系鞋带。",
+    "synonyms": [
+      "footwear",
+      "sneaker",
+      "boot"
+    ],
+    "core": "包住脚底保护行走的穿物。",
+    "ipaUk": "/ʃuː/",
+    "ipaUs": "/ʃu/",
+    "synDetail": {
+      "footwear": {
+        "def": "鞋类",
+        "vs": "广义,鞋的统称",
+        "use": "athletic footwear"
+      },
+      "sneaker": {
+        "def": "运动鞋",
+        "vs": "侧重运动/休闲",
+        "use": "white sneakers"
+      },
+      "boot": {
+        "def": "靴子",
+        "vs": "侧重高筒",
+        "use": "leather boots"
+      }
+    }
+  },
+  {
+    "id": "skin",
+    "word": "skin",
+    "category": "pt",
+    "zh": "皮肤",
+    "definition": "outer covering of body",
+    "example": "Her skin is soft.",
+    "exampleZh": "她皮肤很滑。",
+    "synonyms": [
+      "hide",
+      "epidermis",
+      "peel"
+    ],
+    "core": "覆盖全身分隔内外的柔韧表层。",
+    "ipaUk": "/skɪn/",
+    "ipaUs": "/skɪn/",
+    "synDetail": {
+      "hide": {
+        "def": "兽皮",
+        "vs": "未加工,动物",
+        "use": "animal hide"
+      },
+      "epidermis": {
+        "def": "表皮",
+        "vs": "医学,人皮表层",
+        "use": "the epidermis layer"
+      },
+      "peel": {
+        "def": "果皮",
+        "vs": "侧重水果皮",
+        "use": "orange peel"
+      }
+    }
+  },
+  {
+    "id": "skirt",
+    "word": "skirt",
+    "category": "pt",
+    "zh": "裙子",
+    "definition": "woman's lower garment",
+    "example": "A long skirt.",
+    "exampleZh": "一条长裙。",
+    "synonyms": [
+      "dress",
+      "kilt",
+      "frock"
+    ],
+    "core": "围在腰下垂落不分腿的衣物。",
+    "ipaUk": "/skɜːt/",
+    "ipaUs": "/skɝt/",
+    "synDetail": {
+      "dress": {
+        "def": "连衣裙",
+        "vs": "广义,女装",
+        "use": "a long dress"
+      },
+      "kilt": {
+        "def": "格子短裙",
+        "vs": "侧重苏格兰传统",
+        "use": "a Scottish kilt"
+      },
+      "frock": {
+        "def": "连衣裙(古)",
+        "vs": "侧重童装/老式",
+        "use": "a flowered frock"
+      }
+    }
+  },
+  {
+    "id": "snake",
+    "word": "snake",
+    "category": "pt",
+    "zh": "蛇",
+    "definition": "long animal without legs",
+    "example": "A snake in the grass.",
+    "exampleZh": "草里有蛇。",
+    "synonyms": [
+      "serpent",
+      "reptile",
+      "viper"
+    ],
+    "core": "无腿细长靠身体弯动前进的动物。",
+    "ipaUk": "/sneɪk/",
+    "ipaUs": "/sneɪk/",
+    "synDetail": {
+      "serpent": {
+        "def": "蛇(文)",
+        "vs": "文学/圣经",
+        "use": "the cunning serpent"
+      },
+      "reptile": {
+        "def": "爬行动物",
+        "vs": "科学,广义",
+        "use": "cold-blooded reptile"
+      },
+      "viper": {
+        "def": "毒蛇,蝰蛇",
+        "vs": "侧重毒性",
+        "use": "a deadly viper"
+      }
+    }
+  },
+  {
+    "id": "sock",
+    "word": "sock",
+    "category": "pt",
+    "zh": "袜子",
+    "definition": "soft covering for foot",
+    "example": "Put on clean socks.",
+    "exampleZh": "穿干净袜子。",
+    "synonyms": [
+      "stocking",
+      "hose",
+      "footie"
+    ],
+    "core": "贴脚穿在鞋内吸汗保暖的织物。",
+    "ipaUk": "/sɒk/",
+    "ipaUs": "/sɑk/",
+    "synDetail": {
+      "stocking": {
+        "def": "长袜",
+        "vs": "侧重长筒",
+        "use": "silk stockings"
+      },
+      "hose": {
+        "def": "长袜",
+        "vs": "古英语/正式",
+        "use": "silk hose"
+      },
+      "footie": {
+        "def": "短袜",
+        "vs": "口语,极短",
+        "use": "ankle footies"
+      }
+    }
+  },
+  {
+    "id": "spade",
+    "word": "spade",
+    "category": "pt",
+    "zh": "铲",
+    "definition": "flat tool for digging",
+    "example": "Dig with a spade.",
+    "exampleZh": "用铲挖。",
+    "synonyms": [
+      "shovel",
+      "scoop",
+      "digger"
+    ],
+    "core": "用脚手发力挖土翻土的铲具。",
+    "ipaUk": "/speɪd/",
+    "ipaUs": "/speɪd/",
+    "synDetail": {
+      "shovel": {
+        "def": "铲子",
+        "vs": "侧重大铲",
+        "use": "a snow shovel"
+      },
+      "scoop": {
+        "def": "舀子,小铲",
+        "vs": "侧重舀取",
+        "use": "an ice cream scoop"
+      },
+      "digger": {
+        "def": "挖掘工具",
+        "vs": "侧重挖东西",
+        "use": "a hand digger"
+      }
+    }
+  },
+  {
+    "id": "sponge",
+    "word": "sponge",
+    "category": "pt",
+    "zh": "海绵",
+    "definition": "soft absorbent material",
+    "example": "Wipe with a sponge.",
+    "exampleZh": "用海绵擦。",
+    "synonyms": [
+      "pad",
+      "absorber",
+      "mop"
+    ],
+    "core": "多孔柔软吸水后可擦洗的物。",
+    "ipaUk": "/spʌndʒ/",
+    "ipaUs": "/spʌndʒ/",
+    "synDetail": {
+      "pad": {
+        "def": "垫",
+        "vs": "广义,任何衬垫",
+        "use": "a sponge pad"
+      },
+      "absorber": {
+        "def": "吸收物",
+        "vs": "侧重吸液体",
+        "use": "shock absorber"
+      },
+      "mop": {
+        "def": "拖把",
+        "vs": "侧重清洁工具",
+        "use": "a wet mop"
+      }
+    }
+  },
+  {
+    "id": "spoon",
+    "word": "spoon",
+    "category": "pt",
+    "zh": "勺",
+    "definition": "tool for eating liquid food",
+    "example": "Use a spoon for soup.",
+    "exampleZh": "喝汤用勺。",
+    "synonyms": [
+      "ladle",
+      "scoop",
+      "utensil"
+    ],
+    "core": "带凹面用来舀取食物液体的器具。",
+    "ipaUk": "/spuːn/",
+    "ipaUs": "/spun/",
+    "synDetail": {
+      "ladle": {
+        "def": "长柄勺",
+        "vs": "侧重大长柄",
+        "use": "a soup ladle"
+      },
+      "scoop": {
+        "def": "舀勺",
+        "vs": "侧重圆头舀",
+        "use": "an ice cream scoop"
+      },
+      "utensil": {
+        "def": "餐具",
+        "vs": "广义,餐具统称",
+        "use": "kitchen utensils"
+      }
+    }
+  },
+  {
+    "id": "spring",
+    "word": "spring",
+    "category": "pt",
+    "zh": "弹簧;春天",
+    "definition": "coiled metal or season",
+    "example": "The spring is broken.",
+    "exampleZh": "弹簧坏了。",
+    "synonyms": [
+      "coil",
+      "season",
+      "source"
+    ],
+    "core": "卷曲金属受压后能弹回的物。",
+    "ipaUk": "/spɹɪŋ/",
+    "ipaUs": "/spɹɪŋ/",
+    "synDetail": {
+      "coil": {
+        "def": "线圈",
+        "vs": "侧重盘绕的线",
+        "use": "a tight coil"
+      },
+      "season": {
+        "def": "季节",
+        "vs": "spring 的季节义",
+        "use": "the spring season"
+      },
+      "source": {
+        "def": "泉源",
+        "vs": "侧重水源",
+        "use": "a hot spring"
+      }
+    }
+  },
+  {
+    "id": "square",
+    "word": "square",
+    "category": "pt",
+    "zh": "正方形",
+    "definition": "shape with four equal sides",
+    "example": "Draw a square.",
+    "exampleZh": "画个正方形。",
+    "synonyms": [
+      "quadrate",
+      "block",
+      "plaza"
+    ],
+    "core": "四边相等四角端正的平面形。",
+    "ipaUk": "/skwɛə/",
+    "ipaUs": "/skwɛɹ/",
+    "synDetail": {
+      "quadrate": {
+        "def": "正方形(古)",
+        "vs": "古/科学术语",
+        "use": "a quadrate shape"
+      },
+      "block": {
+        "def": "街区",
+        "vs": "侧重城市方块",
+        "use": "around the block"
+      },
+      "plaza": {
+        "def": "广场",
+        "vs": "侧重城市广场",
+        "use": "a public plaza"
+      }
+    }
+  },
+  {
+    "id": "stamp",
+    "word": "stamp",
+    "category": "pt",
+    "zh": "邮票",
+    "definition": "paper stuck on mail",
+    "example": "Buy a stamp.",
+    "exampleZh": "买张邮票。",
+    "synonyms": [
+      "seal",
+      "mark",
+      "postage"
+    ],
+    "core": "小纸片或印记证明邮寄缴费身份。",
+    "ipaUk": "/stæmp/",
+    "ipaUs": "/stæmp/",
+    "synDetail": {
+      "seal": {
+        "def": "印,封蜡",
+        "vs": "侧重官方印章",
+        "use": "the royal seal"
+      },
+      "mark": {
+        "def": "标记",
+        "vs": "广义,任何记号",
+        "use": "a stamp mark"
+      },
+      "postage": {
+        "def": "邮资",
+        "vs": "侧重邮票费",
+        "use": "first-class postage"
+      }
+    }
+  },
+  {
+    "id": "star",
+    "word": "star",
+    "category": "pt",
+    "zh": "星星",
+    "definition": "bright light in night sky",
+    "example": "Stars shine bright.",
+    "exampleZh": "星光灿烂。",
+    "synonyms": [
+      "sun",
+      "celestial body",
+      "luminary"
+    ],
+    "core": "夜空中远远发光的小点天体。",
+    "ipaUk": "/stɑː/",
+    "ipaUs": "/stɑɹ/",
+    "synDetail": {
+      "sun": {
+        "def": "太阳,恒星",
+        "vs": "侧重太阳类",
+        "use": "the morning sun"
+      },
+      "celestial body": {
+        "def": "天体",
+        "vs": "正式,天文",
+        "use": "a celestial body"
+      },
+      "luminary": {
+        "def": "发光体,名人",
+        "vs": "侧重发光或名流",
+        "use": "a luminary in science"
+      }
+    }
+  },
+  {
+    "id": "station",
+    "word": "station",
+    "category": "pt",
+    "zh": "车站",
+    "definition": "place for trains or buses",
+    "example": "Meet at the station.",
+    "exampleZh": "在车站见。",
+    "synonyms": [
+      "depot",
+      "terminal",
+      "stop"
+    ],
+    "core": "车船停靠人们上下换乘的地点。",
+    "ipaUk": "/ˈsteɪʃən/",
+    "ipaUs": "/ˈsteɪʃən/",
+    "synDetail": {
+      "depot": {
+        "def": "车站,仓库",
+        "vs": "侧重大型站",
+        "use": "the bus depot"
+      },
+      "terminal": {
+        "def": "终点站,航站楼",
+        "vs": "侧重起点终点",
+        "use": "airport terminal"
+      },
+      "stop": {
+        "def": "站点",
+        "vs": "侧重停靠处",
+        "use": "a bus stop"
+      }
+    }
+  },
+  {
+    "id": "stem",
+    "word": "stem",
+    "category": "pt",
+    "zh": "茎",
+    "definition": "main stalk of plant",
+    "example": "The flower stem is long.",
+    "exampleZh": "花茎很长。",
+    "synonyms": [
+      "stalk",
+      "trunk",
+      "shoot"
+    ],
+    "core": "植物向上支撑叶花的细长主体。",
+    "ipaUk": "/stɛm/",
+    "ipaUs": "/stɛm/",
+    "synDetail": {
+      "stalk": {
+        "def": "茎,梗",
+        "vs": "侧重主茎",
+        "use": "a corn stalk"
+      },
+      "trunk": {
+        "def": "树干",
+        "vs": "侧重树主干",
+        "use": "a tree trunk"
+      },
+      "shoot": {
+        "def": "嫩枝",
+        "vs": "侧重新生",
+        "use": "a young shoot"
+      }
+    }
+  },
+  {
+    "id": "stick",
+    "word": "stick",
+    "category": "pt",
+    "zh": "棍子",
+    "definition": "long thin piece of wood",
+    "example": "Pick up the stick.",
+    "exampleZh": "捡起棍子。",
+    "synonyms": [
+      "rod",
+      "branch",
+      "cane"
+    ],
+    "core": "可握可撑可打的细长木条。",
+    "ipaUk": "/stɪk/",
+    "ipaUs": "/stɪk/",
+    "synDetail": {
+      "rod": {
+        "def": "杆",
+        "vs": "侧重直长",
+        "use": "a fishing rod"
+      },
+      "branch": {
+        "def": "树枝",
+        "vs": "侧重树上的",
+        "use": "a fallen branch"
+      },
+      "cane": {
+        "def": "手杖",
+        "vs": "侧重支撑用",
+        "use": "a walking cane"
+      }
+    }
+  },
+  {
+    "id": "stocking",
+    "word": "stocking",
+    "category": "pt",
+    "zh": "长袜",
+    "definition": "long sock",
+    "example": "Christmas stocking.",
+    "exampleZh": "圣诞袜。",
+    "synonyms": [
+      "sock",
+      "hose",
+      "tights"
+    ],
+    "core": "从脚包到腿上的长筒织物。",
+    "ipaUk": "/ˈstɒkɪŋ/",
+    "ipaUs": "/ˈstɑkɪŋ/",
+    "synDetail": {
+      "sock": {
+        "def": "短袜",
+        "vs": "侧重短款",
+        "use": "clean socks"
+      },
+      "hose": {
+        "def": "袜子(古/正式)",
+        "vs": "古英语,正式",
+        "use": "silk hose"
+      },
+      "tights": {
+        "def": "紧身裤袜",
+        "vs": "侧重连体",
+        "use": "black tights"
+      }
+    }
+  },
+  {
+    "id": "stomach",
+    "word": "stomach",
+    "category": "pt",
+    "zh": "胃,肚子",
+    "definition": "organ for digestion",
+    "example": "My stomach hurts.",
+    "exampleZh": "我肚子疼。",
+    "synonyms": [
+      "belly",
+      "gut",
+      "tummy"
+    ],
+    "core": "腹中接收并消化食物的袋状器官。",
+    "ipaUk": "/ˈstʌmək/",
+    "ipaUs": "/ˈstʌmək/",
+    "synDetail": {
+      "belly": {
+        "def": "肚子",
+        "vs": "口语,腹部",
+        "use": "a full belly"
+      },
+      "gut": {
+        "def": "内脏,肠子",
+        "vs": "侧重肠道或直觉",
+        "use": "trust your gut"
+      },
+      "tummy": {
+        "def": "小肚子",
+        "vs": "儿语,亲切",
+        "use": "my tummy hurts"
+      }
+    }
+  },
+  {
+    "id": "store",
+    "word": "store",
+    "category": "pt",
+    "zh": "商店",
+    "definition": "place to buy things",
+    "example": "Go to the store.",
+    "exampleZh": "去商店。",
+    "synonyms": [
+      "shop",
+      "market",
+      "outlet"
+    ],
+    "core": "集中摆放货物让人购买的地方。",
+    "ipaUk": "/stɔː/",
+    "ipaUs": "/stɔɹ/",
+    "synDetail": {
+      "shop": {
+        "def": "商店",
+        "vs": "侧重小店",
+        "use": "a corner shop"
+      },
+      "market": {
+        "def": "市场",
+        "vs": "侧重集市",
+        "use": "a farmer's market"
+      },
+      "outlet": {
+        "def": "专卖店,折扣店",
+        "vs": "侧重直销/折扣",
+        "use": "factory outlet"
+      }
+    }
+  },
+  {
+    "id": "street",
+    "word": "street",
+    "category": "pt",
+    "zh": "街道",
+    "definition": "road in town",
+    "example": "Walk down the street.",
+    "exampleZh": "沿街走。",
+    "synonyms": [
+      "road",
+      "avenue",
+      "lane"
+    ],
+    "core": "房屋之间供人车通行的道路。",
+    "ipaUk": "/stɹiːt/",
+    "ipaUs": "/stɹit/",
+    "synDetail": {
+      "road": {
+        "def": "路",
+        "vs": "侧重城外或交通",
+        "use": "the main road"
+      },
+      "avenue": {
+        "def": "大道",
+        "vs": "侧重宽阔街",
+        "use": "a tree-lined avenue"
+      },
+      "lane": {
+        "def": "小巷,车道",
+        "vs": "侧重窄道",
+        "use": "a country lane"
+      }
+    }
+  },
+  {
+    "id": "sun",
+    "word": "sun",
+    "category": "pt",
+    "zh": "太阳",
+    "definition": "star giving us light",
+    "example": "The sun is bright.",
+    "exampleZh": "太阳很刺眼。",
+    "synonyms": [
+      "star",
+      "sunlight",
+      "sol"
+    ],
+    "core": "白天照亮并温暖万物的天体。",
+    "ipaUk": "/sʌn/",
+    "ipaUs": "/sʌn/",
+    "synDetail": {
+      "star": {
+        "def": "恒星",
+        "vs": "科学,广义",
+        "use": "a distant star"
+      },
+      "sunlight": {
+        "def": "阳光",
+        "vs": "侧重日光",
+        "use": "warm sunlight"
+      },
+      "sol": {
+        "def": "太阳(拉)",
+        "vs": "拉丁语,正式",
+        "use": "sol invictus"
+      }
+    }
+  },
+  {
+    "id": "table",
+    "word": "table",
+    "category": "pt",
+    "zh": "桌子",
+    "definition": "furniture with flat top",
+    "example": "Set the table.",
+    "exampleZh": "摆桌子。",
+    "synonyms": [
+      "desk",
+      "stand",
+      "board"
+    ],
+    "core": "有平面和支脚供放物做事的家具。",
+    "ipaUk": "/ˈteɪbəl/",
+    "ipaUs": "/ˈteɪbəl/",
+    "synDetail": {
+      "desk": {
+        "def": "书桌",
+        "vs": "侧重工作用",
+        "use": "an office desk"
+      },
+      "stand": {
+        "def": "架,几",
+        "vs": "侧重小型支撑",
+        "use": "a music stand"
+      },
+      "board": {
+        "def": "会议桌,板",
+        "vs": "侧重正式或长方",
+        "use": "a board meeting"
+      }
+    }
+  },
+  {
+    "id": "tail",
+    "word": "tail",
+    "category": "pt",
+    "zh": "尾巴",
+    "definition": "rear part of animal",
+    "example": "The dog wagged its tail.",
+    "exampleZh": "狗摇尾巴。",
+    "synonyms": [
+      "rear",
+      "end",
+      "appendage"
+    ],
+    "core": "动物身体后端伸出的活动部分。",
+    "ipaUk": "/teɪl/",
+    "ipaUs": "/teɪl/",
+    "synDetail": {
+      "rear": {
+        "def": "尾部",
+        "vs": "侧重后端",
+        "use": "the rear of the car"
+      },
+      "end": {
+        "def": "末端",
+        "vs": "广义,最后部分",
+        "use": "the far end"
+      },
+      "appendage": {
+        "def": "附属物",
+        "vs": "正式,生物附肢",
+        "use": "a tail appendage"
+      }
+    }
+  },
+  {
+    "id": "thread",
+    "word": "thread",
+    "category": "pt",
+    "zh": "线",
+    "definition": "thin string for sewing",
+    "example": "Pull the thread.",
+    "exampleZh": "拉一下线。",
+    "synonyms": [
+      "yarn",
+      "string",
+      "fiber"
+    ],
+    "core": "细长纤维线可缝合连接物件。",
+    "ipaUk": "/θɹɛd/",
+    "ipaUs": "/θɹɛd/",
+    "synDetail": {
+      "yarn": {
+        "def": "纱线",
+        "vs": "侧重织毛线用",
+        "use": "knitting yarn"
+      },
+      "string": {
+        "def": "细绳,线",
+        "vs": "侧重较粗",
+        "use": "a piece of string"
+      },
+      "fiber": {
+        "def": "纤维",
+        "vs": "侧重组成材料",
+        "use": "natural fiber"
+      }
+    }
+  },
+  {
+    "id": "throat",
+    "word": "throat",
+    "category": "pt",
+    "zh": "喉咙",
+    "definition": "passage in neck",
+    "example": "My throat is sore.",
+    "exampleZh": "我嗓子疼。",
+    "synonyms": [
+      "gullet",
+      "pharynx",
+      "neck"
+    ],
+    "core": "口腔通向身体深处发声吞咽的通道。",
+    "ipaUk": "/θɹəʊt/",
+    "ipaUs": "/θɹoʊt/",
+    "synDetail": {
+      "gullet": {
+        "def": "食道",
+        "vs": "侧重吞咽通道",
+        "use": "down the gullet"
+      },
+      "pharynx": {
+        "def": "咽",
+        "vs": "医学术语",
+        "use": "the upper pharynx"
+      },
+      "neck": {
+        "def": "脖子",
+        "vs": "侧重外部",
+        "use": "around the neck"
+      }
+    }
+  },
+  {
+    "id": "thumb",
+    "word": "thumb",
+    "category": "pt",
+    "zh": "拇指",
+    "definition": "thick finger",
+    "example": "Thumbs up!",
+    "exampleZh": "赞一个!",
+    "synonyms": [
+      "digit",
+      "pollex",
+      "finger"
+    ],
+    "core": "手上能与四指相对帮助抓握的粗指。",
+    "ipaUk": "/θʌm/",
+    "ipaUs": "/θʌm/",
+    "synDetail": {
+      "digit": {
+        "def": "指头(医)",
+        "vs": "医学,指/趾",
+        "use": "the first digit"
+      },
+      "pollex": {
+        "def": "拇指(医)",
+        "vs": "专业医学",
+        "use": "the pollex bone"
+      },
+      "finger": {
+        "def": "手指",
+        "vs": "广义,手指",
+        "use": "five fingers"
+      }
+    }
+  },
+  {
+    "id": "ticket",
+    "word": "ticket",
+    "category": "pt",
+    "zh": "票",
+    "definition": "paper for entry or travel",
+    "example": "Show your ticket.",
+    "exampleZh": "出示票。",
+    "synonyms": [
+      "pass",
+      "stub",
+      "voucher"
+    ],
+    "core": "允许进入乘坐或领取的一张凭证。",
+    "ipaUk": "/ˈtɪkɪt/",
+    "ipaUs": "/ˈtɪkət/",
+    "synDetail": {
+      "pass": {
+        "def": "通行证",
+        "vs": "侧重通行许可",
+        "use": "a backstage pass"
+      },
+      "stub": {
+        "def": "票根",
+        "vs": "侧重撕下半张",
+        "use": "a ticket stub"
+      },
+      "voucher": {
+        "def": "代金券",
+        "vs": "侧重兑换凭证",
+        "use": "a meal voucher"
+      }
+    }
+  },
+  {
+    "id": "toe",
+    "word": "toe",
+    "category": "pt",
+    "zh": "脚趾",
+    "definition": "one of five on foot",
+    "example": "Stub your toe.",
+    "exampleZh": "碰到脚趾。",
+    "synonyms": [
+      "digit",
+      "phalanx",
+      "tiptoe"
+    ],
+    "core": "脚前端帮助平衡行走的小指。",
+    "ipaUk": "/təʊ/",
+    "ipaUs": "/toʊ/",
+    "synDetail": {
+      "digit": {
+        "def": "指头(医)",
+        "vs": "医学,手/脚指",
+        "use": "the toe digit"
+      },
+      "phalanx": {
+        "def": "趾骨,指骨",
+        "vs": "医学术语",
+        "use": "a broken phalanx"
+      },
+      "tiptoe": {
+        "def": "脚尖",
+        "vs": "侧重脚尖动作",
+        "use": "on tiptoe"
+      }
+    }
+  },
+  {
+    "id": "tongue",
+    "word": "tongue",
+    "category": "pt",
+    "zh": "舌头",
+    "definition": "organ in mouth",
+    "example": "Stick out your tongue.",
+    "exampleZh": "伸出舌头。",
+    "synonyms": [
+      "lingua",
+      "speech",
+      "language"
+    ],
+    "core": "口中柔软会尝味并帮助说话的肉。",
+    "ipaUk": "/tʌŋ/",
+    "ipaUs": "/tʌŋ/",
+    "synDetail": {
+      "lingua": {
+        "def": "舌(拉)",
+        "vs": "拉丁,医学",
+        "use": "the lingua"
+      },
+      "speech": {
+        "def": "言语",
+        "vs": "引申义,语言",
+        "use": "slip of the tongue"
+      },
+      "language": {
+        "def": "语言",
+        "vs": "引申义,母语",
+        "use": "mother tongue"
+      }
+    }
+  },
+  {
+    "id": "tooth",
+    "word": "tooth",
+    "category": "pt",
+    "zh": "牙齿",
+    "definition": "hard part in mouth",
+    "example": "Brush your teeth.",
+    "exampleZh": "刷牙。",
+    "synonyms": [
+      "fang",
+      "molar",
+      "ivory"
+    ],
+    "core": "口中坚硬咬断磨碎食物的小骨。",
+    "ipaUk": "/tuːθ/",
+    "ipaUs": "/tuθ/",
+    "synDetail": {
+      "fang": {
+        "def": "尖牙",
+        "vs": "侧重锋利长牙",
+        "use": "sharp fangs"
+      },
+      "molar": {
+        "def": "臼齿",
+        "vs": "侧重磨牙",
+        "use": "a wisdom molar"
+      },
+      "ivory": {
+        "def": "象牙",
+        "vs": "侧重材料",
+        "use": "ivory keys"
+      }
+    }
+  },
+  {
+    "id": "town",
+    "word": "town",
+    "category": "pt",
+    "zh": "城镇",
+    "definition": "medium settlement",
+    "example": "A small town.",
+    "exampleZh": "一个小镇。",
+    "synonyms": [
+      "city",
+      "village",
+      "municipality"
+    ],
+    "core": "房屋道路和人群聚成的生活区域。",
+    "ipaUk": "/taʊn/",
+    "ipaUs": "/taʊn/",
+    "synDetail": {
+      "city": {
+        "def": "城市",
+        "vs": "侧重更大",
+        "use": "a big city"
+      },
+      "village": {
+        "def": "村庄",
+        "vs": "侧重更小",
+        "use": "a small village"
+      },
+      "municipality": {
+        "def": "市政区",
+        "vs": "正式,行政区",
+        "use": "the municipality of"
+      }
+    }
+  },
+  {
+    "id": "train",
+    "word": "train",
+    "category": "pt",
+    "zh": "火车",
+    "definition": "long vehicle on rails",
+    "example": "Catch the train.",
+    "exampleZh": "赶火车。",
+    "synonyms": [
+      "locomotive",
+      "railway",
+      "express"
+    ],
+    "core": "多节车厢沿轨道成列前进的车。",
+    "ipaUk": "/tɹeɪn/",
+    "ipaUs": "/tɹeɪn/",
+    "synDetail": {
+      "locomotive": {
+        "def": "火车头",
+        "vs": "侧重机车",
+        "use": "a steam locomotive"
+      },
+      "railway": {
+        "def": "铁路",
+        "vs": "侧重轨道系统",
+        "use": "the railway system"
+      },
+      "express": {
+        "def": "快车",
+        "vs": "侧重快速直达",
+        "use": "the morning express"
+      }
+    }
+  },
+  {
+    "id": "tray",
+    "word": "tray",
+    "category": "pt",
+    "zh": "托盘",
+    "definition": "flat dish for carrying",
+    "example": "Bring the tray.",
+    "exampleZh": "把托盘端来。",
+    "synonyms": [
+      "platter",
+      "salver",
+      "plate"
+    ],
+    "core": "平浅带边用来端送物品的盘。",
+    "ipaUk": "/tɹeɪ/",
+    "ipaUs": "/tɹeɪ/",
+    "synDetail": {
+      "platter": {
+        "def": "大浅盘",
+        "vs": "侧重上菜大盘",
+        "use": "a serving platter"
+      },
+      "salver": {
+        "def": "托盘(正式)",
+        "vs": "正式,贵金属",
+        "use": "a silver salver"
+      },
+      "plate": {
+        "def": "盘",
+        "vs": "广义,任何盘",
+        "use": "a dinner plate"
+      }
+    }
+  },
+  {
+    "id": "tree",
+    "word": "tree",
+    "category": "pt",
+    "zh": "树",
+    "definition": "tall plant with trunk",
+    "example": "Climb the tree.",
+    "exampleZh": "爬树。",
+    "synonyms": [
+      "plant",
+      "sapling",
+      "timber"
+    ],
+    "core": "有根干枝叶向上生长的高大植物。",
+    "ipaUk": "/tɹiː/",
+    "ipaUs": "/tɹi/",
+    "synDetail": {
+      "plant": {
+        "def": "植物",
+        "vs": "广义类别",
+        "use": "a green plant"
+      },
+      "sapling": {
+        "def": "幼树",
+        "vs": "侧重小树",
+        "use": "a young sapling"
+      },
+      "timber": {
+        "def": "木材,大树",
+        "vs": "侧重作为建材",
+        "use": "forest timber"
+      }
+    }
+  },
+  {
+    "id": "trousers",
+    "word": "trousers",
+    "category": "pt",
+    "zh": "裤子",
+    "definition": "garment for lower body",
+    "example": "Wear black trousers.",
+    "exampleZh": "穿黑裤子。",
+    "synonyms": [
+      "pants",
+      "slacks",
+      "bottoms"
+    ],
+    "core": "从腰分成两管包住双腿的衣物。",
+    "ipaUk": "/ˈtɹaʊzəz/",
+    "ipaUs": "/ˈtɹaʊzɝz/",
+    "synDetail": {
+      "pants": {
+        "def": "裤子(美)",
+        "vs": "美式日常",
+        "use": "a pair of pants"
+      },
+      "slacks": {
+        "def": "长裤(休闲)",
+        "vs": "侧重休闲长裤",
+        "use": "casual slacks"
+      },
+      "bottoms": {
+        "def": "下装",
+        "vs": "侧重下身衣服",
+        "use": "matching bottoms"
+      }
+    }
+  },
+  {
+    "id": "umbrella",
+    "word": "umbrella",
+    "category": "pt",
+    "zh": "伞",
+    "definition": "cover against rain",
+    "example": "Open the umbrella.",
+    "exampleZh": "打开伞。",
+    "synonyms": [
+      "parasol",
+      "brolly",
+      "canopy"
+    ],
+    "core": "撑开在头上挡雨遮阳的伞状物。",
+    "ipaUk": "/ʌmˈbɹɛlə/",
+    "ipaUs": "/ʌmˈbɹɛlə/",
+    "synDetail": {
+      "parasol": {
+        "def": "阳伞",
+        "vs": "侧重遮阳",
+        "use": "a beach parasol"
+      },
+      "brolly": {
+        "def": "伞(英俚)",
+        "vs": "英式俚语",
+        "use": "forgot my brolly"
+      },
+      "canopy": {
+        "def": "遮蓬,华盖",
+        "vs": "侧重大型遮盖",
+        "use": "a tree canopy"
+      }
+    }
+  },
+  {
+    "id": "wall",
+    "word": "wall",
+    "category": "pt",
+    "zh": "墙",
+    "definition": "vertical side of room",
+    "example": "Hang it on the wall.",
+    "exampleZh": "挂在墙上。",
+    "synonyms": [
+      "partition",
+      "barrier",
+      "screen"
+    ],
+    "core": "竖起分隔空间并支撑屋子的面。",
+    "ipaUk": "/wɔːl/",
+    "ipaUs": "/wɔl/",
+    "synDetail": {
+      "partition": {
+        "def": "隔断",
+        "vs": "侧重分隔室内",
+        "use": "office partition"
+      },
+      "barrier": {
+        "def": "障碍物",
+        "vs": "侧重阻挡",
+        "use": "a language barrier"
+      },
+      "screen": {
+        "def": "屏风,遮挡",
+        "vs": "侧重遮挡视线",
+        "use": "a privacy screen"
+      }
+    }
+  },
+  {
+    "id": "watch",
+    "word": "watch",
+    "category": "pt",
+    "zh": "手表",
+    "definition": "small clock for wrist",
+    "example": "My watch is fast.",
+    "exampleZh": "我表快了。",
+    "synonyms": [
+      "timepiece",
+      "clock",
+      "wristwatch"
+    ],
+    "core": "戴在身上随时查看时间的小表。",
+    "ipaUk": "/wɒtʃ/",
+    "ipaUs": "/wɑtʃ/",
+    "synDetail": {
+      "timepiece": {
+        "def": "计时器",
+        "vs": "正式,统称",
+        "use": "a fine timepiece"
+      },
+      "clock": {
+        "def": "时钟",
+        "vs": "侧重墙挂或台式",
+        "use": "the wall clock"
+      },
+      "wristwatch": {
+        "def": "腕表",
+        "vs": "侧重戴在手腕",
+        "use": "a digital wristwatch"
+      }
+    }
+  },
+  {
+    "id": "wheel",
+    "word": "wheel",
+    "category": "pt",
+    "zh": "轮子",
+    "definition": "round thing that turns",
+    "example": "The wheel turns.",
+    "exampleZh": "轮子在转。",
+    "synonyms": [
+      "disc",
+      "rotor",
+      "tire"
+    ],
+    "core": "围绕中心转动带动车辆前行的圆件。",
+    "ipaUk": "/wiːl/",
+    "ipaUs": "/wil/",
+    "synDetail": {
+      "disc": {
+        "def": "圆盘",
+        "vs": "侧重平圆",
+        "use": "a brake disc"
+      },
+      "rotor": {
+        "def": "转子",
+        "vs": "侧重旋转部件",
+        "use": "helicopter rotor"
+      },
+      "tire": {
+        "def": "轮胎",
+        "vs": "侧重橡胶外胎",
+        "use": "a flat tire"
+      }
+    }
+  },
+  {
+    "id": "whip",
+    "word": "whip",
+    "category": "pt",
+    "zh": "鞭子",
+    "definition": "long strap for hitting",
+    "example": "Crack the whip.",
+    "exampleZh": "挥鞭子。",
+    "synonyms": [
+      "lash",
+      "cane",
+      "switch"
+    ],
+    "core": "柔韧长条挥动后抽打驱使的物。",
+    "ipaUk": "/wɪp/",
+    "ipaUs": "/wɪp/",
+    "synDetail": {
+      "lash": {
+        "def": "鞭打",
+        "vs": "侧重鞭笞动作",
+        "use": "twenty lashes"
+      },
+      "cane": {
+        "def": "藤条",
+        "vs": "侧重藤鞭",
+        "use": "a bamboo cane"
+      },
+      "switch": {
+        "def": "细枝鞭",
+        "vs": "侧重细软鞭",
+        "use": "a willow switch"
+      }
+    }
+  },
+  {
+    "id": "whistle",
+    "word": "whistle",
+    "category": "pt",
+    "zh": "哨子",
+    "definition": "thing that makes high sound",
+    "example": "Blow the whistle.",
+    "exampleZh": "吹哨子。",
+    "synonyms": [
+      "pipe",
+      "flute",
+      "blower"
+    ],
+    "core": "吹气后发出尖亮信号声的小器具。",
+    "ipaUk": "/ˈwɪsəl/",
+    "ipaUs": "/ˈwɪsəl/",
+    "synDetail": {
+      "pipe": {
+        "def": "管乐器",
+        "vs": "侧重管状乐器",
+        "use": "a tin pipe"
+      },
+      "flute": {
+        "def": "长笛",
+        "vs": "侧重精细乐器",
+        "use": "a silver flute"
+      },
+      "blower": {
+        "def": "吹奏器",
+        "vs": "侧重吹的工具",
+        "use": "a leaf blower"
+      }
+    }
+  },
+  {
+    "id": "window",
+    "word": "window",
+    "category": "pt",
+    "zh": "窗户",
+    "definition": "glass opening in wall",
+    "example": "Open the window.",
+    "exampleZh": "开窗。",
+    "synonyms": [
+      "pane",
+      "casement",
+      "opening"
+    ],
+    "core": "墙上透光通风也可观看外面的开口。",
+    "ipaUk": "/ˈwɪndəʊ/",
+    "ipaUs": "/ˈwɪndoʊ/",
+    "synDetail": {
+      "pane": {
+        "def": "窗玻璃",
+        "vs": "侧重玻璃片",
+        "use": "a window pane"
+      },
+      "casement": {
+        "def": "窗扇",
+        "vs": "侧重整扇窗",
+        "use": "a casement window"
+      },
+      "opening": {
+        "def": "开口",
+        "vs": "广义,任何开口",
+        "use": "a small opening"
+      }
+    }
+  },
+  {
+    "id": "wing",
+    "word": "wing",
+    "category": "pt",
+    "zh": "翅膀",
+    "definition": "part for flying",
+    "example": "The bird spread its wings.",
+    "exampleZh": "鸟展开翅膀。",
+    "synonyms": [
+      "pinion",
+      "fin",
+      "flap"
+    ],
+    "core": "鸟或机器两侧帮助飞起的展开部分。",
+    "ipaUk": "/wɪŋ/",
+    "ipaUs": "/wɪŋ/",
+    "synDetail": {
+      "pinion": {
+        "def": "翼(诗)",
+        "vs": "文学,大翅",
+        "use": "strong pinions"
+      },
+      "fin": {
+        "def": "鳍",
+        "vs": "侧重鱼/水生",
+        "use": "a shark fin"
+      },
+      "flap": {
+        "def": "翼,垂片",
+        "vs": "侧重可拍动部分",
+        "use": "the wing flap"
+      }
+    }
+  },
+  {
+    "id": "wire",
+    "word": "wire",
+    "category": "pt",
+    "zh": "金属丝",
+    "definition": "thin metal thread",
+    "example": "Twist the wire.",
+    "exampleZh": "拧一下金属丝。",
+    "synonyms": [
+      "cord",
+      "cable",
+      "strand"
+    ],
+    "core": "细长金属线可传力传电或捆扎。",
+    "ipaUk": "/ˈwaɪə/",
+    "ipaUs": "/ˈwaɪɝ/",
+    "synDetail": {
+      "cord": {
+        "def": "绳,线",
+        "vs": "侧重布/塑料",
+        "use": "an electric cord"
+      },
+      "cable": {
+        "def": "电缆",
+        "vs": "侧重粗股",
+        "use": "a power cable"
+      },
+      "strand": {
+        "def": "一股,丝",
+        "vs": "侧重单根",
+        "use": "a single strand"
+      }
+    }
+  },
+  {
+    "id": "worm",
+    "word": "worm",
+    "category": "pt",
+    "zh": "虫子",
+    "definition": "long thin animal in soil",
+    "example": "A worm in the apple.",
+    "exampleZh": "苹果里有虫。",
+    "synonyms": [
+      "larva",
+      "grub",
+      "earthworm"
+    ],
+    "core": "柔软细长在土中蠕动的小生物。",
+    "ipaUk": "/wɜːm/",
+    "ipaUs": "/wɝm/",
+    "synDetail": {
+      "larva": {
+        "def": "幼虫",
+        "vs": "科学,昆虫幼形",
+        "use": "a caterpillar larva"
+      },
+      "grub": {
+        "def": "幼虫,蛴螬",
+        "vs": "侧重肉乎乎",
+        "use": "white grubs"
+      },
+      "earthworm": {
+        "def": "蚯蚓",
+        "vs": "侧重土中",
+        "use": "a long earthworm"
+      }
+    }
+  }
+]

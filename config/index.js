@@ -18,13 +18,23 @@ export default defineConfig(async (merge, { command, mode }) => {
     plugins: [],
     defineConstants: {},
     copy: {
-      patterns: [],
+      patterns: [
+        {
+          from: 'audio-samples',
+          to: 'dist/audio-samples',
+        },
+      ],
       options: {},
     },
     framework: 'react',
-    compiler: 'webpack5',
+    compiler: {
+      type: 'webpack5',
+      prebundle: {
+        enable: false,
+      },
+    },
     cache: {
-      enable: true, // 开启持久化缓存
+      enable: false,
     },
     mini: {
       postcss: {

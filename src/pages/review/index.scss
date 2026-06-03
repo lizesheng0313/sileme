@@ -1,0 +1,49 @@
+.review-page {
+  .review-intro {
+    margin-top: 0;
+  }
+
+  .review-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 26rpx 0;
+    border-bottom: 2rpx solid #eef1f6;
+    gap: 20rpx;
+  }
+
+  .review-item:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+  }
+
+  .review-word {
+    display: block;
+    font-size: 42rpx;
+    line-height: 1.08;
+    font-weight: 900;
+    letter-spacing: -0.03em;
+    color: var(--ink);
+  }
+
+  .review-zh {
+    display: block;
+    margin-top: 12rpx;
+    font-size: 27rpx;
+    color: var(--ink-soft);
+  }
+
+  .review-tag {
+    flex-shrink: 0;
+    padding: 12rpx 18rpx;
+    border-radius: 999rpx;
+    background: #eaf4ef;
+    color: #28674d;
+    font-size: 23rpx;
+    font-weight: 900;
+  }
+
+  .review-actions {
+    margin-top: 28rpx;
+  }
+}

@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "able",
+    "word": "able",
+    "category": "qg",
+    "zh": "能够的",
+    "definition": "having the power to do",
+    "example": "She is able to swim.",
+    "exampleZh": "她会游泳。",
+    "synonyms": [
+      "capable",
+      "skilled",
+      "competent"
+    ],
+    "core": "里面有足够力量，事情伸手就能做到。",
+    "ipaUk": "/ˈeɪbəl/",
+    "ipaUs": "/ˈeɪbəl/",
+    "synDetail": {
+      "capable": {
+        "def": "有能力的",
+        "vs": "侧重具备能力",
+        "use": "capable of solving this"
+      },
+      "skilled": {
+        "def": "熟练的",
+        "vs": "侧重经验技能",
+        "use": "a skilled worker"
+      },
+      "competent": {
+        "def": "胜任的",
+        "vs": "侧重达到要求",
+        "use": "a competent doctor"
+      }
+    }
+  },
+  {
+    "id": "acid",
+    "word": "acid",
+    "category": "qg",
+    "zh": "酸的",
+    "definition": "having sour taste",
+    "example": "Lemons taste acid.",
+    "exampleZh": "柠檬尝起来酸。",
+    "synonyms": [
+      "sour",
+      "tart",
+      "sharp"
+    ],
+    "core": "舌头被尖酸刺到，味道带着咬人的劲。",
+    "ipaUk": "/ˈæsɪd/",
+    "ipaUs": "/ˈæsəd/",
+    "synDetail": {
+      "sour": {
+        "def": "酸的",
+        "vs": "日常,味道酸",
+        "use": "a sour lemon"
+      },
+      "tart": {
+        "def": "酸的(微涩)",
+        "vs": "侧重清新带涩",
+        "use": "a tart apple"
+      },
+      "sharp": {
+        "def": "刺激的(味)",
+        "vs": "侧重味道尖锐",
+        "use": "a sharp cheese"
+      }
+    }
+  },
+  {
+    "id": "angry",
+    "word": "angry",
+    "category": "qg",
+    "zh": "愤怒的",
+    "definition": "feeling strong displeasure",
+    "example": "Don't be angry with me.",
+    "exampleZh": "别生我气。",
+    "synonyms": [
+      "mad",
+      "furious",
+      "cross"
+    ],
+    "core": "心里火气上冲，想推开眼前的不顺。",
+    "ipaUk": "/ˈæŋɡɹi/",
+    "ipaUs": "/ˈæŋɡɹi/",
+    "synDetail": {
+      "mad": {
+        "def": "生气的",
+        "vs": "美式口语",
+        "use": "mad at me"
+      },
+      "furious": {
+        "def": "暴怒的",
+        "vs": "侧重极度愤怒",
+        "use": "absolutely furious"
+      },
+      "cross": {
+        "def": "生气的",
+        "vs": "英式,程度较轻",
+        "use": "don't be cross"
+      }
+    }
+  },
+  {
+    "id": "automatic",
+    "word": "automatic",
+    "category": "qg",
+    "zh": "自动的",
+    "definition": "working by itself",
+    "example": "An automatic door.",
+    "exampleZh": "自动门。",
+    "synonyms": [
+      "self-acting",
+      "mechanical",
+      "reflex"
+    ],
+    "core": "不用人再推动，机关自己按路子运转。",
+    "ipaUk": "/ˌɔːtəˈmætɪk/",
+    "ipaUs": "/ˌɔtəˈmætɪk/",
+    "synDetail": {
+      "self-acting": {
+        "def": "自动的",
+        "vs": "字面描述",
+        "use": "a self-acting valve"
+      },
+      "mechanical": {
+        "def": "机械的",
+        "vs": "侧重机制运作",
+        "use": "a mechanical clock"
+      },
+      "reflex": {
+        "def": "反射性的",
+        "vs": "侧重无意识反应",
+        "use": "a reflex action"
+      }
+    }
+  },
+  {
+    "id": "beautiful",
+    "word": "beautiful",
+    "category": "qg",
+    "zh": "美丽的",
+    "definition": "pleasing to look at",
+    "example": "What a beautiful day!",
+    "exampleZh": "多美的一天!",
+    "synonyms": [
+      "pretty",
+      "lovely",
+      "gorgeous"
+    ],
+    "core": "一眼看去让心停住，形色带来愉悦。",
+    "ipaUk": "/ˈbjuːtɪfəl/",
+    "ipaUs": "/ˈbjutəfəl/",
+    "synDetail": {
+      "pretty": {
+        "def": "漂亮的",
+        "vs": "侧重小巧可爱",
+        "use": "a pretty girl"
+      },
+      "lovely": {
+        "def": "可爱的",
+        "vs": "侧重情感愉悦",
+        "use": "a lovely day"
+      },
+      "gorgeous": {
+        "def": "绝美的",
+        "vs": "侧重极度惊艳",
+        "use": "a gorgeous view"
+      }
+    }
+  },
+  {
+    "id": "black",
+    "word": "black",
+    "category": "qg",
+    "zh": "黑色的",
+    "definition": "darkest color",
+    "example": "A black cat.",
+    "exampleZh": "一只黑猫。",
+    "synonyms": [
+      "dark",
+      "ebony",
+      "jet"
+    ],
+    "core": "光被吞进去，只剩最深最重的暗色。",
+    "ipaUk": "/blæk/",
+    "ipaUs": "/blæk/",
+    "synDetail": {
+      "dark": {
+        "def": "深色的",
+        "vs": "侧重没有光",
+        "use": "dark night"
+      },
+      "ebony": {
+        "def": "乌木色",
+        "vs": "侧重深而带光泽",
+        "use": "ebony skin"
+      },
+      "jet": {
+        "def": "漆黑",
+        "vs": "侧重纯黑发亮",
+        "use": "jet black hair"
+      }
+    }
+  },
+  {
+    "id": "boiling",
+    "word": "boiling",
+    "category": "qg",
+    "zh": "沸腾的",
+    "definition": "very hot, bubbling",
+    "example": "Boiling water hurts.",
+    "exampleZh": "沸水会烫伤人。",
+    "synonyms": [
+      "bubbling",
+      "scalding",
+      "steaming"
+    ],
+    "core": "热力把液体顶起，泡泡翻滚不安。",
+    "ipaUk": "/ˈbɔɪlɪŋ/",
+    "ipaUs": "/ˈbɔɪlɪŋ/",
+    "synDetail": {
+      "bubbling": {
+        "def": "冒泡的",
+        "vs": "侧重起泡状态",
+        "use": "bubbling soup"
+      },
+      "scalding": {
+        "def": "滚烫的",
+        "vs": "侧重烫人",
+        "use": "scalding hot"
+      },
+      "steaming": {
+        "def": "冒蒸汽的",
+        "vs": "侧重热气腾腾",
+        "use": "steaming tea"
+      }
+    }
+  },
+  {
+    "id": "bright",
+    "word": "bright",
+    "category": "qg",
+    "zh": "明亮的",
+    "definition": "giving much light",
+    "example": "A bright lamp.",
+    "exampleZh": "一盏明亮的灯。",
+    "synonyms": [
+      "shining",
+      "vivid",
+      "luminous"
+    ],
+    "core": "光从里面射出来，眼前一下变清亮。",
+    "ipaUk": "/bɹaɪt/",
+    "ipaUs": "/bɹaɪt/",
+    "synDetail": {
+      "shining": {
+        "def": "发光的",
+        "vs": "侧重发出光",
+        "use": "shining eyes"
+      },
+      "vivid": {
+        "def": "鲜艳的",
+        "vs": "侧重色彩生动",
+        "use": "vivid colors"
+      },
+      "luminous": {
+        "def": "夜光的",
+        "vs": "侧重自发光",
+        "use": "luminous paint"
+      }
+    }
+  },
+  {
+    "id": "broken",
+    "word": "broken",
+    "category": "qg",
+    "zh": "破碎的",
+    "definition": "in pieces or not working",
+    "example": "The glass is broken.",
+    "exampleZh": "玻璃碎了。",
+    "synonyms": [
+      "damaged",
+      "shattered",
+      "busted"
+    ],
+    "core": "原本连成一体的东西裂开，不能照常用。",
+    "ipaUk": "/ˈbɹəʊkən/",
+    "ipaUs": "/ˈbɹoʊkən/",
+    "synDetail": {
+      "damaged": {
+        "def": "损坏的",
+        "vs": "侧重受损不一定完全坏",
+        "use": "slightly damaged"
+      },
+      "shattered": {
+        "def": "破碎的",
+        "vs": "侧重碎成多片",
+        "use": "shattered glass"
+      },
+      "busted": {
+        "def": "坏掉的(俚)",
+        "vs": "美式俚语",
+        "use": "my phone is busted"
+      }
+    }
+  },
+  {
+    "id": "brown",
+    "word": "brown",
+    "category": "qg",
+    "zh": "棕色的",
+    "definition": "color of wood or earth",
+    "example": "Brown bread is healthier.",
+    "exampleZh": "棕色面包更健康。",
+    "synonyms": [
+      "tan",
+      "chocolate",
+      "russet"
+    ],
+    "core": "像泥土木头烤面包，带着温厚暗色。",
+    "ipaUk": "/bɹaʊn/",
+    "ipaUs": "/bɹaʊn/",
+    "synDetail": {
+      "tan": {
+        "def": "棕褐色",
+        "vs": "侧重浅棕",
+        "use": "a tan jacket"
+      },
+      "chocolate": {
+        "def": "巧克力色",
+        "vs": "侧重深棕",
+        "use": "chocolate brown"
+      },
+      "russet": {
+        "def": "赤褐色",
+        "vs": "侧重红棕",
+        "use": "russet leaves"
+      }
+    }
+  },
+  {
+    "id": "cheap",
+    "word": "cheap",
+    "category": "qg",
+    "zh": "便宜的",
+    "definition": "costing little",
+    "example": "This is a cheap shop.",
+    "exampleZh": "这是家便宜店。",
+    "synonyms": [
+      "inexpensive",
+      "low-cost",
+      "affordable"
+    ],
+    "core": "拿出很少代价，就能把东西带走。",
+    "ipaUk": "/tʃiːp/",
+    "ipaUs": "/tʃip/",
+    "synDetail": {
+      "inexpensive": {
+        "def": "不贵的",
+        "vs": "中性,无贬义",
+        "use": "an inexpensive meal"
+      },
+      "low-cost": {
+        "def": "低成本的",
+        "vs": "侧重成本低",
+        "use": "low-cost housing"
+      },
+      "affordable": {
+        "def": "负担得起的",
+        "vs": "侧重买得起",
+        "use": "affordable prices"
+      }
+    }
+  },
+  {
+    "id": "chemical",
+    "word": "chemical",
+    "category": "qg",
+    "zh": "化学的",
+    "definition": "related to chemistry",
+    "example": "A chemical reaction.",
+    "exampleZh": "化学反应。",
+    "synonyms": [
+      "synthetic",
+      "reactive",
+      "compound"
+    ],
+    "core": "物质在看不见的层面彼此反应变化。",
+    "ipaUk": "/ˈkɛmɪkəl/",
+    "ipaUs": "/ˈkɛməkəl/",
+    "synDetail": {
+      "synthetic": {
+        "def": "合成的",
+        "vs": "侧重人造",
+        "use": "synthetic fabric"
+      },
+      "reactive": {
+        "def": "反应性的",
+        "vs": "侧重化学反应",
+        "use": "highly reactive"
+      },
+      "compound": {
+        "def": "复合的",
+        "vs": "侧重多成分混合",
+        "use": "a compound substance"
+      }
+    }
+  },
+  {
+    "id": "chief",
+    "word": "chief",
+    "category": "qg",
+    "zh": "主要的",
+    "definition": "most important",
+    "example": "The chief reason.",
+    "exampleZh": "主要原因。",
+    "synonyms": [
+      "main",
+      "primary",
+      "principal"
+    ],
+    "core": "众多事物中站在最前，决定主要方向。",
+    "ipaUk": "/tʃiːf/",
+    "ipaUs": "/tʃif/",
+    "synDetail": {
+      "main": {
+        "def": "主要的",
+        "vs": "中性,常用",
+        "use": "the main idea"
+      },
+      "primary": {
+        "def": "首要的",
+        "vs": "侧重位列第一",
+        "use": "primary concern"
+      },
+      "principal": {
+        "def": "主要的(正式)",
+        "vs": "正式,核心",
+        "use": "the principal reason"
+      }
+    }
+  },
+  {
+    "id": "clean",
+    "word": "clean",
+    "category": "qg",
+    "zh": "干净的",
+    "definition": "free from dirt",
+    "example": "Wash your hands clean.",
+    "exampleZh": "把手洗干净。",
+    "synonyms": [
+      "spotless",
+      "pure",
+      "fresh"
+    ],
+    "core": "污点被去掉，表面恢复清爽无杂。",
+    "ipaUk": "/kliːn/",
+    "ipaUs": "/klin/",
+    "synDetail": {
+      "spotless": {
+        "def": "无瑕的",
+        "vs": "侧重一尘不染",
+        "use": "spotless white"
+      },
+      "pure": {
+        "def": "纯净的",
+        "vs": "侧重无杂质",
+        "use": "pure water"
+      },
+      "fresh": {
+        "def": "清新的",
+        "vs": "侧重新鲜清洁",
+        "use": "fresh air"
+      }
+    }
+  },
+  {
+    "id": "clear",
+    "word": "clear",
+    "category": "qg",
+    "zh": "清楚的",
+    "definition": "easy to see or understand",
+    "example": "The water is clear.",
+    "exampleZh": "水很清。",
+    "synonyms": [
+      "transparent",
+      "obvious",
+      "plain"
+    ],
+    "core": "中间没有遮挡，眼睛和脑子都能穿过去。",
+    "ipaUk": "/klɪə/",
+    "ipaUs": "/klɪɹ/",
+    "synDetail": {
+      "transparent": {
+        "def": "透明的",
+        "vs": "侧重物理透明",
+        "use": "transparent glass"
+      },
+      "obvious": {
+        "def": "明显的",
+        "vs": "侧重一目了然",
+        "use": "obvious mistake"
+      },
+      "plain": {
+        "def": "简明的",
+        "vs": "侧重易懂",
+        "use": "plain English"
+      }
+    }
+  },
+  {
+    "id": "common",
+    "word": "common",
+    "category": "qg",
+    "zh": "普通的",
+    "definition": "usual or shared",
+    "example": "A common sight.",
+    "exampleZh": "常见的景象。",
+    "synonyms": [
+      "ordinary",
+      "usual",
+      "shared"
+    ],
+    "core": "到处都能碰见，大家共享而不稀奇。",
+    "ipaUk": "/ˈkɒmən/",
+    "ipaUs": "/ˈkɑmən/",
+    "synDetail": {
+      "ordinary": {
+        "def": "普通的",
+        "vs": "侧重平常无奇",
+        "use": "an ordinary day"
+      },
+      "usual": {
+        "def": "通常的",
+        "vs": "侧重习惯做的",
+        "use": "the usual way"
+      },
+      "shared": {
+        "def": "共同的",
+        "vs": "侧重分享共有",
+        "use": "shared interest"
+      }
+    }
+  },
+  {
+    "id": "complex",
+    "word": "complex",
+    "category": "qg",
+    "zh": "复杂的",
+    "definition": "having many parts",
+    "example": "A complex problem.",
+    "exampleZh": "复杂的问题。",
+    "synonyms": [
+      "complicated",
+      "intricate",
+      "involved"
+    ],
+    "core": "许多部分缠在一起，不能一眼拆明白。",
+    "ipaUk": "/ˈkɒmpleks/",
+    "ipaUs": "/ˈkɑmplɛks/",
+    "synDetail": {
+      "complicated": {
+        "def": "复杂的",
+        "vs": "侧重难懂",
+        "use": "a complicated case"
+      },
+      "intricate": {
+        "def": "错综的",
+        "vs": "侧重精细交错",
+        "use": "intricate design"
+      },
+      "involved": {
+        "def": "复杂的(细)",
+        "vs": "侧重牵涉多",
+        "use": "an involved process"
+      }
+    }
+  },
+  {
+    "id": "conscious",
+    "word": "conscious",
+    "category": "qg",
+    "zh": "有意识的",
+    "definition": "awake and aware",
+    "example": "He is conscious of his faults.",
+    "exampleZh": "他意识到自己的缺点。",
+    "synonyms": [
+      "aware",
+      "awake",
+      "alert"
+    ],
+    "core": "心灯亮着，知道自己和周围正在发生什么。",
+    "ipaUk": "/ˈkɒnʃəs/",
+    "ipaUs": "/ˈkɑnʃəs/",
+    "synDetail": {
+      "aware": {
+        "def": "意识到的",
+        "vs": "侧重对...知道",
+        "use": "aware of the risk"
+      },
+      "awake": {
+        "def": "清醒的",
+        "vs": "侧重未睡",
+        "use": "wide awake"
+      },
+      "alert": {
+        "def": "警觉的",
+        "vs": "侧重精神警醒",
+        "use": "stay alert"
+      }
+    }
+  },
+  {
+    "id": "cut",
+    "word": "cut",
+    "category": "qg",
+    "zh": "切的",
+    "definition": "divided with a sharp tool",
+    "example": "Cut flowers wilt fast.",
+    "exampleZh": "剪下的花谢得快。",
+    "synonyms": [
+      "sliced",
+      "chopped",
+      "trimmed"
+    ],
+    "core": "被利器分开，原来的连续性留下断口。",
+    "ipaUk": "/kʌt/",
+    "ipaUs": "/kʌt/",
+    "synDetail": {
+      "sliced": {
+        "def": "切片的",
+        "vs": "侧重切成片",
+        "use": "sliced bread"
+      },
+      "chopped": {
+        "def": "切碎的",
+        "vs": "侧重剁碎",
+        "use": "chopped onions"
+      },
+      "trimmed": {
+        "def": "修剪的",
+        "vs": "侧重剪整齐",
+        "use": "a trimmed beard"
+      }
+    }
+  },
+  {
+    "id": "deep",
+    "word": "deep",
+    "category": "qg",
+    "zh": "深的",
+    "definition": "going far down",
+    "example": "A deep well.",
+    "exampleZh": "一口深井。",
+    "synonyms": [
+      "profound",
+      "low",
+      "bottomless"
+    ],
+    "core": "从表面往下延伸很远，底部不易触到。",
+    "ipaUk": "/diːp/",
+    "ipaUs": "/dip/",
+    "synDetail": {
+      "profound": {
+        "def": "深刻的",
+        "vs": "侧重思想深刻",
+        "use": "profound impact"
+      },
+      "low": {
+        "def": "低沉的",
+        "vs": "侧重位置低",
+        "use": "a low note"
+      },
+      "bottomless": {
+        "def": "无底的",
+        "vs": "侧重深不见底",
+        "use": "a bottomless pit"
+      }
+    }
+  },
+  {
+    "id": "dependent",
+    "word": "dependent",
+    "category": "qg",
+    "zh": "依赖的",
+    "definition": "relying on another",
+    "example": "Children are dependent on parents.",
+    "exampleZh": "孩子依赖父母。",
+    "synonyms": [
+      "reliant",
+      "subject",
+      "subordinate"
+    ],
+    "core": "自身站不稳，要靠另一方支撑才成立。",
+    "ipaUk": "/dɪˈpɛndənt/",
+    "ipaUs": "/dɪˈpɛndənt/",
+    "synDetail": {
+      "reliant": {
+        "def": "依赖的",
+        "vs": "侧重靠某物",
+        "use": "reliant on technology"
+      },
+      "subject": {
+        "def": "受...影响的",
+        "vs": "侧重受制约",
+        "use": "subject to change"
+      },
+      "subordinate": {
+        "def": "下属的",
+        "vs": "侧重等级低",
+        "use": "subordinate role"
+      }
+    }
+  },
+  {
+    "id": "early",
+    "word": "early",
+    "category": "qg",
+    "zh": "早的",
+    "definition": "before usual time",
+    "example": "An early start.",
+    "exampleZh": "早早出发。",
+    "synonyms": [
+      "soon",
+      "prompt",
+      "premature"
+    ],
+    "core": "比大家预期先到，时间还在前头。",
+    "ipaUk": "/ˈɜːli/",
+    "ipaUs": "/ˈɝli/",
+    "synDetail": {
+      "soon": {
+        "def": "很快",
+        "vs": "侧重不久",
+        "use": "see you soon"
+      },
+      "prompt": {
+        "def": "准时的",
+        "vs": "侧重迅速及时",
+        "use": "prompt reply"
+      },
+      "premature": {
+        "def": "过早的",
+        "vs": "侧重早于时机",
+        "use": "a premature decision"
+      }
+    }
+  },
+  {
+    "id": "elastic",
+    "word": "elastic",
+    "category": "qg",
+    "zh": "有弹性的",
+    "definition": "able to stretch and return",
+    "example": "An elastic band.",
+    "exampleZh": "橡皮筋。",
+    "synonyms": [
+      "stretchy",
+      "springy",
+      "flexible"
+    ],
+    "core": "被拉长后还能缩回，像有回弹记忆。",
+    "ipaUk": "/ɪˈlæstɪk/",
+    "ipaUs": "/ɪˈlæstɪk/",
+    "synDetail": {
+      "stretchy": {
+        "def": "有弹性的",
+        "vs": "口语,可拉伸",
+        "use": "stretchy fabric"
+      },
+      "springy": {
+        "def": "有回弹的",
+        "vs": "侧重弹回",
+        "use": "springy ground"
+      },
+      "flexible": {
+        "def": "灵活的",
+        "vs": "侧重可弯曲",
+        "use": "a flexible rod"
+      }
+    }
+  },
+  {
+    "id": "electric",
+    "word": "electric",
+    "category": "qg",
+    "zh": "电的",
+    "definition": "running on electricity",
+    "example": "An electric car.",
+    "exampleZh": "一辆电动车。",
+    "synonyms": [
+      "powered",
+      "electrical",
+      "charged"
+    ],
+    "core": "带着电的驱动力，能点亮或推动机器。",
+    "ipaUk": "/ɪˈlɛktɹɪk/",
+    "ipaUs": "/ɪˈlɛktɹɪk/",
+    "synDetail": {
+      "powered": {
+        "def": "通电的",
+        "vs": "侧重有电力驱动",
+        "use": "battery powered"
+      },
+      "electrical": {
+        "def": "电的",
+        "vs": "侧重与电相关",
+        "use": "electrical wiring"
+      },
+      "charged": {
+        "def": "带电的",
+        "vs": "侧重含电荷",
+        "use": "a charged battery"
+      }
+    }
+  },
+  {
+    "id": "equal",
+    "word": "equal",
+    "category": "qg",
+    "zh": "相等的",
+    "definition": "the same in amount",
+    "example": "All people are equal.",
+    "exampleZh": "人人平等。",
+    "synonyms": [
+      "same",
+      "identical",
+      "matching"
+    ],
+    "core": "两边放在天平上，分量正好相配。",
+    "ipaUk": "/ˈiːkwəl/",
+    "ipaUs": "/ˈikwəl/",
+    "synDetail": {
+      "same": {
+        "def": "相同的",
+        "vs": "侧重完全一致",
+        "use": "the same size"
+      },
+      "identical": {
+        "def": "完全相同的",
+        "vs": "侧重一模一样",
+        "use": "identical twins"
+      },
+      "matching": {
+        "def": "相配的",
+        "vs": "侧重配对",
+        "use": "matching shoes"
+      }
+    }
+  },
+  {
+    "id": "fat",
+    "word": "fat",
+    "category": "qg",
+    "zh": "胖的",
+    "definition": "having much body flesh",
+    "example": "A fat cat sat on the mat.",
+    "exampleZh": "一只胖猫坐在垫子上。",
+    "synonyms": [
+      "plump",
+      "chubby",
+      "obese"
+    ],
+    "core": "身体或物体积了厚厚一层多余肉感。",
+    "ipaUk": "/fæt/",
+    "ipaUs": "/fæt/",
+    "synDetail": {
+      "plump": {
+        "def": "丰满的",
+        "vs": "温和褒义",
+        "use": "plump cheeks"
+      },
+      "chubby": {
+        "def": "胖乎乎的",
+        "vs": "亲切口语",
+        "use": "a chubby baby"
+      },
+      "obese": {
+        "def": "肥胖的",
+        "vs": "医学,病理性",
+        "use": "clinically obese"
+      }
+    }
+  },
+  {
+    "id": "fertile",
+    "word": "fertile",
+    "category": "qg",
+    "zh": "肥沃的",
+    "definition": "able to produce much",
+    "example": "The land is fertile.",
+    "exampleZh": "土地肥沃。",
+    "synonyms": [
+      "rich",
+      "productive",
+      "fruitful"
+    ],
+    "core": "里面有生长的养分，撒下种子容易结果。",
+    "ipaUk": "/ˈfɜːtaɪl/",
+    "ipaUs": "/ˈfɝtəl/",
+    "synDetail": {
+      "rich": {
+        "def": "肥沃的",
+        "vs": "侧重养分多",
+        "use": "rich soil"
+      },
+      "productive": {
+        "def": "多产的",
+        "vs": "侧重产量高",
+        "use": "productive land"
+      },
+      "fruitful": {
+        "def": "丰硕的",
+        "vs": "侧重成果多",
+        "use": "a fruitful tree"
+      }
+    }
+  },
+  {
+    "id": "first",
+    "word": "first",
+    "category": "qg",
+    "zh": "第一的",
+    "definition": "before all others",
+    "example": "The first time I met you.",
+    "exampleZh": "我们第一次见面。",
+    "synonyms": [
+      "initial",
+      "earliest",
+      "foremost"
+    ],
+    "core": "排在所有之前，最先踏出那一步。",
+    "ipaUk": "/fɜːst/",
+    "ipaUs": "/fɝst/",
+    "synDetail": {
+      "initial": {
+        "def": "最初的",
+        "vs": "侧重起始",
+        "use": "initial response"
+      },
+      "earliest": {
+        "def": "最早的",
+        "vs": "侧重时间最先",
+        "use": "the earliest version"
+      },
+      "foremost": {
+        "def": "最重要的",
+        "vs": "侧重首要地位",
+        "use": "first and foremost"
+      }
+    }
+  },
+  {
+    "id": "fixed",
+    "word": "fixed",
+    "category": "qg",
+    "zh": "固定的",
+    "definition": "not moving or changing",
+    "example": "A fixed price.",
+    "exampleZh": "固定价格。",
+    "synonyms": [
+      "set",
+      "stable",
+      "permanent"
+    ],
+    "core": "位置或数值被钉住，不再随便移动变化。",
+    "ipaUk": "/fɪkst/",
+    "ipaUs": "/fɪkst/",
+    "synDetail": {
+      "set": {
+        "def": "既定的",
+        "vs": "侧重已设定",
+        "use": "a set price"
+      },
+      "stable": {
+        "def": "稳定的",
+        "vs": "侧重持续不变",
+        "use": "stable conditions"
+      },
+      "permanent": {
+        "def": "永久的",
+        "vs": "侧重长久不变",
+        "use": "permanent address"
+      }
+    }
+  },
+  {
+    "id": "flat",
+    "word": "flat",
+    "category": "qg",
+    "zh": "平的",
+    "definition": "smooth and level",
+    "example": "A flat surface.",
+    "exampleZh": "平面。",
+    "synonyms": [
+      "level",
+      "even",
+      "plane"
+    ],
+    "core": "表面铺展开来，没有明显高低起伏。",
+    "ipaUk": "/flæt/",
+    "ipaUs": "/flæt/",
+    "synDetail": {
+      "level": {
+        "def": "平的",
+        "vs": "侧重水平",
+        "use": "level ground"
+      },
+      "even": {
+        "def": "平整的",
+        "vs": "侧重无起伏",
+        "use": "an even surface"
+      },
+      "plane": {
+        "def": "平面的",
+        "vs": "几何术语",
+        "use": "a plane surface"
+      }
+    }
+  },
+  {
+    "id": "free",
+    "word": "free",
+    "category": "qg",
+    "zh": "自由的;免费的",
+    "definition": "not controlled or no cost",
+    "example": "Free of charge.",
+    "exampleZh": "免费。",
+    "synonyms": [
+      "liberated",
+      "loose",
+      "gratis"
+    ],
+    "core": "束缚被松开，也可能不需要付出代价。",
+    "ipaUk": "/fɹiː/",
+    "ipaUs": "/fɹi/",
+    "synDetail": {
+      "liberated": {
+        "def": "解放的",
+        "vs": "侧重摆脱束缚",
+        "use": "liberated thought"
+      },
+      "loose": {
+        "def": "松开的",
+        "vs": "侧重未约束",
+        "use": "loose change"
+      },
+      "gratis": {
+        "def": "免费的",
+        "vs": "正式拉丁",
+        "use": "gratis admission"
+      }
+    }
+  },
+  {
+    "id": "frequent",
+    "word": "frequent",
+    "category": "qg",
+    "zh": "频繁的",
+    "definition": "happening often",
+    "example": "He pays frequent visits.",
+    "exampleZh": "他经常来访。",
+    "synonyms": [
+      "often",
+      "common",
+      "recurring"
+    ],
+    "core": "同一件事不断回来，间隔很短地出现。",
+    "ipaUk": "/ˈfɹiːkwənt/",
+    "ipaUs": "/ˈfɹiːkwənt/",
+    "synDetail": {
+      "often": {
+        "def": "经常的",
+        "vs": "侧重次数多",
+        "use": "often visited"
+      },
+      "common": {
+        "def": "常见的",
+        "vs": "侧重普遍",
+        "use": "a common occurrence"
+      },
+      "recurring": {
+        "def": "反复出现的",
+        "vs": "侧重周期性",
+        "use": "a recurring dream"
+      }
+    }
+  },
+  {
+    "id": "full",
+    "word": "full",
+    "category": "qg",
+    "zh": "满的",
+    "definition": "holding as much as possible",
+    "example": "The cup is full.",
+    "exampleZh": "杯子满了。",
+    "synonyms": [
+      "filled",
+      "complete",
+      "stuffed"
+    ],
+    "core": "容器被装到边缘，几乎再放不进去。",
+    "ipaUk": "/fʊl/",
+    "ipaUs": "/fʊl/",
+    "synDetail": {
+      "filled": {
+        "def": "装满的",
+        "vs": "侧重被填满",
+        "use": "filled with joy"
+      },
+      "complete": {
+        "def": "完整的",
+        "vs": "侧重无缺",
+        "use": "a complete set"
+      },
+      "stuffed": {
+        "def": "塞满的",
+        "vs": "侧重塞得满满",
+        "use": "stuffed toys"
+      }
+    }
+  },
+  {
+    "id": "general",
+    "word": "general",
+    "category": "qg",
+    "zh": "一般的",
+    "definition": "not specific or for all",
+    "example": "A general idea.",
+    "exampleZh": "大致的想法。",
+    "synonyms": [
+      "common",
+      "broad",
+      "overall"
+    ],
+    "core": "从大面上看整体，不落到某个细点。",
+    "ipaUk": "/ˈdʒɛnɹəl/",
+    "ipaUs": "/ˈdʒɛnɝəl/",
+    "synDetail": {
+      "common": {
+        "def": "普遍的",
+        "vs": "侧重大多数适用",
+        "use": "common knowledge"
+      },
+      "broad": {
+        "def": "广泛的",
+        "vs": "侧重范围宽",
+        "use": "broad agreement"
+      },
+      "overall": {
+        "def": "总体的",
+        "vs": "侧重整体来看",
+        "use": "overall result"
+      }
+    }
+  },
+  {
+    "id": "good",
+    "word": "good",
+    "category": "qg",
+    "zh": "好的",
+    "definition": "of high quality",
+    "example": "A good book.",
+    "exampleZh": "一本好书。",
+    "synonyms": [
+      "fine",
+      "great",
+      "excellent"
+    ],
+    "core": "状态合人期待，带来可接受的正面价值。",
+    "ipaUk": "/ɡʊd/",
+    "ipaUs": "/ɡʊd/",
+    "synDetail": {
+      "fine": {
+        "def": "很好的",
+        "vs": "侧重质量上乘",
+        "use": "fine wine"
+      },
+      "great": {
+        "def": "极好的",
+        "vs": "侧重程度强",
+        "use": "a great success"
+      },
+      "excellent": {
+        "def": "卓越的",
+        "vs": "侧重达到极优",
+        "use": "excellent service"
+      }
+    }
+  },
+  {
+    "id": "great",
+    "word": "great",
+    "category": "qg",
+    "zh": "伟大的",
+    "definition": "of large size or quality",
+    "example": "A great man.",
+    "exampleZh": "一位伟人。",
+    "synonyms": [
+      "large",
+      "important",
+      "grand"
+    ],
+    "core": "尺寸或分量超出平常，让人不得不看重。",
+    "ipaUk": "/ɡɹeɪt/",
+    "ipaUs": "/ɡɹeɪt/",
+    "synDetail": {
+      "large": {
+        "def": "大的",
+        "vs": "侧重体积大",
+        "use": "a large crowd"
+      },
+      "important": {
+        "def": "重要的",
+        "vs": "侧重意义大",
+        "use": "an important date"
+      },
+      "grand": {
+        "def": "宏大的",
+        "vs": "侧重盛大壮观",
+        "use": "a grand opening"
+      }
+    }
+  },
+  {
+    "id": "grey",
+    "word": "grey",
+    "category": "qg",
+    "zh": "灰色的",
+    "definition": "color between black and white",
+    "example": "Grey clouds bring rain.",
+    "exampleZh": "灰云带来雨。",
+    "synonyms": [
+      "gray",
+      "ashen",
+      "silver"
+    ],
+    "core": "黑白之间的雾色，光暗被调和在一起。",
+    "ipaUk": "/ɡɹeɪ/",
+    "ipaUs": "/ɡɹeɪ/",
+    "synDetail": {
+      "gray": {
+        "def": "灰色(美拼)",
+        "vs": "美式拼写",
+        "use": "gray clouds"
+      },
+      "ashen": {
+        "def": "灰白的",
+        "vs": "侧重病/惨白",
+        "use": "ashen face"
+      },
+      "silver": {
+        "def": "银色,银灰",
+        "vs": "侧重发亮的灰",
+        "use": "silver hair"
+      }
+    }
+  },
+  {
+    "id": "hanging",
+    "word": "hanging",
+    "category": "qg",
+    "zh": "悬挂的",
+    "definition": "suspended from above",
+    "example": "Hanging flowers.",
+    "exampleZh": "挂着的花。",
+    "synonyms": [
+      "suspended",
+      "dangling",
+      "pendant"
+    ],
+    "core": "上端被系住，身体悬在空中向下垂。",
+    "ipaUk": "/ˈhæŋɪŋ/",
+    "ipaUs": "/ˈhæŋɡɪŋ/",
+    "synDetail": {
+      "suspended": {
+        "def": "悬挂的",
+        "vs": "正式,从上垂下",
+        "use": "suspended in air"
+      },
+      "dangling": {
+        "def": "摇摆悬空的",
+        "vs": "侧重摇晃",
+        "use": "a dangling string"
+      },
+      "pendant": {
+        "def": "悬挂式的",
+        "vs": "侧重做装饰",
+        "use": "pendant light"
+      }
+    }
+  },
+  {
+    "id": "happy",
+    "word": "happy",
+    "category": "qg",
+    "zh": "快乐的",
+    "definition": "feeling joy",
+    "example": "A happy child.",
+    "exampleZh": "一个快乐的孩子。",
+    "synonyms": [
+      "joyful",
+      "glad",
+      "cheerful"
+    ],
+    "core": "心里轻快发亮，像事情正合自己的愿望。",
+    "ipaUk": "/ˈhæpi/",
+    "ipaUs": "/ˈhæpi/",
+    "synDetail": {
+      "joyful": {
+        "def": "快乐的",
+        "vs": "侧重内心喜悦",
+        "use": "a joyful occasion"
+      },
+      "glad": {
+        "def": "高兴的",
+        "vs": "侧重一时高兴",
+        "use": "glad to hear"
+      },
+      "cheerful": {
+        "def": "开朗的",
+        "vs": "侧重性格阳光",
+        "use": "a cheerful smile"
+      }
+    }
+  },
+  {
+    "id": "hard",
+    "word": "hard",
+    "category": "qg",
+    "zh": "硬的;困难的",
+    "definition": "firm or difficult",
+    "example": "A hard rock.",
+    "exampleZh": "硬石头。",
+    "synonyms": [
+      "firm",
+      "tough",
+      "difficult"
+    ],
+    "core": "表面抗住压力，也像任务难以推进。",
+    "ipaUk": "/hɑːd/",
+    "ipaUs": "/hɑɹd/",
+    "synDetail": {
+      "firm": {
+        "def": "坚实的",
+        "vs": "侧重稳固",
+        "use": "firm ground"
+      },
+      "tough": {
+        "def": "坚韧的",
+        "vs": "侧重不易破",
+        "use": "tough leather"
+      },
+      "difficult": {
+        "def": "困难的",
+        "vs": "hard 的难义",
+        "use": "a difficult task"
+      }
+    }
+  },
+  {
+    "id": "healthy",
+    "word": "healthy",
+    "category": "qg",
+    "zh": "健康的",
+    "definition": "not sick",
+    "example": "Eat healthy food.",
+    "exampleZh": "吃健康食物。",
+    "synonyms": [
+      "fit",
+      "well",
+      "robust"
+    ],
+    "core": "生命运转顺畅，身体没有被病弱拖住。",
+    "ipaUk": "/ˈhɛlθi/",
+    "ipaUs": "/ˈhɛlθi/",
+    "synDetail": {
+      "fit": {
+        "def": "健康的,健身的",
+        "vs": "侧重身体状态好",
+        "use": "keep fit"
+      },
+      "well": {
+        "def": "身体好的",
+        "vs": "侧重无病",
+        "use": "feel well"
+      },
+      "robust": {
+        "def": "强健的",
+        "vs": "侧重壮实",
+        "use": "a robust constitution"
+      }
+    }
+  },
+  {
+    "id": "high",
+    "word": "high",
+    "category": "qg",
+    "zh": "高的",
+    "definition": "reaching far up",
+    "example": "A high tower.",
+    "exampleZh": "一座高塔。",
+    "synonyms": [
+      "tall",
+      "lofty",
+      "elevated"
+    ],
+    "core": "位置远离地面，向上伸到更高处。",
+    "ipaUk": "/haɪ/",
+    "ipaUs": "/haɪ/",
+    "synDetail": {
+      "tall": {
+        "def": "高的(物/人)",
+        "vs": "侧重人或长物",
+        "use": "a tall man"
+      },
+      "lofty": {
+        "def": "崇高的",
+        "vs": "侧重理想/高度",
+        "use": "lofty goals"
+      },
+      "elevated": {
+        "def": "抬高的",
+        "vs": "侧重位置抬升",
+        "use": "elevated platform"
+      }
+    }
+  },
+  {
+    "id": "hollow",
+    "word": "hollow",
+    "category": "qg",
+    "zh": "空心的",
+    "definition": "empty inside",
+    "example": "A hollow tree.",
+    "exampleZh": "空心树。",
+    "synonyms": [
+      "empty",
+      "void",
+      "vacuous"
+    ],
+    "core": "外壳还在，里面却空出一块空间。",
+    "ipaUk": "/ˈhɒləʊ/",
+    "ipaUs": "/ˈhɑloʊ/",
+    "synDetail": {
+      "empty": {
+        "def": "空的",
+        "vs": "广义,无内容",
+        "use": "an empty box"
+      },
+      "void": {
+        "def": "空虚的",
+        "vs": "侧重无物或无效",
+        "use": "the contract is void"
+      },
+      "vacuous": {
+        "def": "空洞的",
+        "vs": "侧重内容空洞",
+        "use": "a vacuous smile"
+      }
+    }
+  },
+  {
+    "id": "important",
+    "word": "important",
+    "category": "qg",
+    "zh": "重要的",
+    "definition": "of great value",
+    "example": "An important meeting.",
+    "exampleZh": "重要会议。",
+    "synonyms": [
+      "vital",
+      "key",
+      "significant"
+    ],
+    "core": "放在秤上分量很重，会影响后面的事情。",
+    "ipaUk": "/ɪˈmpɔːtənt/",
+    "ipaUs": "/ˌɪmˈpɔɹtənt/",
+    "synDetail": {
+      "vital": {
+        "def": "至关重要的",
+        "vs": "侧重生死攸关",
+        "use": "a vital decision"
+      },
+      "key": {
+        "def": "关键的",
+        "vs": "侧重核心地位",
+        "use": "the key point"
+      },
+      "significant": {
+        "def": "重大的",
+        "vs": "侧重有意义",
+        "use": "a significant change"
+      }
+    }
+  },
+  {
+    "id": "kind",
+    "word": "kind",
+    "category": "qg",
+    "zh": "友善的;种类",
+    "definition": "caring or a type",
+    "example": "She is very kind.",
+    "exampleZh": "她非常善良。",
+    "synonyms": [
+      "nice",
+      "good",
+      "sort"
+    ],
+    "core": "对别人带着温柔照看，不用力量伤人。",
+    "ipaUk": "/kaɪnd/",
+    "ipaUs": "/kaɪnd/",
+    "synDetail": {
+      "nice": {
+        "def": "友好的",
+        "vs": "日常通用",
+        "use": "a nice person"
+      },
+      "good": {
+        "def": "好心的",
+        "vs": "侧重品德",
+        "use": "a good heart"
+      },
+      "sort": {
+        "def": "种类",
+        "vs": "kind 的种类义",
+        "use": "this sort of problem"
+      }
+    }
+  },
+  {
+    "id": "like",
+    "word": "like",
+    "category": "qg",
+    "zh": "相似的",
+    "definition": "similar to",
+    "example": "He's like his father.",
+    "exampleZh": "他像他父亲。",
+    "synonyms": [
+      "similar",
+      "alike",
+      "resembling"
+    ],
+    "core": "两样东西彼此照应，看上去有相同影子。",
+    "ipaUk": "/laɪk/",
+    "ipaUs": "/laɪk/",
+    "synDetail": {
+      "similar": {
+        "def": "类似的",
+        "vs": "侧重相似但非相同",
+        "use": "similar in shape"
+      },
+      "alike": {
+        "def": "相同的",
+        "vs": "侧重彼此相像",
+        "use": "twins look alike"
+      },
+      "resembling": {
+        "def": "相像的",
+        "vs": "正式,与...相似",
+        "use": "resembling his father"
+      }
+    }
+  },
+  {
+    "id": "living",
+    "word": "living",
+    "category": "qg",
+    "zh": "活的",
+    "definition": "alive",
+    "example": "All living things need air.",
+    "exampleZh": "所有生物都需要空气。",
+    "synonyms": [
+      "alive",
+      "existing",
+      "breathing"
+    ],
+    "core": "里面有生命气息，会呼吸生长并回应世界。",
+    "ipaUk": "/ˈlɪvɪŋ/",
+    "ipaUs": "/ˈlɪvɪŋ/",
+    "synDetail": {
+      "alive": {
+        "def": "活着的",
+        "vs": "侧重未死",
+        "use": "still alive"
+      },
+      "existing": {
+        "def": "现存的",
+        "vs": "侧重存在",
+        "use": "existing laws"
+      },
+      "breathing": {
+        "def": "还活着的",
+        "vs": "侧重呼吸状态",
+        "use": "living and breathing"
+      }
+    }
+  },
+  {
+    "id": "long",
+    "word": "long",
+    "category": "qg",
+    "zh": "长的",
+    "definition": "measuring much",
+    "example": "A long road.",
+    "exampleZh": "一条长路。",
+    "synonyms": [
+      "lengthy",
+      "extended",
+      "prolonged"
+    ],
+    "core": "从一头到另一头拉得很远，过程被延长。",
+    "ipaUk": "/lɒŋ/",
+    "ipaUs": "/lɔŋ/",
+    "synDetail": {
+      "lengthy": {
+        "def": "冗长的",
+        "vs": "侧重过于长",
+        "use": "a lengthy speech"
+      },
+      "extended": {
+        "def": "延长的",
+        "vs": "侧重延伸出去",
+        "use": "extended hours"
+      },
+      "prolonged": {
+        "def": "长期持续的",
+        "vs": "侧重持续久",
+        "use": "prolonged exposure"
+      }
+    }
+  },
+  {
+    "id": "male",
+    "word": "male",
+    "category": "qg",
+    "zh": "男性的",
+    "definition": "of the man sex",
+    "example": "A male doctor.",
+    "exampleZh": "男医生。",
+    "synonyms": [
+      "masculine",
+      "manly",
+      "boy"
+    ],
+    "core": "带着雄性身份，与生育角色中的男方相连。",
+    "ipaUk": "/meɪl/",
+    "ipaUs": "/meɪl/",
+    "synDetail": {
+      "masculine": {
+        "def": "男性化的",
+        "vs": "侧重男性特质",
+        "use": "a masculine voice"
+      },
+      "manly": {
+        "def": "男子气的",
+        "vs": "侧重阳刚",
+        "use": "manly courage"
+      },
+      "boy": {
+        "def": "男的(口)",
+        "vs": "广义,男性",
+        "use": "a boy band"
+      }
+    }
+  },
+  {
+    "id": "married",
+    "word": "married",
+    "category": "qg",
+    "zh": "已婚的",
+    "definition": "having a husband or wife",
+    "example": "They are happily married.",
+    "exampleZh": "他们婚姻幸福。",
+    "synonyms": [
+      "wed",
+      "united",
+      "spliced"
+    ],
+    "core": "两个人被婚姻系在一起，生活归入同一结。",
+    "ipaUk": "/ˈmæɹid/",
+    "ipaUs": "/ˈmɛɹid/",
+    "synDetail": {
+      "wed": {
+        "def": "已婚的",
+        "vs": "侧重正式",
+        "use": "newly wed"
+      },
+      "united": {
+        "def": "结合的",
+        "vs": "侧重联结",
+        "use": "united in marriage"
+      },
+      "spliced": {
+        "def": "结婚的(俚)",
+        "vs": "口语俚语",
+        "use": "got spliced"
+      }
+    }
+  },
+  {
+    "id": "material",
+    "word": "material",
+    "category": "qg",
+    "zh": "物质的",
+    "definition": "made of matter",
+    "example": "Material things matter less.",
+    "exampleZh": "物质的东西不那么重要。",
+    "synonyms": [
+      "physical",
+      "real",
+      "tangible"
+    ],
+    "core": "能摸到占地方，属于现实物质而非想法。",
+    "ipaUk": "/məˈtɪəɹɪəl/",
+    "ipaUs": "/məˈtɪɹiəl/",
+    "synDetail": {
+      "physical": {
+        "def": "物质的",
+        "vs": "侧重物理上",
+        "use": "physical world"
+      },
+      "real": {
+        "def": "实在的",
+        "vs": "侧重真实存在",
+        "use": "real benefits"
+      },
+      "tangible": {
+        "def": "有形的",
+        "vs": "侧重可触摸",
+        "use": "tangible evidence"
+      }
+    }
+  },
+  {
+    "id": "medical",
+    "word": "medical",
+    "category": "qg",
+    "zh": "医学的",
+    "definition": "related to medicine",
+    "example": "Medical care is costly.",
+    "exampleZh": "医疗费用高。",
+    "synonyms": [
+      "health",
+      "clinical",
+      "therapeutic"
+    ],
+    "core": "围绕身体病痛与治疗，带着诊治气味。",
+    "ipaUk": "/ˈmɛdɪkəl/",
+    "ipaUs": "/ˈmɛdəkəl/",
+    "synDetail": {
+      "health": {
+        "def": "健康的",
+        "vs": "侧重健康相关",
+        "use": "health care"
+      },
+      "clinical": {
+        "def": "临床的",
+        "vs": "侧重医院环境",
+        "use": "clinical trial"
+      },
+      "therapeutic": {
+        "def": "治疗的",
+        "vs": "侧重疗效",
+        "use": "therapeutic massage"
+      }
+    }
+  },
+  {
+    "id": "military",
+    "word": "military",
+    "category": "qg",
+    "zh": "军事的",
+    "definition": "related to armed forces",
+    "example": "Military service is hard.",
+    "exampleZh": "军队服役很艰苦。",
+    "synonyms": [
+      "army",
+      "martial",
+      "armed"
+    ],
+    "core": "属于军队和武力秩序，带着作战纪律。",
+    "ipaUk": "/ˈmɪlɪtəɹi/",
+    "ipaUs": "/ˈmɪləˌtɛɹi/",
+    "synDetail": {
+      "army": {
+        "def": "陆军的",
+        "vs": "侧重陆军",
+        "use": "an army base"
+      },
+      "martial": {
+        "def": "军事的",
+        "vs": "正式,武力相关",
+        "use": "martial law"
+      },
+      "armed": {
+        "def": "武装的",
+        "vs": "侧重持武器",
+        "use": "armed forces"
+      }
+    }
+  },
+  {
+    "id": "natural",
+    "word": "natural",
+    "category": "qg",
+    "zh": "自然的",
+    "definition": "from nature, not man-made",
+    "example": "Natural beauty.",
+    "exampleZh": "自然之美。",
+    "synonyms": [
+      "organic",
+      "native",
+      "innate"
+    ],
+    "core": "从天地本身长出来，没有人工硬造痕迹。",
+    "ipaUk": "/ˈnætʃɹəl/",
+    "ipaUs": "/ˈnætʃɝəl/",
+    "synDetail": {
+      "organic": {
+        "def": "天然有机的",
+        "vs": "侧重无人工",
+        "use": "organic food"
+      },
+      "native": {
+        "def": "本土的",
+        "vs": "侧重原生",
+        "use": "native species"
+      },
+      "innate": {
+        "def": "与生俱来的",
+        "vs": "侧重天生",
+        "use": "innate ability"
+      }
+    }
+  },
+  {
+    "id": "necessary",
+    "word": "necessary",
+    "category": "qg",
+    "zh": "必要的",
+    "definition": "needed",
+    "example": "Sleep is necessary.",
+    "exampleZh": "睡眠是必需的。",
+    "synonyms": [
+      "needed",
+      "essential",
+      "required"
+    ],
+    "core": "少了它事情就不能成，是必须放进去的一环。",
+    "ipaUk": "/ˈnɛsəsəɹi/",
+    "ipaUs": "/ˈnɛsəˌsɛɹi/",
+    "synDetail": {
+      "needed": {
+        "def": "需要的",
+        "vs": "日常,有需要",
+        "use": "badly needed"
+      },
+      "essential": {
+        "def": "必不可少的",
+        "vs": "侧重核心要素",
+        "use": "essential vitamins"
+      },
+      "required": {
+        "def": "被要求的",
+        "vs": "侧重规定要",
+        "use": "required reading"
+      }
+    }
+  },
+  {
+    "id": "new",
+    "word": "new",
+    "category": "qg",
+    "zh": "新的",
+    "definition": "recently made",
+    "example": "A new car.",
+    "exampleZh": "一辆新车。",
+    "synonyms": [
+      "fresh",
+      "novel",
+      "modern"
+    ],
+    "core": "刚进入世界，还没有被旧痕迹磨过。",
+    "ipaUk": "/njuː/",
+    "ipaUs": "/nju/",
+    "synDetail": {
+      "fresh": {
+        "def": "新鲜的",
+        "vs": "侧重未变质",
+        "use": "fresh start"
+      },
+      "novel": {
+        "def": "新颖的",
+        "vs": "侧重前所未见",
+        "use": "a novel idea"
+      },
+      "modern": {
+        "def": "现代的",
+        "vs": "侧重当代",
+        "use": "modern art"
+      }
+    }
+  },
+  {
+    "id": "normal",
+    "word": "normal",
+    "category": "qg",
+    "zh": "正常的",
+    "definition": "usual and ordinary",
+    "example": "Normal body temperature.",
+    "exampleZh": "正常体温。",
+    "synonyms": [
+      "standard",
+      "regular",
+      "typical"
+    ],
+    "core": "落在平常轨道上，没有偏出大家预期。",
+    "ipaUk": "/ˈnɔːməl/",
+    "ipaUs": "/ˈnɔɹməl/",
+    "synDetail": {
+      "standard": {
+        "def": "标准的",
+        "vs": "侧重符合规范",
+        "use": "standard size"
+      },
+      "regular": {
+        "def": "常规的",
+        "vs": "侧重稳定常态",
+        "use": "regular hours"
+      },
+      "typical": {
+        "def": "典型的",
+        "vs": "侧重代表性",
+        "use": "typical behavior"
+      }
+    }
+  },
+  {
+    "id": "open",
+    "word": "open",
+    "category": "qg",
+    "zh": "开着的",
+    "definition": "not closed",
+    "example": "The door is open.",
+    "exampleZh": "门开着。",
+    "synonyms": [
+      "unblocked",
+      "wide",
+      "accessible"
+    ],
+    "core": "门口没有关住，空间向外让人进入。",
+    "ipaUk": "/ˈəʊpən/",
+    "ipaUs": "/ˈoʊpən/",
+    "synDetail": {
+      "unblocked": {
+        "def": "未阻塞的",
+        "vs": "侧重通路无阻",
+        "use": "an unblocked road"
+      },
+      "wide": {
+        "def": "宽敞开放的",
+        "vs": "侧重大开",
+        "use": "wide open"
+      },
+      "accessible": {
+        "def": "可到达的",
+        "vs": "侧重可进入",
+        "use": "easily accessible"
+      }
+    }
+  },
+  {
+    "id": "parallel",
+    "word": "parallel",
+    "category": "qg",
+    "zh": "平行的",
+    "definition": "always the same distance apart",
+    "example": "Parallel lines never meet.",
+    "exampleZh": "平行线永不相交。",
+    "synonyms": [
+      "aligned",
+      "equidistant",
+      "matching"
+    ],
+    "core": "两条线并肩前行，始终保持同样距离。",
+    "ipaUk": "/ˈpæɹəˌlɛl/",
+    "ipaUs": "/ˈpɛɹəˌlɛl/",
+    "synDetail": {
+      "aligned": {
+        "def": "对齐的",
+        "vs": "侧重排列一致",
+        "use": "aligned with the goal"
+      },
+      "equidistant": {
+        "def": "等距的",
+        "vs": "侧重距离相等",
+        "use": "equidistant points"
+      },
+      "matching": {
+        "def": "匹配的",
+        "vs": "侧重相配",
+        "use": "matching stripes"
+      }
+    }
+  },
+  {
+    "id": "past",
+    "word": "past",
+    "category": "qg",
+    "zh": "过去的",
+    "definition": "belonging to time before",
+    "example": "In past years.",
+    "exampleZh": "过去几年里。",
+    "synonyms": [
+      "former",
+      "previous",
+      "earlier"
+    ],
+    "core": "已经走到身后，属于时间里翻过的一页。",
+    "ipaUk": "/pɑːst/",
+    "ipaUs": "/pæst/",
+    "synDetail": {
+      "former": {
+        "def": "以前的",
+        "vs": "侧重之前职位",
+        "use": "the former CEO"
+      },
+      "previous": {
+        "def": "先前的",
+        "vs": "侧重前一次",
+        "use": "the previous chapter"
+      },
+      "earlier": {
+        "def": "较早的",
+        "vs": "模糊时间比较",
+        "use": "earlier today"
+      }
+    }
+  },
+  {
+    "id": "physical",
+    "word": "physical",
+    "category": "qg",
+    "zh": "身体的",
+    "definition": "related to body or matter",
+    "example": "Physical exercise is good.",
+    "exampleZh": "运动有好处。",
+    "synonyms": [
+      "bodily",
+      "material",
+      "tangible"
+    ],
+    "core": "落在身体或物体上，能被现实力量碰到。",
+    "ipaUk": "/ˈfɪzɪkəl/",
+    "ipaUs": "/ˈfɪzɪkəl/",
+    "synDetail": {
+      "bodily": {
+        "def": "身体的",
+        "vs": "侧重肉体",
+        "use": "bodily harm"
+      },
+      "material": {
+        "def": "物质的",
+        "vs": "侧重物质性",
+        "use": "material world"
+      },
+      "tangible": {
+        "def": "有形的",
+        "vs": "侧重可触",
+        "use": "tangible asset"
+      }
+    }
+  },
+  {
+    "id": "political",
+    "word": "political",
+    "category": "qg",
+    "zh": "政治的",
+    "definition": "related to government",
+    "example": "Political views differ.",
+    "exampleZh": "政治观点各异。",
+    "synonyms": [
+      "governmental",
+      "civic",
+      "partisan"
+    ],
+    "core": "围绕权力和治理，牵动公共选择。",
+    "ipaUk": "/pəˈlɪtɪkəl/",
+    "ipaUs": "/pəˈlɪtəkəl/",
+    "synDetail": {
+      "governmental": {
+        "def": "政府的",
+        "vs": "侧重政府运作",
+        "use": "governmental affairs"
+      },
+      "civic": {
+        "def": "公民的",
+        "vs": "侧重公民事务",
+        "use": "civic duty"
+      },
+      "partisan": {
+        "def": "党派的",
+        "vs": "侧重党派立场",
+        "use": "partisan politics"
+      }
+    }
+  },
+  {
+    "id": "poor",
+    "word": "poor",
+    "category": "qg",
+    "zh": "贫穷的",
+    "definition": "having little money",
+    "example": "A poor family.",
+    "exampleZh": "贫穷的家庭。",
+    "synonyms": [
+      "needy",
+      "broke",
+      "impoverished"
+    ],
+    "core": "手里资源很少，生活被缺乏紧紧限制。",
+    "ipaUk": "/pɔː/",
+    "ipaUs": "/pʊɹ/",
+    "synDetail": {
+      "needy": {
+        "def": "贫困需助的",
+        "vs": "侧重需要帮助",
+        "use": "the needy"
+      },
+      "broke": {
+        "def": "破产的",
+        "vs": "口语,没钱",
+        "use": "I'm broke"
+      },
+      "impoverished": {
+        "def": "贫困的",
+        "vs": "正式,深度贫困",
+        "use": "impoverished areas"
+      }
+    }
+  },
+  {
+    "id": "possible",
+    "word": "possible",
+    "category": "qg",
+    "zh": "可能的",
+    "definition": "able to happen",
+    "example": "Anything is possible.",
+    "exampleZh": "一切皆有可能。",
+    "synonyms": [
+      "likely",
+      "feasible",
+      "potential"
+    ],
+    "core": "门还没有关上，事情仍有发生的路。",
+    "ipaUk": "/ˈpɒsɪbəl/",
+    "ipaUs": "/ˈpɑsəbəl/",
+    "synDetail": {
+      "likely": {
+        "def": "可能的",
+        "vs": "侧重概率较高",
+        "use": "likely outcome"
+      },
+      "feasible": {
+        "def": "可行的",
+        "vs": "侧重实际可做",
+        "use": "feasible plan"
+      },
+      "potential": {
+        "def": "潜在的",
+        "vs": "侧重有发展空间",
+        "use": "potential customer"
+      }
+    }
+  },
+  {
+    "id": "present",
+    "word": "present",
+    "category": "qg",
+    "zh": "现在的;在场的",
+    "definition": "current or here",
+    "example": "All are present today.",
+    "exampleZh": "今天全都到了。",
+    "synonyms": [
+      "current",
+      "here",
+      "existing"
+    ],
+    "core": "此刻就在这里，不在过去也不在远处。",
+    "ipaUk": "/ˈpɹezənt/",
+    "ipaUs": "/ˈpɹɛzənt/",
+    "synDetail": {
+      "current": {
+        "def": "当前的",
+        "vs": "侧重时下",
+        "use": "current trend"
+      },
+      "here": {
+        "def": "在场的",
+        "vs": "侧重存在场地",
+        "use": "all here"
+      },
+      "existing": {
+        "def": "现存的",
+        "vs": "侧重已存在",
+        "use": "existing rules"
+      }
+    }
+  },
+  {
+    "id": "private",
+    "word": "private",
+    "category": "qg",
+    "zh": "私人的",
+    "definition": "not public",
+    "example": "A private room.",
+    "exampleZh": "私人房间。",
+    "synonyms": [
+      "personal",
+      "confidential",
+      "secluded"
+    ],
+    "core": "被围起来只属个人，不向公众敞开。",
+    "ipaUk": "/ˈpɹaɪvɪt/",
+    "ipaUs": "/ˈpɹaɪvət/",
+    "synDetail": {
+      "personal": {
+        "def": "个人的",
+        "vs": "侧重私人事务",
+        "use": "personal life"
+      },
+      "confidential": {
+        "def": "机密的",
+        "vs": "侧重保密信息",
+        "use": "confidential document"
+      },
+      "secluded": {
+        "def": "隐蔽的",
+        "vs": "侧重远离他人",
+        "use": "a secluded spot"
+      }
+    }
+  },
+  {
+    "id": "probable",
+    "word": "probable",
+    "category": "qg",
+    "zh": "很可能的",
+    "definition": "likely to happen",
+    "example": "A probable cause.",
+    "exampleZh": "很可能的原因。",
+    "synonyms": [
+      "likely",
+      "expected",
+      "credible"
+    ],
+    "core": "事情正朝某个结果倾斜，很可能会落在那里。",
+    "ipaUk": "/ˈpɹɒbəbəl/",
+    "ipaUs": "/ˈpɹɑbəbəl/",
+    "synDetail": {
+      "likely": {
+        "def": "可能的",
+        "vs": "日常常用",
+        "use": "a likely candidate"
+      },
+      "expected": {
+        "def": "预期的",
+        "vs": "侧重已被预计",
+        "use": "the expected result"
+      },
+      "credible": {
+        "def": "可信的",
+        "vs": "侧重值得相信",
+        "use": "a credible source"
+      }
+    }
+  },
+  {
+    "id": "quick",
+    "word": "quick",
+    "category": "qg",
+    "zh": "快的",
+    "definition": "moving fast",
+    "example": "A quick answer.",
+    "exampleZh": "快速回答。",
+    "synonyms": [
+      "fast",
+      "rapid",
+      "swift"
+    ],
+    "core": "动作一下完成，时间被压得很短。",
+    "ipaUk": "/kwɪk/",
+    "ipaUs": "/kwɪk/",
+    "synDetail": {
+      "fast": {
+        "def": "快的",
+        "vs": "侧重速度",
+        "use": "fast car"
+      },
+      "rapid": {
+        "def": "急速的",
+        "vs": "侧重迅猛",
+        "use": "rapid growth"
+      },
+      "swift": {
+        "def": "敏捷的",
+        "vs": "侧重灵敏迅速",
+        "use": "a swift response"
+      }
+    }
+  },
+  {
+    "id": "quiet",
+    "word": "quiet",
+    "category": "qg",
+    "zh": "安静的",
+    "definition": "making little noise",
+    "example": "A quiet room.",
+    "exampleZh": "安静的房间。",
+    "synonyms": [
+      "silent",
+      "still",
+      "peaceful"
+    ],
+    "core": "声音被放低，周围进入平稳安静。",
+    "ipaUk": "/ˈkwaɪət/",
+    "ipaUs": "/ˈkwaɪət/",
+    "synDetail": {
+      "silent": {
+        "def": "无声的",
+        "vs": "侧重完全无声",
+        "use": "silent treatment"
+      },
+      "still": {
+        "def": "静止的",
+        "vs": "侧重不动",
+        "use": "still water"
+      },
+      "peaceful": {
+        "def": "宁静的",
+        "vs": "侧重平和氛围",
+        "use": "a peaceful afternoon"
+      }
+    }
+  },
+  {
+    "id": "ready",
+    "word": "ready",
+    "category": "qg",
+    "zh": "准备好的",
+    "definition": "prepared",
+    "example": "Are you ready?",
+    "exampleZh": "你准备好了吗?",
+    "synonyms": [
+      "prepared",
+      "set",
+      "willing"
+    ],
+    "core": "所需已经摆好，只等下一步开始。",
+    "ipaUk": "/ˈɹɛdi/",
+    "ipaUs": "/ˈɹɛdi/",
+    "synDetail": {
+      "prepared": {
+        "def": "准备好的",
+        "vs": "侧重事先做好",
+        "use": "prepared for the test"
+      },
+      "set": {
+        "def": "准备就绪的",
+        "vs": "口语,准备好开始",
+        "use": "set to go"
+      },
+      "willing": {
+        "def": "愿意的",
+        "vs": "侧重主观乐意",
+        "use": "willing to help"
+      }
+    }
+  },
+  {
+    "id": "red",
+    "word": "red",
+    "category": "qg",
+    "zh": "红色的",
+    "definition": "color of blood",
+    "example": "A red apple.",
+    "exampleZh": "红苹果。",
+    "synonyms": [
+      "scarlet",
+      "crimson",
+      "ruby"
+    ],
+    "core": "像血和火一样醒目，带着强烈热色。",
+    "ipaUk": "/ɹɛd/",
+    "ipaUs": "/ɹɛd/",
+    "synDetail": {
+      "scarlet": {
+        "def": "猩红色",
+        "vs": "侧重鲜艳红",
+        "use": "scarlet flower"
+      },
+      "crimson": {
+        "def": "深红色",
+        "vs": "侧重暗红",
+        "use": "crimson velvet"
+      },
+      "ruby": {
+        "def": "宝石红",
+        "vs": "侧重深红宝石色",
+        "use": "ruby lips"
+      }
+    }
+  },
+  {
+    "id": "regular",
+    "word": "regular",
+    "category": "qg",
+    "zh": "规律的",
+    "definition": "happening at fixed times",
+    "example": "Regular exercise helps.",
+    "exampleZh": "规律锻炼有助健康。",
+    "synonyms": [
+      "steady",
+      "consistent",
+      "routine"
+    ],
+    "core": "按固定节拍反复出现，不乱也不断。",
+    "ipaUk": "/ˈɹɛɡjʊlə/",
+    "ipaUs": "/ˈɹeɪɡjəlɝ/",
+    "synDetail": {
+      "steady": {
+        "def": "稳定的",
+        "vs": "侧重持续不变",
+        "use": "a steady pace"
+      },
+      "consistent": {
+        "def": "一致的",
+        "vs": "侧重持续相同",
+        "use": "consistent performance"
+      },
+      "routine": {
+        "def": "例行的",
+        "vs": "侧重日常常做",
+        "use": "routine check"
+      }
+    }
+  },
+  {
+    "id": "responsible",
+    "word": "responsible",
+    "category": "qg",
+    "zh": "负责的",
+    "definition": "having a duty",
+    "example": "You are responsible.",
+    "exampleZh": "你要负责。",
+    "synonyms": [
+      "accountable",
+      "reliable",
+      "liable"
+    ],
+    "core": "任务落在肩上，结果需要由自己承担。",
+    "ipaUk": "/ɹɪˈspɒnsɪbəl/",
+    "ipaUs": "/ɹiˈspɑnsəbəl/",
+    "synDetail": {
+      "accountable": {
+        "def": "负责的(可追究)",
+        "vs": "侧重需对...负责",
+        "use": "held accountable"
+      },
+      "reliable": {
+        "def": "可靠的",
+        "vs": "侧重值得信赖",
+        "use": "a reliable friend"
+      },
+      "liable": {
+        "def": "应负责的",
+        "vs": "侧重法律责任",
+        "use": "liable for damages"
+      }
+    }
+  },
+  {
+    "id": "right",
+    "word": "right",
+    "category": "qg",
+    "zh": "对的;右的",
+    "definition": "correct or opposite of left",
+    "example": "You are right.",
+    "exampleZh": "你对了。",
+    "synonyms": [
+      "correct",
+      "proper",
+      "accurate"
+    ],
+    "core": "方向或判断正好对上，没有偏离应有位置。",
+    "ipaUk": "/ɹaɪt/",
+    "ipaUs": "/ɹaɪt/",
+    "synDetail": {
+      "correct": {
+        "def": "正确的",
+        "vs": "侧重无错误",
+        "use": "the correct answer"
+      },
+      "proper": {
+        "def": "恰当的",
+        "vs": "侧重合宜",
+        "use": "proper behavior"
+      },
+      "accurate": {
+        "def": "准确的",
+        "vs": "侧重精确无误",
+        "use": "accurate data"
+      }
+    }
+  },
+  {
+    "id": "round",
+    "word": "round",
+    "category": "qg",
+    "zh": "圆的",
+    "definition": "shaped like a ball",
+    "example": "A round table.",
+    "exampleZh": "一张圆桌。",
+    "synonyms": [
+      "circular",
+      "spherical",
+      "rotund"
+    ],
+    "core": "边缘一路弯回自身，没有尖角伸出。",
+    "ipaUk": "/ɹaʊnd/",
+    "ipaUs": "/ɹaʊnd/",
+    "synDetail": {
+      "circular": {
+        "def": "圆形的",
+        "vs": "侧重几何圆",
+        "use": "a circular path"
+      },
+      "spherical": {
+        "def": "球形的",
+        "vs": "侧重三维球",
+        "use": "a spherical object"
+      },
+      "rotund": {
+        "def": "圆胖的",
+        "vs": "侧重圆胖体型",
+        "use": "a rotund figure"
+      }
+    }
+  },
+  {
+    "id": "same",
+    "word": "same",
+    "category": "qg",
+    "zh": "相同的",
+    "definition": "not different",
+    "example": "We have the same idea.",
+    "exampleZh": "我们想法一样。",
+    "synonyms": [
+      "identical",
+      "equal",
+      "alike"
+    ],
+    "core": "两边对照不出差别，像同一个模子出来。",
+    "ipaUk": "/seɪm/",
+    "ipaUs": "/seɪm/",
+    "synDetail": {
+      "identical": {
+        "def": "完全相同的",
+        "vs": "侧重一模一样",
+        "use": "identical copies"
+      },
+      "equal": {
+        "def": "相等的",
+        "vs": "侧重数量相等",
+        "use": "equal parts"
+      },
+      "alike": {
+        "def": "相似的",
+        "vs": "侧重彼此像",
+        "use": "think alike"
+      }
+    }
+  },
+  {
+    "id": "second",
+    "word": "second",
+    "category": "qg",
+    "zh": "第二的",
+    "definition": "after the first",
+    "example": "On the second day.",
+    "exampleZh": "第二天。",
+    "synonyms": [
+      "next",
+      "runner-up",
+      "secondary"
+    ],
+    "core": "紧跟第一之后，排在下一个位置。",
+    "ipaUk": "/ˈsɛkənd/",
+    "ipaUs": "/ˈsɛkənd/",
+    "synDetail": {
+      "next": {
+        "def": "下一个",
+        "vs": "侧重接下来",
+        "use": "the next one"
+      },
+      "runner-up": {
+        "def": "亚军",
+        "vs": "侧重比赛第二",
+        "use": "the runner-up"
+      },
+      "secondary": {
+        "def": "次要的",
+        "vs": "侧重重要性较低",
+        "use": "secondary issue"
+      }
+    }
+  },
+  {
+    "id": "separate",
+    "word": "separate",
+    "category": "qg",
+    "zh": "分开的",
+    "definition": "not joined",
+    "example": "Keep them separate.",
+    "exampleZh": "把它们分开。",
+    "synonyms": [
+      "apart",
+      "distinct",
+      "divided"
+    ],
+    "core": "彼此不再相连，各自站在自己的边界里。",
+    "ipaUk": "/ˈsepɹət/",
+    "ipaUs": "/ˈsɛpɹət/",
+    "synDetail": {
+      "apart": {
+        "def": "分开的",
+        "vs": "侧重距离开",
+        "use": "two miles apart"
+      },
+      "distinct": {
+        "def": "独特的,不同的",
+        "vs": "侧重明显不同",
+        "use": "distinct categories"
+      },
+      "divided": {
+        "def": "分裂的",
+        "vs": "侧重被分开",
+        "use": "a divided country"
+      }
+    }
+  },
+  {
+    "id": "serious",
+    "word": "serious",
+    "category": "qg",
+    "zh": "严肃的",
+    "definition": "important or not playful",
+    "example": "A serious problem.",
+    "exampleZh": "严重的问题。",
+    "synonyms": [
+      "grave",
+      "earnest",
+      "solemn"
+    ],
+    "core": "分量压下来，不能当作玩笑轻轻带过。",
+    "ipaUk": "/ˈsɪəɹɪəs/",
+    "ipaUs": "/ˈsɪɹiəs/",
+    "synDetail": {
+      "grave": {
+        "def": "严重的",
+        "vs": "正式,庄重",
+        "use": "a grave situation"
+      },
+      "earnest": {
+        "def": "恳切的",
+        "vs": "侧重认真态度",
+        "use": "in earnest"
+      },
+      "solemn": {
+        "def": "庄严的",
+        "vs": "侧重肃穆",
+        "use": "a solemn vow"
+      }
+    }
+  },
+  {
+    "id": "sharp",
+    "word": "sharp",
+    "category": "qg",
+    "zh": "锋利的",
+    "definition": "with a fine edge",
+    "example": "A sharp knife.",
+    "exampleZh": "锋利的刀。",
+    "synonyms": [
+      "pointed",
+      "keen",
+      "acute"
+    ],
+    "core": "边缘或感觉很尖，能一下刺入或切开。",
+    "ipaUk": "/ʃɑːp/",
+    "ipaUs": "/ʃɑɹp/",
+    "synDetail": {
+      "pointed": {
+        "def": "尖的",
+        "vs": "侧重尖端",
+        "use": "a pointed stick"
+      },
+      "keen": {
+        "def": "敏锐的",
+        "vs": "侧重感觉敏锐",
+        "use": "keen eyes"
+      },
+      "acute": {
+        "def": "敏锐/急性的",
+        "vs": "侧重医学/感官",
+        "use": "acute pain"
+      }
+    }
+  },
+  {
+    "id": "smooth",
+    "word": "smooth",
+    "category": "qg",
+    "zh": "光滑的",
+    "definition": "having even surface",
+    "example": "Smooth as silk.",
+    "exampleZh": "丝一般光滑。",
+    "synonyms": [
+      "even",
+      "flat",
+      "silky"
+    ],
+    "core": "表面顺滑无阻，手和动作都能轻轻滑过。",
+    "ipaUk": "/smuːð/",
+    "ipaUs": "/smuð/",
+    "synDetail": {
+      "even": {
+        "def": "平整的",
+        "vs": "侧重无起伏",
+        "use": "even surface"
+      },
+      "flat": {
+        "def": "平的",
+        "vs": "侧重平面",
+        "use": "a flat road"
+      },
+      "silky": {
+        "def": "丝滑的",
+        "vs": "侧重柔滑",
+        "use": "silky hair"
+      }
+    }
+  },
+  {
+    "id": "sticky",
+    "word": "sticky",
+    "category": "qg",
+    "zh": "粘的",
+    "definition": "likely to stick",
+    "example": "Sticky fingers.",
+    "exampleZh": "粘乎乎的手指。",
+    "synonyms": [
+      "gummy",
+      "tacky",
+      "adhesive"
+    ],
+    "core": "一碰就黏住，想分开时会被拉扯。",
+    "ipaUk": "/ˈstɪki/",
+    "ipaUs": "/ˈstɪki/",
+    "synDetail": {
+      "gummy": {
+        "def": "黏糊糊的",
+        "vs": "侧重像胶",
+        "use": "gummy candy"
+      },
+      "tacky": {
+        "def": "略黏的",
+        "vs": "侧重微黏",
+        "use": "tacky paint"
+      },
+      "adhesive": {
+        "def": "粘合的",
+        "vs": "侧重粘合性能",
+        "use": "adhesive tape"
+      }
+    }
+  },
+  {
+    "id": "stiff",
+    "word": "stiff",
+    "category": "qg",
+    "zh": "僵硬的",
+    "definition": "hard to bend",
+    "example": "A stiff neck.",
+    "exampleZh": "脖子僵硬。",
+    "synonyms": [
+      "rigid",
+      "firm",
+      "inflexible"
+    ],
+    "core": "身体或材料绷直，不愿弯也不容易动。",
+    "ipaUk": "/stɪf/",
+    "ipaUs": "/stɪf/",
+    "synDetail": {
+      "rigid": {
+        "def": "刚性的",
+        "vs": "侧重完全不弯",
+        "use": "rigid rules"
+      },
+      "firm": {
+        "def": "坚硬的",
+        "vs": "侧重结实",
+        "use": "a firm mattress"
+      },
+      "inflexible": {
+        "def": "无弹性的",
+        "vs": "侧重不能弯",
+        "use": "an inflexible policy"
+      }
+    }
+  },
+  {
+    "id": "straight",
+    "word": "straight",
+    "category": "qg",
+    "zh": "直的",
+    "definition": "without curves",
+    "example": "Walk in a straight line.",
+    "exampleZh": "走直线。",
+    "synonyms": [
+      "direct",
+      "linear",
+      "unbent"
+    ],
+    "core": "沿一条正线前进，没有弯曲和绕路。",
+    "ipaUk": "/stɹeɪt/",
+    "ipaUs": "/stɹeɪt/",
+    "synDetail": {
+      "direct": {
+        "def": "直接的",
+        "vs": "侧重无弯路",
+        "use": "a direct route"
+      },
+      "linear": {
+        "def": "线性的",
+        "vs": "侧重直线",
+        "use": "linear motion"
+      },
+      "unbent": {
+        "def": "未弯曲的",
+        "vs": "侧重保持笔直",
+        "use": "unbent posture"
+      }
+    }
+  },
+  {
+    "id": "strong",
+    "word": "strong",
+    "category": "qg",
+    "zh": "强壮的",
+    "definition": "having great power",
+    "example": "A strong man.",
+    "exampleZh": "一个强壮的人。",
+    "synonyms": [
+      "powerful",
+      "mighty",
+      "robust"
+    ],
+    "core": "里面力量结实，能承受压力并推动事物。",
+    "ipaUk": "/stɹɒŋ/",
+    "ipaUs": "/stɹɔŋ/",
+    "synDetail": {
+      "powerful": {
+        "def": "强大的",
+        "vs": "侧重有力量",
+        "use": "a powerful engine"
+      },
+      "mighty": {
+        "def": "强大的(文)",
+        "vs": "文学,宏大",
+        "use": "a mighty warrior"
+      },
+      "robust": {
+        "def": "健壮的",
+        "vs": "侧重坚固",
+        "use": "a robust system"
+      }
+    }
+  },
+  {
+    "id": "sudden",
+    "word": "sudden",
+    "category": "qg",
+    "zh": "突然的",
+    "definition": "happening quickly",
+    "example": "A sudden change.",
+    "exampleZh": "突然的变化。",
+    "synonyms": [
+      "abrupt",
+      "unexpected",
+      "quick"
+    ],
+    "core": "没有预告地一下出现，把时间猛地打断。",
+    "ipaUk": "/ˈsʌdən/",
+    "ipaUs": "/ˈsʌdən/",
+    "synDetail": {
+      "abrupt": {
+        "def": "突然的",
+        "vs": "侧重生硬唐突",
+        "use": "an abrupt stop"
+      },
+      "unexpected": {
+        "def": "意外的",
+        "vs": "侧重未预料",
+        "use": "an unexpected guest"
+      },
+      "quick": {
+        "def": "快速的",
+        "vs": "侧重速度快",
+        "use": "a quick decision"
+      }
+    }
+  },
+  {
+    "id": "sweet",
+    "word": "sweet",
+    "category": "qg",
+    "zh": "甜的",
+    "definition": "having sugar taste",
+    "example": "This cake is sweet.",
+    "exampleZh": "这蛋糕很甜。",
+    "synonyms": [
+      "sugary",
+      "honeyed",
+      "pleasant"
+    ],
+    "core": "味道柔和像糖，也让心里感到舒服。",
+    "ipaUk": "/swiːt/",
+    "ipaUs": "/swit/",
+    "synDetail": {
+      "sugary": {
+        "def": "含糖的",
+        "vs": "侧重糖分高",
+        "use": "sugary drinks"
+      },
+      "honeyed": {
+        "def": "蜜甜的",
+        "vs": "侧重蜜糖味",
+        "use": "honeyed words"
+      },
+      "pleasant": {
+        "def": "宜人的",
+        "vs": "侧重悦目悦心",
+        "use": "a pleasant smile"
+      }
+    }
+  },
+  {
+    "id": "tall",
+    "word": "tall",
+    "category": "qg",
+    "zh": "高的",
+    "definition": "of more than average height",
+    "example": "A tall man.",
+    "exampleZh": "一个高个子男人。",
+    "synonyms": [
+      "high",
+      "towering",
+      "lofty"
+    ],
+    "core": "身体从地面向上长得高，超过周围。",
+    "ipaUk": "/tɔːl/",
+    "ipaUs": "/tɔl/",
+    "synDetail": {
+      "high": {
+        "def": "高的",
+        "vs": "侧重位置高",
+        "use": "high mountain"
+      },
+      "towering": {
+        "def": "高耸的",
+        "vs": "侧重压倒性高",
+        "use": "towering trees"
+      },
+      "lofty": {
+        "def": "高耸的(文)",
+        "vs": "侧重崇高/高耸",
+        "use": "lofty peaks"
+      }
+    }
+  },
+  {
+    "id": "thick",
+    "word": "thick",
+    "category": "qg",
+    "zh": "厚的",
+    "definition": "having great width",
+    "example": "A thick book.",
+    "exampleZh": "一本厚书。",
+    "synonyms": [
+      "dense",
+      "wide",
+      "heavy"
+    ],
+    "core": "两面之间距离大，层层堆得很实。",
+    "ipaUk": "/θɪk/",
+    "ipaUs": "/θɪk/",
+    "synDetail": {
+      "dense": {
+        "def": "稠密的",
+        "vs": "侧重密度大",
+        "use": "dense forest"
+      },
+      "wide": {
+        "def": "宽的",
+        "vs": "侧重横向宽",
+        "use": "a wide road"
+      },
+      "heavy": {
+        "def": "重的,浓的",
+        "vs": "侧重重量/浓度",
+        "use": "heavy fog"
+      }
+    }
+  },
+  {
+    "id": "tight",
+    "word": "tight",
+    "category": "qg",
+    "zh": "紧的",
+    "definition": "firmly held",
+    "example": "A tight grip.",
+    "exampleZh": "紧紧抓住。",
+    "synonyms": [
+      "firm",
+      "snug",
+      "close"
+    ],
+    "core": "空间被压紧，几乎没有松动余地。",
+    "ipaUk": "/taɪt/",
+    "ipaUs": "/taɪt/",
+    "synDetail": {
+      "firm": {
+        "def": "紧实的",
+        "vs": "侧重稳固",
+        "use": "firm grip"
+      },
+      "snug": {
+        "def": "紧贴的",
+        "vs": "侧重贴合舒适",
+        "use": "a snug fit"
+      },
+      "close": {
+        "def": "紧密的",
+        "vs": "侧重间距小",
+        "use": "close together"
+      }
+    }
+  },
+  {
+    "id": "tired",
+    "word": "tired",
+    "category": "qg",
+    "zh": "疲倦的",
+    "definition": "in need of rest",
+    "example": "I'm tired today.",
+    "exampleZh": "我今天很累。",
+    "synonyms": [
+      "weary",
+      "exhausted",
+      "worn-out"
+    ],
+    "core": "力量被用掉，身体只想停下休息。",
+    "ipaUk": "/ˈtaɪəd/",
+    "ipaUs": "/ˈtaɪɝd/",
+    "synDetail": {
+      "weary": {
+        "def": "疲惫的",
+        "vs": "侧重长期疲乏",
+        "use": "weary travelers"
+      },
+      "exhausted": {
+        "def": "精疲力竭的",
+        "vs": "侧重耗尽",
+        "use": "completely exhausted"
+      },
+      "worn-out": {
+        "def": "用旧了的",
+        "vs": "侧重磨损/极累",
+        "use": "a worn-out shirt"
+      }
+    }
+  },
+  {
+    "id": "true",
+    "word": "true",
+    "category": "qg",
+    "zh": "真的",
+    "definition": "in agreement with fact",
+    "example": "It's a true story.",
+    "exampleZh": "这是个真实的故事。",
+    "synonyms": [
+      "real",
+      "actual",
+      "factual"
+    ],
+    "core": "与事实正好相合，不是伪装出来的样子。",
+    "ipaUk": "/tɹuː/",
+    "ipaUs": "/tɹu/",
+    "synDetail": {
+      "real": {
+        "def": "真实的",
+        "vs": "侧重确实存在",
+        "use": "a real story"
+      },
+      "actual": {
+        "def": "实际的",
+        "vs": "侧重事实层面",
+        "use": "the actual cost"
+      },
+      "factual": {
+        "def": "符合事实的",
+        "vs": "侧重基于事实",
+        "use": "a factual account"
+      }
+    }
+  },
+  {
+    "id": "violent",
+    "word": "violent",
+    "category": "qg",
+    "zh": "暴力的",
+    "definition": "using great force",
+    "example": "A violent storm.",
+    "exampleZh": "狂风暴雨。",
+    "synonyms": [
+      "fierce",
+      "forceful",
+      "brutal"
+    ],
+    "core": "力量猛地爆开，带着伤害和失控冲击。",
+    "ipaUk": "/ˈvaɪlənt/",
+    "ipaUs": "/ˈvaɪələnt/",
+    "synDetail": {
+      "fierce": {
+        "def": "凶猛的",
+        "vs": "侧重凶狠",
+        "use": "a fierce wind"
+      },
+      "forceful": {
+        "def": "有力的",
+        "vs": "侧重强力",
+        "use": "a forceful argument"
+      },
+      "brutal": {
+        "def": "残暴的",
+        "vs": "侧重残忍",
+        "use": "a brutal attack"
+      }
+    }
+  },
+  {
+    "id": "waiting",
+    "word": "waiting",
+    "category": "qg",
+    "zh": "等候的",
+    "definition": "staying in expectation",
+    "example": "The waiting room.",
+    "exampleZh": "候诊室。",
+    "synonyms": [
+      "expectant",
+      "pending",
+      "anticipating"
+    ],
+    "core": "动作先停住，把时间留给将要发生的事。",
+    "ipaUk": "/ˈweɪtɪŋ/",
+    "ipaUs": "/ˈweɪtɪŋ/",
+    "synDetail": {
+      "expectant": {
+        "def": "期待的",
+        "vs": "侧重满怀期待",
+        "use": "expectant faces"
+      },
+      "pending": {
+        "def": "待定的",
+        "vs": "侧重悬而未决",
+        "use": "pending approval"
+      },
+      "anticipating": {
+        "def": "预期的",
+        "vs": "侧重预料/期待",
+        "use": "anticipating his arrival"
+      }
+    }
+  },
+  {
+    "id": "warm",
+    "word": "warm",
+    "category": "qg",
+    "zh": "温暖的",
+    "definition": "slightly hot",
+    "example": "Warm weather.",
+    "exampleZh": "暖和的天气。",
+    "synonyms": [
+      "mild",
+      "cozy",
+      "heated"
+    ],
+    "core": "热度轻轻贴近，不烫却让人感到舒展。",
+    "ipaUk": "/wɔːm/",
+    "ipaUs": "/wɔɹm/",
+    "synDetail": {
+      "mild": {
+        "def": "温和的",
+        "vs": "侧重适度",
+        "use": "mild weather"
+      },
+      "cozy": {
+        "def": "舒适温暖的",
+        "vs": "侧重温馨",
+        "use": "a cozy room"
+      },
+      "heated": {
+        "def": "加热的",
+        "vs": "侧重经加热",
+        "use": "a heated pool"
+      }
+    }
+  },
+  {
+    "id": "wet",
+    "word": "wet",
+    "category": "qg",
+    "zh": "湿的",
+    "definition": "covered with water",
+    "example": "My clothes are wet.",
+    "exampleZh": "我衣服湿了。",
+    "synonyms": [
+      "damp",
+      "soaked",
+      "moist"
+    ],
+    "core": "表面带着水分，摸上去有潮润感觉。",
+    "ipaUk": "/wɛt/",
+    "ipaUs": "/wɛt/",
+    "synDetail": {
+      "damp": {
+        "def": "潮湿的",
+        "vs": "侧重略湿",
+        "use": "damp clothes"
+      },
+      "soaked": {
+        "def": "湿透的",
+        "vs": "侧重彻底湿",
+        "use": "soaked to the skin"
+      },
+      "moist": {
+        "def": "湿润的",
+        "vs": "侧重适度湿润",
+        "use": "moist cake"
+      }
+    }
+  },
+  {
+    "id": "wide",
+    "word": "wide",
+    "category": "qg",
+    "zh": "宽的",
+    "definition": "large from side to side",
+    "example": "A wide river.",
+    "exampleZh": "宽阔的河流。",
+    "synonyms": [
+      "broad",
+      "vast",
+      "expansive"
+    ],
+    "core": "左右打开很大，给出更多横向空间。",
+    "ipaUk": "/waɪd/",
+    "ipaUs": "/waɪd/",
+    "synDetail": {
+      "broad": {
+        "def": "宽阔的",
+        "vs": "侧重广阔",
+        "use": "a broad smile"
+      },
+      "vast": {
+        "def": "广大的",
+        "vs": "侧重巨大",
+        "use": "a vast desert"
+      },
+      "expansive": {
+        "def": "广阔的",
+        "vs": "侧重扩展性",
+        "use": "an expansive view"
+      }
+    }
+  },
+  {
+    "id": "wise",
+    "word": "wise",
+    "category": "qg",
+    "zh": "明智的",
+    "definition": "having good judgment",
+    "example": "A wise old man.",
+    "exampleZh": "睿智的老人。",
+    "synonyms": [
+      "smart",
+      "prudent",
+      "sage"
+    ],
+    "core": "看得深又判断稳，知道怎样做才合适。",
+    "ipaUk": "/waɪz/",
+    "ipaUs": "/waɪz/",
+    "synDetail": {
+      "smart": {
+        "def": "聪明的",
+        "vs": "侧重头脑灵活",
+        "use": "a smart kid"
+      },
+      "prudent": {
+        "def": "审慎的",
+        "vs": "侧重考虑周到",
+        "use": "a prudent decision"
+      },
+      "sage": {
+        "def": "睿智的",
+        "vs": "文学,饱经世故",
+        "use": "sage advice"
+      }
+    }
+  },
+  {
+    "id": "yellow",
+    "word": "yellow",
+    "category": "qg",
+    "zh": "黄色的",
+    "definition": "color of sun and gold",
+    "example": "A yellow flower.",
+    "exampleZh": "一朵黄花。",
+    "synonyms": [
+      "gold",
+      "amber",
+      "saffron"
+    ],
+    "core": "像阳光和熟麦的颜色，明亮而偏暖。",
+    "ipaUk": "/ˈjɛləʊ/",
+    "ipaUs": "/ˈjɛloʊ/",
+    "synDetail": {
+      "gold": {
+        "def": "金色",
+        "vs": "侧重金黄",
+        "use": "gold ring"
+      },
+      "amber": {
+        "def": "琥珀色",
+        "vs": "侧重透明橙黄",
+        "use": "amber light"
+      },
+      "saffron": {
+        "def": "藏红色",
+        "vs": "侧重橙黄",
+        "use": "saffron robes"
+      }
+    }
+  },
+  {
+    "id": "young",
+    "word": "young",
+    "category": "qg",
+    "zh": "年轻的",
+    "definition": "not old",
+    "example": "A young boy.",
+    "exampleZh": "一个小男孩。",
+    "synonyms": [
+      "youthful",
+      "new",
+      "junior"
+    ],
+    "core": "生命还在早段，带着新鲜和未完成。",
+    "ipaUk": "/jʌŋ/",
+    "ipaUs": "/jʌŋ/",
+    "synDetail": {
+      "youthful": {
+        "def": "年轻的",
+        "vs": "侧重青春气",
+        "use": "a youthful look"
+      },
+      "new": {
+        "def": "新的",
+        "vs": "广义,年轻引申",
+        "use": "new in town"
+      },
+      "junior": {
+        "def": "年少的,初级的",
+        "vs": "侧重等级低",
+        "use": "junior staff"
+      }
+    }
+  }
+]

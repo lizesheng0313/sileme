@@ -1,0 +1,59 @@
+.source-page {
+  .source-hero {
+    margin-bottom: 0;
+    background:
+      radial-gradient(circle at 84% 18%, rgba(255, 255, 255, 0.45), transparent 24%),
+      linear-gradient(145deg, #2f7558 0%, #235b43 58%, #3b8465 100%);
+    color: #fff;
+    box-shadow: 0 22rpx 48rpx rgba(35, 91, 67, 0.24);
+  }
+
+  .source-hero .hero-eyebrow {
+    background: rgba(255, 255, 255, 0.16);
+    color: rgba(255, 255, 255, 0.88);
+  }
+
+  .source-hero .hero-title {
+    color: #fff;
+  }
+
+  .section-title {
+    font-size: 38rpx;
+  }
+
+  .section-meta {
+    margin-top: 14rpx;
+    font-size: 28rpx;
+    line-height: 1.75;
+    color: var(--ink-soft);
+  }
+
+  .source-list {
+    display: flex;
+    flex-direction: column;
+    gap: 16rpx;
+    margin-top: 18rpx;
+  }
+
+  .source-item {
+    padding: 22rpx;
+    border-radius: 24rpx;
+    background: #fbfcfd;
+    border: 2rpx solid #e8ecf5;
+  }
+
+  .source-item-title {
+    display: block;
+    font-size: 32rpx;
+    font-weight: 900;
+    color: var(--ink);
+  }
+
+  .source-item-text {
+    display: block;
+    margin-top: 10rpx;
+    font-size: 26rpx;
+    line-height: 1.65;
+    color: var(--ink-soft);
+  }
+}

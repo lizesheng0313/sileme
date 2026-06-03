@@ -3,5 +3,11 @@ deploy_versions/
 .temp/
 .rn_temp/
 node_modules/
+.venv*/
+audio-samples/
+*.mp3
+*.wav
+*.m4a
+*.ogg
 .DS_Store
 .env

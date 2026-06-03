@@ -1,0 +1,177 @@
+.learn-page {
+  padding: 34rpx 32rpx 210rpx;
+  background:
+    radial-gradient(circle at 70% 8%, rgba(40, 103, 77, 0.08), transparent 28%),
+    linear-gradient(180deg, #fbfdfb 0%, #f4f8f5 100%);
+
+  .learn-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 72rpx;
+    margin-bottom: 14rpx;
+  }
+
+  .learn-back,
+  .learn-more {
+    width: 84rpx;
+    font-size: 42rpx;
+    line-height: 1;
+    color: #071031;
+  }
+
+  .learn-more {
+    text-align: right;
+    font-size: 30rpx;
+    letter-spacing: 4rpx;
+  }
+
+  .learn-step {
+    width: 230rpx;
+    text-align: center;
+  }
+
+  .learn-step-text {
+    display: block;
+    font-size: 25rpx;
+    font-weight: 600;
+    color: #737b93;
+  }
+
+  .learn-step-track {
+    height: 10rpx;
+    margin-top: 10rpx;
+    border-radius: 999rpx;
+    overflow: hidden;
+    background: #e8ebf3;
+  }
+
+  .learn-step-fill {
+    height: 100%;
+    border-radius: inherit;
+    background: linear-gradient(90deg, #28674d, #80b294);
+  }
+
+  .learn-mode-scroll {
+    width: 100%;
+    white-space: nowrap;
+    margin: 8rpx 0 18rpx;
+  }
+
+  .learn-mode-row {
+    display: inline-flex;
+    gap: 12rpx;
+    padding: 4rpx 2rpx 10rpx;
+  }
+
+  .learn-mode-chip {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 58rpx;
+    padding: 0 24rpx;
+    border-radius: 999rpx;
+    background: #fff;
+    border: 2rpx solid #e6eaf3;
+    color: #8b94aa;
+    font-size: 23rpx;
+    font-weight: 700;
+    box-shadow: 0 8rpx 18rpx rgba(24, 31, 72, 0.03);
+  }
+
+  .learn-mode-chip.active {
+    background: #eaf4ef;
+    border-color: #6da184;
+    color: #28674d;
+  }
+
+  .learn-card-wrap {
+    animation: wordCardIn 220ms ease-out both;
+  }
+
+  .learn-summary {
+    margin-top: 22rpx;
+    padding: 4rpx 4rpx 0;
+    color: #8a94aa;
+    font-size: 23rpx;
+    line-height: 1.8;
+  }
+
+  .learn-summary text {
+    display: block;
+  }
+
+  .summary-track {
+    height: 10rpx;
+    margin-top: 12rpx;
+    border-radius: 999rpx;
+    overflow: hidden;
+    background: #e9edf5;
+  }
+
+  .summary-fill {
+    height: 100%;
+    border-radius: inherit;
+    background: linear-gradient(90deg, #28674d, #80b294);
+  }
+
+  .learn-actions {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 20;
+    display: flex;
+    gap: 24rpx;
+    padding: 24rpx 32rpx 46rpx;
+    background: #f4f8f5;
+    border-top: 2rpx solid rgba(220, 228, 246, 0.8);
+    box-shadow: 0 -14rpx 34rpx rgba(28, 36, 82, 0.08);
+  }
+
+  .change-btn,
+  .know-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 86rpx;
+    border-radius: 28rpx;
+    font-size: 28rpx;
+    font-weight: 800;
+  }
+
+  .change-btn {
+    flex: 1;
+    background: #eaf4ef;
+    color: #28674d;
+  }
+
+  .know-btn {
+    flex: 1.35;
+    background: linear-gradient(135deg, #28674d, #3f8061);
+    color: #fff;
+    box-shadow: 0 14rpx 28rpx rgba(35, 91, 67, 0.24);
+  }
+
+  .empty-card {
+    margin-top: 220rpx;
+    padding: 48rpx 28rpx;
+    border-radius: 28rpx;
+    background: #fff;
+    text-align: center;
+    color: #8a94aa;
+    font-size: 28rpx;
+  }
+}
+
+@keyframes wordCardIn {
+  from {
+    opacity: 0;
+    transform: translateY(16rpx) scale(0.985);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}

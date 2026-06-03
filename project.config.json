@@ -4,8 +4,8 @@
   "description": "死了么 - 签到提醒小程序",
   "appid": "wxee8812cef3046b13",
   "setting": {
-    "urlCheck": true,
-    "es6": false,
+    "urlCheck": false,
+    "es6": true,
     "enhance": true,
     "compileHotReLoad": false,
     "postcss": false,

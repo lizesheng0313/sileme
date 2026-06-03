@@ -1,0 +1,124 @@
+.library-page {
+  .library-head {
+    margin-top: 0;
+  }
+
+  .search-shell {
+    margin-top: 22rpx;
+  }
+
+  .search-input {
+    width: 100%;
+    height: 88rpx;
+    padding: 0 28rpx;
+    border-radius: 999rpx;
+    background: #fff;
+    border: 2rpx solid var(--line);
+    font-size: 28rpx;
+    color: var(--ink);
+  }
+
+  .library-status-row {
+    display: flex;
+    gap: 14rpx;
+    margin-top: 18rpx;
+  }
+
+  .status-chip {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 62rpx;
+    padding: 0 26rpx;
+    border-radius: 999rpx;
+    background: #fff;
+    border: 2rpx solid var(--line);
+    color: var(--ink-soft);
+    font-size: 24rpx;
+    font-weight: 800;
+  }
+
+  .status-chip.active {
+    background: #eaf4ef;
+    border-color: #6da184;
+    color: #28674d;
+  }
+
+  .category-row {
+    margin-top: 18rpx;
+  }
+
+  .library-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 22rpx;
+    margin-top: 22rpx;
+  }
+
+  .library-item {
+    padding: 28rpx;
+    border-radius: 28rpx;
+    background: var(--surface);
+    border: 2rpx solid rgba(255, 255, 255, 0.76);
+    box-shadow: var(--shadow-soft);
+  }
+
+  .mini-ipa {
+    margin-left: auto;
+    font-size: 24rpx;
+    color: var(--brand);
+  }
+
+  .learned-mark {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 38rpx;
+    padding: 0 14rpx;
+    border-radius: 999rpx;
+    background: #eaf4ef;
+    color: #28674d;
+    font-size: 20rpx;
+    font-weight: 800;
+  }
+
+  .library-word {
+    display: block;
+    margin-top: 18rpx;
+    font-size: 56rpx;
+    font-weight: 700;
+    line-height: 1.08;
+    color: var(--ink);
+  }
+
+  .library-zh {
+    display: block;
+    margin-top: 14rpx;
+    font-size: 30rpx;
+    color: var(--ink);
+  }
+
+  .library-def {
+    display: block;
+    margin-top: 12rpx;
+    font-size: 26rpx;
+    line-height: 1.65;
+    color: var(--ink-soft);
+  }
+
+  .library-foot {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 26rpx;
+    padding-top: 24rpx;
+    border-top: 2rpx dashed var(--line);
+  }
+
+  .library-link,
+  .library-audio {
+    font-size: 25rpx;
+    color: var(--brand);
+    font-weight: 700;
+  }
+}
