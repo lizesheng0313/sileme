@@ -46,9 +46,25 @@
   }
 
   .home-icon {
-    font-size: 46rpx;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60rpx;
+    height: 60rpx;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.66);
+    font-size: 34rpx;
     line-height: 1;
     color: #111a24;
+    flex-shrink: 0;
+  }
+
+  .home-icon-search {
+    transform: scale(0.92);
+  }
+
+  .home-icon-ring {
+    transform: scale(0.88);
   }
 
   .plan-card {
@@ -230,9 +246,15 @@
     height: 46rpx;
     border-radius: 50%;
     background: #28674d;
-    color: #fff;
-    font-size: 34rpx;
-    line-height: 1;
+    flex-shrink: 0;
+  }
+
+  .start-arrow {
+    width: 14rpx;
+    height: 14rpx;
+    border-top: 4rpx solid #fff;
+    border-right: 4rpx solid #fff;
+    transform: translateX(-2rpx) rotate(45deg);
   }
 
   .library-card {
@@ -318,6 +340,10 @@
   .quick-card {
     position: relative;
     flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     height: 132rpx;
     padding: 22rpx 14rpx;
     border-radius: 24rpx;
@@ -328,10 +354,27 @@
   }
 
   .quick-icon {
-    display: block;
-    font-size: 38rpx;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 56rpx;
+    height: 56rpx;
+    margin: 0 auto;
+    font-size: 36rpx;
     line-height: 1;
     color: #28674d;
+  }
+
+  .quick-icon-review {
+    transform: scale(1.02);
+  }
+
+  .quick-icon-quiz {
+    transform: scale(0.82);
+  }
+
+  .quick-icon-source {
+    transform: scale(1.08);
   }
 
   .quick-title {

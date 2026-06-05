@@ -46,8 +46,8 @@ export default function HomePage() {
           <Text className='home-number'>就够了</Text>
         </View>
         <View className='home-icons'>
-          <Text className='home-icon'>⌕</Text>
-          <Text className='home-icon'>⌾</Text>
+          <Text className='home-icon home-icon-search'>⌕</Text>
+          <Text className='home-icon home-icon-ring'>⌾</Text>
         </View>
       </View>
 
@@ -82,7 +82,9 @@ export default function HomePage() {
 
         <Button className='home-start-btn' onClick={goLearn}>
           <Text>开始学习</Text>
-          <Text className='start-dot'>›</Text>
+          <View className='start-dot'>
+            <View className='start-arrow' />
+          </View>
         </Button>
       </View>
 
@@ -104,16 +106,16 @@ export default function HomePage() {
 
       <View className='quick-row'>
         <View className='quick-card' onClick={() => Taro.navigateTo({ url: '/pages/review/index' })}>
-          <Text className='quick-badge'>{reviewCount}</Text>
-          <Text className='quick-icon'>↻</Text>
+          {reviewCount > 0 ? <Text className='quick-badge'>{reviewCount > 99 ? '99+' : reviewCount}</Text> : null}
+          <Text className='iconfont icon-xunhuan quick-icon quick-icon-review' />
           <Text className='quick-title'>复习</Text>
         </View>
         <View className='quick-card' onClick={() => Taro.navigateTo({ url: '/pages/quiz/index' })}>
-          <Text className='quick-icon'>★</Text>
+          <Text className='iconfont icon-kaoshi quick-icon quick-icon-quiz' />
           <Text className='quick-title'>考试</Text>
         </View>
         <View className='quick-card' onClick={goSource}>
-          <Text className='quick-icon'>□</Text>
+          <Text className='iconfont icon-wenxian quick-icon quick-icon-source' />
           <Text className='quick-title'>文献</Text>
         </View>
       </View>

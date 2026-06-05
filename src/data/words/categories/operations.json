@@ -19,17 +19,26 @@
       "arrive": {
         "def": "到达(目的地)",
         "vs": "强调到达终点,不含来的过程",
-        "use": "We arrived at 8pm sharp."
+        "use": "arrive at 8pm",
+        "useZh": "晚上8点到达",
+        "example": "We arrived at 8pm sharp after a long drive.",
+        "exampleZh": "经过长途驾驶，我们晚上8点整到达。"
       },
       "approach": {
         "def": "靠近,接近",
         "vs": "强调接近过程,常搭抽象对象",
-        "use": "Winter is approaching."
+        "use": "approaching winter",
+        "useZh": "即将到来的冬天",
+        "example": "Winter is approaching, so we need warm clothes.",
+        "exampleZh": "冬天快到了，所以我们需要保暖衣物。"
       },
       "reach": {
         "def": "够到,达到",
         "vs": "强调努力或经过距离够到",
-        "use": "He reached the summit."
+        "use": "reach the summit",
+        "useZh": "到达山顶",
+        "example": "He reached the summit after hours of climbing.",
+        "exampleZh": "经过数小时攀登，他到达了山顶。"
       }
     }
   },
@@ -53,17 +62,26 @@
       "obtain": {
         "def": "获得(经努力)",
         "vs": "更正式,常用书面语",
-        "use": "obtain a license"
+        "use": "obtain a license",
+        "useZh": "获得执照",
+        "example": "She worked hard to obtain a license for her business.",
+        "exampleZh": "她努力工作以获得营业执照。"
       },
       "receive": {
         "def": "收到(被动)",
         "vs": "被动接受,不主动",
-        "use": "receive a gift"
+        "use": "receive a gift",
+        "useZh": "收到礼物",
+        "example": "I was happy to receive a gift from my friend.",
+        "exampleZh": "我很高兴收到朋友的礼物。"
       },
       "acquire": {
         "def": "获得(逐渐)",
         "vs": "强调长期累积获得",
-        "use": "acquire skills over years"
+        "use": "acquire skills over years",
+        "useZh": "多年积累技能",
+        "example": "He acquired valuable skills over years of practice.",
+        "exampleZh": "经过多年练习，他获得了宝贵的技能。"
       }
     }
   },
@@ -87,17 +105,26 @@
       "offer": {
         "def": "主动提供",
         "vs": "对方可选择接受与否",
-        "use": "offer help"
+        "use": "offer help",
+        "useZh": "提供帮助",
+        "example": "She kindly offered help to the new student.",
+        "exampleZh": "她好心地向新学生提供帮助。"
       },
       "hand": {
         "def": "递交",
         "vs": "强调用手递的动作",
-        "use": "Hand me the salt."
+        "use": "hand me the salt",
+        "useZh": "把盐递给我",
+        "example": "Could you hand me the salt, please?",
+        "exampleZh": "请把盐递给我好吗？"
       },
       "present": {
         "def": "赠予,呈献",
         "vs": "正式场合的给予",
-        "use": "present an award"
+        "use": "present an award",
+        "useZh": "颁发奖项",
+        "example": "The mayor will present an award to the winner.",
+        "exampleZh": "市长将向获胜者颁发奖项。"
       }
     }
   },
@@ -121,17 +148,26 @@
       "leave": {
         "def": "离开",
         "vs": "强调从某处出发",
-        "use": "leave the office at 6"
+        "use": "leave the office at 6",
+        "useZh": "6点离开办公室",
+        "example": "I usually leave the office at 6 in the evening.",
+        "exampleZh": "我通常晚上6点离开办公室。"
       },
       "depart": {
         "def": "出发",
         "vs": "正式,多用于交通工具",
-        "use": "The train departs at noon."
+        "use": "depart at noon",
+        "useZh": "中午出发",
+        "example": "The train departs at noon from platform 3.",
+        "exampleZh": "火车中午从3号站台出发。"
       },
       "proceed": {
         "def": "前进,继续",
         "vs": "强调继续推进某事",
-        "use": "Please proceed to gate 5."
+        "use": "proceed to gate 5",
+        "useZh": "前往5号登机口",
+        "example": "Please proceed to gate 5 for boarding.",
+        "exampleZh": "请前往5号登机口登机。"
       }
     }
   },
@@ -155,17 +191,26 @@
       "hold": {
         "def": "握住,持有",
         "vs": "强调短期或物理握住",
-        "use": "Hold the door for me."
+        "use": "hold the door",
+        "useZh": "扶门",
+        "example": "Could you hold the door for me, please?",
+        "exampleZh": "请帮我扶一下门好吗？"
       },
       "retain": {
         "def": "保留",
         "vs": "正式,强调不丢失",
-        "use": "retain customers"
+        "use": "retain customers",
+        "useZh": "留住客户",
+        "example": "The company works hard to retain customers.",
+        "exampleZh": "公司努力留住客户。"
       },
       "maintain": {
         "def": "维持",
         "vs": "强调持续状态",
-        "use": "maintain good health"
+        "use": "maintain good health",
+        "useZh": "保持健康",
+        "example": "She exercises daily to maintain good health.",
+        "exampleZh": "她每天锻炼以保持健康。"
       }
     }
   },
@@ -189,17 +234,26 @@
       "allow": {
         "def": "允许",
         "vs": "中性,最常用",
-        "use": "allow visitors in"
+        "use": "allow visitors in",
+        "useZh": "允许访客进入",
+        "example": "The school does not allow visitors in after 5pm.",
+        "exampleZh": "学校下午5点后不允许访客进入。"
       },
       "permit": {
         "def": "准许",
         "vs": "更正式,常用书面/规则",
-        "use": "smoking is not permitted"
+        "use": "smoking is not permitted",
+        "useZh": "禁止吸烟",
+        "example": "Smoking is not permitted inside the building.",
+        "exampleZh": "大楼内禁止吸烟。"
       },
       "enable": {
         "def": "使能够",
         "vs": "赋能,提供条件",
-        "use": "enable users to share"
+        "use": "enable users to share",
+        "useZh": "让用户能够分享",
+        "example": "This feature enables users to share photos easily.",
+        "exampleZh": "这个功能让用户能够轻松分享照片。"
       }
     }
   },
@@ -223,17 +277,26 @@
       "create": {
         "def": "创造",
         "vs": "强调从无到有",
-        "use": "create art"
+        "use": "create art",
+        "useZh": "创作艺术",
+        "example": "The artist loves to create art from recycled materials.",
+        "exampleZh": "这位艺术家喜欢用回收材料创作艺术。"
       },
       "build": {
         "def": "建造",
         "vs": "强调逐步搭建结构",
-        "use": "build a house"
+        "use": "build a house",
+        "useZh": "盖房子",
+        "example": "They plan to build a house near the lake.",
+        "exampleZh": "他们计划在湖边盖房子。"
       },
       "produce": {
         "def": "生产",
         "vs": "强调批量或工业",
-        "use": "produce 1000 units a day"
+        "use": "produce 1000 units a day",
+        "useZh": "每天生产1000件",
+        "example": "The factory can produce 1000 units a day.",
+        "exampleZh": "这家工厂每天能生产1000件产品。"
       }
     }
   },
@@ -257,17 +320,26 @@
       "place": {
         "def": "放置(精心)",
         "vs": "比 put 更慎重、有意识",
-        "use": "place the vase carefully"
+        "use": "place the vase carefully",
+        "useZh": "小心放花瓶",
+        "example": "She placed the vase carefully on the shelf.",
+        "exampleZh": "她小心地把花瓶放在架子上。"
       },
       "set": {
         "def": "放下,安置",
         "vs": "常含安排意味",
-        "use": "set the table"
+        "use": "set the table",
+        "useZh": "摆桌子",
+        "example": "Please set the table before dinner starts.",
+        "exampleZh": "晚餐开始前请摆好桌子。"
       },
       "lay": {
         "def": "平放",
         "vs": "强调水平放置",
-        "use": "lay the baby down"
+        "use": "lay the baby down",
+        "useZh": "把宝宝放下",
+        "example": "She gently laid the baby down in the crib.",
+        "exampleZh": "她轻轻地把宝宝放在婴儿床里。"
       }
     }
   },
@@ -291,17 +363,26 @@
       "appear": {
         "def": "看起来",
         "vs": "比 seem 更基于视觉印象",
-        "use": "He appears tired."
+        "use": "appear tired",
+        "useZh": "显得疲惫",
+        "example": "He appears tired after working all night.",
+        "exampleZh": "他工作了一整夜后看起来累了。"
       },
       "look": {
         "def": "看上去",
         "vs": "口语化,直接基于外观",
-        "use": "You look great today."
+        "use": "look great",
+        "useZh": "看起来很棒",
+        "example": "You look great today in that dress.",
+        "exampleZh": "你今天穿那条裙子看起来很棒。"
       },
       "feel like": {
         "def": "感觉像",
         "vs": "基于主观感受",
-        "use": "It feels like rain."
+        "use": "feel like rain",
+        "useZh": "感觉要下雨",
+        "example": "It feels like rain, so take an umbrella.",
+        "exampleZh": "感觉要下雨了，所以带把伞。"
       }
     }
   },
@@ -325,17 +406,26 @@
       "grab": {
         "def": "抓取",
         "vs": "快速、随手",
-        "use": "grab a coffee"
+        "use": "grab a coffee",
+        "useZh": "喝杯咖啡",
+        "example": "Let's grab a coffee before the meeting starts.",
+        "exampleZh": "会议开始前我们去喝杯咖啡吧。"
       },
       "carry": {
         "def": "携带",
         "vs": "强调持续拿在身上",
-        "use": "carry an umbrella"
+        "use": "carry an umbrella",
+        "useZh": "带伞",
+        "example": "Don't forget to carry an umbrella today.",
+        "exampleZh": "今天别忘了带伞。"
       },
       "accept": {
         "def": "接受",
         "vs": "对给予的回应",
-        "use": "accept the offer"
+        "use": "accept the offer",
+        "useZh": "接受提议",
+        "example": "She decided to accept the job offer happily.",
+        "exampleZh": "她高兴地决定接受这份工作提议。"
       }
     }
   },
@@ -359,17 +449,26 @@
       "exist": {
         "def": "存在",
         "vs": "强调有这个东西",
-        "use": "Ghosts don't exist."
+        "use": "exist in reality",
+        "useZh": "真实存在",
+        "example": "Do ghosts really exist in this world?",
+        "exampleZh": "鬼真的存在于这个世界上吗？"
       },
       "stay": {
         "def": "停留",
         "vs": "强调不离开某处",
-        "use": "stay home tonight"
+        "use": "stay home tonight",
+        "useZh": "今晚待在家",
+        "example": "I will stay home tonight to rest.",
+        "exampleZh": "我今晚会待在家休息。"
       },
       "remain": {
         "def": "仍然是",
         "vs": "强调持续的状态",
-        "use": "remain calm"
+        "use": "remain calm",
+        "useZh": "保持冷静",
+        "example": "Please remain calm during the emergency.",
+        "exampleZh": "紧急情况下请保持冷静。"
       }
     }
   },
@@ -393,17 +492,26 @@
       "perform": {
         "def": "执行,表演",
         "vs": "正式或专业语境",
-        "use": "perform surgery"
+        "use": "perform surgery",
+        "useZh": "做手术",
+        "example": "The surgeon will perform surgery tomorrow morning.",
+        "exampleZh": "外科医生明天早上将进行手术。"
       },
       "act": {
         "def": "行动",
         "vs": "强调采取动作",
-        "use": "act quickly"
+        "use": "act quickly",
+        "useZh": "迅速行动",
+        "example": "We must act quickly to solve this problem.",
+        "exampleZh": "我们必须迅速行动来解决这个问题。"
       },
       "carry out": {
         "def": "完成,执行",
         "vs": "强调贯彻到底",
-        "use": "carry out a plan"
+        "use": "carry out a plan",
+        "useZh": "执行计划",
+        "example": "The team will carry out a plan next week.",
+        "exampleZh": "团队下周将执行一项计划。"
       }
     }
   },
@@ -427,17 +535,26 @@
       "own": {
         "def": "拥有(所有权)",
         "vs": "强调法律所有权",
-        "use": "own a house"
+        "use": "own a house",
+        "useZh": "拥有一栋房子",
+        "example": "She owns a house in the countryside.",
+        "exampleZh": "她在乡下拥有一栋房子。"
       },
       "possess": {
         "def": "持有",
         "vs": "正式,含掌控感",
-        "use": "possess great skill"
+        "use": "possess great skill",
+        "useZh": "拥有高超技能",
+        "example": "He possesses great skill in painting.",
+        "exampleZh": "他拥有高超的绘画技能。"
       },
       "hold": {
         "def": "持有",
         "vs": "短期或抽象持有",
-        "use": "hold a ticket"
+        "use": "hold a ticket",
+        "useZh": "拿着一张票",
+        "example": "Please hold a ticket before entering.",
+        "exampleZh": "进入前请拿着一张票。"
       }
     }
   },
@@ -461,17 +578,26 @@
       "speak": {
         "def": "说话",
         "vs": "强调说的动作而非内容",
-        "use": "speak loudly"
+        "use": "speak loudly",
+        "useZh": "大声说话",
+        "example": "Please speak loudly so everyone can hear.",
+        "exampleZh": "请大声说话，这样每个人都能听到。"
       },
       "tell": {
         "def": "告诉",
         "vs": "必须有听者",
-        "use": "Tell me a story."
+        "use": "tell a story",
+        "useZh": "讲故事",
+        "example": "Tell me a story about your childhood.",
+        "exampleZh": "给我讲一个关于你童年的故事。"
       },
       "state": {
         "def": "陈述",
         "vs": "正式,明确表达",
-        "use": "state your name"
+        "use": "state your name",
+        "useZh": "说出你的名字",
+        "example": "Please state your name and address clearly.",
+        "exampleZh": "请清楚地陈述你的姓名和地址。"
       }
     }
   },
@@ -495,17 +621,26 @@
       "look": {
         "def": "看,瞧",
         "vs": "主动看,带方向",
-        "use": "Look at the sky."
+        "use": "look at sky",
+        "useZh": "看天空",
+        "example": "Look at the sky; it's so beautiful tonight.",
+        "exampleZh": "看天空，今晚真美。"
       },
       "view": {
         "def": "观看,查看",
         "vs": "正式或专业语境",
-        "use": "view the document"
+        "use": "view the document",
+        "useZh": "查看文件",
+        "example": "You can view the document online now.",
+        "exampleZh": "你现在可以在线查看文件。"
       },
       "understand": {
         "def": "理解",
         "vs": "see 的引申义",
-        "use": "I see your point."
+        "use": "see your point",
+        "useZh": "明白你的意思",
+        "example": "I see your point, but I disagree.",
+        "exampleZh": "我明白你的意思，但我不同意。"
       }
     }
   },
@@ -529,17 +664,26 @@
       "dispatch": {
         "def": "派遣,发出",
         "vs": "正式,常用于公文/物流",
-        "use": "dispatch the package"
+        "use": "dispatch the package",
+        "useZh": "发送包裹",
+        "example": "We will dispatch the package tomorrow morning.",
+        "exampleZh": "我们明天早上会发送包裹。"
       },
       "mail": {
         "def": "邮寄",
         "vs": "特指通过邮政",
-        "use": "mail a letter"
+        "use": "mail a letter",
+        "useZh": "寄信",
+        "example": "I need to mail a letter to my friend.",
+        "exampleZh": "我需要寄一封信给我的朋友。"
       },
       "forward": {
         "def": "转发",
         "vs": "传递给下一站",
-        "use": "forward the email"
+        "use": "forward the email",
+        "useZh": "转发邮件",
+        "example": "Please forward the email to your manager.",
+        "exampleZh": "请把邮件转发给你的经理。"
       }
     }
   },
@@ -563,17 +707,26 @@
       "can": {
         "def": "能,可以",
         "vs": "侧重能力或非正式许可",
-        "use": "I can swim."
+        "use": "can swim",
+        "useZh": "会游泳",
+        "example": "I can swim across the river easily.",
+        "exampleZh": "我能轻松游过这条河。"
       },
       "might": {
         "def": "也许",
         "vs": "比 may 可能性更低",
-        "use": "It might rain later."
+        "use": "might rain",
+        "useZh": "可能下雨",
+        "example": "It might rain later, so take an umbrella.",
+        "exampleZh": "待会儿可能会下雨，所以带把伞。"
       },
       "could": {
         "def": "可能,能够",
         "vs": "过去式或更礼貌的请求",
-        "use": "Could you help me?"
+        "use": "could help",
+        "useZh": "可以帮忙",
+        "example": "Could you help me with this heavy box?",
+        "exampleZh": "你能帮我搬这个重箱子吗？"
       }
     }
   },
@@ -597,17 +750,26 @@
       "shall": {
         "def": "将要",
         "vs": "古英语或法律语境",
-        "use": "You shall not pass."
+        "use": "shall not pass",
+        "useZh": "不准通过",
+        "example": "You shall not pass this gate without permission.",
+        "exampleZh": "未经许可，你不准通过这道门。"
       },
       "intend to": {
         "def": "打算",
         "vs": "强调主观意图",
-        "use": "I intend to leave."
+        "use": "intend to leave",
+        "useZh": "打算离开",
+        "example": "I intend to leave early tomorrow morning.",
+        "exampleZh": "我打算明天早上早点离开。"
       },
       "be going to": {
         "def": "将要(口语)",
         "vs": "基于当前迹象/计划",
-        "use": "It's going to rain."
+        "use": "going to rain",
+        "useZh": "要下雨",
+        "example": "It's going to rain, so bring a coat.",
+        "exampleZh": "要下雨了，所以带件外套。"
       }
     }
   },
@@ -631,17 +793,26 @@
       "concerning": {
         "def": "关于",
         "vs": "正式,书面",
-        "use": "concerning your request"
+        "use": "concerning your request",
+        "useZh": "关于你的请求",
+        "example": "I have a question concerning your request.",
+        "exampleZh": "关于你的请求，我有一个问题。"
       },
       "regarding": {
         "def": "就...而言",
         "vs": "商务/正式语境",
-        "use": "regarding the meeting"
+        "use": "regarding the meeting",
+        "useZh": "关于会议",
+        "example": "Please email me regarding the meeting time.",
+        "exampleZh": "关于会议时间，请发邮件给我。"
       },
       "around": {
         "def": "大约",
         "vs": "侧重 \"大约\" 而非 \"关于\"",
-        "use": "around 50 people"
+        "use": "around 50 people",
+        "useZh": "大约50人",
+        "example": "There were around 50 people at the party.",
+        "exampleZh": "派对上大约有50人。"
       }
     }
   },
@@ -665,17 +836,26 @@
       "over": {
         "def": "越过",
         "vs": "侧重越过高处或表面",
-        "use": "jump over the fence"
+        "use": "jump over the fence",
+        "useZh": "跳过栅栏",
+        "example": "The cat can jump over the fence easily.",
+        "exampleZh": "猫能轻松跳过栅栏。"
       },
       "through": {
         "def": "穿过",
         "vs": "侧重穿过内部",
-        "use": "walk through the tunnel"
+        "use": "walk through the tunnel",
+        "useZh": "穿过隧道",
+        "example": "We walked through the tunnel to the other side.",
+        "exampleZh": "我们穿过隧道到了另一边。"
       },
       "beyond": {
         "def": "超越",
         "vs": "强调到另一边之外",
-        "use": "beyond the mountains"
+        "use": "beyond the mountains",
+        "useZh": "山的那边",
+        "example": "The village lies beyond the mountains.",
+        "exampleZh": "村庄位于山的那边。"
       }
     }
   },
@@ -699,17 +879,26 @@
       "following": {
         "def": "接着,紧随",
         "vs": "正式,常用书面",
-        "use": "following the meeting"
+        "use": "following the meeting",
+        "useZh": "会议之后",
+        "example": "Following the meeting, we signed the contract.",
+        "exampleZh": "会议之后，我们签了合同。"
       },
       "behind": {
         "def": "在...后面",
         "vs": "空间位置后,非时间",
-        "use": "sit behind me"
+        "use": "sit behind me",
+        "useZh": "坐在我后面",
+        "example": "Please sit behind me during the show.",
+        "exampleZh": "演出期间请坐在我后面。"
       },
       "later than": {
         "def": "晚于",
         "vs": "明确时间比较",
-        "use": "later than expected"
+        "use": "later than expected",
+        "useZh": "比预期晚",
+        "example": "The train arrived later than expected.",
+        "exampleZh": "火车比预期晚到。"
       }
     }
   },
@@ -733,17 +922,26 @@
       "opposing": {
         "def": "反对的",
         "vs": "明确对立态度",
-        "use": "opposing views"
+        "use": "opposing views",
+        "useZh": "相反的观点",
+        "example": "They held opposing views on the new policy.",
+        "exampleZh": "他们对新政策持相反观点。"
       },
       "versus": {
         "def": "对抗(vs)",
         "vs": "比赛/对照语境",
-        "use": "Team A versus Team B"
+        "use": "Team A versus Team B",
+        "useZh": "A队对B队",
+        "example": "The match is Team A versus Team B.",
+        "exampleZh": "这场比赛是A队对B队。"
       },
       "contrary to": {
         "def": "与...相反",
         "vs": "强调违背预期/规定",
-        "use": "contrary to the rules"
+        "use": "contrary to the rules",
+        "useZh": "违反规则",
+        "example": "His actions were contrary to the rules.",
+        "exampleZh": "他的行为违反了规则。"
       }
     }
   },
@@ -767,17 +965,26 @@
       "amid": {
         "def": "在...之中",
         "vs": "文学性强,常搭抽象事物",
-        "use": "amid the chaos"
+        "use": "amid the chaos",
+        "useZh": "在混乱中",
+        "example": "She remained calm amid the chaos.",
+        "exampleZh": "她在混乱中保持冷静。"
       },
       "amongst": {
         "def": "在...之中",
         "vs": "among 的英式拼写",
-        "use": "amongst friends"
+        "use": "amongst friends",
+        "useZh": "在朋友之间",
+        "example": "He felt comfortable amongst friends.",
+        "exampleZh": "他在朋友之间感到自在。"
       },
       "between": {
         "def": "在...之间",
         "vs": "严格指两者间",
-        "use": "between you and me"
+        "use": "between you and me",
+        "useZh": "你和我之间",
+        "example": "This secret stays between you and me.",
+        "exampleZh": "这个秘密只在你我之间。"
       }
     }
   },
@@ -801,17 +1008,26 @@
       "by": {
         "def": "在...旁",
         "vs": "侧重靠近",
-        "use": "sit by the window"
+        "use": "sit by the window",
+        "useZh": "坐在窗边",
+        "example": "I like to sit by the window.",
+        "exampleZh": "我喜欢坐在窗边。"
       },
       "near": {
         "def": "在...附近",
         "vs": "侧重不远",
-        "use": "near the station"
+        "use": "near the station",
+        "useZh": "车站附近",
+        "example": "There is a hotel near the station.",
+        "exampleZh": "车站附近有一家酒店。"
       },
       "in": {
         "def": "在...里",
         "vs": "侧重内部",
-        "use": "in the box"
+        "use": "in the box",
+        "useZh": "在盒子里",
+        "example": "The keys are in the box.",
+        "exampleZh": "钥匙在盒子里。"
       }
     }
   },
@@ -835,17 +1051,26 @@
       "prior to": {
         "def": "在...之前",
         "vs": "正式,书面",
-        "use": "prior to departure"
+        "use": "prior to departure",
+        "useZh": "出发前",
+        "example": "Please confirm prior to departure.",
+        "exampleZh": "请在出发前确认。"
       },
       "ahead of": {
         "def": "领先于",
         "vs": "强调比赛/进度领先",
-        "use": "ahead of schedule"
+        "use": "ahead of schedule",
+        "useZh": "提前",
+        "example": "We finished the project ahead of schedule.",
+        "exampleZh": "我们提前完成了项目。"
       },
       "earlier": {
         "def": "较早",
         "vs": "模糊时间比较",
-        "use": "earlier this week"
+        "use": "earlier this week",
+        "useZh": "本周早些时候",
+        "example": "I met her earlier this week.",
+        "exampleZh": "我本周早些时候见过她。"
       }
     }
   },
@@ -869,17 +1094,26 @@
       "amid": {
         "def": "在...中间",
         "vs": "文学性,多用抽象",
-        "use": "amid the crowd"
+        "use": "amid the crowd",
+        "useZh": "在人群中",
+        "example": "He lost his friend amid the crowd.",
+        "exampleZh": "他在人群中找不到朋友了。"
       },
       "amongst": {
         "def": "在...之中",
         "vs": "英式,多于两者",
-        "use": "amongst many options"
+        "use": "amongst many options",
+        "useZh": "在众多选择中",
+        "example": "She chose the best amongst many options.",
+        "exampleZh": "她在众多选择中选了最好的。"
       },
       "in the middle of": {
         "def": "在...中间",
         "vs": "口语,强调正中央",
-        "use": "in the middle of dinner"
+        "use": "in the middle of dinner",
+        "useZh": "晚餐期间",
+        "example": "He called me in the middle of dinner.",
+        "exampleZh": "他在晚餐期间给我打了电话。"
       }
     }
   },
@@ -903,17 +1137,26 @@
       "via": {
         "def": "经由",
         "vs": "侧重路径或方式",
-        "use": "via email"
+        "use": "via email",
+        "useZh": "通过电子邮件",
+        "example": "Please send the report via email.",
+        "exampleZh": "请通过电子邮件发送报告。"
       },
       "through": {
         "def": "通过",
         "vs": "侧重过程或媒介",
-        "use": "learn through practice"
+        "use": "learn through practice",
+        "useZh": "在实践中学习",
+        "example": "You can learn through practice.",
+        "exampleZh": "你可以通过实践来学习。"
       },
       "beside": {
         "def": "在...旁边",
         "vs": "侧重物理位置旁",
-        "use": "beside the lake"
+        "use": "beside the lake",
+        "useZh": "在湖边",
+        "example": "We had a picnic beside the lake.",
+        "exampleZh": "我们在湖边野餐。"
       }
     }
   },
@@ -937,17 +1180,26 @@
       "downward": {
         "def": "向下方",
         "vs": "明确方向词,书面",
-        "use": "a downward trend"
+        "use": "a downward trend",
+        "useZh": "下降趋势",
+        "example": "The economy shows a downward trend.",
+        "exampleZh": "经济呈现下降趋势。"
       },
       "below": {
         "def": "在下方",
         "vs": "侧重低于某基准",
-        "use": "below zero"
+        "use": "below zero",
+        "useZh": "零度以下",
+        "example": "The temperature dropped below zero.",
+        "exampleZh": "温度降到了零度以下。"
       },
       "lower": {
         "def": "较低",
         "vs": "比较级,用于程度",
-        "use": "lower the volume"
+        "use": "lower the volume",
+        "useZh": "调低音量",
+        "example": "Could you please lower the volume?",
+        "exampleZh": "你能调低音量吗？"
       }
     }
   },
@@ -971,17 +1223,26 @@
       "out of": {
         "def": "从...出来",
         "vs": "强调从内部出来",
-        "use": "out of the house"
+        "use": "out of the house",
+        "useZh": "出门",
+        "example": "She walked out of the house quickly.",
+        "exampleZh": "她快步走出了房子。"
       },
       "starting at": {
         "def": "始于",
         "vs": "用于起始时间/价格",
-        "use": "starting at $10"
+        "use": "starting at $10",
+        "useZh": "起价10美元",
+        "example": "Tickets are starting at $10.",
+        "exampleZh": "票价起价10美元。"
       },
       "since": {
         "def": "自从",
         "vs": "时间起点延续至今",
-        "use": "since 1990"
+        "use": "since 1990",
+        "useZh": "自1990年以来",
+        "example": "I have lived here since 1990.",
+        "exampleZh": "自1990年以来我一直住在这里。"
       }
     }
   },
@@ -1005,17 +1266,26 @@
       "inside": {
         "def": "在内部",
         "vs": "更强调封闭空间",
-        "use": "inside the car"
+        "use": "inside the car",
+        "useZh": "在车里",
+        "example": "The dog is inside the car.",
+        "exampleZh": "狗在车里。"
       },
       "within": {
         "def": "在...之内",
         "vs": "正式,常用范围/时间",
-        "use": "within 24 hours"
+        "use": "within 24 hours",
+        "useZh": "24小时内",
+        "example": "You must reply within 24 hours.",
+        "exampleZh": "你必须在24小时内回复。"
       },
       "into": {
         "def": "进入到",
         "vs": "强调进入的动作",
-        "use": "walk into the room"
+        "use": "walk into the room",
+        "useZh": "走进房间",
+        "example": "She walked into the room quietly.",
+        "exampleZh": "她安静地走进了房间。"
       }
     }
   },
@@ -1039,17 +1309,26 @@
       "away": {
         "def": "离开,远离",
         "vs": "侧重距离拉开",
-        "use": "go away"
+        "use": "go away",
+        "useZh": "走开",
+        "example": "Please go away and leave me alone.",
+        "exampleZh": "请走开，让我一个人待着。"
       },
       "apart": {
         "def": "分开",
         "vs": "侧重分离开来",
-        "use": "miles apart"
+        "use": "miles apart",
+        "useZh": "相隔数英里",
+        "example": "They live miles apart from each other.",
+        "exampleZh": "他们彼此相隔数英里。"
       },
       "disconnected": {
         "def": "断开的",
         "vs": "强调连接被切断",
-        "use": "feel disconnected"
+        "use": "feel disconnected",
+        "useZh": "感到疏离",
+        "example": "After moving, I feel disconnected from my friends.",
+        "exampleZh": "搬家后，我感到与朋友们疏离了。"
       }
     }
   },
@@ -1073,17 +1352,26 @@
       "upon": {
         "def": "在...之上",
         "vs": "文学/正式",
-        "use": "once upon a time"
+        "use": "once upon a time",
+        "useZh": "从前",
+        "example": "Once upon a time, there was a brave knight.",
+        "exampleZh": "从前，有一位勇敢的骑士。"
       },
       "atop": {
         "def": "在...顶上",
         "vs": "诗意,明确顶端",
-        "use": "atop the hill"
+        "use": "atop the hill",
+        "useZh": "在山顶",
+        "example": "The castle stood atop the hill, overlooking the valley.",
+        "exampleZh": "城堡矗立在山顶，俯瞰着山谷。"
       },
       "over": {
         "def": "在...上方",
         "vs": "覆盖或越过",
-        "use": "a roof over my head"
+        "use": "a roof over my head",
+        "useZh": "有房住",
+        "example": "I'm grateful to have a roof over my head.",
+        "exampleZh": "我很感激有房住。"
       }
     }
   },
@@ -1107,17 +1395,26 @@
       "above": {
         "def": "在...上方",
         "vs": "明确高于某物",
-        "use": "above the clouds"
+        "use": "above the clouds",
+        "useZh": "在云层之上",
+        "example": "The plane flew above the clouds, far above the city.",
+        "exampleZh": "飞机在云层之上飞行，远高于城市。"
       },
       "beyond": {
         "def": "超过",
         "vs": "超出某范围/限度",
-        "use": "beyond reach"
+        "use": "beyond reach",
+        "useZh": "够不着",
+        "example": "The treasure was hidden beyond reach of the villagers.",
+        "exampleZh": "宝藏藏在村民们够不着的地方。"
       },
       "across": {
         "def": "横过",
         "vs": "侧重横向跨越",
-        "use": "across the river"
+        "use": "across the river",
+        "useZh": "在河对岸",
+        "example": "We swam across the river to reach the other side.",
+        "exampleZh": "我们游过河到达了对岸。"
       }
     }
   },
@@ -1141,17 +1438,26 @@
       "across": {
         "def": "穿过",
         "vs": "侧重横跨表面",
-        "use": "across the field"
+        "use": "across the field",
+        "useZh": "穿过田野",
+        "example": "The children ran across the field, laughing loudly.",
+        "exampleZh": "孩子们穿过田野，大声笑着。"
       },
       "via": {
         "def": "经由",
         "vs": "路径或方式",
-        "use": "via Tokyo"
+        "use": "via Tokyo",
+        "useZh": "经由东京",
+        "example": "We flew to London via Tokyo to save money.",
+        "exampleZh": "我们经由东京飞往伦敦以省钱。"
       },
       "by means of": {
         "def": "凭借,通过",
         "vs": "强调手段,正式",
-        "use": "by means of force"
+        "use": "by means of force",
+        "useZh": "通过武力",
+        "example": "They solved the conflict by means of force.",
+        "exampleZh": "他们通过武力解决了冲突。"
       }
     }
   },
@@ -1175,17 +1481,26 @@
       "toward": {
         "def": "朝向",
         "vs": "指方向但未必到达",
-        "use": "walk toward the door"
+        "use": "walk toward the door",
+        "useZh": "朝门走去",
+        "example": "She started to walk toward the door, then stopped.",
+        "exampleZh": "她开始朝门走去，然后停了下来。"
       },
       "until": {
         "def": "直到",
         "vs": "侧重时间终点",
-        "use": "wait until 5"
+        "use": "wait until 5",
+        "useZh": "等到5点",
+        "example": "Please wait until 5 o'clock for the results.",
+        "exampleZh": "请等到5点再出结果。"
       },
       "into": {
         "def": "进入到",
         "vs": "强调进入动作",
-        "use": "jump into the pool"
+        "use": "jump into the pool",
+        "useZh": "跳进游泳池",
+        "example": "The boy dared to jump into the pool first.",
+        "exampleZh": "那个男孩敢第一个跳进游泳池。"
       }
     }
   },
@@ -1209,17 +1524,26 @@
       "beneath": {
         "def": "在...下方",
         "vs": "文学性,正式",
-        "use": "beneath the surface"
+        "use": "beneath the surface",
+        "useZh": "表面之下",
+        "example": "Beneath the surface, the ocean hides many secrets.",
+        "exampleZh": "表面之下，海洋隐藏着许多秘密。"
       },
       "below": {
         "def": "在...下方",
         "vs": "中性,常用比较",
-        "use": "below the line"
+        "use": "below the line",
+        "useZh": "线以下",
+        "example": "The temperature dropped below the line last night.",
+        "exampleZh": "昨晚温度降到了线以下。"
       },
       "underneath": {
         "def": "在...下面",
         "vs": "强调隐藏在下方",
-        "use": "underneath the bed"
+        "use": "underneath the bed",
+        "useZh": "床底下",
+        "example": "The cat hid underneath the bed during the storm.",
+        "exampleZh": "暴风雨期间，猫躲在床底下。"
       }
     }
   },
@@ -1243,17 +1567,26 @@
       "upward": {
         "def": "向上方",
         "vs": "明确方向,书面",
-        "use": "an upward glance"
+        "use": "an upward glance",
+        "useZh": "向上瞥了一眼",
+        "example": "She gave an upward glance at the tall building.",
+        "exampleZh": "她向上瞥了一眼那座高楼。"
       },
       "above": {
         "def": "在上方",
         "vs": "位置高于某物",
-        "use": "above the trees"
+        "use": "above the trees",
+        "useZh": "树的上方",
+        "example": "The birds flew above the trees, singing happily.",
+        "exampleZh": "鸟儿在树的上方飞翔，快乐地歌唱。"
       },
       "higher": {
         "def": "较高",
         "vs": "比较级",
-        "use": "climb higher"
+        "use": "climb higher",
+        "useZh": "爬得更高",
+        "example": "He trained hard to climb higher than ever before.",
+        "exampleZh": "他努力训练，爬得比以前更高。"
       }
     }
   },
@@ -1277,17 +1610,26 @@
       "alongside": {
         "def": "在...旁边",
         "vs": "并排同行",
-        "use": "work alongside her"
+        "use": "work alongside her",
+        "useZh": "和她一起工作",
+        "example": "I enjoy working alongside her on this project.",
+        "exampleZh": "我喜欢在这个项目上和她一起工作。"
       },
       "together with": {
         "def": "和...一起",
         "vs": "明确同伴关系",
-        "use": "together with her family"
+        "use": "together with her family",
+        "useZh": "和她的家人一起",
+        "example": "She traveled together with her family to the beach.",
+        "exampleZh": "她和她的家人一起去了海滩旅行。"
       },
       "including": {
         "def": "包括",
         "vs": "侧重列入范围",
-        "use": "including taxes"
+        "use": "including taxes",
+        "useZh": "包括税费",
+        "example": "The total cost is $100, including taxes and fees.",
+        "exampleZh": "总费用是100美元，包括税费。"
       }
     }
   },
@@ -1311,17 +1653,26 @@
       "like": {
         "def": "像",
         "vs": "作比较,非正式",
-        "use": "runs like the wind"
+        "use": "runs like the wind",
+        "useZh": "跑得像风一样快",
+        "example": "He runs like the wind, fast and unstoppable.",
+        "exampleZh": "他跑得像风一样快，势不可挡。"
       },
       "while": {
         "def": "当...时",
         "vs": "时间从属",
-        "use": "while you wait"
+        "use": "while you wait",
+        "useZh": "在你等待的时候",
+        "example": "Please read this book while you wait for me.",
+        "exampleZh": "在你等我的时候，请读这本书。"
       },
       "because": {
         "def": "因为",
         "vs": "原因从属",
-        "use": "as you asked"
+        "use": "as you asked",
+        "useZh": "按照你的要求",
+        "example": "I did it as you asked, without any hesitation.",
+        "exampleZh": "我按照你的要求做了，没有犹豫。"
       }
     }
   },
@@ -1345,17 +1696,26 @@
       "because of": {
         "def": "因为",
         "vs": "明确原因连接",
-        "use": "because of the rain"
+        "use": "because of the rain",
+        "useZh": "因为下雨",
+        "example": "The game was canceled because of the heavy rain.",
+        "exampleZh": "比赛因为下雨取消了。"
       },
       "intended for": {
         "def": "专为",
         "vs": "强调目的对象",
-        "use": "intended for children"
+        "use": "intended for children",
+        "useZh": "专为儿童设计",
+        "example": "This toy is intended for children under five years old.",
+        "exampleZh": "这个玩具专为五岁以下儿童设计。"
       },
       "on behalf of": {
         "def": "代表",
         "vs": "正式,代理身份",
-        "use": "on behalf of the team"
+        "use": "on behalf of the team",
+        "useZh": "代表团队",
+        "example": "I speak on behalf of the team when I thank you.",
+        "exampleZh": "我代表团队感谢你。"
       }
     }
   },
@@ -1379,17 +1739,26 @@
       "belonging to": {
         "def": "属于",
         "vs": "明确归属关系",
-        "use": "belonging to her"
+        "use": "belonging to her",
+        "useZh": "属于她的",
+        "example": "This necklace is belonging to her grandmother.",
+        "exampleZh": "这条项链属于她的祖母。"
       },
       "from": {
         "def": "来自",
         "vs": "侧重来源",
-        "use": "a gift from Mom"
+        "use": "a gift from Mom",
+        "useZh": "妈妈送的礼物",
+        "example": "I received a gift from Mom yesterday.",
+        "exampleZh": "我昨天收到了妈妈送的礼物。"
       },
       "about": {
         "def": "关于",
         "vs": "侧重话题/内容",
-        "use": "a book about birds"
+        "use": "a book about birds",
+        "useZh": "关于鸟类的书",
+        "example": "She is reading a book about birds now.",
+        "exampleZh": "她正在读一本关于鸟类的书。"
       }
     }
   },
@@ -1413,17 +1782,26 @@
       "until": {
         "def": "直到",
         "vs": "till 的完整形,更正式",
-        "use": "until midnight"
+        "use": "until midnight",
+        "useZh": "直到午夜",
+        "example": "The store is open until midnight tonight.",
+        "exampleZh": "这家店今晚营业到午夜。"
       },
       "up to": {
         "def": "截至",
         "vs": "强调上限/截止",
-        "use": "up to 100 people"
+        "use": "up to 100 people",
+        "useZh": "最多100人",
+        "example": "The event can host up to 100 people.",
+        "exampleZh": "这个活动最多可容纳100人。"
       },
       "through": {
         "def": "贯穿至",
         "vs": "美式,含整个时段",
-        "use": "open through Sunday"
+        "use": "open through Sunday",
+        "useZh": "营业到周日",
+        "example": "The museum is open through Sunday this week.",
+        "exampleZh": "博物馆这周一直营业到周日。"
       }
     }
   },
@@ -1447,17 +1825,26 @@
       "compared to": {
         "def": "相比于",
         "vs": "明确比较关系,正式",
-        "use": "compared to last year"
+        "use": "compared to last year",
+        "useZh": "与去年相比",
+        "example": "Sales increased compared to last year.",
+        "exampleZh": "销售额与去年相比有所增长。"
       },
       "versus": {
         "def": "对比",
         "vs": "对照/对抗语境",
-        "use": "safety versus speed"
+        "use": "safety versus speed",
+        "useZh": "安全与速度",
+        "example": "We debated safety versus speed today.",
+        "exampleZh": "我们今天讨论了安全与速度的对比。"
       },
       "over": {
         "def": "超过",
         "vs": "侧重数量优势",
-        "use": "chose tea over coffee"
+        "use": "chose tea over coffee",
+        "useZh": "选了茶而不是咖啡",
+        "example": "She chose tea over coffee this morning.",
+        "exampleZh": "她今早选了茶而不是咖啡。"
       }
     }
   },
@@ -1481,17 +1868,26 @@
       "one": {
         "def": "一个",
         "vs": "强调数量为一",
-        "use": "one apple, not two"
+        "use": "one apple",
+        "useZh": "一个苹果",
+        "example": "He ate one apple, not two.",
+        "exampleZh": "他吃了一个苹果，不是两个。"
       },
       "any": {
         "def": "任何一个",
         "vs": "泛指,无特指",
-        "use": "any book will do"
+        "use": "any book will do",
+        "useZh": "任何书都行",
+        "example": "You can borrow any book will do.",
+        "exampleZh": "你可以借任何书都行。"
       },
       "some": {
         "def": "某个",
         "vs": "模糊指代",
-        "use": "some guy called"
+        "use": "some guy called",
+        "useZh": "有个家伙打过电话",
+        "example": "Some guy called while you were out.",
+        "exampleZh": "你出去的时候有个家伙打过电话。"
       }
     }
   },
@@ -1515,17 +1911,26 @@
       "this": {
         "def": "这个",
         "vs": "近指,明确所指",
-        "use": "this book here"
+        "use": "this book here",
+        "useZh": "这本书在这里",
+        "example": "Please read this book here carefully.",
+        "exampleZh": "请仔细阅读这本书在这里。"
       },
       "that": {
         "def": "那个",
         "vs": "远指,明确所指",
-        "use": "that one over there"
+        "use": "that one over there",
+        "useZh": "那边那个",
+        "example": "Can you see that one over there?",
+        "exampleZh": "你能看到那边那个吗？"
       },
       "said": {
         "def": "上述的",
         "vs": "法律/正式,前面提到的",
-        "use": "the said agreement"
+        "use": "the said agreement",
+        "useZh": "该协议",
+        "example": "The said agreement was signed yesterday.",
+        "exampleZh": "该协议已于昨日签署。"
       }
     }
   },
@@ -1549,17 +1954,26 @@
       "every": {
         "def": "每一个",
         "vs": "逐一强调,搭单数",
-        "use": "every student passed"
+        "use": "every student passed",
+        "useZh": "每个学生都通过了",
+        "example": "Every student passed the final exam.",
+        "exampleZh": "每个学生都通过了期末考试。"
       },
       "entire": {
         "def": "全部的",
         "vs": "强调整体不可分",
-        "use": "the entire day"
+        "use": "the entire day",
+        "useZh": "一整天",
+        "example": "She worked for the entire day without rest.",
+        "exampleZh": "她工作了一整天没有休息。"
       },
       "whole": {
         "def": "整个",
         "vs": "中性,完整一份",
-        "use": "the whole pizza"
+        "use": "the whole pizza",
+        "useZh": "整个披萨",
+        "example": "He ate the whole pizza by himself.",
+        "exampleZh": "他一个人吃了整个披萨。"
       }
     }
   },
@@ -1583,17 +1997,26 @@
       "some": {
         "def": "一些",
         "vs": "肯定句用 some,疑问用 any",
-        "use": "some water, please"
+        "use": "some water",
+        "useZh": "一些水",
+        "example": "Could I have some water, please?",
+        "exampleZh": "请给我一些水好吗？"
       },
       "every": {
         "def": "每一个",
         "vs": "无例外的每一个",
-        "use": "every chance counts"
+        "use": "every chance counts",
+        "useZh": "每一次机会都很重要",
+        "example": "Remember that every chance counts in life.",
+        "exampleZh": "记住，每一次机会在生活中都很重要。"
       },
       "whichever": {
         "def": "无论哪个",
         "vs": "强调任选",
-        "use": "whichever you prefer"
+        "use": "whichever you prefer",
+        "useZh": "随便你选哪个",
+        "example": "You can take whichever you prefer.",
+        "exampleZh": "你可以随便选你喜欢的那个。"
       }
     }
   },
@@ -1617,17 +2040,26 @@
       "each": {
         "def": "每一个",
         "vs": "逐个考虑,数量少",
-        "use": "each child got a gift"
+        "use": "each child got a gift",
+        "useZh": "每个孩子都得到了一份礼物",
+        "example": "Each child got a gift at the party.",
+        "exampleZh": "每个孩子在派对上得到了一份礼物。"
       },
       "all": {
         "def": "全部",
         "vs": "整体性,搭复数",
-        "use": "all the kids ran"
+        "use": "all the kids ran",
+        "useZh": "所有孩子都跑了",
+        "example": "All the kids ran to the playground.",
+        "exampleZh": "所有孩子都跑向了操场。"
       },
       "any": {
         "def": "任意一个",
         "vs": "无差别选择",
-        "use": "pick any one"
+        "use": "pick any one",
+        "useZh": "随便挑一个",
+        "example": "You can pick any one from the box.",
+        "exampleZh": "你可以从盒子里随便挑一个。"
       }
     }
   },
@@ -1651,17 +2083,26 @@
       "small": {
         "def": "小的",
         "vs": "侧重尺寸而非数量",
-        "use": "a small dog"
+        "use": "a small dog",
+        "useZh": "一只小狗",
+        "example": "She has a small dog at home.",
+        "exampleZh": "她家里有一只小狗。"
       },
       "slight": {
         "def": "轻微的",
         "vs": "侧重程度极小",
-        "use": "a slight delay"
+        "use": "a slight delay",
+        "useZh": "稍微延迟",
+        "example": "There was a slight delay in the flight.",
+        "exampleZh": "航班有稍微延迟。"
       },
       "tiny": {
         "def": "微小的",
         "vs": "比 little 更小,情感色彩",
-        "use": "a tiny baby"
+        "use": "a tiny baby",
+        "useZh": "一个很小的婴儿",
+        "example": "The mother held a tiny baby in her arms.",
+        "exampleZh": "母亲怀里抱着一个很小的婴儿。"
       }
     }
   },
@@ -1685,17 +2126,26 @@
       "a lot": {
         "def": "很多",
         "vs": "口语,可数不可数都行",
-        "use": "a lot of fun"
+        "use": "a lot of fun",
+        "useZh": "很多乐趣",
+        "example": "We had a lot of fun at the park.",
+        "exampleZh": "我们在公园玩得很开心。"
       },
       "plenty": {
         "def": "充足",
         "vs": "侧重足够而有余",
-        "use": "plenty of time"
+        "use": "plenty of time",
+        "useZh": "充足的时间",
+        "example": "We still have plenty of time left.",
+        "exampleZh": "我们还有充足的时间。"
       },
       "greatly": {
         "def": "大大地",
         "vs": "程度副词,正式",
-        "use": "greatly improved"
+        "use": "greatly improved",
+        "useZh": "大大改善",
+        "example": "Her performance has greatly improved this year.",
+        "exampleZh": "她的表现今年大大改善了。"
       }
     }
   },
@@ -1719,17 +2169,26 @@
       "not": {
         "def": "不",
         "vs": "否定副词,修饰动词",
-        "use": "do not enter"
+        "use": "do not enter",
+        "useZh": "禁止入内",
+        "example": "You must not enter this area without permission.",
+        "exampleZh": "未经许可，你不得进入这个区域。"
       },
       "none": {
         "def": "没有一个",
         "vs": "代词,强调零",
-        "use": "none of them came"
+        "use": "none of them came",
+        "useZh": "他们一个都没来",
+        "example": "None of them came to the party last night.",
+        "exampleZh": "他们昨晚一个都没来参加派对。"
       },
       "zero": {
         "def": "零",
         "vs": "数字,明确数量",
-        "use": "zero tolerance"
+        "use": "zero tolerance",
+        "useZh": "零容忍",
+        "example": "The school has a zero tolerance policy for bullying.",
+        "exampleZh": "这所学校对欺凌行为实行零容忍政策。"
       }
     }
   },
@@ -1753,17 +2212,26 @@
       "another": {
         "def": "另一个",
         "vs": "再一个或不同的",
-        "use": "another chance"
+        "use": "another chance",
+        "useZh": "再来一次机会",
+        "example": "I hope you can give me another chance to prove myself.",
+        "exampleZh": "我希望你能再给我一次机会证明自己。"
       },
       "different": {
         "def": "不同的",
         "vs": "强调差异",
-        "use": "a different approach"
+        "use": "a different approach",
+        "useZh": "不同的方法",
+        "example": "We need a different approach to solve this problem.",
+        "exampleZh": "我们需要一种不同的方法来解决这个问题。"
       },
       "alternative": {
         "def": "替代的",
         "vs": "备选方案",
-        "use": "an alternative route"
+        "use": "an alternative route",
+        "useZh": "另一条路线",
+        "example": "Take an alternative route to avoid the traffic jam.",
+        "exampleZh": "走另一条路线以避开交通堵塞。"
       }
     }
   },
@@ -1787,17 +2255,26 @@
       "a few": {
         "def": "几个",
         "vs": "可数,数量少",
-        "use": "a few friends"
+        "use": "a few friends",
+        "useZh": "几个朋友",
+        "example": "I invited a few friends to my birthday party.",
+        "exampleZh": "我邀请了几个朋友来参加我的生日派对。"
       },
       "several": {
         "def": "若干",
         "vs": "比 a few 略多",
-        "use": "several reasons"
+        "use": "several reasons",
+        "useZh": "几个原因",
+        "example": "There are several reasons why I disagree with you.",
+        "exampleZh": "我有几个理由不同意你的看法。"
       },
       "any": {
         "def": "任何",
         "vs": "疑问/否定句中用",
-        "use": "any volunteers?"
+        "use": "any volunteers",
+        "useZh": "任何志愿者",
+        "example": "Are there any volunteers for the cleanup event?",
+        "exampleZh": "有志愿者参加清洁活动吗？"
       }
     }
   },
@@ -1821,17 +2298,26 @@
       "like that": {
         "def": "那样的",
         "vs": "口语化",
-        "use": "a person like that"
+        "use": "a person like that",
+        "useZh": "那样的人",
+        "example": "I would never trust a person like that again.",
+        "exampleZh": "我再也不会信任那样的人了。"
       },
       "this kind of": {
         "def": "这种",
         "vs": "明确分类",
-        "use": "this kind of problem"
+        "use": "this kind of problem",
+        "useZh": "这类问题",
+        "example": "We must find a solution to this kind of problem.",
+        "exampleZh": "我们必须找到解决这类问题的方法。"
       },
       "so": {
         "def": "如此",
         "vs": "程度强调",
-        "use": "so tired"
+        "use": "so tired",
+        "useZh": "太累了",
+        "example": "After the long hike, I felt so tired that I fell asleep.",
+        "exampleZh": "长途徒步后，我太累了，直接睡着了。"
       }
     }
   },
@@ -1855,17 +2341,26 @@
       "which": {
         "def": "哪个",
         "vs": "非限定定语从句",
-        "use": "the book, which is new"
+        "use": "which book",
+        "useZh": "哪本书",
+        "example": "I bought the book, which is new and very popular.",
+        "exampleZh": "我买了那本新书，它很受欢迎。"
       },
       "the one": {
         "def": "那一个",
         "vs": "明确特指",
-        "use": "the one I want"
+        "use": "the one I want",
+        "useZh": "我想要的那个",
+        "example": "This is the one I want for my collection.",
+        "exampleZh": "这就是我想要的那个，用于我的收藏。"
       },
       "yon": {
         "def": "那个(古)",
         "vs": "古英语,文学",
-        "use": "yon castle"
+        "use": "yon castle",
+        "useZh": "那边的城堡",
+        "example": "Look at yon castle on the distant hill.",
+        "exampleZh": "看那边山上的城堡。"
       }
     }
   },
@@ -1889,17 +2384,26 @@
       "the present": {
         "def": "目前的",
         "vs": "正式,书面",
-        "use": "the present situation"
+        "use": "the present situation",
+        "useZh": "当前情况",
+        "example": "We must focus on the present situation, not the past.",
+        "exampleZh": "我们必须关注当前情况，而不是过去。"
       },
       "the current": {
         "def": "当前的",
         "vs": "侧重时下",
-        "use": "the current trend"
+        "use": "the current trend",
+        "useZh": "当前趋势",
+        "example": "The current trend in fashion is very colorful.",
+        "exampleZh": "当前的时尚趋势非常多彩。"
       },
       "here": {
         "def": "这里的",
         "vs": "地点指代",
-        "use": "the people here"
+        "use": "the people here",
+        "useZh": "这里的人",
+        "example": "The people here are very friendly and helpful.",
+        "exampleZh": "这里的人非常友好和乐于助人。"
       }
     }
   },
@@ -1923,17 +2427,26 @@
       "me": {
         "def": "我(宾格)",
         "vs": "动词/介词后用",
-        "use": "give it to me"
+        "use": "give it to me",
+        "useZh": "把它给我",
+        "example": "Please give it to me when you are done.",
+        "exampleZh": "你完成后请把它给我。"
       },
       "myself": {
         "def": "我自己",
         "vs": "反身代词,强调本人",
-        "use": "I did it myself"
+        "use": "I did it myself",
+        "useZh": "我自己做的",
+        "example": "I did it myself without any help from others.",
+        "exampleZh": "我自己做的，没有别人帮忙。"
       },
       "self": {
         "def": "自我",
         "vs": "哲学/心理学概念",
-        "use": "sense of self"
+        "use": "sense of self",
+        "useZh": "自我意识",
+        "example": "Meditation helps improve your sense of self.",
+        "exampleZh": "冥想有助于提升你的自我意识。"
       }
     }
   },
@@ -1957,17 +2470,26 @@
       "him": {
         "def": "他(宾格)",
         "vs": "动词/介词后用",
-        "use": "tell him"
+        "use": "tell him",
+        "useZh": "告诉他",
+        "example": "Please tell him to come to the meeting tomorrow.",
+        "exampleZh": "请告诉他明天来开会。"
       },
       "that man": {
         "def": "那个男人",
         "vs": "明确指代",
-        "use": "that man over there"
+        "use": "that man over there",
+        "useZh": "那边那个男人",
+        "example": "That man over there is my new neighbor.",
+        "exampleZh": "那边那个男人是我的新邻居。"
       },
       "the male": {
         "def": "该男性",
         "vs": "正式/生物语境",
-        "use": "the male of the species"
+        "use": "the male of the species",
+        "useZh": "该物种的雄性",
+        "example": "The male of the species is usually larger.",
+        "exampleZh": "该物种的雄性通常体型更大。"
       }
     }
   },
@@ -1991,17 +2513,26 @@
       "thou": {
         "def": "你(古)",
         "vs": "古英语,圣经/诗",
-        "use": "thou shalt not"
+        "use": "thou shalt not",
+        "useZh": "你不可",
+        "example": "Thou shalt not steal, as the commandment says.",
+        "exampleZh": "你不可偷盗，正如诫命所说。"
       },
       "ye": {
         "def": "你们(古)",
         "vs": "古英语,复数",
-        "use": "hear ye, hear ye"
+        "use": "hear ye",
+        "useZh": "听好了",
+        "example": "Hear ye, hear ye, the king has arrived!",
+        "exampleZh": "听好了，听好了，国王驾到！"
       },
       "one": {
         "def": "人们(泛指)",
         "vs": "正式,泛指任何人",
-        "use": "one must be careful"
+        "use": "one must be careful",
+        "useZh": "必须小心",
+        "example": "One must be careful when crossing the street.",
+        "exampleZh": "过马路时必须小心。"
       }
     }
   },
@@ -2025,17 +2556,26 @@
       "which person": {
         "def": "哪个人",
         "vs": "更明确的提问",
-        "use": "which person did it?"
+        "use": "which person",
+        "useZh": "哪个人",
+        "example": "Which person did it? I need to know the truth.",
+        "exampleZh": "哪个人做的？我需要知道真相。"
       },
       "what person": {
         "def": "什么人",
         "vs": "侧重身份/类别",
-        "use": "what person could that be?"
+        "use": "what person",
+        "useZh": "什么人",
+        "example": "What person could that be, knocking so late?",
+        "exampleZh": "那会是什么人，这么晚敲门？"
       },
       "whom": {
         "def": "谁(宾格)",
         "vs": "正式,介词后用",
-        "use": "to whom it may concern"
+        "use": "to whom it may concern",
+        "useZh": "敬启者",
+        "example": "To whom it may concern, please read this letter.",
+        "exampleZh": "敬启者，请阅读这封信。"
       }
     }
   },
@@ -2059,17 +2599,26 @@
       "plus": {
         "def": "加上",
         "vs": "口语或数学",
-        "use": "two plus three"
+        "use": "two plus three",
+        "useZh": "二加三",
+        "example": "What is two plus three?",
+        "exampleZh": "二加三等于多少？"
       },
       "also": {
         "def": "也",
         "vs": "附加补充",
-        "use": "and also tomorrow"
+        "use": "and also tomorrow",
+        "useZh": "而且明天也",
+        "example": "We can go today and also tomorrow.",
+        "exampleZh": "我们可以今天去，而且明天也去。"
       },
       "as well as": {
         "def": "以及",
         "vs": "强调并列,后者为重",
-        "use": "sings as well as dances"
+        "use": "sings as well as dances",
+        "useZh": "既唱歌又跳舞",
+        "example": "She sings as well as dances beautifully.",
+        "exampleZh": "她既唱歌又跳舞，而且舞跳得很美。"
       }
     }
   },
@@ -2093,17 +2642,26 @@
       "since": {
         "def": "既然/因为",
         "vs": "原因已知,语气弱",
-        "use": "since you asked"
+        "use": "since you asked",
+        "useZh": "既然你问了",
+        "example": "Since you asked, I will tell you.",
+        "exampleZh": "既然你问了，我就告诉你。"
       },
       "as": {
         "def": "因为",
         "vs": "原因放句首,正式",
-        "use": "as it was raining"
+        "use": "as it was raining",
+        "useZh": "因为在下雨",
+        "example": "As it was raining, we stayed inside.",
+        "exampleZh": "因为在下雨，我们待在了室内。"
       },
       "due to": {
         "def": "由于",
         "vs": "正式,常接名词",
-        "use": "due to the rain"
+        "use": "due to the rain",
+        "useZh": "由于下雨",
+        "example": "The game was canceled due to the rain.",
+        "exampleZh": "比赛由于下雨被取消了。"
       }
     }
   },
@@ -2127,17 +2685,26 @@
       "yet": {
         "def": "然而",
         "vs": "文学/正式转折",
-        "use": "small yet powerful"
+        "use": "small yet powerful",
+        "useZh": "小而强大",
+        "example": "This device is small yet powerful.",
+        "exampleZh": "这个设备小而强大。"
       },
       "however": {
         "def": "然而",
         "vs": "正式,句首/句中",
-        "use": "however, we tried"
+        "use": "however",
+        "useZh": "然而",
+        "example": "We failed; however, we tried our best.",
+        "exampleZh": "我们失败了；然而，我们尽力了。"
       },
       "though": {
         "def": "虽然",
         "vs": "语气委婉的转折",
-        "use": "nice, though pricey"
+        "use": "though pricey",
+        "useZh": "虽然贵",
+        "example": "The hotel is nice, though pricey.",
+        "exampleZh": "这家酒店不错，虽然贵。"
       }
     }
   },
@@ -2161,17 +2728,26 @@
       "either": {
         "def": "或者",
         "vs": "二选一明示",
-        "use": "either tea or coffee"
+        "use": "either tea or coffee",
+        "useZh": "要么茶要么咖啡",
+        "example": "You can have either tea or coffee.",
+        "exampleZh": "你可以要么茶要么咖啡。"
       },
       "alternatively": {
         "def": "或者(选择)",
         "vs": "正式,提出备选",
-        "use": "alternatively, take the bus"
+        "use": "alternatively by bus",
+        "useZh": "或者坐公交",
+        "example": "You can drive; alternatively, take the bus.",
+        "exampleZh": "你可以开车；或者，坐公交车。"
       },
       "otherwise": {
         "def": "否则",
         "vs": "如果不...就...",
-        "use": "hurry, otherwise we'll miss it"
+        "use": "otherwise miss out",
+        "useZh": "否则错过",
+        "example": "Hurry up, otherwise we'll miss it.",
+        "exampleZh": "快点，否则我们会错过。"
       }
     }
   },
@@ -2195,17 +2771,26 @@
       "provided that": {
         "def": "假如",
         "vs": "正式,带条件",
-        "use": "provided that you agree"
+        "use": "provided that you agree",
+        "useZh": "只要你同意",
+        "example": "I will go provided that you agree.",
+        "exampleZh": "只要你同意，我就去。"
       },
       "when": {
         "def": "当...时",
         "vs": "已知必然发生",
-        "use": "when you arrive, call me"
+        "use": "when arriving",
+        "useZh": "到达时",
+        "example": "When you arrive, call me immediately.",
+        "exampleZh": "你到了就马上给我打电话。"
       },
       "supposing": {
         "def": "假设",
         "vs": "假设性场景",
-        "use": "supposing he refused?"
+        "use": "supposing refusal",
+        "useZh": "假设拒绝",
+        "example": "Supposing he refused, what would you do?",
+        "exampleZh": "假设他拒绝了，你会怎么做？"
       }
     }
   },
@@ -2229,17 +2814,26 @@
       "although": {
         "def": "尽管",
         "vs": "though 的正式版",
-        "use": "although it was cold"
+        "use": "although it was cold",
+        "useZh": "虽然天气很冷",
+        "example": "Although it was cold, we went out.",
+        "exampleZh": "虽然天气很冷，我们还是出去了。"
       },
       "even if": {
         "def": "即使",
         "vs": "强调极端假设",
-        "use": "even if it rains"
+        "use": "even if it rains",
+        "useZh": "即使下雨",
+        "example": "Even if it rains, we will go.",
+        "exampleZh": "即使下雨，我们也会去。"
       },
       "despite": {
         "def": "尽管",
         "vs": "接名词或动名词",
-        "use": "despite the noise"
+        "use": "despite the noise",
+        "useZh": "尽管有噪音",
+        "example": "He slept well despite the noise.",
+        "exampleZh": "尽管有噪音，他睡得很好。"
       }
     }
   },
@@ -2263,17 +2857,26 @@
       "during": {
         "def": "在...期间",
         "vs": "接名词,强调时间段",
-        "use": "during the meeting"
+        "use": "during the meeting",
+        "useZh": "会议期间",
+        "example": "Please don't talk during the meeting.",
+        "exampleZh": "会议期间请不要说话。"
       },
       "whereas": {
         "def": "然而",
         "vs": "对比,正式",
-        "use": "he likes tea, whereas I prefer coffee"
+        "use": "whereas",
+        "useZh": "然而",
+        "example": "He likes tea, whereas I prefer coffee.",
+        "exampleZh": "他喜欢茶，而我更喜欢咖啡。"
       },
       "as": {
         "def": "当...时",
         "vs": "同时发生",
-        "use": "as we spoke, it rained"
+        "use": "as speaking",
+        "useZh": "说话时",
+        "example": "As we spoke, it started to rain.",
+        "exampleZh": "我们说话时，开始下雨了。"
       }
     }
   },
@@ -2297,17 +2900,26 @@
       "in what way": {
         "def": "以何种方式",
         "vs": "更正式,书面",
-        "use": "in what way did it help?"
+        "use": "in what way",
+        "useZh": "以何种方式",
+        "example": "In what way did it help you?",
+        "exampleZh": "它在哪方面帮助了你？"
       },
       "by what means": {
         "def": "凭什么手段",
         "vs": "侧重方法/手段",
-        "use": "by what means did they enter?"
+        "use": "by what means",
+        "useZh": "通过什么方式",
+        "example": "By what means did they enter the building?",
+        "exampleZh": "他们通过什么方式进入大楼的？"
       },
       "what way": {
         "def": "哪种方式",
         "vs": "口语简化",
-        "use": "what way is best?"
+        "use": "what way",
+        "useZh": "哪种方式",
+        "example": "What way is best to solve this?",
+        "exampleZh": "哪种方式解决这个问题最好？"
       }
     }
   },
@@ -2331,17 +2943,26 @@
       "at what time": {
         "def": "在什么时间",
         "vs": "明确询问时刻",
-        "use": "at what time will you arrive?"
+        "use": "at what time",
+        "useZh": "在什么时间",
+        "example": "At what time will you arrive?",
+        "exampleZh": "你几点到？"
       },
       "once": {
         "def": "一旦",
         "vs": "条件性时间状语",
-        "use": "once you finish, leave"
+        "use": "once finished",
+        "useZh": "一旦完成",
+        "example": "Once you finish, you can leave.",
+        "exampleZh": "你完成后就可以离开。"
       },
       "as soon as": {
         "def": "一...就...",
         "vs": "立即性",
-        "use": "as soon as I know"
+        "use": "as soon as I know",
+        "useZh": "我一知道",
+        "example": "Call me as soon as I know.",
+        "exampleZh": "我一知道就给你打电话。"
       }
     }
   },
@@ -2365,17 +2986,26 @@
       "at what place": {
         "def": "在哪个地方",
         "vs": "明确询问地点",
-        "use": "at what place did they meet?"
+        "use": "at what place",
+        "useZh": "在什么地方",
+        "example": "At what place did they meet?",
+        "exampleZh": "他们在哪里见面的？"
       },
       "wherever": {
         "def": "无论何处",
         "vs": "任意地点",
-        "use": "wherever you go"
+        "use": "wherever you go",
+        "useZh": "无论你去哪里",
+        "example": "I will follow you wherever you go.",
+        "exampleZh": "无论你去哪里，我都会跟着你。"
       },
       "at the place": {
         "def": "在那地方",
         "vs": "明确指代某处",
-        "use": "at the place we agreed on"
+        "use": "at the place we agreed on",
+        "useZh": "在我们约好的地方",
+        "example": "We met at the place we agreed on.",
+        "exampleZh": "我们在约好的地方见面了。"
       }
     }
   },
@@ -2399,17 +3029,26 @@
       "for what reason": {
         "def": "为何理由",
         "vs": "更正式书面",
-        "use": "for what reason did he leave?"
+        "use": "for what reason",
+        "useZh": "出于什么理由",
+        "example": "For what reason did he leave the meeting early?",
+        "exampleZh": "他提前离开会议是出于什么理由？"
       },
       "how come": {
         "def": "怎么会",
         "vs": "口语,带惊讶",
-        "use": "how come you're late?"
+        "use": "how come",
+        "useZh": "怎么会",
+        "example": "How come you're late for the party?",
+        "exampleZh": "你怎么会迟到参加派对？"
       },
       "wherefore": {
         "def": "为何(古)",
         "vs": "古英语,文学",
-        "use": "wherefore art thou Romeo?"
+        "use": "wherefore Romeo",
+        "useZh": "为何是罗密欧",
+        "example": "Wherefore art thou Romeo, my love?",
+        "exampleZh": "罗密欧啊，你为什么是我的爱人？"
       }
     }
   },
@@ -2433,17 +3072,26 @@
       "once more": {
         "def": "再一次",
         "vs": "略正式,庄重",
-        "use": "once more, with feeling"
+        "use": "once more",
+        "useZh": "再一次",
+        "example": "Please sing the song once more, with feeling.",
+        "exampleZh": "请带着感情再唱一遍这首歌。"
       },
       "anew": {
         "def": "重新",
         "vs": "文学性,从头",
-        "use": "begin anew"
+        "use": "begin anew",
+        "useZh": "重新开始",
+        "example": "After the failure, they decided to begin anew.",
+        "exampleZh": "失败之后，他们决定重新开始。"
       },
       "afresh": {
         "def": "再来一遍",
         "vs": "重新开始,书面",
-        "use": "start afresh"
+        "use": "start afresh",
+        "useZh": "重新开始",
+        "example": "She moved to a new city to start afresh.",
+        "exampleZh": "她搬到一个新城市重新开始生活。"
       }
     }
   },
@@ -2467,17 +3115,26 @@
       "always": {
         "def": "总是",
         "vs": "无时无刻不",
-        "use": "always on time"
+        "use": "always on time",
+        "useZh": "总是准时",
+        "example": "She is always on time for every appointment.",
+        "exampleZh": "她每次约会总是准时到达。"
       },
       "at any time": {
         "def": "任何时候",
         "vs": "时间不限",
-        "use": "call me at any time"
+        "use": "call me at any time",
+        "useZh": "随时给我打电话",
+        "example": "You can call me at any time if needed.",
+        "exampleZh": "如果有需要，你可以随时给我打电话。"
       },
       "forever": {
         "def": "永远",
         "vs": "无限期",
-        "use": "forever and ever"
+        "use": "forever and ever",
+        "useZh": "永远永远",
+        "example": "They promised to love each other forever and ever.",
+        "exampleZh": "他们承诺永远永远相爱。"
       }
     }
   },
@@ -2501,17 +3158,26 @@
       "distant": {
         "def": "遥远的",
         "vs": "形容词,正式",
-        "use": "distant lands"
+        "use": "distant lands",
+        "useZh": "遥远的地方",
+        "example": "He dreamed of traveling to distant lands one day.",
+        "exampleZh": "他梦想有一天去遥远的地方旅行。"
       },
       "remote": {
         "def": "偏远的",
         "vs": "偏僻不易到达",
-        "use": "a remote village"
+        "use": "a remote village",
+        "useZh": "一个偏远的村庄",
+        "example": "They lived in a remote village without electricity.",
+        "exampleZh": "他们住在一个没有电的偏远村庄。"
       },
       "afar": {
         "def": "远处",
         "vs": "副词,文学",
-        "use": "from afar"
+        "use": "from afar",
+        "useZh": "从远处",
+        "example": "The castle could be seen from afar on the hill.",
+        "exampleZh": "从远处就能看到山丘上的城堡。"
       }
     }
   },
@@ -2535,17 +3201,26 @@
       "onward": {
         "def": "向前(继续)",
         "vs": "强调持续推进",
-        "use": "onward and upward"
+        "use": "onward and upward",
+        "useZh": "向前向上",
+        "example": "The team marched onward and upward despite difficulties.",
+        "exampleZh": "尽管困难重重，团队仍向前向上行进。"
       },
       "ahead": {
         "def": "在前方",
         "vs": "强调位置在前",
-        "use": "look ahead"
+        "use": "look ahead",
+        "useZh": "向前看",
+        "example": "We must look ahead and plan for the future.",
+        "exampleZh": "我们必须向前看，为未来做计划。"
       },
       "frontward": {
         "def": "朝前方",
         "vs": "罕见,书面",
-        "use": "facing frontward"
+        "use": "facing frontward",
+        "useZh": "面朝前方",
+        "example": "The soldiers stood facing frontward in formation.",
+        "exampleZh": "士兵们列队面朝前方站立。"
       }
     }
   },
@@ -2569,17 +3244,26 @@
       "at this place": {
         "def": "在此处",
         "vs": "正式,书面",
-        "use": "meet at this place"
+        "use": "meet at this place",
+        "useZh": "在此地见面",
+        "example": "We agreed to meet at this place tomorrow morning.",
+        "exampleZh": "我们约定明天早上在此地见面。"
       },
       "hither": {
         "def": "到此处(古)",
         "vs": "古英语,文学",
-        "use": "come hither"
+        "use": "come hither",
+        "useZh": "到这边来",
+        "example": "The wizard commanded the spirits to come hither.",
+        "exampleZh": "巫师命令精灵们到这边来。"
       },
       "in this spot": {
         "def": "在这一点",
         "vs": "明确具体位置",
-        "use": "X marks the spot"
+        "use": "X marks the spot",
+        "useZh": "X标记此处",
+        "example": "The treasure map says X marks the spot here.",
+        "exampleZh": "藏宝图说X标记此处。"
       }
     }
   },
@@ -2603,17 +3287,26 @@
       "close": {
         "def": "近的",
         "vs": "侧重距离接近",
-        "use": "close to home"
+        "use": "close to home",
+        "useZh": "离家很近",
+        "example": "The supermarket is very close to home for us.",
+        "exampleZh": "超市离我们家很近。"
       },
       "beside": {
         "def": "在...旁边",
         "vs": "紧挨着",
-        "use": "beside the bed"
+        "use": "beside the bed",
+        "useZh": "床边",
+        "example": "She placed the lamp beside the bed carefully.",
+        "exampleZh": "她小心地把灯放在床边。"
       },
       "nearby": {
         "def": "附近",
         "vs": "模糊的附近",
-        "use": "a shop nearby"
+        "use": "a shop nearby",
+        "useZh": "附近的一家店",
+        "example": "There is a shop nearby that sells fresh bread.",
+        "exampleZh": "附近有一家卖新鲜面包的店。"
       }
     }
   },
@@ -2637,17 +3330,26 @@
       "currently": {
         "def": "目前",
         "vs": "正式,描述当下状态",
-        "use": "currently unavailable"
+        "use": "currently unavailable",
+        "useZh": "目前不可用",
+        "example": "The product is currently unavailable due to demand.",
+        "exampleZh": "该产品因需求量大目前不可用。"
       },
       "at present": {
         "def": "现在",
         "vs": "正式书面",
-        "use": "at present, no comment"
+        "use": "at present",
+        "useZh": "目前",
+        "example": "At present, no comment can be made on this issue.",
+        "exampleZh": "目前对此问题无可奉告。"
       },
       "right away": {
         "def": "立刻",
         "vs": "侧重即刻行动",
-        "use": "do it right away"
+        "use": "do it right away",
+        "useZh": "马上做",
+        "example": "Please do it right away before you forget.",
+        "exampleZh": "请马上做，免得忘记。"
       }
     }
   },
@@ -2671,17 +3373,26 @@
       "outside": {
         "def": "在外面",
         "vs": "明确空间在外部",
-        "use": "play outside"
+        "use": "play outside",
+        "useZh": "在外面玩",
+        "example": "The children love to play outside in the garden.",
+        "exampleZh": "孩子们喜欢在花园外面玩。"
       },
       "outward": {
         "def": "向外的",
         "vs": "方向词,正式",
-        "use": "outward appearance"
+        "use": "outward appearance",
+        "useZh": "外表",
+        "example": "Her outward appearance showed no sign of worry.",
+        "exampleZh": "她的外表看不出任何担忧的迹象。"
       },
       "beyond": {
         "def": "在...之外",
         "vs": "超出范围",
-        "use": "beyond the gate"
+        "use": "beyond the gate",
+        "useZh": "大门外",
+        "example": "The dog ran beyond the gate into the field.",
+        "exampleZh": "狗跑出大门外，进了田野。"
       }
     }
   },
@@ -2705,17 +3416,26 @@
       "yet": {
         "def": "仍然",
         "vs": "否定/疑问句中用",
-        "use": "not done yet"
+        "use": "not done yet",
+        "useZh": "还没做完",
+        "example": "The work is not done yet, so please wait.",
+        "exampleZh": "工作还没做完，请稍等。"
       },
       "even now": {
         "def": "即便此刻",
         "vs": "强调延续到现在",
-        "use": "even now, he denies it"
+        "use": "even now",
+        "useZh": "即使现在",
+        "example": "Even now, he denies any involvement in the crime.",
+        "exampleZh": "即便此刻，他仍否认与犯罪有任何牵连。"
       },
       "nonetheless": {
         "def": "尽管如此",
         "vs": "正式转折",
-        "use": "nonetheless, we proceeded"
+        "use": "nonetheless",
+        "useZh": "尽管如此",
+        "example": "Nonetheless, we proceeded with the original plan.",
+        "exampleZh": "尽管如此，我们还是按原计划继续了。"
       }
     }
   },
@@ -2739,17 +3459,26 @@
       "next": {
         "def": "接下来",
         "vs": "侧重序列下一项",
-        "use": "next, add water"
+        "use": "next step",
+        "useZh": "下一步",
+        "example": "Next, add water to the mixture.",
+        "exampleZh": "接下来，往混合物里加水。"
       },
       "afterward": {
         "def": "之后",
         "vs": "事件之后,时间词",
-        "use": "we talked afterward"
+        "use": "we talked afterward",
+        "useZh": "之后我们聊了",
+        "example": "We talked afterward about the plan.",
+        "exampleZh": "之后我们聊了聊那个计划。"
       },
       "at that time": {
         "def": "那时",
         "vs": "明确过去某刻",
-        "use": "I was a child at that time"
+        "use": "at that time",
+        "useZh": "那时",
+        "example": "I was a child at that time.",
+        "exampleZh": "那时我还是个孩子。"
       }
     }
   },
@@ -2773,17 +3502,26 @@
       "at that place": {
         "def": "在那地方",
         "vs": "正式,书面",
-        "use": "at that place, we met"
+        "use": "at that place",
+        "useZh": "在那个地方",
+        "example": "At that place, we met for the first time.",
+        "exampleZh": "在那个地方，我们第一次相遇。"
       },
       "yonder": {
         "def": "那边(古)",
         "vs": "古英语,文学",
-        "use": "yonder hill"
+        "use": "yonder hill",
+        "useZh": "远处的山丘",
+        "example": "The castle stands on yonder hill.",
+        "exampleZh": "城堡矗立在远处的山丘上。"
       },
       "thither": {
         "def": "到那边(古)",
         "vs": "古英语,方向",
-        "use": "go thither"
+        "use": "go thither",
+        "useZh": "去那边",
+        "example": "The knight decided to go thither.",
+        "exampleZh": "骑士决定去那边。"
       }
     }
   },
@@ -2807,17 +3545,26 @@
       "jointly": {
         "def": "共同地",
         "vs": "正式,常用合作",
-        "use": "jointly owned"
+        "use": "jointly owned",
+        "useZh": "共同拥有",
+        "example": "The company is jointly owned by two families.",
+        "exampleZh": "这家公司由两个家族共同拥有。"
       },
       "collectively": {
         "def": "集体地",
         "vs": "强调整体作为单位",
-        "use": "act collectively"
+        "use": "act collectively",
+        "useZh": "集体行动",
+        "example": "The team decided to act collectively.",
+        "exampleZh": "团队决定集体行动。"
       },
       "in unison": {
         "def": "齐声/一致",
         "vs": "完全同步",
-        "use": "chanting in unison"
+        "use": "chanting in unison",
+        "useZh": "齐声吟唱",
+        "example": "The crowd began chanting in unison.",
+        "exampleZh": "人群开始齐声吟唱。"
       }
     }
   },
@@ -2841,17 +3588,26 @@
       "good": {
         "def": "好的(形)",
         "vs": "形容词,well 是副词",
-        "use": "a good job"
+        "use": "a good job",
+        "useZh": "好工作",
+        "example": "She found a good job in the city.",
+        "exampleZh": "她在城里找到了一份好工作。"
       },
       "nicely": {
         "def": "很好地",
         "vs": "侧重悦目/愉快",
-        "use": "dressed nicely"
+        "use": "dressed nicely",
+        "useZh": "穿得漂亮",
+        "example": "She was dressed nicely for the party.",
+        "exampleZh": "她为派对穿得很漂亮。"
       },
       "properly": {
         "def": "恰当地",
         "vs": "按规矩、符合标准",
-        "use": "behave properly"
+        "use": "behave properly",
+        "useZh": "举止得体",
+        "example": "Children should learn to behave properly.",
+        "exampleZh": "孩子们应该学会举止得体。"
       }
     }
   },
@@ -2875,17 +3631,26 @@
       "nearly": {
         "def": "几乎",
         "vs": "侧重接近某点",
-        "use": "nearly midnight"
+        "use": "nearly midnight",
+        "useZh": "将近午夜",
+        "example": "It was nearly midnight when he arrived.",
+        "exampleZh": "他到达时将近午夜。"
       },
       "practically": {
         "def": "实际上几乎",
         "vs": "含 \"实际上\" 意味",
-        "use": "practically empty"
+        "use": "practically empty",
+        "useZh": "几乎空荡荡",
+        "example": "The room was practically empty.",
+        "exampleZh": "房间里几乎空荡荡的。"
       },
       "virtually": {
         "def": "事实上",
         "vs": "几乎可以视为",
-        "use": "virtually identical"
+        "use": "virtually identical",
+        "useZh": "几乎相同",
+        "example": "The two designs are virtually identical.",
+        "exampleZh": "这两个设计几乎相同。"
       }
     }
   },
@@ -2909,17 +3674,26 @@
       "sufficient": {
         "def": "充分的",
         "vs": "正式,书面",
-        "use": "sufficient evidence"
+        "use": "sufficient evidence",
+        "useZh": "充分证据",
+        "example": "The police found sufficient evidence to arrest him.",
+        "exampleZh": "警方找到了充分证据来逮捕他。"
       },
       "adequate": {
         "def": "足以应付",
         "vs": "达到最低标准",
-        "use": "adequate skills"
+        "use": "adequate skills",
+        "useZh": "足够技能",
+        "example": "He has adequate skills for the job.",
+        "exampleZh": "他有足够技能胜任这份工作。"
       },
       "plenty": {
         "def": "充足",
         "vs": "含 \"有余\" 意味",
-        "use": "plenty of time"
+        "use": "plenty of time",
+        "useZh": "充足的时间",
+        "example": "We have plenty of time to finish.",
+        "exampleZh": "我们有充足的时间来完成。"
       }
     }
   },
@@ -2943,17 +3717,26 @@
       "also": {
         "def": "也",
         "vs": "附加,无情感",
-        "use": "also bring snacks"
+        "use": "also bring snacks",
+        "useZh": "也带零食",
+        "example": "Please also bring snacks to the party.",
+        "exampleZh": "请也带些零食来派对。"
       },
       "still": {
         "def": "还,仍",
         "vs": "对比/继续",
-        "use": "still better"
+        "use": "still better",
+        "useZh": "更好",
+        "example": "This solution is still better than the old one.",
+        "exampleZh": "这个方案比旧的更好。"
       },
       "yet": {
         "def": "还更",
         "vs": "比较级前,加强",
-        "use": "yet harder problems"
+        "use": "yet harder problems",
+        "useZh": "更难的问题",
+        "example": "We need to solve yet harder problems.",
+        "exampleZh": "我们需要解决更难的问题。"
       }
     }
   },
@@ -2977,17 +3760,26 @@
       "no": {
         "def": "不,没有",
         "vs": "修饰名词,强否定",
-        "use": "no problem"
+        "use": "no problem",
+        "useZh": "没问题",
+        "example": "There is no problem with the plan.",
+        "exampleZh": "这个计划没问题。"
       },
       "never": {
         "def": "从不",
         "vs": "时间上的绝对否定",
-        "use": "never again"
+        "use": "never again",
+        "useZh": "再也不",
+        "example": "I will never again make that mistake.",
+        "exampleZh": "我再也不会犯那个错误了。"
       },
       "non-": {
         "def": "非...(前缀)",
         "vs": "构词法,接形容词/名词",
-        "use": "non-stop"
+        "use": "non-stop",
+        "useZh": "不停",
+        "example": "The flight from New York is non-stop.",
+        "exampleZh": "从纽约来的航班是不停的。"
       }
     }
   },
@@ -3011,17 +3803,26 @@
       "just": {
         "def": "只是",
         "vs": "口语,常含淡化",
-        "use": "just a joke"
+        "use": "just a joke",
+        "useZh": "只是个玩笑",
+        "example": "Don't worry, it's just a joke.",
+        "exampleZh": "别担心，只是个玩笑。"
       },
       "merely": {
         "def": "仅仅",
         "vs": "正式,书面",
-        "use": "merely a child"
+        "use": "merely a child",
+        "useZh": "只是个孩子",
+        "example": "She is merely a child, not an adult.",
+        "exampleZh": "她只是个孩子，不是成年人。"
       },
       "solely": {
         "def": "独自,唯一",
         "vs": "排他性强",
-        "use": "solely responsible"
+        "use": "solely responsible",
+        "useZh": "全权负责",
+        "example": "He is solely responsible for the project.",
+        "exampleZh": "他全权负责这个项目。"
       }
     }
   },
@@ -3045,17 +3846,26 @@
       "rather": {
         "def": "相当",
         "vs": "英式,程度中等偏高",
-        "use": "rather cold"
+        "use": "rather cold",
+        "useZh": "相当冷",
+        "example": "The weather today is rather cold.",
+        "exampleZh": "今天天气相当冷。"
       },
       "fairly": {
         "def": "相当地",
         "vs": "程度中等",
-        "use": "fairly easy"
+        "use": "fairly easy",
+        "useZh": "相当容易",
+        "example": "This exam was fairly easy for me.",
+        "exampleZh": "这次考试对我来说相当容易。"
       },
       "entirely": {
         "def": "完全",
         "vs": "程度极高",
-        "use": "entirely different"
+        "use": "entirely different",
+        "useZh": "完全不同",
+        "example": "Her opinion is entirely different from mine.",
+        "exampleZh": "她的意见和我的完全不同。"
       }
     }
   },
@@ -3079,17 +3889,26 @@
       "very": {
         "def": "非常",
         "vs": "中性强化程度",
-        "use": "very nice"
+        "use": "very nice",
+        "useZh": "非常好",
+        "example": "The weather was very nice for a picnic.",
+        "exampleZh": "天气非常好，适合野餐。"
       },
       "therefore": {
         "def": "因此",
         "vs": "逻辑连接,正式",
-        "use": "therefore, we agree"
+        "use": "therefore",
+        "useZh": "因此",
+        "example": "He was late; therefore, we agree to reschedule.",
+        "exampleZh": "他迟到了，因此我们同意改期。"
       },
       "thus": {
         "def": "如此,因而",
         "vs": "正式书面",
-        "use": "thus concluded"
+        "use": "thus concluded",
+        "useZh": "因此得出结论",
+        "example": "The evidence was clear; thus concluded the judge.",
+        "exampleZh": "证据确凿，法官因此得出结论。"
       }
     }
   },
@@ -3113,17 +3932,26 @@
       "extremely": {
         "def": "极其",
         "vs": "程度更高,强化",
-        "use": "extremely difficult"
+        "use": "extremely difficult",
+        "useZh": "极其困难",
+        "example": "This math problem is extremely difficult to solve.",
+        "exampleZh": "这道数学题极其难解。"
       },
       "highly": {
         "def": "高度地",
         "vs": "褒义,常搭赞美",
-        "use": "highly recommended"
+        "use": "highly recommended",
+        "useZh": "强烈推荐",
+        "example": "This restaurant is highly recommended by locals.",
+        "exampleZh": "这家餐厅被当地人强烈推荐。"
       },
       "really": {
         "def": "真的",
         "vs": "口语,带情感",
-        "use": "really good"
+        "use": "really good",
+        "useZh": "真的很好",
+        "example": "I think this movie is really good.",
+        "exampleZh": "我觉得这部电影真的很好。"
       }
     }
   },
@@ -3147,17 +3975,26 @@
       "next day": {
         "def": "次日",
         "vs": "中性,可指未来或叙事",
-        "use": "the next day, she left"
+        "use": "the next day",
+        "useZh": "第二天",
+        "example": "She packed her bags; the next day, she left.",
+        "exampleZh": "她收拾好行李，第二天就离开了。"
       },
       "the morrow": {
         "def": "翌日(古)",
         "vs": "文学性",
-        "use": "on the morrow"
+        "use": "on the morrow",
+        "useZh": "次日",
+        "example": "They planned to depart on the morrow.",
+        "exampleZh": "他们计划次日出发。"
       },
       "soon": {
         "def": "很快",
         "vs": "模糊近期",
-        "use": "see you soon"
+        "use": "see you soon",
+        "useZh": "很快见",
+        "example": "I hope to see you soon.",
+        "exampleZh": "我希望很快见到你。"
       }
     }
   },
@@ -3181,17 +4018,26 @@
       "the day before": {
         "def": "前一天",
         "vs": "相对时间,叙事用",
-        "use": "the day before, he called"
+        "use": "the day before",
+        "useZh": "前一天",
+        "example": "The day before, he called to confirm.",
+        "exampleZh": "前一天，他打电话确认了。"
       },
       "previously": {
         "def": "先前",
         "vs": "正式,泛指之前",
-        "use": "as previously mentioned"
+        "use": "as previously mentioned",
+        "useZh": "如前所述",
+        "example": "As previously mentioned, the meeting is at noon.",
+        "exampleZh": "如前所述，会议在中午。"
       },
       "prior day": {
         "def": "前一日",
         "vs": "正式书面",
-        "use": "the prior day's report"
+        "use": "the prior day's report",
+        "useZh": "前一天的报告",
+        "example": "The prior day's report was missing data.",
+        "exampleZh": "前一天的报告缺少数据。"
       }
     }
   },
@@ -3215,17 +4061,26 @@
       "northward": {
         "def": "向北方",
         "vs": "方向词,书面",
-        "use": "travel northward"
+        "use": "travel northward",
+        "useZh": "向北旅行",
+        "example": "The birds travel northward every spring.",
+        "exampleZh": "鸟儿每年春天向北旅行。"
       },
       "Arctic direction": {
         "def": "北极方向",
         "vs": "极地语境",
-        "use": "the Arctic direction"
+        "use": "the Arctic direction",
+        "useZh": "北极方向",
+        "example": "The ship sailed toward the Arctic direction.",
+        "exampleZh": "船朝着北极方向航行。"
       },
       "up": {
         "def": "上(地图)",
         "vs": "口语,地图上的方向",
-        "use": "head up the map"
+        "use": "head up the map",
+        "useZh": "朝地图上方",
+        "example": "Head up the map to find the lake.",
+        "exampleZh": "朝地图上方走就能找到湖。"
       }
     }
   },
@@ -3249,17 +4104,26 @@
       "southward": {
         "def": "向南方",
         "vs": "方向词,书面",
-        "use": "flying southward"
+        "use": "flying southward",
+        "useZh": "向南飞",
+        "example": "The geese are flying southward for winter.",
+        "exampleZh": "大雁向南飞去过冬。"
       },
       "tropical direction": {
         "def": "南方/热带方向",
         "vs": "地理语境",
-        "use": "in the tropical direction"
+        "use": "in the tropical direction",
+        "useZh": "朝热带方向",
+        "example": "The wind blew in the tropical direction.",
+        "exampleZh": "风朝热带方向吹去。"
       },
       "down": {
         "def": "下(地图)",
         "vs": "口语,地图上的方向",
-        "use": "head down south"
+        "use": "head down south",
+        "useZh": "南下",
+        "example": "We plan to head down south next week.",
+        "exampleZh": "我们计划下周南下。"
       }
     }
   },
@@ -3283,17 +4147,26 @@
       "eastward": {
         "def": "向东方",
         "vs": "方向词,书面",
-        "use": "sailing eastward"
+        "use": "sailing eastward",
+        "useZh": "向东航行",
+        "example": "The explorers kept sailing eastward for days.",
+        "exampleZh": "探险家们连续几天向东航行。"
       },
       "orient": {
         "def": "东方",
         "vs": "古典,东方文化语境",
-        "use": "the Orient"
+        "use": "the Orient",
+        "useZh": "东方",
+        "example": "Ancient traders traveled to the Orient.",
+        "exampleZh": "古代商人前往东方。"
       },
       "sunrise side": {
         "def": "日出方向",
         "vs": "诗意描述",
-        "use": "on the sunrise side"
+        "use": "on the sunrise side",
+        "useZh": "在日出的一侧",
+        "example": "The house sits on the sunrise side of the hill.",
+        "exampleZh": "房子坐落在山丘的日出方向。"
       }
     }
   },
@@ -3317,17 +4190,26 @@
       "westward": {
         "def": "向西方",
         "vs": "方向词,书面",
-        "use": "westward expansion"
+        "use": "westward expansion",
+        "useZh": "西进扩张",
+        "example": "The westward expansion changed the nation.",
+        "exampleZh": "西进扩张改变了这个国家。"
       },
       "sunset side": {
         "def": "日落方向",
         "vs": "诗意描述",
-        "use": "on the sunset side"
+        "use": "on the sunset side",
+        "useZh": "在日落的一侧",
+        "example": "The garden is on the sunset side of the house.",
+        "exampleZh": "花园在房子的日落方向。"
       },
       "occident": {
         "def": "西方",
         "vs": "古典,西方文化",
-        "use": "the Occident"
+        "use": "the Occident",
+        "useZh": "西方",
+        "example": "The Occident has a rich cultural history.",
+        "exampleZh": "西方有着丰富的文化历史。"
       }
     }
   },
@@ -3351,17 +4233,26 @@
       "kindly": {
         "def": "请,劳驾",
         "vs": "更正式,书面",
-        "use": "kindly respond by Friday"
+        "use": "kindly respond by Friday",
+        "useZh": "请在周五前回复",
+        "example": "Kindly respond by Friday with your decision.",
+        "exampleZh": "请在周五前回复你的决定。"
       },
       "if you would": {
         "def": "如蒙允许",
         "vs": "非常礼貌,委婉",
-        "use": "if you would close the door"
+        "use": "if you would close the door",
+        "useZh": "请关上门",
+        "example": "If you would close the door, it would help.",
+        "exampleZh": "如蒙允许关上门，那就帮了大忙。"
       },
       "pray": {
         "def": "恳请(古)",
         "vs": "古英语,文学",
-        "use": "pray tell me"
+        "use": "pray tell me",
+        "useZh": "请告诉我",
+        "example": "Pray tell me what happened last night.",
+        "exampleZh": "恳请告诉我昨晚发生了什么。"
       }
     }
   },
@@ -3385,17 +4276,26 @@
       "yeah": {
         "def": "是的(随意)",
         "vs": "非常口语化",
-        "use": "yeah, sure"
+        "use": "yeah sure",
+        "useZh": "嗯当然",
+        "example": "Yeah, sure, I'll help you with that.",
+        "exampleZh": "嗯，当然，我会帮你。"
       },
       "yep": {
         "def": "嗯(随意)",
         "vs": "口语,带俏皮",
-        "use": "yep, exactly"
+        "use": "yep exactly",
+        "useZh": "对没错",
+        "example": "Yep, exactly what I was thinking.",
+        "exampleZh": "对，没错，正是我所想的。"
       },
       "affirmative": {
         "def": "肯定的",
         "vs": "军事/正式语境",
-        "use": "that's affirmative"
+        "use": "that's affirmative",
+        "useZh": "确认",
+        "example": "The commander replied, \"That's affirmative.\"",
+        "exampleZh": "指挥官回答：“确认。”"
       }
     }
   }

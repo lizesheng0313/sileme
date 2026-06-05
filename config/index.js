@@ -17,15 +17,6 @@ export default defineConfig(async (merge, { command, mode }) => {
     outputRoot: 'dist',
     plugins: [],
     defineConstants: {},
-    copy: {
-      patterns: [
-        {
-          from: 'audio-samples',
-          to: 'dist/audio-samples',
-        },
-      ],
-      options: {},
-    },
     framework: 'react',
     compiler: {
       type: 'webpack5',

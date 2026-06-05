@@ -3,6 +3,7 @@ import { getToken } from './basic850Api'
 
 const AUDIO_BASE_URL = 'https://zjkdongao.cn/api/basic850/audio'
 let audioContext = null
+let currentRequest = ''
 
 function slug(value) {
   return String(value || '')
@@ -29,6 +30,9 @@ export async function playAudio(options) {
   const src = getAudioUrl(options)
 
   if (!src) return
+  if (currentRequest === src) return
+
+  currentRequest = src
 
   try {
     const token = await getToken()
@@ -64,6 +68,8 @@ export async function playAudio(options) {
       icon: 'none',
       duration: 1200
     })
+  } finally {
+    currentRequest = ''
   }
 }
 

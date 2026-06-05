@@ -19,17 +19,26 @@
       "corner": {
         "def": "角落",
         "vs": "两面相交处",
-        "use": "in the corner"
+        "use": "in the corner",
+        "useZh": "在角落里",
+        "example": "The cat is sleeping in the corner of the room.",
+        "exampleZh": "猫正在房间的角落里睡觉。"
       },
       "bend": {
         "def": "弯曲处",
         "vs": "侧重弯曲点",
-        "use": "a sharp bend"
+        "use": "a sharp bend",
+        "useZh": "急转弯",
+        "example": "The car slowed down at a sharp bend in the road.",
+        "exampleZh": "汽车在道路的一个急转弯处减速了。"
       },
       "point": {
         "def": "尖点",
         "vs": "侧重锐尖",
-        "use": "a sharp point"
+        "use": "a sharp point",
+        "useZh": "尖锐的点",
+        "example": "Be careful, the pencil has a very sharp point.",
+        "exampleZh": "小心，这支铅笔有一个非常尖锐的点。"
       }
     }
   },
@@ -53,17 +62,26 @@
       "insect": {
         "def": "昆虫",
         "vs": "广义类别",
-        "use": "a small insect"
+        "use": "a small insect",
+        "useZh": "小昆虫",
+        "example": "An ant is a small insect that lives in colonies.",
+        "exampleZh": "蚂蚁是一种群居的小昆虫。"
       },
       "pismire": {
         "def": "蚂蚁(古)",
         "vs": "古英语",
-        "use": "a hill of pismires"
+        "use": "a hill of pismires",
+        "useZh": "蚁丘",
+        "example": "We found a large hill of pismires in the garden.",
+        "exampleZh": "我们在花园里发现了一个大蚁丘。"
       },
       "bug": {
         "def": "虫子",
         "vs": "口语,泛指",
-        "use": "a tiny bug"
+        "use": "a tiny bug",
+        "useZh": "小虫子",
+        "example": "I saw a tiny bug crawling on the leaf.",
+        "exampleZh": "我看到一只小虫子在叶子上爬。"
       }
     }
   },
@@ -87,17 +105,26 @@
       "fruit": {
         "def": "水果",
         "vs": "广义类别",
-        "use": "fresh fruit"
+        "use": "fresh fruit",
+        "useZh": "新鲜水果",
+        "example": "She bought some fresh fruit, including apples and oranges.",
+        "exampleZh": "她买了一些新鲜水果，包括苹果和橙子。"
       },
       "produce": {
         "def": "农产品",
         "vs": "侧重新鲜果蔬",
-        "use": "local produce"
+        "use": "local produce",
+        "useZh": "当地农产品",
+        "example": "The market sells a lot of local produce like apples.",
+        "exampleZh": "市场出售很多像苹果这样的当地农产品。"
       },
       "pome": {
         "def": "梨果",
         "vs": "植物学,梨苹果类",
-        "use": "the pome family"
+        "use": "the pome family",
+        "useZh": "梨果类",
+        "example": "Apples and pears both belong to the pome family.",
+        "exampleZh": "苹果和梨都属于梨果类。"
       }
     }
   },
@@ -121,17 +148,26 @@
       "archway": {
         "def": "拱形通道",
         "vs": "侧重通道",
-        "use": "under the archway"
+        "use": "under the archway",
+        "useZh": "在拱门下",
+        "example": "They stood under the archway to escape the rain.",
+        "exampleZh": "他们站在拱门下躲雨。"
       },
       "curve": {
         "def": "曲线",
         "vs": "广义弯曲",
-        "use": "a graceful curve"
+        "use": "a graceful curve",
+        "useZh": "优美的曲线",
+        "example": "The road has a graceful curve through the hills.",
+        "exampleZh": "这条路在山丘间有一条优美的曲线。"
       },
       "vault": {
         "def": "拱顶",
         "vs": "侧重穹顶",
-        "use": "a stone vault"
+        "use": "a stone vault",
+        "useZh": "石拱顶",
+        "example": "The old church has a beautiful stone vault ceiling.",
+        "exampleZh": "这座老教堂有一个漂亮的石拱顶天花板。"
       }
     }
   },
@@ -155,17 +191,26 @@
       "limb": {
         "def": "四肢",
         "vs": "广义,手或脚",
-        "use": "a missing limb"
+        "use": "a missing limb",
+        "useZh": "缺失的肢体",
+        "example": "The accident left him with a missing limb.",
+        "exampleZh": "那次事故导致他缺失了一条肢体。"
       },
       "forearm": {
         "def": "前臂",
         "vs": "侧重肘以下",
-        "use": "a strong forearm"
+        "use": "a strong forearm",
+        "useZh": "强壮的前臂",
+        "example": "He has a strong forearm from playing tennis.",
+        "exampleZh": "他因为打网球而拥有强壮的前臂。"
       },
       "appendage": {
         "def": "附肢",
         "vs": "正式,生物学术语",
-        "use": "the spider's appendages"
+        "use": "the spider's appendages",
+        "useZh": "蜘蛛的附肢",
+        "example": "The spider's appendages help it move quickly.",
+        "exampleZh": "蜘蛛的附肢帮助它快速移动。"
       }
     }
   },
@@ -189,17 +234,26 @@
       "troops": {
         "def": "部队",
         "vs": "侧重作战人员",
-        "use": "deploy troops"
+        "use": "deploy troops",
+        "useZh": "部署军队",
+        "example": "The general decided to deploy troops to the border.",
+        "exampleZh": "将军决定向边境部署军队。"
       },
       "forces": {
         "def": "军队,武装",
         "vs": "侧重武装力量",
-        "use": "armed forces"
+        "use": "armed forces",
+        "useZh": "武装部队",
+        "example": "He served in the armed forces for twenty years.",
+        "exampleZh": "他在武装部队服役了二十年。"
       },
       "military": {
         "def": "军方",
         "vs": "侧重军事机构",
-        "use": "join the military"
+        "use": "join the military",
+        "useZh": "参军",
+        "example": "Many young people choose to join the military.",
+        "exampleZh": "许多年轻人选择参军。"
       }
     }
   },
@@ -223,17 +277,26 @@
       "infant": {
         "def": "婴儿",
         "vs": "正式,医学用",
-        "use": "infant mortality"
+        "use": "infant mortality",
+        "useZh": "婴儿死亡率",
+        "example": "The hospital has a special unit for infant mortality research.",
+        "exampleZh": "这家医院有一个专门的婴儿死亡率研究部门。"
       },
       "newborn": {
         "def": "新生儿",
         "vs": "刚出生",
-        "use": "a newborn child"
+        "use": "a newborn child",
+        "useZh": "新生儿",
+        "example": "The mother held her newborn child gently in her arms.",
+        "exampleZh": "母亲温柔地把新生儿抱在怀里。"
       },
       "child": {
         "def": "孩子",
         "vs": "广义,可指更大",
-        "use": "a small child"
+        "use": "a small child",
+        "useZh": "小孩",
+        "example": "A small child was playing with a toy in the park.",
+        "exampleZh": "一个小孩正在公园里玩玩具。"
       }
     }
   },
@@ -257,17 +320,26 @@
       "sack": {
         "def": "麻袋",
         "vs": "较大的粗布袋",
-        "use": "a sack of grain"
+        "use": "a sack of grain",
+        "useZh": "一袋谷物",
+        "example": "The farmer carried a sack of grain to the barn.",
+        "exampleZh": "农夫扛着一袋谷物到谷仓。"
       },
       "purse": {
         "def": "钱包,手提包",
         "vs": "侧重女用手包",
-        "use": "a leather purse"
+        "use": "a leather purse",
+        "useZh": "皮钱包",
+        "example": "She bought a beautiful leather purse at the store.",
+        "exampleZh": "她在商店买了一个漂亮的皮钱包。"
       },
       "pouch": {
         "def": "小袋",
         "vs": "小且软的袋",
-        "use": "a tobacco pouch"
+        "use": "a tobacco pouch",
+        "useZh": "烟袋",
+        "example": "He kept his tobacco in a small leather pouch.",
+        "exampleZh": "他把烟草放在一个小皮烟袋里。"
       }
     }
   },
@@ -291,17 +363,26 @@
       "sphere": {
         "def": "球体",
         "vs": "几何术语",
-        "use": "a perfect sphere"
+        "use": "a perfect sphere",
+        "useZh": "完美球体",
+        "example": "The artist created a perfect sphere out of clay.",
+        "exampleZh": "艺术家用黏土创造了一个完美的球体。"
       },
       "globe": {
         "def": "地球仪,球",
         "vs": "侧重大球",
-        "use": "spin the globe"
+        "use": "spin the globe",
+        "useZh": "转动地球仪",
+        "example": "The teacher asked the student to spin the globe.",
+        "exampleZh": "老师让学生转动地球仪。"
       },
       "orb": {
         "def": "球状物(文学)",
         "vs": "诗意,常指天体",
-        "use": "the celestial orb"
+        "use": "the celestial orb",
+        "useZh": "天体",
+        "example": "The moon is a beautiful celestial orb in the night sky.",
+        "exampleZh": "月亮是夜空中一个美丽的天体。"
       }
     }
   },
@@ -325,17 +406,26 @@
       "strip": {
         "def": "条状物",
         "vs": "侧重细长一片",
-        "use": "a strip of cloth"
+        "use": "a strip of cloth",
+        "useZh": "一条布",
+        "example": "She cut a strip of cloth to use as a bandage.",
+        "exampleZh": "她剪了一条布用作绷带。"
       },
       "group": {
         "def": "团体",
         "vs": "侧重人的小群体",
-        "use": "a music group"
+        "use": "a music group",
+        "useZh": "音乐团体",
+        "example": "The music group performed at the local festival.",
+        "exampleZh": "这个音乐团体在当地节日上表演了。"
       },
       "ring": {
         "def": "环",
         "vs": "侧重圆环",
-        "use": "a metal ring"
+        "use": "a metal ring",
+        "useZh": "金属环",
+        "example": "He put a metal ring on his finger as a decoration.",
+        "exampleZh": "他把一个金属环戴在手指上作为装饰。"
       }
     }
   },
@@ -359,17 +449,26 @@
       "bowl": {
         "def": "碗",
         "vs": "侧重食用碗",
-        "use": "a soup bowl"
+        "use": "a soup bowl",
+        "useZh": "汤碗",
+        "example": "She poured the soup into a soup bowl.",
+        "exampleZh": "她把汤倒进了一个汤碗里。"
       },
       "sink": {
         "def": "水槽",
         "vs": "侧重厨/卫水槽",
-        "use": "the kitchen sink"
+        "use": "the kitchen sink",
+        "useZh": "厨房水槽",
+        "example": "He washed the dishes in the kitchen sink.",
+        "exampleZh": "他在厨房水槽里洗了盘子。"
       },
       "tub": {
         "def": "盆,桶",
         "vs": "侧重浴盆",
-        "use": "hot tub"
+        "use": "hot tub",
+        "useZh": "热水浴缸",
+        "example": "We relaxed in the hot tub after work.",
+        "exampleZh": "下班后我们在热水浴缸里放松。"
       }
     }
   },
@@ -393,17 +492,26 @@
       "hamper": {
         "def": "提篮",
         "vs": "有盖的大篮",
-        "use": "a picnic hamper"
+        "use": "a picnic hamper",
+        "useZh": "野餐篮",
+        "example": "We packed lunch in a picnic hamper.",
+        "exampleZh": "我们把午餐装进了一个野餐篮里。"
       },
       "creel": {
         "def": "鱼篓",
         "vs": "渔民用篓",
-        "use": "a fisherman's creel"
+        "use": "a fisherman's creel",
+        "useZh": "渔夫鱼篓",
+        "example": "The fisherman carried a creel on his back.",
+        "exampleZh": "渔夫背上背着一个鱼篓。"
       },
       "pannier": {
         "def": "驮篮",
         "vs": "驮在牲畜两侧",
-        "use": "bicycle panniers"
+        "use": "bicycle panniers",
+        "useZh": "自行车驮包",
+        "example": "She attached bicycle panniers for the trip.",
+        "exampleZh": "她为这次旅行装上了自行车驮包。"
       }
     }
   },
@@ -427,17 +535,26 @@
       "tub": {
         "def": "浴盆",
         "vs": "具体器具",
-        "use": "a bath tub"
+        "use": "a bath tub",
+        "useZh": "浴缸",
+        "example": "She filled the bath tub with warm water.",
+        "exampleZh": "她往浴缸里放满了温水。"
       },
       "soak": {
         "def": "浸泡",
         "vs": "侧重浸的动作",
-        "use": "a long soak"
+        "use": "a long soak",
+        "useZh": "长时间泡澡",
+        "example": "After the hike, she enjoyed a long soak.",
+        "exampleZh": "徒步之后，她享受了一次长时间泡澡。"
       },
       "wash": {
         "def": "洗,沐浴",
         "vs": "广义,洗涤",
-        "use": "a quick wash"
+        "use": "a quick wash",
+        "useZh": "快速冲洗",
+        "example": "He gave the dog a quick wash outside.",
+        "exampleZh": "他在外面给狗快速冲洗了一下。"
       }
     }
   },
@@ -461,17 +578,26 @@
       "cot": {
         "def": "小床,折叠床",
         "vs": "侧重简易床",
-        "use": "a baby cot"
+        "use": "a baby cot",
+        "useZh": "婴儿床",
+        "example": "The baby sleeps in a baby cot at night.",
+        "exampleZh": "宝宝晚上睡在婴儿床里。"
       },
       "bunk": {
         "def": "双层床位",
         "vs": "侧重叠层",
-        "use": "the top bunk"
+        "use": "the top bunk",
+        "useZh": "上铺",
+        "example": "He climbed up to the top bunk to sleep.",
+        "exampleZh": "他爬上上铺去睡觉。"
       },
       "mattress": {
         "def": "床垫",
         "vs": "侧重床上垫",
-        "use": "a firm mattress"
+        "use": "a firm mattress",
+        "useZh": "硬床垫",
+        "example": "She prefers sleeping on a firm mattress.",
+        "exampleZh": "她更喜欢睡在硬床垫上。"
       }
     }
   },
@@ -495,17 +621,26 @@
       "insect": {
         "def": "昆虫",
         "vs": "广义类别",
-        "use": "flying insect"
+        "use": "flying insect",
+        "useZh": "飞虫",
+        "example": "A bee is a type of flying insect.",
+        "exampleZh": "蜜蜂是一种飞虫。"
       },
       "bug": {
         "def": "虫子",
         "vs": "口语",
-        "use": "a tiny bug"
+        "use": "a tiny bug",
+        "useZh": "小虫子",
+        "example": "I saw a tiny bug crawling on the leaf.",
+        "exampleZh": "我看到一只小虫子在叶子上爬。"
       },
       "honey-maker": {
         "def": "产蜜者",
         "vs": "字面描述",
-        "use": "the honey-maker"
+        "use": "the honey-maker",
+        "useZh": "蜜蜂",
+        "example": "The honey-maker buzzed around the flowers.",
+        "exampleZh": "蜜蜂在花丛周围嗡嗡地飞。"
       }
     }
   },
@@ -529,17 +664,26 @@
       "chime": {
         "def": "钟声,排钟",
         "vs": "侧重悦耳音",
-        "use": "wind chimes"
+        "use": "wind chimes",
+        "useZh": "风铃",
+        "example": "The wind chimes made a soft, pleasant sound.",
+        "exampleZh": "风铃发出了柔和悦耳的声音。"
       },
       "gong": {
         "def": "锣",
         "vs": "东方/低沉",
-        "use": "a loud gong"
+        "use": "a loud gong",
+        "useZh": "响锣",
+        "example": "The monk struck a loud gong in the temple.",
+        "exampleZh": "僧人在寺庙里敲响了响锣。"
       },
       "ringer": {
         "def": "敲钟者/响铃",
         "vs": "侧重响铃物",
-        "use": "a dead ringer"
+        "use": "a dead ringer",
+        "useZh": "一模一样",
+        "example": "He is a dead ringer for his grandfather.",
+        "exampleZh": "他和他祖父长得一模一样。"
       }
     }
   },
@@ -563,17 +707,26 @@
       "fruit": {
         "def": "水果",
         "vs": "广义类别",
-        "use": "fresh fruit"
+        "use": "fresh fruit",
+        "useZh": "新鲜水果",
+        "example": "She bought some fresh fruit at the market.",
+        "exampleZh": "她在市场买了一些新鲜水果。"
       },
       "seed": {
         "def": "种子",
         "vs": "侧重果中种",
-        "use": "contains seeds"
+        "use": "contains seeds",
+        "useZh": "含有种子",
+        "example": "A strawberry contains seeds on its surface.",
+        "exampleZh": "草莓表面含有种子。"
       },
       "kernel": {
         "def": "果仁",
         "vs": "侧重内核",
-        "use": "the kernel inside"
+        "use": "the kernel inside",
+        "useZh": "里面的内核",
+        "example": "The kernel inside the nut is edible.",
+        "exampleZh": "坚果里面的果仁是可以吃的。"
       }
     }
   },
@@ -597,17 +750,26 @@
       "fowl": {
         "def": "家禽",
         "vs": "侧重可食用",
-        "use": "wild fowl"
+        "use": "wild fowl",
+        "useZh": "野禽",
+        "example": "They hunted wild fowl for the feast.",
+        "exampleZh": "他们猎捕野禽来准备盛宴。"
       },
       "creature": {
         "def": "生物",
         "vs": "广义,任何生灵",
-        "use": "a tiny creature"
+        "use": "a tiny creature",
+        "useZh": "小生物",
+        "example": "A tiny creature flew past the window.",
+        "exampleZh": "一个小生物飞过了窗户。"
       },
       "avian": {
         "def": "鸟类的",
         "vs": "形容词,科学",
-        "use": "avian species"
+        "use": "avian species",
+        "useZh": "鸟类物种",
+        "example": "Scientists study many avian species worldwide.",
+        "exampleZh": "科学家研究世界各地的许多鸟类物种。"
       }
     }
   },
@@ -631,17 +793,26 @@
       "edge": {
         "def": "边缘",
         "vs": "侧重锋利边",
-        "use": "a sharp edge"
+        "use": "a sharp edge",
+        "useZh": "锋利的边缘",
+        "example": "Be careful of the knife's sharp edge.",
+        "exampleZh": "小心刀的锋利边缘。"
       },
       "knife": {
         "def": "刀",
         "vs": "侧重整把刀",
-        "use": "a kitchen knife"
+        "use": "a kitchen knife",
+        "useZh": "菜刀",
+        "example": "She used a kitchen knife to chop vegetables.",
+        "exampleZh": "她用一把菜刀切蔬菜。"
       },
       "cutter": {
         "def": "切割器",
         "vs": "侧重切割工具",
-        "use": "a box cutter"
+        "use": "a box cutter",
+        "useZh": "美工刀",
+        "example": "He opened the box with a box cutter.",
+        "exampleZh": "他用一把美工刀打开了箱子。"
       }
     }
   },
@@ -665,17 +836,26 @@
       "plank": {
         "def": "厚木板",
         "vs": "侧重一长块",
-        "use": "a wooden plank"
+        "use": "a wooden plank",
+        "useZh": "木板",
+        "example": "He laid a wooden plank across the gap.",
+        "exampleZh": "他把一块木板横跨在缺口上。"
       },
       "panel": {
         "def": "嵌板",
         "vs": "侧重装饰面板",
-        "use": "a control panel"
+        "use": "a control panel",
+        "useZh": "控制面板",
+        "example": "Press the button on the control panel.",
+        "exampleZh": "按下控制面板上的按钮。"
       },
       "slab": {
         "def": "厚板",
         "vs": "侧重厚重平板",
-        "use": "a concrete slab"
+        "use": "a concrete slab",
+        "useZh": "混凝土板",
+        "example": "They poured a concrete slab for the patio.",
+        "exampleZh": "他们为露台浇筑了一块混凝土板。"
       }
     }
   },
@@ -699,17 +879,26 @@
       "vessel": {
         "def": "船只",
         "vs": "正式,任何船",
-        "use": "a sailing vessel"
+        "use": "a sailing vessel",
+        "useZh": "帆船",
+        "example": "We spotted a large sailing vessel on the horizon.",
+        "exampleZh": "我们在地平线上看到一艘大型帆船。"
       },
       "ship": {
         "def": "大船,轮船",
         "vs": "侧重远洋大船",
-        "use": "a cargo ship"
+        "use": "a cargo ship",
+        "useZh": "货船",
+        "example": "The cargo ship sailed across the ocean.",
+        "exampleZh": "货船横渡了大洋。"
       },
       "craft": {
         "def": "小船",
         "vs": "广义,船或飞行器",
-        "use": "a small craft"
+        "use": "a small craft",
+        "useZh": "小船",
+        "example": "A small craft drifted near the shore.",
+        "exampleZh": "一艘小船在岸边漂流。"
       }
     }
   },
@@ -733,17 +922,26 @@
       "skeleton": {
         "def": "骨骼",
         "vs": "侧重整副骨架",
-        "use": "a human skeleton"
+        "use": "a human skeleton",
+        "useZh": "人体骨骼",
+        "example": "The museum displayed a human skeleton.",
+        "exampleZh": "博物馆展示了一具人体骨骼。"
       },
       "ossicle": {
         "def": "小骨",
         "vs": "医学术语",
-        "use": "the ear ossicles"
+        "use": "the ear ossicles",
+        "useZh": "听小骨",
+        "example": "The doctor examined the ear ossicles.",
+        "exampleZh": "医生检查了听小骨。"
       },
       "frame": {
         "def": "骨架",
         "vs": "侧重整体结构",
-        "use": "a thin frame"
+        "use": "a thin frame",
+        "useZh": "薄框架",
+        "example": "She has a thin frame but is strong.",
+        "exampleZh": "她骨架纤细但很结实。"
       }
     }
   },
@@ -767,17 +965,26 @@
       "volume": {
         "def": "卷",
         "vs": "侧重多卷之一",
-        "use": "volume one"
+        "use": "volume one",
+        "useZh": "第一卷",
+        "example": "I need to borrow volume one of the series.",
+        "exampleZh": "我需要借这套书的第一卷。"
       },
       "text": {
         "def": "文本",
         "vs": "侧重文字内容",
-        "use": "the original text"
+        "use": "the original text",
+        "useZh": "原文",
+        "example": "The original text was written in Latin.",
+        "exampleZh": "原文是用拉丁文写的。"
       },
       "tome": {
         "def": "大部头",
         "vs": "侧重厚重大书",
-        "use": "a hefty tome"
+        "use": "a hefty tome",
+        "useZh": "厚书",
+        "example": "He carried a hefty tome under his arm.",
+        "exampleZh": "他腋下夹着一本厚书。"
       }
     }
   },
@@ -801,17 +1008,26 @@
       "shoe": {
         "def": "鞋",
         "vs": "广义,任何鞋",
-        "use": "a pair of shoes"
+        "use": "a pair of shoes",
+        "useZh": "一双鞋",
+        "example": "She bought a pair of shoes for the party.",
+        "exampleZh": "她为派对买了一双鞋。"
       },
       "footwear": {
         "def": "鞋类",
         "vs": "正式,鞋的统称",
-        "use": "sturdy footwear"
+        "use": "sturdy footwear",
+        "useZh": "结实的鞋子",
+        "example": "Sturdy footwear is essential for hiking.",
+        "exampleZh": "结实的鞋子对徒步旅行至关重要。"
       },
       "wellington": {
         "def": "长筒胶靴",
         "vs": "特指雨靴",
-        "use": "a pair of wellingtons"
+        "use": "a pair of wellingtons",
+        "useZh": "一双威灵顿靴",
+        "example": "He wore a pair of wellingtons in the rain.",
+        "exampleZh": "下雨时他穿了一双威灵顿靴。"
       }
     }
   },
@@ -835,17 +1051,26 @@
       "flask": {
         "def": "细颈瓶",
         "vs": "侧重平扁或保温",
-        "use": "a hip flask"
+        "use": "a hip flask",
+        "useZh": "扁酒壶",
+        "example": "He carried a hip flask in his pocket.",
+        "exampleZh": "他口袋里揣着一个扁酒壶。"
       },
       "jug": {
         "def": "罐,壶",
         "vs": "侧重大容量",
-        "use": "a milk jug"
+        "use": "a milk jug",
+        "useZh": "牛奶壶",
+        "example": "She poured milk from a milk jug.",
+        "exampleZh": "她从牛奶壶里倒出牛奶。"
       },
       "vial": {
         "def": "小瓶",
         "vs": "小巧,常药用",
-        "use": "a vial of medicine"
+        "use": "a vial of medicine",
+        "useZh": "一小瓶药",
+        "example": "The nurse handed me a vial of medicine.",
+        "exampleZh": "护士递给我一小瓶药。"
       }
     }
   },
@@ -869,17 +1094,26 @@
       "case": {
         "def": "盒子,箱",
         "vs": "侧重保护用",
-        "use": "a phone case"
+        "use": "a phone case",
+        "useZh": "手机壳",
+        "example": "I bought a new phone case for protection.",
+        "exampleZh": "我买了一个新手机壳来保护手机。"
       },
       "crate": {
         "def": "板条箱",
         "vs": "侧重运输用大箱",
-        "use": "a wooden crate"
+        "use": "a wooden crate",
+        "useZh": "木箱",
+        "example": "They shipped the goods in a wooden crate.",
+        "exampleZh": "他们用木箱运送货物。"
       },
       "carton": {
         "def": "纸盒",
         "vs": "侧重纸质盒",
-        "use": "a milk carton"
+        "use": "a milk carton",
+        "useZh": "牛奶盒",
+        "example": "He drank milk straight from the milk carton.",
+        "exampleZh": "他直接对着牛奶盒喝牛奶。"
       }
     }
   },
@@ -903,17 +1137,26 @@
       "lad": {
         "def": "小伙子",
         "vs": "英式或文学",
-        "use": "a fine lad"
+        "use": "a fine lad",
+        "useZh": "好小伙子",
+        "example": "That fine lad helped me carry the bags.",
+        "exampleZh": "那个好小伙子帮我提了包。"
       },
       "kid": {
         "def": "小孩",
         "vs": "口语,不分性别",
-        "use": "good kid"
+        "use": "good kid",
+        "useZh": "好孩子",
+        "example": "He is a good kid who always listens.",
+        "exampleZh": "他是个总是听话的好孩子。"
       },
       "youth": {
         "def": "青年",
         "vs": "侧重青少年",
-        "use": "a young youth"
+        "use": "a young youth",
+        "useZh": "年轻人",
+        "example": "A young youth stood at the bus stop.",
+        "exampleZh": "一个年轻人站在公交站。"
       }
     }
   },
@@ -937,17 +1180,26 @@
       "mind": {
         "def": "心智",
         "vs": "侧重思维功能",
-        "use": "a clear mind"
+        "use": "a clear mind",
+        "useZh": "清晰的头脑",
+        "example": "Meditation helps me keep a clear mind.",
+        "exampleZh": "冥想帮助我保持清晰的头脑。"
       },
       "intellect": {
         "def": "智力",
         "vs": "侧重智慧能力",
-        "use": "sharp intellect"
+        "use": "sharp intellect",
+        "useZh": "敏锐的才智",
+        "example": "Her sharp intellect impressed everyone.",
+        "exampleZh": "她敏锐的才智给所有人留下了深刻印象。"
       },
       "head": {
         "def": "头脑",
         "vs": "口语,头部",
-        "use": "use your head"
+        "use": "use your head",
+        "useZh": "动动脑子",
+        "example": "You need to use your head to solve this.",
+        "exampleZh": "你需要动动脑子来解决这个问题。"
       }
     }
   },
@@ -971,17 +1223,26 @@
       "stopper": {
         "def": "塞子,止动器",
         "vs": "侧重塞住",
-        "use": "a door stopper"
+        "use": "a door stopper",
+        "useZh": "门挡",
+        "example": "I put a door stopper under the door.",
+        "exampleZh": "我在门下放了一个门挡。"
       },
       "check": {
         "def": "制止",
         "vs": "侧重抑制",
-        "use": "keep in check"
+        "use": "keep in check",
+        "useZh": "控制住",
+        "example": "We must keep our spending in check.",
+        "exampleZh": "我们必须控制住开支。"
       },
       "curb": {
         "def": "勒制",
         "vs": "侧重约束",
-        "use": "curb the impulse"
+        "use": "curb the impulse",
+        "useZh": "抑制冲动",
+        "example": "He tried to curb the impulse to shout.",
+        "exampleZh": "他试图抑制住大喊的冲动。"
       }
     }
   },
@@ -1005,17 +1266,26 @@
       "limb": {
         "def": "大树枝",
         "vs": "侧重粗枝",
-        "use": "a sturdy limb"
+        "use": "a sturdy limb",
+        "useZh": "结实的树枝",
+        "example": "The bird sat on a sturdy limb of the tree.",
+        "exampleZh": "鸟停在树上结实的树枝上。"
       },
       "bough": {
         "def": "大枝",
         "vs": "文学,主枝",
-        "use": "under the bough"
+        "use": "under the bough",
+        "useZh": "在树枝下",
+        "example": "They sat under the bough of the oak.",
+        "exampleZh": "他们坐在橡树的树枝下。"
       },
       "arm": {
         "def": "分支",
         "vs": "比喻,分支机构",
-        "use": "an arm of the company"
+        "use": "an arm of the company",
+        "useZh": "公司的一个部门",
+        "example": "This is an arm of the company in Asia.",
+        "exampleZh": "这是该公司在亚洲的一个部门。"
       }
     }
   },
@@ -1039,17 +1309,26 @@
       "block": {
         "def": "块",
         "vs": "广义,任何方块",
-        "use": "a stone block"
+        "use": "a stone block",
+        "useZh": "一块石头",
+        "example": "He used a stone block to build the wall.",
+        "exampleZh": "他用一块石头砌了那堵墙。"
       },
       "stone": {
         "def": "石头",
         "vs": "侧重天然石",
-        "use": "a heavy stone"
+        "use": "a heavy stone",
+        "useZh": "一块重石",
+        "example": "She picked up a heavy stone from the river.",
+        "exampleZh": "她从河里捡起一块重石。"
       },
       "clay block": {
         "def": "黏土块",
         "vs": "字面描述,材料",
-        "use": "a clay block"
+        "use": "a clay block",
+        "useZh": "一块黏土",
+        "example": "The artist shaped a clay block into a pot.",
+        "exampleZh": "艺术家把一块黏土捏成了罐子。"
       }
     }
   },
@@ -1073,17 +1352,26 @@
       "span": {
         "def": "跨度,桥跨",
         "use": "a single span",
-        "vs": "侧重跨距"
+        "vs": "侧重跨距",
+        "useZh": "单跨",
+        "example": "The bridge has a single span of fifty meters.",
+        "exampleZh": "这座桥的单跨有五十米。"
       },
       "overpass": {
         "def": "立交桥",
         "vs": "侧重跨马路",
-        "use": "highway overpass"
+        "use": "highway overpass",
+        "useZh": "高速公路立交桥",
+        "example": "We drove under the highway overpass this morning.",
+        "exampleZh": "今天早上我们开车从高速公路立交桥下经过。"
       },
       "crossing": {
         "def": "过桥处",
         "vs": "侧重穿越点",
-        "use": "a railway crossing"
+        "use": "a railway crossing",
+        "useZh": "铁路道口",
+        "example": "Wait at the railway crossing for the train.",
+        "exampleZh": "在铁路道口等火车通过。"
       }
     }
   },
@@ -1107,17 +1395,26 @@
       "broom": {
         "def": "扫帚",
         "vs": "侧重扫地用",
-        "use": "a kitchen broom"
+        "use": "a kitchen broom",
+        "useZh": "厨房扫帚",
+        "example": "She swept the floor with a kitchen broom.",
+        "exampleZh": "她用厨房扫帚扫了地。"
       },
       "comb": {
         "def": "梳子",
         "vs": "侧重梳头用",
-        "use": "a fine comb"
+        "use": "a fine comb",
+        "useZh": "细齿梳子",
+        "example": "He used a fine comb to style his hair.",
+        "exampleZh": "他用细齿梳子打理头发。"
       },
       "whisk": {
         "def": "打蛋器",
         "vs": "侧重搅拌用",
-        "use": "a wire whisk"
+        "use": "a wire whisk",
+        "useZh": "金属打蛋器",
+        "example": "Beat the eggs with a wire whisk until fluffy.",
+        "exampleZh": "用金属打蛋器把鸡蛋打至蓬松。"
       }
     }
   },
@@ -1141,17 +1438,26 @@
       "pail": {
         "def": "提桶",
         "vs": "侧重小提桶",
-        "use": "a milk pail"
+        "use": "a milk pail",
+        "useZh": "牛奶桶",
+        "example": "The farmer carried a milk pail to the barn.",
+        "exampleZh": "农夫提着牛奶桶走向谷仓。"
       },
       "tub": {
         "def": "盆,桶",
         "vs": "侧重宽口",
-        "use": "a small tub"
+        "use": "a small tub",
+        "useZh": "小盆",
+        "example": "She soaked the clothes in a small tub.",
+        "exampleZh": "她把衣服泡在一个小盆里。"
       },
       "scuttle": {
         "def": "煤桶",
         "vs": "侧重盛煤",
-        "use": "a coal scuttle"
+        "use": "a coal scuttle",
+        "useZh": "煤斗",
+        "example": "He filled the coal scuttle for the fireplace.",
+        "exampleZh": "他给壁炉装满了煤斗。"
       }
     }
   },
@@ -1175,17 +1481,26 @@
       "lamp": {
         "def": "灯",
         "vs": "侧重灯具整体",
-        "use": "a desk lamp"
+        "use": "a desk lamp",
+        "useZh": "台灯",
+        "example": "She turned on the desk lamp to read.",
+        "exampleZh": "她打开台灯看书。"
       },
       "globe": {
         "def": "灯泡(口)",
         "vs": "口语,球形灯",
-        "use": "a glass globe"
+        "use": "a glass globe",
+        "useZh": "玻璃球",
+        "example": "The glass globe shattered when it fell.",
+        "exampleZh": "玻璃球掉下来摔碎了。"
       },
       "root": {
         "def": "球茎",
         "vs": "植物学,鳞茎",
-        "use": "a flower root"
+        "use": "a flower root",
+        "useZh": "花根",
+        "example": "The flower root grew deep into the soil.",
+        "exampleZh": "花根深深扎进了土壤。"
       }
     }
   },
@@ -1209,17 +1524,26 @@
       "fastener": {
         "def": "扣件",
         "vs": "广义,任何扣具",
-        "use": "a metal fastener"
+        "use": "a metal fastener",
+        "useZh": "金属扣",
+        "example": "She replaced the broken zipper with a metal fastener.",
+        "exampleZh": "她用金属扣替换了坏掉的拉链。"
       },
       "stud": {
         "def": "饰钉,扣钉",
         "vs": "侧重装饰扣",
-        "use": "a stud earring"
+        "use": "a stud earring",
+        "useZh": "耳钉",
+        "example": "She wore a simple stud earring to work.",
+        "exampleZh": "她戴了一对简单的耳钉去上班。"
       },
       "snap": {
         "def": "按扣",
         "vs": "侧重啪嗒扣",
-        "use": "a snap fastener"
+        "use": "a snap fastener",
+        "useZh": "按扣",
+        "example": "The jacket closes with a snap fastener.",
+        "exampleZh": "这件夹克用按扣闭合。"
       }
     }
   },
@@ -1243,17 +1567,26 @@
       "pastry": {
         "def": "糕点",
         "vs": "广义,任何烘焙",
-        "use": "flaky pastry"
+        "use": "flaky pastry",
+        "useZh": "酥皮点心",
+        "example": "She bought flaky pastry from the bakery.",
+        "exampleZh": "她从面包店买了酥皮点心。"
       },
       "dessert": {
         "def": "甜点",
         "vs": "侧重餐后甜食",
-        "use": "a sweet dessert"
+        "use": "a sweet dessert",
+        "useZh": "甜点",
+        "example": "We ordered a sweet dessert after dinner.",
+        "exampleZh": "晚餐后我们点了一份甜点。"
       },
       "gateau": {
         "def": "奶油蛋糕(法)",
         "vs": "法式正式蛋糕",
-        "use": "a chocolate gateau"
+        "use": "a chocolate gateau",
+        "useZh": "巧克力蛋糕",
+        "example": "The chocolate gateau was rich and creamy.",
+        "exampleZh": "巧克力蛋糕浓郁又绵密。"
       }
     }
   },
@@ -1277,17 +1610,26 @@
       "device": {
         "def": "装置",
         "vs": "广义电子设备",
-        "use": "a smart device"
+        "use": "a smart device",
+        "useZh": "智能设备",
+        "example": "This smart device can take high-quality photos.",
+        "exampleZh": "这个智能设备能拍出高质量照片。"
       },
       "recorder": {
         "def": "录制器",
         "vs": "侧重录像/录音",
-        "use": "a video recorder"
+        "use": "a video recorder",
+        "useZh": "录像机",
+        "example": "He used a video recorder to film the event.",
+        "exampleZh": "他用录像机拍摄了活动。"
       },
       "lens": {
         "def": "镜头",
         "vs": "侧重相机的镜片",
-        "use": "a wide lens"
+        "use": "a wide lens",
+        "useZh": "广角镜头",
+        "example": "She attached a wide lens to her camera.",
+        "exampleZh": "她把广角镜头装到了相机上。"
       }
     }
   },
@@ -1311,17 +1653,26 @@
       "note": {
         "def": "便条",
         "vs": "侧重短信息",
-        "use": "a thank-you note"
+        "use": "a thank-you note",
+        "useZh": "感谢信",
+        "example": "She left a thank-you note on the table.",
+        "exampleZh": "她在桌上留了一张感谢信。"
       },
       "ticket": {
         "def": "票券",
         "vs": "侧重入场凭证",
-        "use": "a movie ticket"
+        "use": "a movie ticket",
+        "useZh": "电影票",
+        "example": "I bought a movie ticket for tonight's show.",
+        "exampleZh": "我买了一张今晚的电影票。"
       },
       "pass": {
         "def": "通行证",
         "vs": "侧重出入许可",
-        "use": "a season pass"
+        "use": "a season pass",
+        "useZh": "季票",
+        "example": "He showed his season pass at the gate.",
+        "exampleZh": "他在入口出示了季票。"
       }
     }
   },
@@ -1345,17 +1696,26 @@
       "wagon": {
         "def": "四轮车",
         "vs": "侧重四轮货车",
-        "use": "a covered wagon"
+        "use": "a covered wagon",
+        "useZh": "有篷马车",
+        "example": "The pioneers traveled in a covered wagon.",
+        "exampleZh": "拓荒者乘坐有篷马车旅行。"
       },
       "trolley": {
         "def": "手推车,购物车",
         "vs": "侧重商场用",
-        "use": "shopping trolley"
+        "use": "shopping trolley",
+        "useZh": "购物手推车",
+        "example": "She pushed a shopping trolley down the aisle.",
+        "exampleZh": "她推着购物手推车沿过道走。"
       },
       "wheelbarrow": {
         "def": "独轮手推车",
         "vs": "侧重单轮园艺",
-        "use": "push a wheelbarrow"
+        "use": "push a wheelbarrow",
+        "useZh": "推独轮车",
+        "example": "He had to push a wheelbarrow full of dirt.",
+        "exampleZh": "他不得不推着一辆装满泥土的独轮车。"
       }
     }
   },
@@ -1379,17 +1739,26 @@
       "coach": {
         "def": "四轮马车",
         "vs": "侧重大型客运",
-        "use": "a horse-drawn coach"
+        "use": "a horse-drawn coach",
+        "useZh": "马车",
+        "example": "The royal family rode in a horse-drawn coach through the city.",
+        "exampleZh": "王室成员乘坐一辆四轮马车穿城而过。"
       },
       "cart": {
         "def": "手推车",
         "vs": "侧重较小",
-        "use": "a wooden cart"
+        "use": "a wooden cart",
+        "useZh": "木制手推车",
+        "example": "He pushed a wooden cart full of vegetables to the market.",
+        "exampleZh": "他推着一辆装满蔬菜的木制手推车去市场。"
       },
       "wagon": {
         "def": "运货马车",
         "vs": "侧重运输",
-        "use": "a covered wagon"
+        "use": "a covered wagon",
+        "useZh": "有篷马车",
+        "example": "Pioneers traveled west in a covered wagon carrying supplies.",
+        "exampleZh": "拓荒者们乘坐有篷马车向西行进，车上载着补给。"
       }
     }
   },
@@ -1413,17 +1782,26 @@
       "feline": {
         "def": "猫科动物",
         "vs": "正式,生物学",
-        "use": "feline behavior"
+        "use": "feline behavior",
+        "useZh": "猫的行为",
+        "example": "The biologist studied feline behavior in the wild for years.",
+        "exampleZh": "这位生物学家多年研究野外猫科动物的行为。"
       },
       "kitty": {
         "def": "小猫咪",
         "vs": "昵称,儿语",
-        "use": "here kitty"
+        "use": "here kitty",
+        "useZh": "过来小猫咪",
+        "example": "She called softly, \"Here kitty, kitty,\" and the kitten came.",
+        "exampleZh": "她轻声呼唤：“过来，小猫咪”，小猫就过来了。"
       },
       "puss": {
         "def": "猫咪",
         "vs": "亲昵称呼",
-        "use": "pretty puss"
+        "use": "pretty puss",
+        "useZh": "漂亮的小猫咪",
+        "example": "He stroked the cat and whispered, \"Pretty puss, good girl.\"",
+        "exampleZh": "他抚摸着猫，轻声说：“漂亮的小猫咪，真乖。”"
       }
     }
   },
@@ -1447,17 +1825,26 @@
       "link": {
         "def": "链节;链接",
         "vs": "侧重单个环",
-        "use": "a missing link"
+        "use": "a missing link",
+        "useZh": "缺失的一环",
+        "example": "The detective found a missing link in the chain of evidence.",
+        "exampleZh": "侦探在证据链中找到了缺失的一环。"
       },
       "series": {
         "def": "系列",
         "vs": "侧重连续一组",
-        "use": "a TV series"
+        "use": "a TV series",
+        "useZh": "电视剧",
+        "example": "She binge-watched an entire TV series over the weekend.",
+        "exampleZh": "她周末一口气看完了整部电视剧。"
       },
       "tether": {
         "def": "系绳",
         "vs": "侧重拴住",
-        "use": "on a tether"
+        "use": "on a tether",
+        "useZh": "拴着绳子",
+        "example": "The dog stayed close to its owner while on a tether.",
+        "exampleZh": "狗拴着绳子，紧跟在主人身边。"
       }
     }
   },
@@ -1481,17 +1868,26 @@
       "dairy": {
         "def": "乳制品",
         "vs": "广义,奶产品",
-        "use": "dairy aisle"
+        "use": "dairy aisle",
+        "useZh": "乳制品通道",
+        "example": "You can find milk and yogurt in the dairy aisle at the store.",
+        "exampleZh": "你可以在商店的乳制品通道找到牛奶和酸奶。"
       },
       "curd": {
         "def": "凝乳",
         "vs": "侧重制奶酪原料",
-        "use": "cottage curd"
+        "use": "cottage curd",
+        "useZh": "农家干酪",
+        "example": "She made fresh cottage curd by straining the milk solids.",
+        "exampleZh": "她通过过滤牛奶固体制作新鲜的农家干酪。"
       },
       "fromage": {
         "def": "奶酪(法语)",
         "vs": "法式说法",
-        "use": "fromage frais"
+        "use": "fromage frais",
+        "useZh": "鲜奶酪",
+        "example": "The French chef served a plate of fromage frais with herbs.",
+        "exampleZh": "法国厨师端上一盘加了香草的鲜奶酪。"
       }
     }
   },
@@ -1515,17 +1911,26 @@
       "torso": {
         "def": "躯干",
         "vs": "侧重整个躯干",
-        "use": "the upper torso"
+        "use": "the upper torso",
+        "useZh": "上半身",
+        "example": "The artist carefully sketched the model's upper torso.",
+        "exampleZh": "艺术家仔细地勾勒了模特的上半身。"
       },
       "trunk": {
         "def": "躯干;箱子",
         "vs": "侧重身体或大箱",
-        "use": "a wooden trunk"
+        "use": "a wooden trunk",
+        "useZh": "木箱子",
+        "example": "She stored old clothes in a large wooden trunk in the attic.",
+        "exampleZh": "她把旧衣服存放在阁楼的一个大木箱子里。"
       },
       "bosom": {
         "def": "胸怀",
         "vs": "文学,温暖的胸",
-        "use": "close to my bosom"
+        "use": "close to my bosom",
+        "useZh": "贴近我的胸口",
+        "example": "She held the letter close to her bosom and wept.",
+        "exampleZh": "她把信紧紧贴在胸口，哭了起来。"
       }
     }
   },
@@ -1549,17 +1954,26 @@
       "jaw": {
         "def": "下颚",
         "vs": "侧重下颌整个",
-        "use": "a strong jaw"
+        "use": "a strong jaw",
+        "useZh": "强壮的下巴",
+        "example": "The boxer had a strong jaw that could take a punch.",
+        "exampleZh": "那位拳击手有一个强壮的下巴，能承受重击。"
       },
       "jowl": {
         "def": "下巴颊",
         "vs": "侧重下垂的颊",
-        "use": "heavy jowls"
+        "use": "heavy jowls",
+        "useZh": "下垂的腮帮子",
+        "example": "The old dog had heavy jowls that hung down on each side.",
+        "exampleZh": "那只老狗有下垂的腮帮子，耷拉在两边。"
       },
       "mandible": {
         "def": "下颌骨",
         "vs": "医学术语",
-        "use": "the lower mandible"
+        "use": "the lower mandible",
+        "useZh": "下颌骨",
+        "example": "The dentist examined the patient's lower mandible for cracks.",
+        "exampleZh": "牙医检查了患者的下颌骨是否有裂缝。"
       }
     }
   },
@@ -1583,17 +1997,26 @@
       "chapel": {
         "def": "小教堂",
         "vs": "侧重附属小教堂",
-        "use": "a wedding chapel"
+        "use": "a wedding chapel",
+        "useZh": "婚礼小教堂",
+        "example": "They got married in a small wedding chapel by the beach.",
+        "exampleZh": "他们在海边的一个小型婚礼小教堂结了婚。"
       },
       "cathedral": {
         "def": "大教堂",
         "vs": "侧重主教座堂",
-        "use": "Notre-Dame cathedral"
+        "use": "Notre-Dame cathedral",
+        "useZh": "巴黎圣母院",
+        "example": "Tourists admire the stained glass at Notre-Dame cathedral.",
+        "exampleZh": "游客们欣赏巴黎圣母院的彩色玻璃窗。"
       },
       "temple": {
         "def": "庙宇",
         "vs": "侧重其他宗教",
-        "use": "a Hindu temple"
+        "use": "a Hindu temple",
+        "useZh": "印度教寺庙",
+        "example": "They visited a beautiful Hindu temple during their trip to India.",
+        "exampleZh": "他们在印度旅行时参观了一座美丽的印度教寺庙。"
       }
     }
   },
@@ -1617,17 +2040,26 @@
       "ring": {
         "def": "环",
         "vs": "侧重圆环",
-        "use": "a smoke ring"
+        "use": "a smoke ring",
+        "useZh": "烟圈",
+        "example": "He blew a perfect smoke ring that floated in the air.",
+        "exampleZh": "他吹出一个完美的烟圈，飘浮在空中。"
       },
       "loop": {
         "def": "环形",
         "vs": "侧重封闭路径",
-        "use": "a closed loop"
+        "use": "a closed loop",
+        "useZh": "闭环",
+        "example": "The roller coaster went through a closed loop upside down.",
+        "exampleZh": "过山车倒挂着穿过了一个闭环。"
       },
       "disk": {
         "def": "圆盘",
         "vs": "侧重平面圆",
-        "use": "a flat disk"
+        "use": "a flat disk",
+        "useZh": "扁平圆盘",
+        "example": "The moon looked like a flat disk in the clear night sky.",
+        "exampleZh": "月亮在晴朗的夜空中看起来像一个扁平圆盘。"
       }
     }
   },
@@ -1651,17 +2083,26 @@
       "timepiece": {
         "def": "计时器",
         "vs": "正式,钟表统称",
-        "use": "an antique timepiece"
+        "use": "an antique timepiece",
+        "useZh": "古董钟表",
+        "example": "The museum displayed an antique timepiece from the 18th century.",
+        "exampleZh": "博物馆展出了一件18世纪的古董钟表。"
       },
       "watch": {
         "def": "手表",
         "vs": "侧重佩戴",
-        "use": "a wrist watch"
+        "use": "a wrist watch",
+        "useZh": "手表",
+        "example": "He checked his wrist watch to see if he was late.",
+        "exampleZh": "他看了看手表，看自己是否迟到了。"
       },
       "timer": {
         "def": "计时器",
         "vs": "侧重定时器",
-        "use": "set the timer"
+        "use": "set the timer",
+        "useZh": "设定定时器",
+        "example": "Don't forget to set the timer for the cookies in the oven.",
+        "exampleZh": "别忘了为烤箱里的饼干设定定时器。"
       }
     }
   },
@@ -1685,17 +2126,26 @@
       "mist": {
         "def": "薄雾",
         "vs": "侧重接近地面",
-        "use": "morning mist"
+        "use": "morning mist",
+        "useZh": "晨雾",
+        "example": "The morning mist covered the valley like a soft blanket.",
+        "exampleZh": "晨雾像柔软的毯子一样覆盖着山谷。"
       },
       "vapor": {
         "def": "蒸气",
         "vs": "侧重气化水",
-        "use": "water vapor"
+        "use": "water vapor",
+        "useZh": "水蒸气",
+        "example": "Water vapor rises from the hot pot and forms a cloud.",
+        "exampleZh": "水蒸气从热锅里升起，形成一团云。"
       },
       "puff": {
         "def": "一团烟/云",
         "vs": "侧重小团状",
-        "use": "a puff of smoke"
+        "use": "a puff of smoke",
+        "useZh": "一缕烟",
+        "example": "A puff of smoke rose from the chimney into the sky.",
+        "exampleZh": "一缕烟从烟囱升起，飘向天空。"
       }
     }
   },
@@ -1719,17 +2169,26 @@
       "jacket": {
         "def": "夹克",
         "vs": "侧重短款",
-        "use": "a leather jacket"
+        "use": "a leather jacket",
+        "useZh": "皮夹克",
+        "example": "He wore a stylish leather jacket to the party.",
+        "exampleZh": "他穿了一件时髦的皮夹克去派对。"
       },
       "overcoat": {
         "def": "大衣",
         "vs": "侧重长款厚",
-        "use": "a wool overcoat"
+        "use": "a wool overcoat",
+        "useZh": "羊毛大衣",
+        "example": "She put on a warm wool overcoat before going out.",
+        "exampleZh": "她出门前穿上了一件暖和的羊毛大衣。"
       },
       "cloak": {
         "def": "斗篷",
         "vs": "无袖披风",
-        "use": "a long cloak"
+        "use": "a long cloak",
+        "useZh": "长斗篷",
+        "example": "The wizard wore a long cloak over his robes.",
+        "exampleZh": "巫师在长袍外披了一件长斗篷。"
       }
     }
   },
@@ -1753,17 +2212,26 @@
       "neckband": {
         "def": "颈带",
         "vs": "侧重狗项圈或饰物",
-        "use": "a leather neckband"
+        "use": "a leather neckband",
+        "useZh": "皮项圈",
+        "example": "The dog wore a leather neckband with its name.",
+        "exampleZh": "那条狗戴着一个刻有名字的皮项圈。"
       },
       "band": {
         "def": "带子",
         "vs": "广义,带状物",
-        "use": "a rubber band"
+        "use": "a rubber band",
+        "useZh": "橡皮筋",
+        "example": "She used a rubber band to tie her hair.",
+        "exampleZh": "她用一根橡皮筋扎起头发。"
       },
       "ring": {
         "def": "环",
         "vs": "侧重圆环形",
-        "use": "a metal ring"
+        "use": "a metal ring",
+        "useZh": "金属环",
+        "example": "He attached a key to a metal ring.",
+        "exampleZh": "他把钥匙挂在一个金属环上。"
       }
     }
   },
@@ -1787,17 +2255,26 @@
       "brush": {
         "def": "刷子",
         "vs": "侧重刷的工具",
-        "use": "a hair brush"
+        "use": "a hair brush",
+        "useZh": "发刷",
+        "example": "She used a hair brush to smooth her tangles.",
+        "exampleZh": "她用发刷梳理打结的头发。"
       },
       "rake": {
         "def": "耙子",
         "vs": "侧重大齿耙",
-        "use": "a garden rake"
+        "use": "a garden rake",
+        "useZh": "园艺耙子",
+        "example": "He gathered leaves with a garden rake.",
+        "exampleZh": "他用园艺耙子把落叶聚拢起来。"
       },
       "pick": {
         "def": "挑头梳",
         "vs": "侧重大齿梳",
-        "use": "a hair pick"
+        "use": "a hair pick",
+        "useZh": "发梳",
+        "example": "She styled her afro with a large hair pick.",
+        "exampleZh": "她用一把大发梳整理她的爆炸头。"
       }
     }
   },
@@ -1821,17 +2298,26 @@
       "rope": {
         "def": "绳子",
         "vs": "较粗的绳",
-        "use": "a thick rope"
+        "use": "a thick rope",
+        "useZh": "粗绳子",
+        "example": "They tied the boat with a thick rope.",
+        "exampleZh": "他们用一根粗绳子把船系好。"
       },
       "string": {
         "def": "绳,线",
         "vs": "较细的",
-        "use": "a piece of string"
+        "use": "a piece of string",
+        "useZh": "一根细绳",
+        "example": "He tied the package with a piece of string.",
+        "exampleZh": "他用一根细绳捆好包裹。"
       },
       "line": {
         "def": "线",
         "vs": "侧重一根长线",
-        "use": "a fishing line"
+        "use": "a fishing line",
+        "useZh": "钓鱼线",
+        "example": "He cast a fishing line into the river.",
+        "exampleZh": "他把钓鱼线甩进河里。"
       }
     }
   },
@@ -1855,17 +2341,26 @@
       "cattle": {
         "def": "牛群",
         "vs": "集合统称",
-        "use": "a herd of cattle"
+        "use": "a herd of cattle",
+        "useZh": "一群牛",
+        "example": "A herd of cattle grazed in the field.",
+        "exampleZh": "一群牛在田野里吃草。"
       },
       "bovine": {
         "def": "牛科动物",
         "vs": "科学术语",
-        "use": "bovine disease"
+        "use": "bovine disease",
+        "useZh": "牛病",
+        "example": "The farmer studied bovine disease prevention.",
+        "exampleZh": "这位农民研究了牛病的预防方法。"
       },
       "heifer": {
         "def": "小母牛",
         "vs": "侧重未生产",
-        "use": "a young heifer"
+        "use": "a young heifer",
+        "useZh": "小母牛",
+        "example": "The young heifer stood by the fence.",
+        "exampleZh": "那头小母牛站在栅栏旁边。"
       }
     }
   },
@@ -1889,17 +2384,26 @@
       "mug": {
         "def": "马克杯",
         "vs": "侧重带把大杯",
-        "use": "a coffee mug"
+        "use": "a coffee mug",
+        "useZh": "咖啡杯",
+        "example": "He poured hot coffee into a large mug.",
+        "exampleZh": "他把热咖啡倒进一个大马克杯里。"
       },
       "glass": {
         "def": "玻璃杯",
         "vs": "侧重玻璃材质",
-        "use": "a glass of water"
+        "use": "a glass of water",
+        "useZh": "一杯水",
+        "example": "She drank a glass of cold water quickly.",
+        "exampleZh": "她很快喝完了一杯凉水。"
       },
       "beaker": {
         "def": "烧杯",
         "vs": "实验室用",
-        "use": "a glass beaker"
+        "use": "a glass beaker",
+        "useZh": "玻璃烧杯",
+        "example": "The scientist heated liquid in a glass beaker.",
+        "exampleZh": "科学家在玻璃烧杯里加热液体。"
       }
     }
   },
@@ -1923,17 +2427,26 @@
       "drape": {
         "def": "窗帘(厚)",
         "vs": "侧重悬垂厚布",
-        "use": "velvet drapes"
+        "use": "velvet drapes",
+        "useZh": "天鹅绒窗帘",
+        "example": "The room had heavy velvet drapes on the windows.",
+        "exampleZh": "房间的窗户上挂着厚重的天鹅绒窗帘。"
       },
       "screen": {
         "def": "屏风,屏",
         "vs": "侧重隔挡用",
-        "use": "a privacy screen"
+        "use": "a privacy screen",
+        "useZh": "隐私屏风",
+        "example": "They placed a privacy screen in the corner.",
+        "exampleZh": "他们在角落放了一个隐私屏风。"
       },
       "blind": {
         "def": "百叶帘",
         "vs": "侧重可调遮光",
-        "use": "venetian blinds"
+        "use": "venetian blinds",
+        "useZh": "百叶窗",
+        "example": "She adjusted the venetian blinds to block the sun.",
+        "exampleZh": "她调整了百叶窗来遮挡阳光。"
       }
     }
   },
@@ -1957,17 +2470,26 @@
       "pillow": {
         "def": "枕头",
         "vs": "侧重睡觉用",
-        "use": "a soft pillow"
+        "use": "a soft pillow",
+        "useZh": "软枕头",
+        "example": "She rested her head on a soft pillow.",
+        "exampleZh": "她把头靠在软枕头上休息。"
       },
       "pad": {
         "def": "垫",
         "vs": "广义,任何衬垫",
-        "use": "a knee pad"
+        "use": "a knee pad",
+        "useZh": "护膝",
+        "example": "He wore a knee pad while skating.",
+        "exampleZh": "他滑冰时戴了一个护膝。"
       },
       "bolster": {
         "def": "长枕",
         "vs": "侧重长筒形",
-        "use": "a sofa bolster"
+        "use": "a sofa bolster",
+        "useZh": "沙发靠枕",
+        "example": "She placed a sofa bolster behind her back.",
+        "exampleZh": "她把一个沙发靠枕放在背后。"
       }
     }
   },
@@ -1991,17 +2513,26 @@
       "pup": {
         "def": "小狗",
         "vs": "侧重幼犬",
-        "use": "a tiny pup"
+        "use": "a tiny pup",
+        "useZh": "小狗崽",
+        "example": "The tiny pup slept in a basket.",
+        "exampleZh": "那只小狗崽睡在篮子里。"
       },
       "hound": {
         "def": "猎犬",
         "vs": "侧重特定品种",
-        "use": "a hunting hound"
+        "use": "a hunting hound",
+        "useZh": "猎犬",
+        "example": "The hunting hound tracked the fox all day.",
+        "exampleZh": "猎犬一整天都在追踪那只狐狸。"
       },
       "canine": {
         "def": "犬科",
         "vs": "正式,科学",
-        "use": "canine companion"
+        "use": "canine companion",
+        "useZh": "犬类伙伴",
+        "example": "Her canine companion never left her side.",
+        "exampleZh": "她的犬类伙伴从未离开过她身边。"
       }
     }
   },
@@ -2025,17 +2556,26 @@
       "entrance": {
         "def": "入口",
         "vs": "侧重进入处",
-        "use": "the main entrance"
+        "use": "the main entrance",
+        "useZh": "主入口",
+        "example": "We waited at the main entrance of the building.",
+        "exampleZh": "我们在大楼的主入口处等候。"
       },
       "portal": {
         "def": "门户(正式)",
         "vs": "侧重大型/虚拟",
-        "use": "a web portal"
+        "use": "a web portal",
+        "useZh": "门户网站",
+        "example": "He logged into the company's web portal.",
+        "exampleZh": "他登录了公司的门户网站。"
       },
       "gate": {
         "def": "大门",
         "vs": "侧重院门或栅门",
-        "use": "the garden gate"
+        "use": "the garden gate",
+        "useZh": "花园门",
+        "example": "She opened the garden gate and walked in.",
+        "exampleZh": "她打开花园门走了进去。"
       }
     }
   },
@@ -2059,17 +2599,26 @@
       "pipe": {
         "def": "管子",
         "vs": "广义,管道",
-        "use": "water pipe"
+        "use": "water pipe",
+        "useZh": "水管",
+        "example": "The plumber fixed the broken water pipe under the sink.",
+        "exampleZh": "水管工修好了水槽下破裂的水管。"
       },
       "sewer": {
         "def": "下水道",
         "vs": "侧重废水管道",
-        "use": "the sewer system"
+        "use": "the sewer system",
+        "useZh": "下水道系统",
+        "example": "The city is upgrading the old sewer system this year.",
+        "exampleZh": "今年城市正在升级旧的排水系统。"
       },
       "outlet": {
         "def": "出水口,出口",
         "vs": "侧重排出处",
-        "use": "a drain outlet"
+        "use": "a drain outlet",
+        "useZh": "排水口",
+        "example": "Water flows out through the drain outlet in the wall.",
+        "exampleZh": "水通过墙上的排水口流出。"
       }
     }
   },
@@ -2093,17 +2642,26 @@
       "compartment": {
         "def": "格,隔层",
         "vs": "侧重分隔空间",
-        "use": "a storage compartment"
+        "use": "a storage compartment",
+        "useZh": "储物格",
+        "example": "I keep my tools in a storage compartment under the bed.",
+        "exampleZh": "我把工具放在床下的储物格里。"
       },
       "tray": {
         "def": "托盘",
         "vs": "侧重浅盘",
-        "use": "a desk tray"
+        "use": "a desk tray",
+        "useZh": "桌面托盘",
+        "example": "She placed her pens neatly on the desk tray.",
+        "exampleZh": "她把笔整齐地放在桌面托盘上。"
       },
       "box": {
         "def": "盒子",
         "vs": "广义,盒型",
-        "use": "a small box"
+        "use": "a small box",
+        "useZh": "小盒子",
+        "example": "He found a small box of old photos in the attic.",
+        "exampleZh": "他在阁楼里发现了一小盒旧照片。"
       }
     }
   },
@@ -2127,17 +2685,26 @@
       "gown": {
         "def": "长袍,礼服",
         "vs": "侧重正式长款",
-        "use": "a ball gown"
+        "use": "a ball gown",
+        "useZh": "舞会礼服",
+        "example": "She wore a beautiful ball gown to the party.",
+        "exampleZh": "她穿了一件漂亮的舞会礼服去参加派对。"
       },
       "frock": {
         "def": "连衣裙(童/英)",
         "vs": "侧重儿童或老式",
-        "use": "a flower frock"
+        "use": "a flower frock",
+        "useZh": "碎花连衣裙",
+        "example": "The little girl wore a pretty flower frock today.",
+        "exampleZh": "小女孩今天穿了一件漂亮的碎花连衣裙。"
       },
       "outfit": {
         "def": "全套服装",
         "vs": "侧重整套搭配",
-        "use": "a stylish outfit"
+        "use": "a stylish outfit",
+        "useZh": "时尚套装",
+        "example": "She chose a stylish outfit for the job interview.",
+        "exampleZh": "她为面试选了一套时尚的套装。"
       }
     }
   },
@@ -2161,17 +2728,26 @@
       "bead": {
         "def": "珠状物",
         "vs": "侧重小圆珠",
-        "use": "beads of sweat"
+        "use": "beads of sweat",
+        "useZh": "汗珠",
+        "example": "Beads of sweat formed on his forehead after running.",
+        "exampleZh": "跑步后，他的额头上冒出了汗珠。"
       },
       "droplet": {
         "def": "小液滴",
         "vs": "侧重极小",
-        "use": "water droplets"
+        "use": "water droplets",
+        "useZh": "水滴",
+        "example": "Tiny water droplets covered the leaves this morning.",
+        "exampleZh": "今早叶子上覆盖着细小的水滴。"
       },
       "blob": {
         "def": "小斑点",
         "vs": "侧重不规则",
-        "use": "a blob of paint"
+        "use": "a blob of paint",
+        "useZh": "一滴颜料",
+        "example": "There was a blob of paint on the floor.",
+        "exampleZh": "地板上有一滴颜料。"
       }
     }
   },
@@ -2195,17 +2771,26 @@
       "lobe": {
         "def": "耳垂",
         "vs": "侧重耳下部",
-        "use": "the ear lobe"
+        "use": "the ear lobe",
+        "useZh": "耳垂",
+        "example": "She wears earrings on her ear lobe every day.",
+        "exampleZh": "她每天都戴耳环在耳垂上。"
       },
       "hearing organ": {
         "def": "听觉器官",
         "vs": "科学描述",
-        "use": "the hearing organ"
+        "use": "the hearing organ",
+        "useZh": "听觉器官",
+        "example": "The ear is a delicate hearing organ in humans.",
+        "exampleZh": "耳朵是人类精密的听觉器官。"
       },
       "listener": {
         "def": "听者",
         "vs": "侧重听的人",
-        "use": "a good listener"
+        "use": "a good listener",
+        "useZh": "善于倾听的人",
+        "example": "She is a good listener and always helps others.",
+        "exampleZh": "她是个善于倾听的人，总是帮助别人。"
       }
     }
   },
@@ -2229,17 +2814,26 @@
       "ovum": {
         "def": "卵子",
         "vs": "生物学",
-        "use": "the female ovum"
+        "use": "the female ovum",
+        "useZh": "女性卵子",
+        "example": "The female ovum is fertilized by a sperm cell.",
+        "exampleZh": "女性卵子由精子细胞受精。"
       },
       "yolk": {
         "def": "蛋黄",
         "vs": "侧重黄色部分",
-        "use": "a runny yolk"
+        "use": "a runny yolk",
+        "useZh": "流心蛋黄",
+        "example": "I like my fried egg with a runny yolk.",
+        "exampleZh": "我喜欢煎蛋配流心蛋黄。"
       },
       "ovoid": {
         "def": "卵形物",
         "vs": "形状描述",
-        "use": "an ovoid shape"
+        "use": "an ovoid shape",
+        "useZh": "卵形",
+        "example": "The sculpture has an ovoid shape like an egg.",
+        "exampleZh": "这座雕塑呈卵形，像鸡蛋一样。"
       }
     }
   },
@@ -2263,17 +2857,26 @@
       "motor": {
         "def": "马达,电机",
         "vs": "侧重电动",
-        "use": "an electric motor"
+        "use": "an electric motor",
+        "useZh": "电动机",
+        "example": "The fan uses an electric motor to spin the blades.",
+        "exampleZh": "风扇使用电动机来旋转叶片。"
       },
       "machine": {
         "def": "机器",
         "vs": "广义,各种机器",
-        "use": "a complex machine"
+        "use": "a complex machine",
+        "useZh": "复杂机器",
+        "example": "This complex machine can print 3D objects quickly.",
+        "exampleZh": "这台复杂机器可以快速打印3D物体。"
       },
       "powerhouse": {
         "def": "动力源",
         "vs": "侧重强力来源",
-        "use": "a powerhouse engine"
+        "use": "a powerhouse engine",
+        "useZh": "强力引擎",
+        "example": "The car's powerhouse engine makes it very fast.",
+        "exampleZh": "这辆车的强力引擎让它速度极快。"
       }
     }
   },
@@ -2297,17 +2900,26 @@
       "sight": {
         "def": "视力",
         "vs": "侧重视觉能力",
-        "use": "good sight"
+        "use": "good sight",
+        "useZh": "好视力",
+        "example": "He has good sight and can read small letters.",
+        "exampleZh": "他视力好，能看清小字。"
       },
       "orb": {
         "def": "眼珠(文)",
         "vs": "文学,圆球",
-        "use": "his shining orbs"
+        "use": "his shining orbs",
+        "useZh": "他闪亮的眼睛",
+        "example": "His shining orbs gazed at the stars above.",
+        "exampleZh": "他闪亮的眼睛凝视着天上的星星。"
       },
       "peeper": {
         "def": "眼(俚)",
         "vs": "俚语,眼睛",
-        "use": "close your peepers"
+        "use": "close your peepers",
+        "useZh": "闭上你的眼睛",
+        "example": "Close your peepers and go to sleep now.",
+        "exampleZh": "闭上你的眼睛，现在去睡觉。"
       }
     }
   },
@@ -2331,17 +2943,26 @@
       "countenance": {
         "def": "面容(正式)",
         "vs": "正式书面",
-        "use": "a stern countenance"
+        "use": "a stern countenance",
+        "useZh": "严肃的面容",
+        "example": "The judge had a stern countenance during the trial.",
+        "exampleZh": "审判期间，法官表情严肃。"
       },
       "visage": {
         "def": "面孔(文)",
         "vs": "文学,容貌",
-        "use": "a noble visage"
+        "use": "a noble visage",
+        "useZh": "高贵面容",
+        "example": "The old man had a noble visage full of wisdom.",
+        "exampleZh": "老人有一副充满智慧的高贵面容。"
       },
       "mug": {
         "def": "脸(俚)",
         "vs": "俚语,贬意",
-        "use": "his ugly mug"
+        "use": "his ugly mug",
+        "useZh": "他那张丑脸",
+        "example": "He showed his ugly mug in the mirror and laughed.",
+        "exampleZh": "他在镜子里露出他那张丑脸，笑了起来。"
       }
     }
   },
@@ -2365,17 +2986,26 @@
       "ranch": {
         "def": "大牧场",
         "vs": "侧重畜牧",
-        "use": "a cattle ranch"
+        "use": "a cattle ranch",
+        "useZh": "养牛场",
+        "example": "They own a large cattle ranch in Texas.",
+        "exampleZh": "他们在德克萨斯州拥有一个大养牛场。"
       },
       "estate": {
         "def": "庄园",
         "vs": "侧重大片地产",
-        "use": "a country estate"
+        "use": "a country estate",
+        "useZh": "乡村庄园",
+        "example": "The family lives on a beautiful country estate.",
+        "exampleZh": "这家人住在一个美丽的乡村庄园里。"
       },
       "homestead": {
         "def": "宅院田产",
         "vs": "侧重自家土地",
-        "use": "the family homestead"
+        "use": "the family homestead",
+        "useZh": "家族宅地",
+        "example": "They returned to the family homestead for the holiday.",
+        "exampleZh": "他们回到家族宅地度假。"
       }
     }
   },
@@ -2399,17 +3029,26 @@
       "plume": {
         "def": "羽饰",
         "vs": "侧重大长羽",
-        "use": "a peacock plume"
+        "use": "a peacock plume",
+        "useZh": "孔雀羽毛",
+        "example": "The dancer wore a long peacock plume in her hair.",
+        "exampleZh": "舞者头上戴着一根长长的孔雀羽毛。"
       },
       "down": {
         "def": "绒毛",
         "vs": "侧重柔细羽",
-        "use": "goose down"
+        "use": "goose down",
+        "useZh": "鹅绒",
+        "example": "This pillow is filled with soft goose down.",
+        "exampleZh": "这个枕头填充了柔软的鹅绒。"
       },
       "quill": {
         "def": "翎管,鹅毛笔",
         "vs": "侧重大羽轴",
-        "use": "a porcupine quill"
+        "use": "a porcupine quill",
+        "useZh": "一根豪猪刺",
+        "example": "He wrote with a porcupine quill dipped in ink.",
+        "exampleZh": "他用蘸了墨水的豪猪刺写字。"
       }
     }
   },
@@ -2433,17 +3072,26 @@
       "digit": {
         "def": "手指(医学)",
         "vs": "医学术语",
-        "use": "the index digit"
+        "use": "the index digit",
+        "useZh": "食指",
+        "example": "The doctor examined the patient's index digit carefully.",
+        "exampleZh": "医生仔细检查了病人的食指。"
       },
       "thumb": {
         "def": "拇指",
         "vs": "特指最粗指",
-        "use": "thumbs up"
+        "use": "thumbs up",
+        "useZh": "竖起大拇指",
+        "example": "He gave a thumbs up to show his approval.",
+        "exampleZh": "他竖起大拇指表示赞同。"
       },
       "pinky": {
         "def": "小指",
         "vs": "特指最小指",
-        "use": "the pinky finger"
+        "use": "the pinky finger",
+        "useZh": "小指",
+        "example": "She broke her pinky finger while playing basketball.",
+        "exampleZh": "她打篮球时弄断了小指。"
       }
     }
   },
@@ -2467,17 +3115,26 @@
       "catch": {
         "def": "渔获",
         "vs": "侧重捕到的鱼",
-        "use": "a big catch"
+        "use": "a big catch",
+        "useZh": "大丰收",
+        "example": "The fishermen returned with a big catch today.",
+        "exampleZh": "渔夫们今天带着大丰收回来了。"
       },
       "seafood": {
         "def": "海鲜",
         "vs": "侧重食用",
-        "use": "fresh seafood"
+        "use": "fresh seafood",
+        "useZh": "新鲜海鲜",
+        "example": "We bought fresh seafood from the market for dinner.",
+        "exampleZh": "我们从市场买了新鲜海鲜做晚餐。"
       },
       "trout": {
         "def": "鳟鱼",
         "vs": "具体种类",
-        "use": "rainbow trout"
+        "use": "rainbow trout",
+        "useZh": "虹鳟鱼",
+        "example": "He caught a rainbow trout in the mountain stream.",
+        "exampleZh": "他在山涧里钓到了一条虹鳟鱼。"
       }
     }
   },
@@ -2501,17 +3158,26 @@
       "banner": {
         "def": "横幅",
         "vs": "侧重横挂",
-        "use": "a wide banner"
+        "use": "a wide banner",
+        "useZh": "一条宽横幅",
+        "example": "A wide banner hung across the street for the festival.",
+        "exampleZh": "一条宽横幅横挂在街上庆祝节日。"
       },
       "standard": {
         "def": "军旗,旗帜",
         "vs": "正式,军/团旗",
-        "use": "the royal standard"
+        "use": "the royal standard",
+        "useZh": "皇家旗帜",
+        "example": "The royal standard flew above the castle tower.",
+        "exampleZh": "皇家旗帜在城堡塔楼上飘扬。"
       },
       "ensign": {
         "def": "舰旗,军旗",
         "vs": "海军/军用",
-        "use": "the naval ensign"
+        "use": "the naval ensign",
+        "useZh": "海军旗",
+        "example": "The ship raised its naval ensign as it left port.",
+        "exampleZh": "船离港时升起了海军旗。"
       }
     }
   },
@@ -2535,17 +3201,26 @@
       "ground": {
         "def": "地面",
         "vs": "侧重室外或建筑外",
-        "use": "hit the ground"
+        "use": "hit the ground",
+        "useZh": "落地",
+        "example": "The ball hit the ground and bounced high.",
+        "exampleZh": "球落地后高高弹起。"
       },
       "level": {
         "def": "楼层",
         "vs": "侧重水平面/层",
-        "use": "ground level"
+        "use": "ground level",
+        "useZh": "地面层",
+        "example": "The store is located at ground level of the building.",
+        "exampleZh": "商店位于大楼的地面层。"
       },
       "story": {
         "def": "楼层",
         "vs": "美式,一层楼",
-        "use": "a three-story house"
+        "use": "a three-story house",
+        "useZh": "一栋三层房子",
+        "example": "They live in a beautiful three-story house.",
+        "exampleZh": "他们住在一栋漂亮的三层房子里。"
       }
     }
   },
@@ -2569,17 +3244,26 @@
       "insect": {
         "def": "昆虫",
         "vs": "广义类别",
-        "use": "flying insect"
+        "use": "flying insect",
+        "useZh": "飞虫",
+        "example": "A flying insect buzzed around the light bulb.",
+        "exampleZh": "一只飞虫在灯泡周围嗡嗡叫。"
       },
       "bug": {
         "def": "虫子",
         "vs": "口语",
-        "use": "a tiny bug"
+        "use": "a tiny bug",
+        "useZh": "小虫子",
+        "example": "I found a tiny bug crawling on the leaf.",
+        "exampleZh": "我发现一只小虫子在叶子上爬。"
       },
       "gnat": {
         "def": "小昆虫,蚋",
         "vs": "侧重小蝇类",
-        "use": "swarming gnats"
+        "use": "swarming gnats",
+        "useZh": "成群的小飞虫",
+        "example": "Swarming gnats filled the air near the river.",
+        "exampleZh": "成群的小飞虫在河边空中飞舞。"
       }
     }
   },
@@ -2603,17 +3287,26 @@
       "sole": {
         "def": "脚底",
         "vs": "侧重脚的底部",
-        "use": "the sole of the foot"
+        "use": "the sole of the foot",
+        "useZh": "脚底",
+        "example": "She felt a sharp pain in the sole of her foot.",
+        "exampleZh": "她感到脚底一阵剧痛。"
       },
       "paw": {
         "def": "爪",
         "vs": "侧重动物脚",
-        "use": "a dog's paw"
+        "use": "a dog's paw",
+        "useZh": "狗爪子",
+        "example": "The dog lifted its paw to shake hands.",
+        "exampleZh": "狗抬起爪子来握手。"
       },
       "base": {
         "def": "底部",
         "vs": "侧重物体底",
-        "use": "the base of the lamp"
+        "use": "the base of the lamp",
+        "useZh": "灯座",
+        "example": "The base of the lamp is made of brass.",
+        "exampleZh": "灯座是黄铜制成的。"
       }
     }
   },
@@ -2637,17 +3330,26 @@
       "utensil": {
         "def": "餐具",
         "vs": "广义,餐用具",
-        "use": "kitchen utensils"
+        "use": "kitchen utensils",
+        "useZh": "厨房用具",
+        "example": "She organized all the kitchen utensils in the drawer.",
+        "exampleZh": "她把所有厨房用具整理到抽屉里。"
       },
       "trident": {
         "def": "三叉戟",
         "vs": "侧重三齿",
-        "use": "Poseidon's trident"
+        "use": "Poseidon's trident",
+        "useZh": "波塞冬的三叉戟",
+        "example": "Poseidon's trident is a symbol of sea power.",
+        "exampleZh": "波塞冬的三叉戟是海洋力量的象征。"
       },
       "prong": {
         "def": "叉齿",
         "vs": "侧重叉的尖",
-        "use": "a four-prong fork"
+        "use": "a four-prong fork",
+        "useZh": "一把四齿叉子",
+        "example": "He used a four-prong fork to eat the salad.",
+        "exampleZh": "他用一把四齿叉子吃沙拉。"
       }
     }
   },
@@ -2671,17 +3373,26 @@
       "chicken": {
         "def": "鸡",
         "vs": "具体一种",
-        "use": "fried chicken"
+        "use": "fried chicken",
+        "useZh": "炸鸡",
+        "example": "We had fried chicken for dinner last night.",
+        "exampleZh": "我们昨晚吃了炸鸡当晚餐。"
       },
       "poultry": {
         "def": "家禽",
         "vs": "侧重食用类",
-        "use": "poultry farm"
+        "use": "poultry farm",
+        "useZh": "家禽养殖场",
+        "example": "The poultry farm raises chickens and ducks.",
+        "exampleZh": "这家家禽养殖场养鸡和鸭。"
       },
       "bird": {
         "def": "鸟",
         "vs": "广义,所有禽鸟",
-        "use": "a beautiful bird"
+        "use": "a beautiful bird",
+        "useZh": "一只美丽的鸟",
+        "example": "A beautiful bird sang in the tree outside.",
+        "exampleZh": "一只美丽的鸟在外面的树上唱歌。"
       }
     }
   },
@@ -2705,17 +3416,26 @@
       "border": {
         "def": "边框",
         "vs": "侧重四周边线",
-        "use": "a thin border"
+        "use": "a thin border",
+        "useZh": "一条细边",
+        "example": "The painting has a thin border of gold.",
+        "exampleZh": "这幅画有一条金色的细边。"
       },
       "structure": {
         "def": "结构",
         "vs": "侧重支撑骨架",
-        "use": "a wooden structure"
+        "use": "a wooden structure",
+        "useZh": "一个木结构",
+        "example": "The shed has a simple wooden structure.",
+        "exampleZh": "这个棚子有一个简单的木结构。"
       },
       "skeleton": {
         "def": "骨架",
         "vs": "侧重支撑骨",
-        "use": "the building's skeleton"
+        "use": "the building's skeleton",
+        "useZh": "建筑的骨架",
+        "example": "The building's skeleton is made of steel beams.",
+        "exampleZh": "建筑的骨架由钢梁构成。"
       }
     }
   },
@@ -2739,17 +3459,26 @@
       "yard": {
         "def": "院子",
         "vs": "侧重房前屋后",
-        "use": "the back yard"
+        "use": "the back yard",
+        "useZh": "后院",
+        "example": "The kids are playing in the back yard.",
+        "exampleZh": "孩子们在后院玩耍。"
       },
       "plot": {
         "def": "小块地",
         "vs": "侧重一小片",
-        "use": "a vegetable plot"
+        "use": "a vegetable plot",
+        "useZh": "一块菜地",
+        "example": "She planted tomatoes in a vegetable plot.",
+        "exampleZh": "她在菜地里种了西红柿。"
       },
       "grounds": {
         "def": "场地,庭园",
         "vs": "侧重大型园地",
-        "use": "palace grounds"
+        "use": "palace grounds",
+        "useZh": "宫殿庭院",
+        "example": "Visitors can stroll through the palace grounds.",
+        "exampleZh": "游客可以在宫殿庭院里散步。"
       }
     }
   },
@@ -2773,17 +3502,26 @@
       "lass": {
         "def": "姑娘",
         "vs": "苏格兰/文学",
-        "use": "a bonny lass"
+        "use": "a bonny lass",
+        "useZh": "一个漂亮的姑娘",
+        "example": "He wrote a poem about a bonny lass.",
+        "exampleZh": "他写了一首关于漂亮姑娘的诗。"
       },
       "maid": {
         "def": "少女",
         "vs": "古英语,未婚女",
-        "use": "a young maid"
+        "use": "a young maid",
+        "useZh": "一个年轻女仆",
+        "example": "The story tells of a young maid in love.",
+        "exampleZh": "故事讲述了一个恋爱中的年轻女仆。"
       },
       "kid": {
         "def": "小孩",
         "vs": "口语,不分性别",
-        "use": "a little kid"
+        "use": "a little kid",
+        "useZh": "小孩子",
+        "example": "That little kid is learning to ride a bike.",
+        "exampleZh": "那个小孩子正在学骑自行车。"
       }
     }
   },
@@ -2807,17 +3545,26 @@
       "mitten": {
         "def": "连指手套",
         "vs": "侧重无分指",
-        "use": "warm mittens"
+        "use": "warm mittens",
+        "useZh": "温暖的连指手套",
+        "example": "She wore warm mittens in the snow.",
+        "exampleZh": "她在雪地里戴着温暖的连指手套。"
       },
       "gauntlet": {
         "def": "护手套",
         "vs": "侧重护臂手套",
-        "use": "throw down the gauntlet"
+        "use": "throw down the gauntlet",
+        "useZh": "下战书",
+        "example": "The knight threw down the gauntlet in challenge.",
+        "exampleZh": "骑士扔下护手套以示挑战。"
       },
       "mitt": {
         "def": "棒球手套",
         "vs": "侧重运动",
-        "use": "a baseball mitt"
+        "use": "a baseball mitt",
+        "useZh": "棒球手套",
+        "example": "He caught the ball with his baseball mitt.",
+        "exampleZh": "他用棒球手套接住了球。"
       }
     }
   },
@@ -2841,17 +3588,26 @@
       "livestock": {
         "def": "牲畜",
         "vs": "广义,家畜",
-        "use": "raise livestock"
+        "use": "raise livestock",
+        "useZh": "饲养牲畜",
+        "example": "The farmer raises livestock on his land.",
+        "exampleZh": "农民在他的土地上饲养牲畜。"
       },
       "billy": {
         "def": "公山羊",
         "vs": "侧重雄性",
-        "use": "a billy goat"
+        "use": "a billy goat",
+        "useZh": "公山羊",
+        "example": "The billy goat has long curved horns.",
+        "exampleZh": "公山羊有长长的弯角。"
       },
       "kid": {
         "def": "小山羊",
         "vs": "侧重幼崽",
-        "use": "a baby kid"
+        "use": "a baby kid",
+        "useZh": "小山羊",
+        "example": "The baby kid followed its mother closely.",
+        "exampleZh": "小山羊紧紧跟着它的妈妈。"
       }
     }
   },
@@ -2875,17 +3631,26 @@
       "firearm": {
         "def": "火器",
         "vs": "正式法律用语",
-        "use": "licensed firearm"
+        "use": "licensed firearm",
+        "useZh": "持证枪支",
+        "example": "He applied for a licensed firearm permit.",
+        "exampleZh": "他申请了持证枪支许可证。"
       },
       "pistol": {
         "def": "手枪",
         "vs": "具体短枪",
-        "use": "a pistol shot"
+        "use": "a pistol shot",
+        "useZh": "手枪射击",
+        "example": "He fired a pistol shot into the air.",
+        "exampleZh": "他朝空中开了一枪手枪。"
       },
       "weapon": {
         "def": "武器",
         "vs": "广义,任何武器",
-        "use": "a deadly weapon"
+        "use": "a deadly weapon",
+        "useZh": "致命武器",
+        "example": "The knife was used as a deadly weapon.",
+        "exampleZh": "那把刀被用作致命武器。"
       }
     }
   },
@@ -2909,17 +3674,26 @@
       "mane": {
         "def": "鬃毛,长发",
         "vs": "侧重浓密长发",
-        "use": "a flowing mane"
+        "use": "a flowing mane",
+        "useZh": "飘逸的鬃毛",
+        "example": "The horse had a beautiful flowing mane.",
+        "exampleZh": "那匹马有漂亮的飘逸鬃毛。"
       },
       "locks": {
         "def": "头发(文)",
         "vs": "文学,常指卷发",
-        "use": "golden locks"
+        "use": "golden locks",
+        "useZh": "金色卷发",
+        "example": "Her golden locks shone in the sunlight.",
+        "exampleZh": "她的金色卷发在阳光下闪闪发光。"
       },
       "tresses": {
         "def": "长发,辫发",
         "vs": "文学,女性长发",
-        "use": "long tresses"
+        "use": "long tresses",
+        "useZh": "长发",
+        "example": "She brushed her long tresses before bed.",
+        "exampleZh": "她睡前梳理了她的长发。"
       }
     }
   },
@@ -2943,17 +3717,26 @@
       "mallet": {
         "def": "木槌",
         "vs": "侧重木质头",
-        "use": "a wooden mallet"
+        "use": "a wooden mallet",
+        "useZh": "木槌",
+        "example": "He used a wooden mallet to chisel the stone.",
+        "exampleZh": "他用木槌凿石头。"
       },
       "gavel": {
         "def": "小木槌",
         "vs": "侧重法官或拍卖用",
-        "use": "the judge's gavel"
+        "use": "the judge's gavel",
+        "useZh": "法官的小木槌",
+        "example": "The judge's gavel banged on the desk.",
+        "exampleZh": "法官的小木槌敲在桌子上。"
       },
       "beater": {
         "def": "打击器",
         "vs": "侧重击打用具",
-        "use": "a carpet beater"
+        "use": "a carpet beater",
+        "useZh": "地毯拍打器",
+        "example": "She cleaned the rug with a carpet beater.",
+        "exampleZh": "她用地毯拍打器清理了地毯。"
       }
     }
   },
@@ -2977,17 +3760,26 @@
       "palm": {
         "def": "手掌",
         "vs": "侧重手心",
-        "use": "the palm of my hand"
+        "use": "the palm of my hand",
+        "useZh": "我的手掌",
+        "example": "He placed a coin in the palm of my hand.",
+        "exampleZh": "他把一枚硬币放在我的手掌上。"
       },
       "fist": {
         "def": "拳头",
         "vs": "侧重握紧",
-        "use": "clenched fist"
+        "use": "clenched fist",
+        "useZh": "握紧的拳头",
+        "example": "He raised his clenched fist in anger.",
+        "exampleZh": "他愤怒地举起握紧的拳头。"
       },
       "paw": {
         "def": "爪",
         "vs": "侧重动物的",
-        "use": "the dog's paw"
+        "use": "the dog's paw",
+        "useZh": "狗的爪子",
+        "example": "The dog's paw was muddy from the rain.",
+        "exampleZh": "狗的爪子被雨弄脏了。"
       }
     }
   },
@@ -3011,17 +3803,26 @@
       "cap": {
         "def": "鸭舌帽",
         "vs": "侧重无檐或短檐",
-        "use": "a baseball cap"
+        "use": "a baseball cap",
+        "useZh": "棒球帽",
+        "example": "He wore a baseball cap to block the sun.",
+        "exampleZh": "他戴着棒球帽遮挡阳光。"
       },
       "headgear": {
         "def": "头饰,头盔",
         "vs": "广义,任何头戴",
-        "use": "protective headgear"
+        "use": "protective headgear",
+        "useZh": "防护头盔",
+        "example": "Workers must wear protective headgear on site.",
+        "exampleZh": "工人在现场必须戴防护头盔。"
       },
       "bonnet": {
         "def": "软帽",
         "vs": "侧重婴/古女帽",
-        "use": "a baby bonnet"
+        "use": "a baby bonnet",
+        "useZh": "婴儿帽",
+        "example": "The baby wore a soft baby bonnet outside.",
+        "exampleZh": "宝宝在外面戴了一顶柔软的婴儿帽。"
       }
     }
   },
@@ -3045,17 +3846,26 @@
       "skull": {
         "def": "头骨",
         "vs": "侧重骨头部分",
-        "use": "the human skull"
+        "use": "the human skull",
+        "useZh": "人类头骨",
+        "example": "The human skull protects the brain inside.",
+        "exampleZh": "人类头骨保护着里面的大脑。"
       },
       "pate": {
         "def": "头顶(古)",
         "vs": "古英语,头顶",
-        "use": "a bald pate"
+        "use": "a bald pate",
+        "useZh": "秃头",
+        "example": "The old man had a shiny bald pate.",
+        "exampleZh": "老人有一个光亮的秃头。"
       },
       "noggin": {
         "def": "脑袋(俚)",
         "vs": "俚语,头",
-        "use": "use your noggin"
+        "use": "use your noggin",
+        "useZh": "动动脑子",
+        "example": "Think carefully and use your noggin.",
+        "exampleZh": "仔细想想，动动脑子。"
       }
     }
   },
@@ -3079,17 +3889,26 @@
       "cardiac": {
         "def": "心脏的",
         "vs": "医学形容词",
-        "use": "cardiac arrest"
+        "use": "cardiac arrest",
+        "useZh": "心脏骤停",
+        "example": "The patient suffered a cardiac arrest last night.",
+        "exampleZh": "病人昨晚心脏骤停。"
       },
       "core": {
         "def": "核心",
         "vs": "侧重核心部分",
-        "use": "the core of the apple"
+        "use": "the core of the apple",
+        "useZh": "苹果核",
+        "example": "She threw away the core of the apple.",
+        "exampleZh": "她扔掉了苹果核。"
       },
       "center": {
         "def": "中心",
         "vs": "侧重正中",
-        "use": "city center"
+        "use": "city center",
+        "useZh": "市中心",
+        "example": "The hotel is located in the city center.",
+        "exampleZh": "这家酒店位于市中心。"
       }
     }
   },
@@ -3113,17 +3932,26 @@
       "clasp": {
         "def": "扣钩",
         "vs": "侧重扣紧",
-        "use": "a necklace clasp"
+        "use": "a necklace clasp",
+        "useZh": "项链扣",
+        "example": "She fixed the broken necklace clasp carefully.",
+        "exampleZh": "她小心地修好了坏掉的项链扣。"
       },
       "peg": {
         "def": "挂钉,木钉",
         "vs": "侧重小钉",
-        "use": "a wooden peg"
+        "use": "a wooden peg",
+        "useZh": "木钉",
+        "example": "He hung his coat on a wooden peg.",
+        "exampleZh": "他把外套挂在木钉上。"
       },
       "catch": {
         "def": "扣件,门搭扣",
         "vs": "侧重扣住",
-        "use": "the window catch"
+        "use": "the window catch",
+        "useZh": "窗户插销",
+        "example": "The window catch is broken and won't close.",
+        "exampleZh": "窗户插销坏了，关不上。"
       }
     }
   },
@@ -3147,17 +3975,26 @@
       "antler": {
         "def": "鹿角",
         "vs": "专指鹿",
-        "use": "deer antlers"
+        "use": "deer antlers",
+        "useZh": "鹿角",
+        "example": "The deer shed its antlers in winter.",
+        "exampleZh": "鹿在冬天脱落鹿角。"
       },
       "trumpet": {
         "def": "喇叭",
         "vs": "侧重乐器",
-        "use": "a brass trumpet"
+        "use": "a brass trumpet",
+        "useZh": "铜喇叭",
+        "example": "He played a beautiful song on a brass trumpet.",
+        "exampleZh": "他用铜喇叭吹了一首优美的曲子。"
       },
       "klaxon": {
         "def": "警笛",
         "vs": "侧重警报喇叭",
-        "use": "the klaxon sounded"
+        "use": "the klaxon sounded",
+        "useZh": "喇叭响了",
+        "example": "The klaxon sounded loudly in the factory.",
+        "exampleZh": "工厂里警笛声大作。"
       }
     }
   },
@@ -3181,17 +4018,26 @@
       "steed": {
         "def": "骏马",
         "vs": "文学,坐骑",
-        "use": "a noble steed"
+        "use": "a noble steed",
+        "useZh": "高贵的骏马",
+        "example": "The knight rode a noble steed into battle.",
+        "exampleZh": "骑士骑着一匹高贵的骏马冲入战场。"
       },
       "mare": {
         "def": "母马",
         "vs": "侧重雌性",
-        "use": "a young mare"
+        "use": "a young mare",
+        "useZh": "小母马",
+        "example": "The farmer bought a young mare for breeding.",
+        "exampleZh": "农夫买了一匹小母马用于繁殖。"
       },
       "stallion": {
         "def": "种马",
         "vs": "侧重雄性",
-        "use": "a black stallion"
+        "use": "a black stallion",
+        "useZh": "黑色公马",
+        "example": "A black stallion galloped across the field.",
+        "exampleZh": "一匹黑色公马飞奔过田野。"
       }
     }
   },
@@ -3215,17 +4061,26 @@
       "clinic": {
         "def": "诊所",
         "vs": "侧重门诊",
-        "use": "a private clinic"
+        "use": "a private clinic",
+        "useZh": "私人诊所",
+        "example": "She went to a private clinic for a checkup.",
+        "exampleZh": "她去私人诊所做了体检。"
       },
       "infirmary": {
         "def": "医务室,医院",
         "vs": "侧重学校/单位",
-        "use": "the school infirmary"
+        "use": "the school infirmary",
+        "useZh": "学校医务室",
+        "example": "The student was sent to the school infirmary.",
+        "exampleZh": "那个学生被送到了学校医务室。"
       },
       "sanatorium": {
         "def": "疗养院",
         "vs": "侧重长期康复",
-        "use": "a mountain sanatorium"
+        "use": "a mountain sanatorium",
+        "useZh": "山区疗养院",
+        "example": "He recovered in a mountain sanatorium for months.",
+        "exampleZh": "他在山区疗养院休养了几个月。"
       }
     }
   },
@@ -3249,17 +4104,26 @@
       "home": {
         "def": "家",
         "vs": "侧重温暖归属",
-        "use": "go home"
+        "use": "go home",
+        "useZh": "回家",
+        "example": "After work, I just want to go home.",
+        "exampleZh": "下班后，我只想回家。"
       },
       "dwelling": {
         "def": "住所",
         "vs": "正式,居住处",
-        "use": "a small dwelling"
+        "use": "a small dwelling",
+        "useZh": "小住所",
+        "example": "They lived in a small dwelling near the forest.",
+        "exampleZh": "他们住在森林附近的一个小住所里。"
       },
       "residence": {
         "def": "住宅",
         "vs": "正式,常指豪宅",
-        "use": "the official residence"
+        "use": "the official residence",
+        "useZh": "官邸",
+        "example": "The ambassador lives in the official residence.",
+        "exampleZh": "大使住在官邸里。"
       }
     }
   },
@@ -3283,17 +4147,26 @@
       "isle": {
         "def": "小岛",
         "vs": "文学,小型岛",
-        "use": "a green isle"
+        "use": "a green isle",
+        "useZh": "绿色小岛",
+        "example": "They sailed to a green isle in the ocean.",
+        "exampleZh": "他们航行到海洋中的一座绿色小岛。"
       },
       "atoll": {
         "def": "环礁",
         "vs": "侧重珊瑚环岛",
-        "use": "a coral atoll"
+        "use": "a coral atoll",
+        "useZh": "珊瑚环礁",
+        "example": "Divers explored the beautiful coral atoll.",
+        "exampleZh": "潜水员探索了美丽的珊瑚环礁。"
       },
       "key": {
         "def": "低岛,小岛",
         "vs": "侧重珊瑚低岛",
-        "use": "Florida Keys"
+        "use": "Florida Keys",
+        "useZh": "佛罗里达群岛",
+        "example": "We vacationed in the Florida Keys last summer.",
+        "exampleZh": "去年夏天我们在佛罗里达群岛度假。"
       }
     }
   },
@@ -3317,17 +4190,26 @@
       "gem": {
         "def": "宝石",
         "vs": "侧重宝石本身",
-        "use": "a precious gem"
+        "use": "a precious gem",
+        "useZh": "珍贵宝石",
+        "example": "The ring was set with a precious gem.",
+        "exampleZh": "这枚戒指镶嵌了一颗珍贵宝石。"
       },
       "stone": {
         "def": "宝石,石头",
         "vs": "侧重原石",
-        "use": "a birth stone"
+        "use": "a birth stone",
+        "useZh": "诞生石",
+        "example": "She wore a necklace with her birth stone.",
+        "exampleZh": "她戴着一条有她诞生石的项链。"
       },
       "precious": {
         "def": "贵重物",
         "vs": "侧重珍贵",
-        "use": "something precious"
+        "use": "something precious",
+        "useZh": "珍贵的东西",
+        "example": "She keeps something precious in her safe.",
+        "exampleZh": "她把珍贵的东西放在保险箱里。"
       }
     }
   },
@@ -3351,17 +4233,26 @@
       "pot": {
         "def": "锅",
         "vs": "广义,任何盛器",
-        "use": "a cooking pot"
+        "use": "a cooking pot",
+        "useZh": "烹饪锅",
+        "example": "She put the cooking pot on the stove.",
+        "exampleZh": "她把烹饪锅放在炉子上。"
       },
       "teapot": {
         "def": "茶壶",
         "vs": "侧重泡茶",
-        "use": "a porcelain teapot"
+        "use": "a porcelain teapot",
+        "useZh": "瓷茶壶",
+        "example": "She poured tea from a porcelain teapot.",
+        "exampleZh": "她从瓷茶壶里倒出茶来。"
       },
       "boiler": {
         "def": "锅炉",
         "vs": "侧重供热设备",
-        "use": "the central boiler"
+        "use": "the central boiler",
+        "useZh": "中央锅炉",
+        "example": "The central boiler heats the entire building.",
+        "exampleZh": "中央锅炉为整栋楼供暖。"
       }
     }
   },
@@ -3385,17 +4276,26 @@
       "opener": {
         "def": "开启工具",
         "vs": "广义,任何开启物",
-        "use": "a bottle opener"
+        "use": "a bottle opener",
+        "useZh": "开瓶器",
+        "example": "He used a bottle opener to open the beer.",
+        "exampleZh": "他用开瓶器打开了啤酒。"
       },
       "clue": {
         "def": "线索",
         "vs": "侧重解谜",
-        "use": "a vital clue"
+        "use": "a vital clue",
+        "useZh": "关键线索",
+        "example": "The detective found a vital clue at the scene.",
+        "exampleZh": "侦探在现场找到了一个关键线索。"
       },
       "code": {
         "def": "密码",
         "vs": "侧重数字密码",
-        "use": "a secret code"
+        "use": "a secret code",
+        "useZh": "密码",
+        "example": "They used a secret code to send messages.",
+        "exampleZh": "他们用密码发送信息。"
       }
     }
   },
@@ -3419,17 +4319,26 @@
       "joint": {
         "def": "关节",
         "vs": "广义,任何关节",
-        "use": "a sore joint"
+        "use": "a sore joint",
+        "useZh": "关节酸痛",
+        "example": "After running, he felt pain in a sore joint.",
+        "exampleZh": "跑步后，他感到一个关节酸痛。"
       },
       "patella": {
         "def": "髌骨",
         "vs": "医学术语",
-        "use": "the patella bone"
+        "use": "the patella bone",
+        "useZh": "膝盖骨",
+        "example": "The doctor examined the patella bone for fractures.",
+        "exampleZh": "医生检查了膝盖骨是否有骨折。"
       },
       "kneecap": {
         "def": "膝盖骨",
         "vs": "口语版",
-        "use": "hurt my kneecap"
+        "use": "hurt my kneecap",
+        "useZh": "伤到膝盖骨",
+        "example": "I fell and hurt my kneecap on the pavement.",
+        "exampleZh": "我摔倒了，在人行道上伤到了膝盖骨。"
       }
     }
   },
@@ -3453,17 +4362,26 @@
       "blade": {
         "def": "刀片",
         "vs": "侧重刃",
-        "use": "a sharp blade"
+        "use": "a sharp blade",
+        "useZh": "锋利的刀片",
+        "example": "Be careful with that knife; it has a sharp blade.",
+        "exampleZh": "小心那把刀，它有锋利的刀片。"
       },
       "cutter": {
         "def": "切割器",
         "vs": "侧重工具",
-        "use": "a paper cutter"
+        "use": "a paper cutter",
+        "useZh": "裁纸刀",
+        "example": "She used a paper cutter to trim the sheets.",
+        "exampleZh": "她用裁纸刀修剪纸张。"
       },
       "dagger": {
         "def": "匕首",
         "vs": "侧重短剑武器",
-        "use": "a hidden dagger"
+        "use": "a hidden dagger",
+        "useZh": "暗藏的匕首",
+        "example": "The spy kept a hidden dagger under his coat.",
+        "exampleZh": "间谍在外套下藏了一把暗藏的匕首。"
       }
     }
   },
@@ -3487,17 +4405,26 @@
       "tie": {
         "def": "系结",
         "vs": "侧重打结的动作",
-        "use": "a tight tie"
+        "use": "a tight tie",
+        "useZh": "紧绷的领带",
+        "example": "He learned to make a tight tie for the rope.",
+        "exampleZh": "他学会了给绳子打一个紧绷的系结。"
       },
       "loop": {
         "def": "环",
         "vs": "侧重圈状",
-        "use": "a closed loop"
+        "use": "a closed loop",
+        "useZh": "闭环",
+        "example": "The rope formed a closed loop around the post.",
+        "exampleZh": "绳子在柱子周围形成了一个闭环。"
       },
       "tangle": {
         "def": "乱结",
         "vs": "侧重缠绕乱",
-        "use": "a tangle of hair"
+        "use": "a tangle of hair",
+        "useZh": "一团乱发",
+        "example": "She spent hours combing a tangle of hair.",
+        "exampleZh": "她花了几个小时梳理一团乱发。"
       }
     }
   },
@@ -3521,17 +4448,26 @@
       "foliage": {
         "def": "叶子(集)",
         "vs": "集合统称",
-        "use": "dense foliage"
+        "use": "dense foliage",
+        "useZh": "茂密的树叶",
+        "example": "The forest was full of dense foliage in summer.",
+        "exampleZh": "夏天森林里满是茂密的树叶。"
       },
       "blade": {
         "def": "叶片",
         "vs": "侧重细长叶",
-        "use": "a blade of grass"
+        "use": "a blade of grass",
+        "useZh": "一片草叶",
+        "example": "He picked up a blade of grass from the lawn.",
+        "exampleZh": "他从草坪上捡起一片草叶。"
       },
       "frond": {
         "def": "棕榈/蕨叶",
         "vs": "侧重大羽状叶",
-        "use": "a palm frond"
+        "use": "a palm frond",
+        "useZh": "棕榈叶",
+        "example": "A palm frond swayed gently in the breeze.",
+        "exampleZh": "棕榈叶在微风中轻轻摇摆。"
       }
     }
   },
@@ -3555,17 +4491,26 @@
       "limb": {
         "def": "四肢",
         "vs": "广义,手或脚",
-        "use": "a missing limb"
+        "use": "a missing limb",
+        "useZh": "缺失的肢体",
+        "example": "The accident left him with a missing limb.",
+        "exampleZh": "事故导致他缺失了一个肢体。"
       },
       "shank": {
         "def": "小腿",
         "vs": "侧重膝下",
-        "use": "a strong shank"
+        "use": "a strong shank",
+        "useZh": "强壮的胫骨",
+        "example": "The runner had a strong shank from training.",
+        "exampleZh": "这位跑步者因训练而有强壮的胫骨。"
       },
       "stilt": {
         "def": "高跷",
         "vs": "比喻长腿",
-        "use": "walk on stilts"
+        "use": "walk on stilts",
+        "useZh": "踩高跷",
+        "example": "The performer learned to walk on stilts.",
+        "exampleZh": "表演者学会了踩高跷。"
       }
     }
   },
@@ -3589,17 +4534,26 @@
       "bookhouse": {
         "def": "藏书处",
         "vs": "字面描述",
-        "use": "a small bookhouse"
+        "use": "a small bookhouse",
+        "useZh": "小书屋",
+        "example": "They built a small bookhouse in the backyard.",
+        "exampleZh": "他们在后院建了一个小书屋。"
       },
       "archive": {
         "def": "档案馆",
         "vs": "侧重保存史料",
-        "use": "the national archive"
+        "use": "the national archive",
+        "useZh": "国家档案馆",
+        "example": "The documents are stored in the national archive.",
+        "exampleZh": "这些文件保存在国家档案馆。"
       },
       "collection": {
         "def": "藏书,收藏",
         "vs": "侧重所收集",
-        "use": "a private collection"
+        "use": "a private collection",
+        "useZh": "私人收藏",
+        "example": "He donated his private collection to the museum.",
+        "exampleZh": "他把私人收藏捐给了博物馆。"
       }
     }
   },
@@ -3623,17 +4577,26 @@
       "stripe": {
         "def": "条纹",
         "vs": "侧重宽条纹",
-        "use": "red stripes"
+        "use": "red stripes",
+        "useZh": "红色条纹",
+        "example": "The shirt has red stripes on a white background.",
+        "exampleZh": "这件衬衫在白底上有红色条纹。"
       },
       "row": {
         "def": "一排",
         "vs": "侧重并列排",
-        "use": "a front row"
+        "use": "a front row",
+        "useZh": "前排",
+        "example": "She got tickets in the front row of the theater.",
+        "exampleZh": "她拿到了剧院前排的票。"
       },
       "string": {
         "def": "线绳",
         "vs": "侧重细绳",
-        "use": "a piece of string"
+        "use": "a piece of string",
+        "useZh": "一根细绳",
+        "example": "He tied the package with a piece of string.",
+        "exampleZh": "他用一根细绳捆扎包裹。"
       }
     }
   },
@@ -3657,17 +4620,26 @@
       "mouth": {
         "def": "嘴",
         "vs": "侧重整个嘴",
-        "use": "open your mouth"
+        "use": "open your mouth",
+        "useZh": "张开嘴",
+        "example": "The dentist said, 'Please open your mouth wide.'",
+        "exampleZh": "牙医说：“请张大你的嘴。”"
       },
       "rim": {
         "def": "边缘",
         "vs": "侧重圆口边",
-        "use": "the rim of the cup"
+        "use": "the rim of the cup",
+        "useZh": "杯沿",
+        "example": "She placed her lips on the rim of the cup.",
+        "exampleZh": "她把嘴唇贴在杯沿上。"
       },
       "edge": {
         "def": "边缘",
         "vs": "广义,任何边",
-        "use": "a sharp edge"
+        "use": "a sharp edge",
+        "useZh": "锋利的边缘",
+        "example": "The knife has a sharp edge, so handle with care.",
+        "exampleZh": "这把刀有锋利的边缘，所以要小心使用。"
       }
     }
   },
@@ -3691,17 +4663,26 @@
       "latch": {
         "def": "门闩",
         "vs": "侧重简单锁",
-        "use": "the door latch"
+        "use": "the door latch",
+        "useZh": "门闩",
+        "example": "He lifted the door latch to enter the shed.",
+        "exampleZh": "他抬起门闩进入棚屋。"
       },
       "bolt": {
         "def": "门栓",
         "vs": "侧重粗插销",
-        "use": "slide the bolt"
+        "use": "slide the bolt",
+        "useZh": "插上门闩",
+        "example": "Remember to slide the bolt before leaving.",
+        "exampleZh": "离开前记得插上门闩。"
       },
       "catch": {
         "def": "卡扣,锁扣",
         "vs": "侧重小卡件",
-        "use": "the window catch"
+        "use": "the window catch",
+        "useZh": "窗户插销",
+        "example": "The window catch is broken and won't stay shut.",
+        "exampleZh": "窗户插销坏了，关不牢。"
       }
     }
   },
@@ -3725,17 +4706,26 @@
       "chart": {
         "def": "图表,海图",
         "vs": "侧重航海/数据",
-        "use": "a nautical chart"
+        "use": "a nautical chart",
+        "useZh": "航海图",
+        "example": "The sailor studied a nautical chart before sailing.",
+        "exampleZh": "水手在航行前研究了航海图。"
       },
       "plan": {
         "def": "平面图",
         "vs": "侧重设计图",
-        "use": "the floor plan"
+        "use": "the floor plan",
+        "useZh": "平面图",
+        "example": "The architect showed us the floor plan of the house.",
+        "exampleZh": "建筑师给我们看了房子的平面图。"
       },
       "atlas": {
         "def": "地图集",
         "vs": "侧重成册地图",
-        "use": "a world atlas"
+        "use": "a world atlas",
+        "useZh": "世界地图集",
+        "example": "She found the country in a world atlas.",
+        "exampleZh": "她在世界地图集中找到了那个国家。"
       }
     }
   },
@@ -3759,17 +4749,26 @@
       "light": {
         "def": "打火工具",
         "vs": "侧重点火",
-        "use": "a light for my cigarette"
+        "use": "a light for my cigarette",
+        "useZh": "点烟的火",
+        "example": "He asked me for a light for his cigarette.",
+        "exampleZh": "他向我借火点烟。"
       },
       "fuse": {
         "def": "导火线,保险丝",
         "vs": "侧重引爆/保险",
-        "use": "a slow fuse"
+        "use": "a slow fuse",
+        "useZh": "慢燃引信",
+        "example": "The bomb had a slow fuse attached.",
+        "exampleZh": "炸弹上装了一根慢燃引信。"
       },
       "striker": {
         "def": "打火者",
         "vs": "侧重击发",
-        "use": "the striker plate"
+        "use": "the striker plate",
+        "useZh": "锁舌片",
+        "example": "The striker plate on the door was loose.",
+        "exampleZh": "门上的锁舌片松了。"
       }
     }
   },
@@ -3793,17 +4792,26 @@
       "ape": {
         "def": "猿",
         "vs": "侧重无尾",
-        "use": "a great ape"
+        "use": "a great ape",
+        "useZh": "大型猿类",
+        "example": "A great ape can use simple tools.",
+        "exampleZh": "大型猿类会使用简单工具。"
       },
       "primate": {
         "def": "灵长类",
         "vs": "科学术语",
-        "use": "primate behavior"
+        "use": "primate behavior",
+        "useZh": "灵长类行为",
+        "example": "Scientists study primate behavior in the wild.",
+        "exampleZh": "科学家在野外研究灵长类行为。"
       },
       "simian": {
         "def": "猿猴的",
         "vs": "形容词,科学",
-        "use": "simian features"
+        "use": "simian features",
+        "useZh": "猿类特征",
+        "example": "The mask had distinct simian features.",
+        "exampleZh": "面具上有明显的猿类特征。"
       }
     }
   },
@@ -3827,17 +4835,26 @@
       "satellite": {
         "def": "卫星",
         "vs": "科学,广义",
-        "use": "natural satellite"
+        "use": "natural satellite",
+        "useZh": "天然卫星",
+        "example": "Earth has only one natural satellite.",
+        "exampleZh": "地球只有一颗天然卫星。"
       },
       "lunar body": {
         "def": "月体",
         "vs": "科学描述",
-        "use": "the lunar body"
+        "use": "the lunar body",
+        "useZh": "月球天体",
+        "example": "The lunar body orbits our planet.",
+        "exampleZh": "月球天体绕我们的行星运行。"
       },
       "crescent": {
         "def": "新月",
         "vs": "侧重月相",
-        "use": "a crescent moon"
+        "use": "a crescent moon",
+        "useZh": "新月",
+        "example": "A crescent moon hung in the sky.",
+        "exampleZh": "一弯新月挂在天空。"
       }
     }
   },
@@ -3861,17 +4878,26 @@
       "lips": {
         "def": "嘴唇",
         "vs": "侧重唇",
-        "use": "red lips"
+        "use": "red lips",
+        "useZh": "红唇",
+        "example": "She painted her lips bright red.",
+        "exampleZh": "她把嘴唇涂成了鲜红色。"
       },
       "jaws": {
         "def": "上下颌",
         "vs": "侧重颌骨",
-        "use": "powerful jaws"
+        "use": "powerful jaws",
+        "useZh": "强壮的颚",
+        "example": "The shark has incredibly powerful jaws.",
+        "exampleZh": "鲨鱼有极其强壮的颚。"
       },
       "oral cavity": {
         "def": "口腔",
         "vs": "医学术语",
-        "use": "the oral cavity"
+        "use": "the oral cavity",
+        "useZh": "口腔",
+        "example": "The dentist examined the oral cavity.",
+        "exampleZh": "牙医检查了口腔。"
       }
     }
   },
@@ -3895,17 +4921,26 @@
       "sinew": {
         "def": "肌腱",
         "vs": "侧重筋",
-        "use": "taut sinews"
+        "use": "taut sinews",
+        "useZh": "紧绷的肌腱",
+        "example": "The athlete's taut sinews showed his strength.",
+        "exampleZh": "运动员紧绷的肌腱显示了他的力量。"
       },
       "brawn": {
         "def": "肌肉力量",
         "vs": "侧重肌力",
-        "use": "all brawn"
+        "use": "all brawn",
+        "useZh": "全是肌肉",
+        "example": "He relied on all brawn and no brain.",
+        "exampleZh": "他全靠蛮力，没有头脑。"
       },
       "tissue": {
         "def": "组织",
         "vs": "医学,身体组织",
-        "use": "muscle tissue"
+        "use": "muscle tissue",
+        "useZh": "肌肉组织",
+        "example": "The doctor examined the muscle tissue.",
+        "exampleZh": "医生检查了肌肉组织。"
       }
     }
   },
@@ -3929,17 +4964,26 @@
       "pin": {
         "def": "大头针,销",
         "vs": "侧重细长针",
-        "use": "a safety pin"
+        "use": "a safety pin",
+        "useZh": "安全别针",
+        "example": "She used a safety pin to fix her dress.",
+        "exampleZh": "她用安全别针固定裙子。"
       },
       "tack": {
         "def": "图钉",
         "vs": "侧重短粗钉",
-        "use": "a thumb tack"
+        "use": "a thumb tack",
+        "useZh": "图钉",
+        "example": "He pushed a thumb tack into the board.",
+        "exampleZh": "他把图钉按进板子里。"
       },
       "spike": {
         "def": "长钉,尖刺",
         "vs": "侧重粗长尖",
-        "use": "a metal spike"
+        "use": "a metal spike",
+        "useZh": "金属尖刺",
+        "example": "A metal spike stuck out of the fence.",
+        "exampleZh": "一根金属尖刺从篱笆上伸出来。"
       }
     }
   },
@@ -3963,17 +5007,26 @@
       "nape": {
         "def": "颈背",
         "vs": "侧重颈后部",
-        "use": "the nape of the neck"
+        "use": "the nape of the neck",
+        "useZh": "后颈",
+        "example": "She felt a kiss on the nape of the neck.",
+        "exampleZh": "她感到后颈被吻了一下。"
       },
       "throat": {
         "def": "喉咙",
         "vs": "侧重内部",
-        "use": "a sore throat"
+        "use": "a sore throat",
+        "useZh": "喉咙痛",
+        "example": "I have a sore throat and can't talk.",
+        "exampleZh": "我喉咙痛，说不出话。"
       },
       "collar": {
         "def": "领,颈圈",
         "vs": "侧重穿戴的",
-        "use": "a stiff collar"
+        "use": "a stiff collar",
+        "useZh": "硬领子",
+        "example": "He wore a shirt with a stiff collar.",
+        "exampleZh": "他穿了一件硬领衬衫。"
       }
     }
   },
@@ -3997,17 +5050,26 @@
       "pin": {
         "def": "针,大头针",
         "vs": "侧重细小",
-        "use": "a sewing pin"
+        "use": "a sewing pin",
+        "useZh": "缝纫针",
+        "example": "She used a sewing pin to hold the fabric.",
+        "exampleZh": "她用缝纫针固定布料。"
       },
       "spike": {
         "def": "长尖钉",
         "vs": "侧重粗长",
-        "use": "a sharp spike"
+        "use": "a sharp spike",
+        "useZh": "尖锐的刺",
+        "example": "Be careful of that sharp spike on the fence.",
+        "exampleZh": "小心篱笆上那个尖锐的刺。"
       },
       "quill": {
         "def": "刺,翎管",
         "vs": "侧重豪猪刺/羽",
-        "use": "porcupine quills"
+        "use": "porcupine quills",
+        "useZh": "豪猪刺",
+        "example": "Porcupine quills are very sharp and dangerous.",
+        "exampleZh": "豪猪刺非常尖锐且危险。"
       }
     }
   },
@@ -4031,17 +5093,26 @@
       "fiber": {
         "def": "神经纤维",
         "vs": "医学,细丝",
-        "use": "nerve fiber"
+        "use": "nerve fiber",
+        "useZh": "神经纤维",
+        "example": "The nerve fiber transmits signals to the brain.",
+        "exampleZh": "神经纤维向大脑传递信号。"
       },
       "sensation": {
         "def": "感觉",
         "vs": "侧重感觉本身",
-        "use": "a tingling sensation"
+        "use": "a tingling sensation",
+        "useZh": "刺痛感",
+        "example": "I felt a tingling sensation in my fingers.",
+        "exampleZh": "我手指感到一阵刺痛感。"
       },
       "courage": {
         "def": "勇气",
         "vs": "nerve 的引申义",
-        "use": "have the nerve"
+        "use": "have the nerve",
+        "useZh": "有胆量",
+        "example": "She didn't have the nerve to ask him out.",
+        "exampleZh": "她没有胆量约他出去。"
       }
     }
   },
@@ -4065,17 +5136,26 @@
       "mesh": {
         "def": "网眼",
         "vs": "侧重网孔结构",
-        "use": "fine mesh"
+        "use": "fine mesh",
+        "useZh": "细网",
+        "example": "The window screen is made of fine mesh.",
+        "exampleZh": "纱窗由细网制成。"
       },
       "web": {
         "def": "网络,蛛网",
         "vs": "侧重网状结构",
-        "use": "a spider web"
+        "use": "a spider web",
+        "useZh": "蜘蛛网",
+        "example": "A spider web glistened with morning dew.",
+        "exampleZh": "蜘蛛网在晨露中闪闪发光。"
       },
       "snare": {
         "def": "陷阱网",
         "vs": "侧重捕捉用",
-        "use": "set a snare"
+        "use": "set a snare",
+        "useZh": "设陷阱",
+        "example": "The hunter set a snare to catch a rabbit.",
+        "exampleZh": "猎人设陷阱捕捉兔子。"
       }
     }
   },
@@ -4099,17 +5179,26 @@
       "snout": {
         "def": "动物鼻吻",
         "vs": "侧重动物",
-        "use": "a pig's snout"
+        "use": "a pig's snout",
+        "useZh": "猪鼻子",
+        "example": "The pig's snout was covered in mud.",
+        "exampleZh": "猪的鼻吻上沾满了泥。"
       },
       "beak": {
         "def": "鸟喙",
         "vs": "侧重禽鸟",
-        "use": "a sharp beak"
+        "use": "a sharp beak",
+        "useZh": "尖喙",
+        "example": "The eagle used its sharp beak to catch fish.",
+        "exampleZh": "老鹰用它的尖喙捕鱼。"
       },
       "sniffer": {
         "def": "嗅探者",
         "vs": "侧重嗅觉",
-        "use": "sniffer dog"
+        "use": "sniffer dog",
+        "useZh": "嗅探犬",
+        "example": "The sniffer dog found the hidden drugs quickly.",
+        "exampleZh": "嗅探犬很快找到了藏匿的毒品。"
       }
     }
   },
@@ -4133,17 +5222,26 @@
       "seed": {
         "def": "种子",
         "vs": "广义,可繁殖",
-        "use": "plant a seed"
+        "use": "plant a seed",
+        "useZh": "播种",
+        "example": "Farmers plant a seed in the soil every spring.",
+        "exampleZh": "农民每年春天在土壤里播种。"
       },
       "kernel": {
         "def": "果仁",
         "vs": "侧重核内",
-        "use": "a corn kernel"
+        "use": "a corn kernel",
+        "useZh": "玉米粒",
+        "example": "She ate a corn kernel from the cob.",
+        "exampleZh": "她从玉米棒上吃了一粒玉米粒。"
       },
       "bolt": {
         "def": "螺栓",
         "vs": "侧重金属配对",
-        "use": "nuts and bolts"
+        "use": "nuts and bolts",
+        "useZh": "螺母和螺栓",
+        "example": "He tightened the nuts and bolts on the machine.",
+        "exampleZh": "他拧紧了机器上的螺母和螺栓。"
       }
     }
   },
@@ -4167,17 +5265,26 @@
       "workplace": {
         "def": "工作场所",
         "vs": "侧重工作地点",
-        "use": "a busy workplace"
+        "use": "a busy workplace",
+        "useZh": "繁忙的工作场所",
+        "example": "A busy workplace needs good communication.",
+        "exampleZh": "繁忙的工作场所需要良好的沟通。"
       },
       "bureau": {
         "def": "局,办事处",
         "vs": "侧重政府机构",
-        "use": "a federal bureau"
+        "use": "a federal bureau",
+        "useZh": "联邦局",
+        "example": "She works for a federal bureau in Washington.",
+        "exampleZh": "她在华盛顿的一个联邦局工作。"
       },
       "study": {
         "def": "书房",
         "vs": "侧重家中办公",
-        "use": "the home study"
+        "use": "the home study",
+        "useZh": "家庭书房",
+        "example": "He reads books in the home study every night.",
+        "exampleZh": "他每晚在家庭书房里读书。"
       }
     }
   },
@@ -4201,17 +5308,26 @@
       "citrus": {
         "def": "柑橘类",
         "vs": "侧重类别",
-        "use": "citrus fruits"
+        "use": "citrus fruits",
+        "useZh": "柑橘类水果",
+        "example": "Citrus fruits like oranges are rich in vitamin C.",
+        "exampleZh": "柑橘类水果如橙子富含维生素C。"
       },
       "fruit": {
         "def": "水果",
         "vs": "广义类别",
-        "use": "fresh fruit"
+        "use": "fresh fruit",
+        "useZh": "新鲜水果",
+        "example": "She bought some fresh fruit at the market.",
+        "exampleZh": "她在市场买了一些新鲜水果。"
       },
       "mandarin": {
         "def": "橘子",
         "vs": "侧重小橘类",
-        "use": "a sweet mandarin"
+        "use": "a sweet mandarin",
+        "useZh": "甜橘子",
+        "example": "He peeled a sweet mandarin for his daughter.",
+        "exampleZh": "他给女儿剥了一个甜橘子。"
       }
     }
   },
@@ -4235,17 +5351,26 @@
       "stove": {
         "def": "炉灶",
         "vs": "侧重灶台",
-        "use": "a gas stove"
+        "use": "a gas stove",
+        "useZh": "煤气灶",
+        "example": "She cooked soup on a gas stove in the kitchen.",
+        "exampleZh": "她在厨房的煤气灶上煮汤。"
       },
       "kiln": {
         "def": "窑",
         "vs": "侧重高温烧制",
-        "use": "a brick kiln"
+        "use": "a brick kiln",
+        "useZh": "砖窑",
+        "example": "The potter fired clay pots in a brick kiln.",
+        "exampleZh": "陶工在砖窑里烧制陶罐。"
       },
       "furnace": {
         "def": "熔炉",
         "vs": "侧重工业大炉",
-        "use": "a blast furnace"
+        "use": "a blast furnace",
+        "useZh": "高炉",
+        "example": "Steel is made in a blast furnace at high heat.",
+        "exampleZh": "钢是在高温的高炉中炼成的。"
       }
     }
   },
@@ -4269,17 +5394,26 @@
       "package": {
         "def": "包裹",
         "vs": "广义,任何包装件",
-        "use": "a delivery package"
+        "use": "a delivery package",
+        "useZh": "快递包裹",
+        "example": "I received a delivery package from the postman.",
+        "exampleZh": "我收到了邮递员送来的快递包裹。"
       },
       "bundle": {
         "def": "捆,束",
         "vs": "侧重捆扎",
-        "use": "a bundle of sticks"
+        "use": "a bundle of sticks",
+        "useZh": "一捆柴",
+        "example": "He carried a bundle of sticks on his back.",
+        "exampleZh": "他背着一捆柴。"
       },
       "carton": {
         "def": "纸盒",
         "vs": "侧重纸质",
-        "use": "a carton of eggs"
+        "use": "a carton of eggs",
+        "useZh": "一盒鸡蛋",
+        "example": "She bought a carton of eggs from the store.",
+        "exampleZh": "她从商店买了一盒鸡蛋。"
       }
     }
   },
@@ -4303,17 +5437,26 @@
       "ballpoint": {
         "def": "圆珠笔",
         "vs": "具体种类",
-        "use": "a ballpoint pen"
+        "use": "a ballpoint pen",
+        "useZh": "圆珠笔",
+        "example": "He signed the document with a ballpoint pen.",
+        "exampleZh": "他用圆珠笔签署了文件。"
       },
       "quill": {
         "def": "羽毛笔",
         "vs": "古老书写",
-        "use": "a goose quill"
+        "use": "a goose quill",
+        "useZh": "鹅毛笔",
+        "example": "The writer used a goose quill to write letters.",
+        "exampleZh": "这位作家用鹅毛笔写信。"
       },
       "biro": {
         "def": "圆珠笔(英)",
         "vs": "英式品牌名",
-        "use": "a blue biro"
+        "use": "a blue biro",
+        "useZh": "蓝色圆珠笔",
+        "example": "She wrote a note with a blue biro in class.",
+        "exampleZh": "她在课堂上用蓝色圆珠笔写了一张便条。"
       }
     }
   },
@@ -4337,17 +5480,26 @@
       "graphite": {
         "def": "石墨",
         "vs": "侧重铅笔芯材",
-        "use": "graphite leads"
+        "use": "graphite leads",
+        "useZh": "石墨铅芯",
+        "example": "Graphite leads are used in mechanical pencils.",
+        "exampleZh": "石墨铅芯用于自动铅笔。"
       },
       "drawing tool": {
         "def": "绘画工具",
         "vs": "字面描述",
-        "use": "a basic drawing tool"
+        "use": "a basic drawing tool",
+        "useZh": "基本绘图工具",
+        "example": "A pencil is a basic drawing tool for artists.",
+        "exampleZh": "铅笔是艺术家的基本绘图工具。"
       },
       "crayon": {
         "def": "蜡笔",
         "vs": "侧重彩色",
-        "use": "a wax crayon"
+        "use": "a wax crayon",
+        "useZh": "蜡笔",
+        "example": "The child colored the picture with a wax crayon.",
+        "exampleZh": "孩子用蜡笔给图画上色。"
       }
     }
   },
@@ -4371,17 +5523,26 @@
       "image": {
         "def": "图像",
         "vs": "广义,任何视觉",
-        "use": "a digital image"
+        "use": "a digital image",
+        "useZh": "数字图像",
+        "example": "He edited a digital image on his computer.",
+        "exampleZh": "他在电脑上编辑了一张数字图像。"
       },
       "photo": {
         "def": "照片",
         "vs": "侧重摄影",
-        "use": "a family photo"
+        "use": "a family photo",
+        "useZh": "全家福",
+        "example": "She framed a family photo and hung it up.",
+        "exampleZh": "她把一张全家福装裱起来挂上。"
       },
       "painting": {
         "def": "画作",
         "vs": "侧重绘画",
-        "use": "an oil painting"
+        "use": "an oil painting",
+        "useZh": "油画",
+        "example": "The museum displayed an oil painting by Monet.",
+        "exampleZh": "博物馆展出了一幅莫奈的油画。"
       }
     }
   },
@@ -4405,17 +5566,26 @@
       "swine": {
         "def": "猪(正式)",
         "vs": "正式,集合",
-        "use": "swine flu"
+        "use": "swine flu",
+        "useZh": "猪流感",
+        "example": "Swine flu spread quickly among the farm animals.",
+        "exampleZh": "猪流感在农场动物中迅速传播。"
       },
       "hog": {
         "def": "成年公猪",
         "vs": "侧重大的",
-        "use": "a fat hog"
+        "use": "a fat hog",
+        "useZh": "肥猪",
+        "example": "The farmer fed a fat hog in the pen.",
+        "exampleZh": "农夫在猪圈里喂了一头肥猪。"
       },
       "boar": {
         "def": "野猪",
         "vs": "侧重野生雄",
-        "use": "a wild boar"
+        "use": "a wild boar",
+        "useZh": "野猪",
+        "example": "A wild boar was spotted in the forest.",
+        "exampleZh": "森林里发现了一头野猪。"
       }
     }
   },
@@ -4439,17 +5609,26 @@
       "needle": {
         "def": "针",
         "vs": "侧重缝纫针",
-        "use": "a sewing needle"
+        "use": "a sewing needle",
+        "useZh": "缝衣针",
+        "example": "She threaded a sewing needle to mend the shirt.",
+        "exampleZh": "她穿好缝衣针来补衬衫。"
       },
       "tack": {
         "def": "图钉",
         "vs": "侧重短钉",
-        "use": "a thumb tack"
+        "use": "a thumb tack",
+        "useZh": "图钉",
+        "example": "He pushed a thumb tack into the cork board.",
+        "exampleZh": "他把图钉按进软木板上。"
       },
       "peg": {
         "def": "小桩,挂钉",
         "vs": "侧重圆柱形",
-        "use": "a clothes peg"
+        "use": "a clothes peg",
+        "useZh": "晾衣夹",
+        "example": "She hung the wet shirt on a clothes peg.",
+        "exampleZh": "她把湿衬衫挂在晾衣夹上。"
       }
     }
   },
@@ -4473,17 +5652,26 @@
       "tube": {
         "def": "管,筒",
         "vs": "广义,空心圆筒",
-        "use": "a test tube"
+        "use": "a test tube",
+        "useZh": "试管",
+        "example": "The scientist placed liquid in a test tube.",
+        "exampleZh": "科学家把液体放进试管里。"
       },
       "duct": {
         "def": "导管,管道",
         "vs": "侧重输送通道",
-        "use": "air duct"
+        "use": "air duct",
+        "useZh": "通风管道",
+        "example": "The air duct carries cool air through the building.",
+        "exampleZh": "通风管道将冷气输送到整栋楼。"
       },
       "conduit": {
         "def": "导管,渠道",
         "vs": "正式,输送通道",
-        "use": "a cable conduit"
+        "use": "a cable conduit",
+        "useZh": "电缆管道",
+        "example": "Workers installed a cable conduit under the floor.",
+        "exampleZh": "工人们在地板下安装了电缆管道。"
       }
     }
   },
@@ -4507,17 +5695,26 @@
       "aircraft": {
         "def": "飞行器",
         "vs": "正式,统称",
-        "use": "military aircraft"
+        "use": "military aircraft",
+        "useZh": "军用飞机",
+        "example": "The military aircraft flew over the ocean.",
+        "exampleZh": "军用飞机飞越了海洋。"
       },
       "jet": {
         "def": "喷气飞机",
         "vs": "侧重喷气式",
-        "use": "a private jet"
+        "use": "a private jet",
+        "useZh": "私人飞机",
+        "example": "He arrived in a private jet from New York.",
+        "exampleZh": "他乘坐私人喷气飞机从纽约抵达。"
       },
       "airliner": {
         "def": "客机",
         "vs": "侧重大型客运",
-        "use": "a commercial airliner"
+        "use": "a commercial airliner",
+        "useZh": "商用客机",
+        "example": "The commercial airliner landed safely at the airport.",
+        "exampleZh": "商用客机安全降落在机场。"
       }
     }
   },
@@ -4541,17 +5738,26 @@
       "dish": {
         "def": "碟,盘",
         "vs": "广义,任何盘",
-        "use": "do the dishes"
+        "use": "do the dishes",
+        "useZh": "洗碗",
+        "example": "After dinner, she had to do the dishes.",
+        "exampleZh": "晚饭后，她得洗碗。"
       },
       "saucer": {
         "def": "小托盘",
         "vs": "侧重茶碟",
-        "use": "a tea saucer"
+        "use": "a tea saucer",
+        "useZh": "茶碟",
+        "example": "She placed the teacup on a tea saucer.",
+        "exampleZh": "她把茶杯放在茶碟上。"
       },
       "platter": {
         "def": "大浅盘",
         "vs": "侧重大盘上菜",
-        "use": "a cheese platter"
+        "use": "a cheese platter",
+        "useZh": "奶酪拼盘",
+        "example": "They served a cheese platter at the party.",
+        "exampleZh": "他们在派对上端上了奶酪拼盘。"
       }
     }
   },
@@ -4575,17 +5781,26 @@
       "plow": {
         "def": "犁(美拼)",
         "vs": "美式拼写",
-        "use": "a steel plow"
+        "use": "a steel plow",
+        "useZh": "钢犁",
+        "example": "The farmer used a steel plow to till the field.",
+        "exampleZh": "农夫用钢犁耕田。"
       },
       "tiller": {
         "def": "耕种者,耕耘机",
         "vs": "侧重小型机具",
-        "use": "a garden tiller"
+        "use": "a garden tiller",
+        "useZh": "园艺耕耘机",
+        "example": "He turned the soil with a garden tiller.",
+        "exampleZh": "他用园艺耕耘机翻土。"
       },
       "cultivator": {
         "def": "中耕机",
         "vs": "侧重深松/除草",
-        "use": "a row cultivator"
+        "use": "a row cultivator",
+        "useZh": "行间中耕机",
+        "example": "The row cultivator removed weeds between crops.",
+        "exampleZh": "行间中耕机清除了作物间的杂草。"
       }
     }
   },
@@ -4609,17 +5824,26 @@
       "pouch": {
         "def": "小袋",
         "vs": "侧重独立小袋",
-        "use": "a coin pouch"
+        "use": "a coin pouch",
+        "useZh": "零钱袋",
+        "example": "She kept her coins in a small coin pouch.",
+        "exampleZh": "她把硬币放在一个小零钱袋里。"
       },
       "bag": {
         "def": "袋",
         "vs": "广义,任何袋",
-        "use": "a small bag"
+        "use": "a small bag",
+        "useZh": "小袋子",
+        "example": "He carried his lunch in a small bag.",
+        "exampleZh": "他用一个小袋子装着午餐。"
       },
       "compartment": {
         "def": "分隔间",
         "vs": "侧重内部隔层",
-        "use": "a hidden compartment"
+        "use": "a hidden compartment",
+        "useZh": "隐藏隔层",
+        "example": "The suitcase has a hidden compartment for valuables.",
+        "exampleZh": "这个行李箱有一个隐藏隔层放贵重物品。"
       }
     }
   },
@@ -4643,17 +5867,26 @@
       "jar": {
         "def": "罐子",
         "vs": "侧重玻璃罐",
-        "use": "a jam jar"
+        "use": "a jam jar",
+        "useZh": "果酱罐",
+        "example": "She opened a jam jar for breakfast.",
+        "exampleZh": "她打开一个果酱罐当早餐。"
       },
       "kettle": {
         "def": "水壶",
         "vs": "侧重烧水",
-        "use": "a tea kettle"
+        "use": "a tea kettle",
+        "useZh": "茶壶",
+        "example": "He boiled water in a tea kettle.",
+        "exampleZh": "他用茶壶烧水。"
       },
       "vessel": {
         "def": "容器",
         "vs": "正式,广义",
-        "use": "a clay vessel"
+        "use": "a clay vessel",
+        "useZh": "陶器容器",
+        "example": "The ancient clay vessel held water for centuries.",
+        "exampleZh": "这个古老的陶器容器盛水数百年。"
       }
     }
   },
@@ -4677,17 +5910,26 @@
       "spud": {
         "def": "土豆(俚)",
         "vs": "口语俚语",
-        "use": "peel the spuds"
+        "use": "peel the spuds",
+        "useZh": "削土豆皮",
+        "example": "She asked him to peel the spuds for dinner.",
+        "exampleZh": "她让他削土豆皮准备晚餐。"
       },
       "tuber": {
         "def": "块茎",
         "vs": "植物学,根茎",
-        "use": "a starchy tuber"
+        "use": "a starchy tuber",
+        "useZh": "淀粉块茎",
+        "example": "The potato is a starchy tuber rich in nutrients.",
+        "exampleZh": "土豆是一种富含营养的淀粉块茎。"
       },
       "vegetable": {
         "def": "蔬菜",
         "vs": "广义类别",
-        "use": "green vegetables"
+        "use": "green vegetables",
+        "useZh": "绿色蔬菜",
+        "example": "She bought green vegetables at the market.",
+        "exampleZh": "她在市场买了绿色蔬菜。"
       }
     }
   },
@@ -4711,17 +5953,26 @@
       "jail": {
         "def": "监狱",
         "vs": "侧重短期/地方",
-        "use": "county jail"
+        "use": "county jail",
+        "useZh": "县监狱",
+        "example": "He spent a night in county jail for theft.",
+        "exampleZh": "他因盗窃在县监狱待了一晚。"
       },
       "gaol": {
         "def": "监狱(英)",
         "vs": "英式拼写",
-        "use": "in gaol"
+        "use": "in gaol",
+        "useZh": "在监狱里",
+        "example": "The criminal was sentenced to five years in gaol.",
+        "exampleZh": "这名罪犯被判五年监禁。"
       },
       "penitentiary": {
         "def": "监狱(美正式)",
         "vs": "美式联邦监狱",
-        "use": "a federal penitentiary"
+        "use": "a federal penitentiary",
+        "useZh": "联邦监狱",
+        "example": "He was sent to a federal penitentiary for life.",
+        "exampleZh": "他被判终身监禁在联邦监狱。"
       }
     }
   },
@@ -4745,17 +5996,26 @@
       "compressor": {
         "def": "压缩机",
         "vs": "侧重压缩气体",
-        "use": "an air compressor"
+        "use": "an air compressor",
+        "useZh": "空气压缩机",
+        "example": "The air compressor filled the tires quickly.",
+        "exampleZh": "空气压缩机很快给轮胎充好了气。"
       },
       "siphon": {
         "def": "虹吸管",
         "vs": "侧重虹吸原理",
-        "use": "a fuel siphon"
+        "use": "a fuel siphon",
+        "useZh": "燃油虹吸管",
+        "example": "He used a fuel siphon to drain the tank.",
+        "exampleZh": "他用燃油虹吸管排空了油箱。"
       },
       "piston": {
         "def": "活塞",
         "vs": "侧重往复运动部件",
-        "use": "the engine piston"
+        "use": "the engine piston",
+        "useZh": "发动机活塞",
+        "example": "The engine piston moves up and down rapidly.",
+        "exampleZh": "发动机活塞快速上下运动。"
       }
     }
   },
@@ -4779,17 +6039,26 @@
       "track": {
         "def": "轨道",
         "vs": "侧重路径",
-        "use": "on track"
+        "use": "on track",
+        "useZh": "在正轨上",
+        "example": "The project is back on track after the delay.",
+        "exampleZh": "项目在延误后重回正轨。"
       },
       "bar": {
         "def": "棒条",
         "vs": "广义,任何条状",
-        "use": "a metal bar"
+        "use": "a metal bar",
+        "useZh": "金属棒",
+        "example": "He used a metal bar to pry open the door.",
+        "exampleZh": "他用一根金属棒撬开了门。"
       },
       "banister": {
         "def": "楼梯扶手",
         "vs": "侧重楼梯栏杆",
-        "use": "hold the banister"
+        "use": "hold the banister",
+        "useZh": "扶着扶手",
+        "example": "She held the banister tightly while walking downstairs.",
+        "exampleZh": "她下楼时紧紧扶着楼梯扶手。"
       }
     }
   },
@@ -4813,17 +6082,26 @@
       "rodent": {
         "def": "啮齿动物",
         "vs": "科学,广义",
-        "use": "a small rodent"
+        "use": "a small rodent",
+        "useZh": "小啮齿动物",
+        "example": "A small rodent scurried across the laboratory floor.",
+        "exampleZh": "一只小啮齿动物窜过实验室地板。"
       },
       "vermin": {
         "def": "害兽",
         "vs": "贬义,有害动物",
-        "use": "control vermin"
+        "use": "control vermin",
+        "useZh": "控制害虫",
+        "example": "The city hired experts to control vermin in the sewers.",
+        "exampleZh": "城市聘请专家控制下水道里的害虫。"
       },
       "mouse": {
         "def": "老鼠",
         "vs": "侧重较小",
-        "use": "a tiny mouse"
+        "use": "a tiny mouse",
+        "useZh": "小老鼠",
+        "example": "A tiny mouse squeezed through the crack in the wall.",
+        "exampleZh": "一只小老鼠从墙缝里挤了过去。"
       }
     }
   },
@@ -4847,17 +6125,26 @@
       "bill": {
         "def": "账单",
         "vs": "侧重应付款单",
-        "use": "pay the bill"
+        "use": "pay the bill",
+        "useZh": "付账单",
+        "example": "I need to pay the bill before the end of the month.",
+        "exampleZh": "我需要在月底前付清账单。"
       },
       "slip": {
         "def": "小条,凭单",
         "vs": "侧重小纸条",
-        "use": "a deposit slip"
+        "use": "a deposit slip",
+        "useZh": "存款单",
+        "example": "Please fill out a deposit slip at the bank counter.",
+        "exampleZh": "请在银行柜台填写一张存款单。"
       },
       "voucher": {
         "def": "凭证,优惠券",
         "vs": "侧重抵用",
-        "use": "a gift voucher"
+        "use": "a gift voucher",
+        "useZh": "礼品券",
+        "example": "She received a gift voucher for her birthday.",
+        "exampleZh": "她收到了一张生日礼品券。"
       }
     }
   },
@@ -4881,17 +6168,26 @@
       "band": {
         "def": "环带",
         "vs": "侧重戒指/带",
-        "use": "wedding band"
+        "use": "wedding band",
+        "useZh": "结婚戒指",
+        "example": "He placed a simple wedding band on her finger.",
+        "exampleZh": "他把一枚简单的结婚戒指戴在她手指上。"
       },
       "loop": {
         "def": "环",
         "vs": "侧重圈状物",
-        "use": "a closed loop"
+        "use": "a closed loop",
+        "useZh": "闭环",
+        "example": "The rope formed a closed loop around the post.",
+        "exampleZh": "绳子在柱子周围形成了一个闭环。"
       },
       "circle": {
         "def": "圆",
         "vs": "侧重几何圆",
-        "use": "draw a circle"
+        "use": "draw a circle",
+        "useZh": "画圆圈",
+        "example": "The teacher asked the student to draw a circle on the board.",
+        "exampleZh": "老师让学生在黑板上画一个圆圈。"
       }
     }
   },
@@ -4915,17 +6211,26 @@
       "pole": {
         "def": "杆",
         "vs": "侧重长直立杆",
-        "use": "a flag pole"
+        "use": "a flag pole",
+        "useZh": "旗杆",
+        "example": "A flag pole stood tall in the center of the square.",
+        "exampleZh": "一根旗杆高高矗立在广场中央。"
       },
       "stick": {
         "def": "棍子",
         "vs": "侧重短小",
-        "use": "a walking stick"
+        "use": "a walking stick",
+        "useZh": "手杖",
+        "example": "He used a walking stick to help him climb the hill.",
+        "exampleZh": "他用一根手杖帮助自己爬上山坡。"
       },
       "bar": {
         "def": "棒,杆",
         "vs": "侧重金属/扁",
-        "use": "an iron bar"
+        "use": "an iron bar",
+        "useZh": "铁棒",
+        "example": "The gate was secured with a thick iron bar.",
+        "exampleZh": "大门用一根粗铁棒闩住了。"
       }
     }
   },
@@ -4949,17 +6254,26 @@
       "covering": {
         "def": "覆盖物",
         "vs": "广义,任何盖",
-        "use": "protective covering"
+        "use": "protective covering",
+        "useZh": "保护层",
+        "example": "The car needs a protective covering to shield it from rain.",
+        "exampleZh": "汽车需要一层保护层来遮挡雨水。"
       },
       "top": {
         "def": "顶部",
         "vs": "侧重最上",
-        "use": "on top"
+        "use": "on top",
+        "useZh": "在顶部",
+        "example": "She placed a small flag on top of the mountain.",
+        "exampleZh": "她在山顶上插了一面小旗。"
       },
       "ceiling": {
         "def": "天花板",
         "vs": "侧重室内顶",
-        "use": "a high ceiling"
+        "use": "a high ceiling",
+        "useZh": "高天花板",
+        "example": "The old house had a high ceiling with wooden beams.",
+        "exampleZh": "老房子有一个带木梁的高天花板。"
       }
     }
   },
@@ -4983,17 +6297,26 @@
       "base": {
         "def": "基础",
         "vs": "侧重根基",
-        "use": "the base of the tower"
+        "use": "the base of the tower",
+        "useZh": "塔基",
+        "example": "The base of the tower was reinforced with concrete.",
+        "exampleZh": "塔基用混凝土加固了。"
       },
       "origin": {
         "def": "起源",
         "vs": "侧重起点",
-        "use": "the origin of life"
+        "use": "the origin of life",
+        "useZh": "生命的起源",
+        "example": "Scientists are still studying the origin of life on Earth.",
+        "exampleZh": "科学家仍在研究地球上生命的起源。"
       },
       "foundation": {
         "def": "地基,基础",
         "vs": "侧重支撑根基",
-        "use": "a solid foundation"
+        "use": "a solid foundation",
+        "useZh": "坚实的地基",
+        "example": "The building needs a solid foundation to stay stable.",
+        "exampleZh": "建筑物需要坚实的地基才能保持稳定。"
       }
     }
   },
@@ -5017,17 +6340,26 @@
       "canvas": {
         "def": "帆布",
         "vs": "侧重材料",
-        "use": "sturdy canvas"
+        "use": "sturdy canvas",
+        "useZh": "结实的帆布",
+        "example": "The tent was made of sturdy canvas to withstand the wind.",
+        "exampleZh": "帐篷由结实的帆布制成，以抵御大风。"
       },
       "sheet": {
         "def": "帆布,大块布",
         "vs": "侧重一大幅",
-        "use": "a sheet of sail"
+        "use": "a sheet of sail",
+        "useZh": "一张帆",
+        "example": "The sailor unfolded a large sheet of sail to catch the wind.",
+        "exampleZh": "水手展开一大张帆来迎风。"
       },
       "mainsail": {
         "def": "主帆",
         "vs": "侧重最大那张帆",
-        "use": "raise the mainsail"
+        "use": "raise the mainsail",
+        "useZh": "升起主帆",
+        "example": "The crew worked together to raise the mainsail quickly.",
+        "exampleZh": "船员们齐心协力迅速升起主帆。"
       }
     }
   },
@@ -5051,17 +6383,26 @@
       "academy": {
         "def": "学院",
         "vs": "侧重专业/私立",
-        "use": "a music academy"
+        "use": "a music academy",
+        "useZh": "音乐学院",
+        "example": "She enrolled in a music academy to study piano.",
+        "exampleZh": "她进入一所音乐学院学习钢琴。"
       },
       "institute": {
         "def": "学院,研究所",
         "vs": "侧重研究/高等",
-        "use": "a research institute"
+        "use": "a research institute",
+        "useZh": "研究所",
+        "example": "He works at a research institute studying climate change.",
+        "exampleZh": "他在一家研究所工作，研究气候变化。"
       },
       "college": {
         "def": "大学,学院",
         "vs": "侧重高等院校",
-        "use": "go to college"
+        "use": "go to college",
+        "useZh": "上大学",
+        "example": "Many students dream of going to college after high school.",
+        "exampleZh": "许多学生梦想高中毕业后上大学。"
       }
     }
   },
@@ -5085,17 +6426,26 @@
       "shears": {
         "def": "大剪刀",
         "vs": "侧重大型修剪",
-        "use": "garden shears"
+        "use": "garden shears",
+        "useZh": "园艺剪刀",
+        "example": "She used garden shears to trim the overgrown bushes.",
+        "exampleZh": "她用园艺剪刀修剪了疯长的灌木丛。"
       },
       "clippers": {
         "def": "指甲钳,剪具",
         "vs": "侧重小型修剪",
-        "use": "nail clippers"
+        "use": "nail clippers",
+        "useZh": "指甲钳",
+        "example": "He trimmed his nails with a pair of nail clippers.",
+        "exampleZh": "他用一把指甲钳修剪了指甲。"
       },
       "cutters": {
         "def": "切割工具",
         "vs": "广义,任何切",
-        "use": "wire cutters"
+        "use": "wire cutters",
+        "useZh": "钢丝钳",
+        "example": "The electrician used wire cutters to strip the cable.",
+        "exampleZh": "电工用钢丝钳剥开了电缆。"
       }
     }
   },
@@ -5119,17 +6469,26 @@
       "bolt": {
         "def": "螺栓",
         "vs": "侧重粗大",
-        "use": "nuts and bolts"
+        "use": "nuts and bolts",
+        "useZh": "螺母和螺栓",
+        "example": "He used nuts and bolts to secure the thick metal plate.",
+        "exampleZh": "他用螺母和螺栓固定了那块厚金属板。"
       },
       "fastener": {
         "def": "紧固件",
         "vs": "广义,任何扣件",
-        "use": "a metal fastener"
+        "use": "a metal fastener",
+        "useZh": "金属扣",
+        "example": "A zipper is a common metal fastener on jackets.",
+        "exampleZh": "拉链是夹克上常见的金属扣件。"
       },
       "spiral": {
         "def": "螺旋",
         "vs": "侧重螺旋形",
-        "use": "a spiral staircase"
+        "use": "a spiral staircase",
+        "useZh": "螺旋楼梯",
+        "example": "We climbed the narrow spiral staircase to the tower.",
+        "exampleZh": "我们沿着狭窄的螺旋楼梯爬上了塔楼。"
       }
     }
   },
@@ -5153,17 +6512,26 @@
       "kernel": {
         "def": "果核,内仁",
         "vs": "侧重内核",
-        "use": "a corn kernel"
+        "use": "a corn kernel",
+        "useZh": "玉米粒",
+        "example": "She popped a single corn kernel into her mouth.",
+        "exampleZh": "她把一粒玉米粒扔进了嘴里。"
       },
       "grain": {
         "def": "谷粒",
         "vs": "侧重谷类",
-        "use": "a grain of rice"
+        "use": "a grain of rice",
+        "useZh": "一粒米",
+        "example": "He carefully picked up a single grain of rice.",
+        "exampleZh": "他小心地捡起了一粒米。"
       },
       "pip": {
         "def": "果核,小种",
         "vs": "侧重柑橘核",
-        "use": "orange pips"
+        "use": "orange pips",
+        "useZh": "橙子籽",
+        "example": "She spat the orange pips into the garden soil.",
+        "exampleZh": "她把橙子籽吐到了花园的泥土里。"
       }
     }
   },
@@ -5187,17 +6555,26 @@
       "lamb": {
         "def": "羔羊",
         "vs": "侧重小羊",
-        "use": "a baby lamb"
+        "use": "a baby lamb",
+        "useZh": "小羊羔",
+        "example": "The farmer carried the newborn baby lamb to the barn.",
+        "exampleZh": "农夫把刚出生的小羊羔抱进了谷仓。"
       },
       "livestock": {
         "def": "家畜",
         "vs": "广义,饲养动物",
-        "use": "raise livestock"
+        "use": "raise livestock",
+        "useZh": "饲养牲畜",
+        "example": "Many farmers raise livestock like cows and sheep.",
+        "exampleZh": "许多农民饲养牛和羊等家畜。"
       },
       "ewe": {
         "def": "母绵羊",
         "vs": "侧重雌性",
-        "use": "a pregnant ewe"
+        "use": "a pregnant ewe",
+        "useZh": "怀孕的母羊",
+        "example": "The pregnant ewe rested quietly in the shade.",
+        "exampleZh": "那只怀孕的母羊安静地在阴凉处休息。"
       }
     }
   },
@@ -5221,17 +6598,26 @@
       "ledge": {
         "def": "壁架",
         "vs": "侧重窗台/岩架",
-        "use": "a window ledge"
+        "use": "a window ledge",
+        "useZh": "窗台",
+        "example": "A bird landed on the narrow window ledge outside.",
+        "exampleZh": "一只鸟落在了外面狭窄的窗台上。"
       },
       "rack": {
         "def": "架子",
         "vs": "侧重支架/晾衣",
-        "use": "a coat rack"
+        "use": "a coat rack",
+        "useZh": "衣帽架",
+        "example": "He hung his coat on the wooden coat rack.",
+        "exampleZh": "他把外套挂在了木制衣帽架上。"
       },
       "stand": {
         "def": "架,座",
         "vs": "侧重支撑底座",
-        "use": "a music stand"
+        "use": "a music stand",
+        "useZh": "乐谱架",
+        "example": "She placed the sheet music on the music stand.",
+        "exampleZh": "她把乐谱放在了乐谱架上。"
       }
     }
   },
@@ -5255,17 +6641,26 @@
       "vessel": {
         "def": "船只",
         "vs": "正式,广义",
-        "use": "a fishing vessel"
+        "use": "a fishing vessel",
+        "useZh": "渔船",
+        "example": "The fishing vessel returned to port at dawn.",
+        "exampleZh": "那艘渔船在黎明时分返回了港口。"
       },
       "craft": {
         "def": "船,小艇",
         "vs": "广义,船或飞行器",
-        "use": "a sailing craft"
+        "use": "a sailing craft",
+        "useZh": "帆船",
+        "example": "A small sailing craft glided across the lake.",
+        "exampleZh": "一艘小帆船滑过了湖面。"
       },
       "boat": {
         "def": "船,艇",
         "vs": "侧重小型",
-        "use": "a row boat"
+        "use": "a row boat",
+        "useZh": "划艇",
+        "example": "They took a small row boat out on the river.",
+        "exampleZh": "他们划着一艘小划艇到了河上。"
       }
     }
   },
@@ -5289,17 +6684,26 @@
       "blouse": {
         "def": "女衬衫",
         "vs": "侧重女式",
-        "use": "a silk blouse"
+        "use": "a silk blouse",
+        "useZh": "丝绸衬衫",
+        "example": "She wore a beautiful silk blouse to the party.",
+        "exampleZh": "她穿了一件漂亮的丝绸衬衫去参加派对。"
       },
       "top": {
         "def": "上衣",
         "vs": "广义,任何上衣",
-        "use": "a tank top"
+        "use": "a tank top",
+        "useZh": "背心",
+        "example": "He wore a simple tank top to the gym.",
+        "exampleZh": "他穿了一件简单的背心去健身房。"
       },
       "tee": {
         "def": "T恤",
         "vs": "侧重短袖T恤",
-        "use": "a graphic tee"
+        "use": "a graphic tee",
+        "useZh": "图案T恤",
+        "example": "He bought a cool graphic tee at the concert.",
+        "exampleZh": "他在音乐会上买了一件很酷的图案T恤。"
       }
     }
   },
@@ -5323,17 +6727,26 @@
       "footwear": {
         "def": "鞋类",
         "vs": "广义,鞋的统称",
-        "use": "athletic footwear"
+        "use": "athletic footwear",
+        "useZh": "运动鞋",
+        "example": "The store sells all kinds of athletic footwear.",
+        "exampleZh": "这家店出售各种运动鞋类。"
       },
       "sneaker": {
         "def": "运动鞋",
         "vs": "侧重运动/休闲",
-        "use": "white sneakers"
+        "use": "white sneakers",
+        "useZh": "白色运动鞋",
+        "example": "She prefers white sneakers for daily walks.",
+        "exampleZh": "她日常散步更喜欢穿白色运动鞋。"
       },
       "boot": {
         "def": "靴子",
         "vs": "侧重高筒",
-        "use": "leather boots"
+        "use": "leather boots",
+        "useZh": "皮靴",
+        "example": "He polished his leather boots before the hike.",
+        "exampleZh": "他在徒步前擦亮了皮靴。"
       }
     }
   },
@@ -5357,17 +6770,26 @@
       "hide": {
         "def": "兽皮",
         "vs": "未加工,动物",
-        "use": "animal hide"
+        "use": "animal hide",
+        "useZh": "兽皮",
+        "example": "The drum was made from stretched animal hide.",
+        "exampleZh": "这面鼓是用拉伸的兽皮制成的。"
       },
       "epidermis": {
         "def": "表皮",
         "vs": "医学,人皮表层",
-        "use": "the epidermis layer"
+        "use": "the epidermis layer",
+        "useZh": "表皮层",
+        "example": "The burn only damaged the epidermis layer.",
+        "exampleZh": "烧伤只损伤了表皮层。"
       },
       "peel": {
         "def": "果皮",
         "vs": "侧重水果皮",
-        "use": "orange peel"
+        "use": "orange peel",
+        "useZh": "橘子皮",
+        "example": "She added some orange peel to the cake batter.",
+        "exampleZh": "她在蛋糕面糊里加了一些橘子皮。"
       }
     }
   },
@@ -5391,17 +6813,26 @@
       "dress": {
         "def": "连衣裙",
         "vs": "广义,女装",
-        "use": "a long dress"
+        "use": "a long dress",
+        "useZh": "长裙",
+        "example": "She wore a beautiful long dress to the wedding.",
+        "exampleZh": "她穿了一条漂亮的长裙去参加婚礼。"
       },
       "kilt": {
         "def": "格子短裙",
         "vs": "侧重苏格兰传统",
-        "use": "a Scottish kilt"
+        "use": "a Scottish kilt",
+        "useZh": "苏格兰短裙",
+        "example": "He wore a traditional Scottish kilt to the festival.",
+        "exampleZh": "他穿了一条传统的苏格兰短裙去参加节日。"
       },
       "frock": {
         "def": "连衣裙(古)",
         "vs": "侧重童装/老式",
-        "use": "a flowered frock"
+        "use": "a flowered frock",
+        "useZh": "印花连衣裙",
+        "example": "The little girl wore a pretty flowered frock.",
+        "exampleZh": "小女孩穿了一件漂亮的印花连衣裙。"
       }
     }
   },
@@ -5425,17 +6856,26 @@
       "serpent": {
         "def": "蛇(文)",
         "vs": "文学/圣经",
-        "use": "the cunning serpent"
+        "use": "the cunning serpent",
+        "useZh": "狡猾的蛇",
+        "example": "The cunning serpent tempted Eve in the garden.",
+        "exampleZh": "狡猾的蛇在花园里诱惑了夏娃。"
       },
       "reptile": {
         "def": "爬行动物",
         "vs": "科学,广义",
-        "use": "cold-blooded reptile"
+        "use": "cold-blooded reptile",
+        "useZh": "冷血爬行动物",
+        "example": "A snake is a cold-blooded reptile that lays eggs.",
+        "exampleZh": "蛇是一种产卵的冷血爬行动物。"
       },
       "viper": {
         "def": "毒蛇,蝰蛇",
         "vs": "侧重毒性",
-        "use": "a deadly viper"
+        "use": "a deadly viper",
+        "useZh": "致命毒蛇",
+        "example": "The hiker was bitten by a deadly viper.",
+        "exampleZh": "那位徒步旅行者被一条致命毒蛇咬了。"
       }
     }
   },
@@ -5459,17 +6899,26 @@
       "stocking": {
         "def": "长袜",
         "vs": "侧重长筒",
-        "use": "silk stockings"
+        "use": "silk stockings",
+        "useZh": "丝袜",
+        "example": "She wore silk stockings to the party.",
+        "exampleZh": "她穿着丝袜去参加派对。"
       },
       "hose": {
         "def": "长袜",
         "vs": "古英语/正式",
-        "use": "silk hose"
+        "use": "silk hose",
+        "useZh": "丝质长袜",
+        "example": "The queen wore silk hose in the portrait.",
+        "exampleZh": "女王在肖像中穿着丝质长袜。"
       },
       "footie": {
         "def": "短袜",
         "vs": "口语,极短",
-        "use": "ankle footies"
+        "use": "ankle footies",
+        "useZh": "短袜",
+        "example": "He put on ankle footies for the gym.",
+        "exampleZh": "他穿上短袜去健身房。"
       }
     }
   },
@@ -5493,17 +6942,26 @@
       "shovel": {
         "def": "铲子",
         "vs": "侧重大铲",
-        "use": "a snow shovel"
+        "use": "a snow shovel",
+        "useZh": "雪铲",
+        "example": "He used a snow shovel to clear the driveway.",
+        "exampleZh": "他用雪铲清理车道。"
       },
       "scoop": {
         "def": "舀子,小铲",
         "vs": "侧重舀取",
-        "use": "an ice cream scoop"
+        "use": "an ice cream scoop",
+        "useZh": "冰淇淋勺",
+        "example": "She used an ice cream scoop for the dessert.",
+        "exampleZh": "她用冰淇淋勺舀甜点。"
       },
       "digger": {
         "def": "挖掘工具",
         "vs": "侧重挖东西",
-        "use": "a hand digger"
+        "use": "a hand digger",
+        "useZh": "手铲",
+        "example": "He grabbed a hand digger for the garden.",
+        "exampleZh": "他拿起手铲去花园。"
       }
     }
   },
@@ -5527,17 +6985,26 @@
       "pad": {
         "def": "垫",
         "vs": "广义,任何衬垫",
-        "use": "a sponge pad"
+        "use": "a sponge pad",
+        "useZh": "海绵垫",
+        "example": "She placed a sponge pad under the vase.",
+        "exampleZh": "她在花瓶下放了一个海绵垫。"
       },
       "absorber": {
         "def": "吸收物",
         "vs": "侧重吸液体",
-        "use": "shock absorber"
+        "use": "shock absorber",
+        "useZh": "减震器",
+        "example": "The car's shock absorber needs replacing.",
+        "exampleZh": "汽车的减震器需要更换。"
       },
       "mop": {
         "def": "拖把",
         "vs": "侧重清洁工具",
-        "use": "a wet mop"
+        "use": "a wet mop",
+        "useZh": "湿拖把",
+        "example": "He used a wet mop to clean the floor.",
+        "exampleZh": "他用湿拖把清洁地板。"
       }
     }
   },
@@ -5561,17 +7028,26 @@
       "ladle": {
         "def": "长柄勺",
         "vs": "侧重大长柄",
-        "use": "a soup ladle"
+        "use": "a soup ladle",
+        "useZh": "汤勺",
+        "example": "She served soup with a soup ladle.",
+        "exampleZh": "她用汤勺盛汤。"
       },
       "scoop": {
         "def": "舀勺",
         "vs": "侧重圆头舀",
-        "use": "an ice cream scoop"
+        "use": "an ice cream scoop",
+        "useZh": "冰淇淋勺",
+        "example": "He used an ice cream scoop for the bowl.",
+        "exampleZh": "他用冰淇淋勺舀了一碗。"
       },
       "utensil": {
         "def": "餐具",
         "vs": "广义,餐具统称",
-        "use": "kitchen utensils"
+        "use": "kitchen utensils",
+        "useZh": "厨房用具",
+        "example": "She bought new kitchen utensils for cooking.",
+        "exampleZh": "她买了新的厨房用具来做饭。"
       }
     }
   },
@@ -5595,17 +7071,26 @@
       "coil": {
         "def": "线圈",
         "vs": "侧重盘绕的线",
-        "use": "a tight coil"
+        "use": "a tight coil",
+        "useZh": "紧线圈",
+        "example": "The machine has a tight coil inside.",
+        "exampleZh": "机器内部有一个紧线圈。"
       },
       "season": {
         "def": "季节",
         "vs": "spring 的季节义",
-        "use": "the spring season"
+        "use": "the spring season",
+        "useZh": "春季",
+        "example": "I love the spring season for its flowers.",
+        "exampleZh": "我喜欢春季，因为花开了。"
       },
       "source": {
         "def": "泉源",
         "vs": "侧重水源",
-        "use": "a hot spring"
+        "use": "a hot spring",
+        "useZh": "温泉",
+        "example": "They relaxed in a hot spring in the mountains.",
+        "exampleZh": "他们在山里的温泉中放松。"
       }
     }
   },
@@ -5629,17 +7114,26 @@
       "quadrate": {
         "def": "正方形(古)",
         "vs": "古/科学术语",
-        "use": "a quadrate shape"
+        "use": "a quadrate shape",
+        "useZh": "方形",
+        "example": "The diagram shows a quadrate shape.",
+        "exampleZh": "图表显示了一个方形。"
       },
       "block": {
         "def": "街区",
         "vs": "侧重城市方块",
-        "use": "around the block"
+        "use": "around the block",
+        "useZh": "街区周围",
+        "example": "She walked around the block for exercise.",
+        "exampleZh": "她绕着街区散步锻炼。"
       },
       "plaza": {
         "def": "广场",
         "vs": "侧重城市广场",
-        "use": "a public plaza"
+        "use": "a public plaza",
+        "useZh": "公共广场",
+        "example": "They met at a public plaza downtown.",
+        "exampleZh": "他们在市中心的公共广场见面。"
       }
     }
   },
@@ -5663,17 +7157,26 @@
       "seal": {
         "def": "印,封蜡",
         "vs": "侧重官方印章",
-        "use": "the royal seal"
+        "use": "the royal seal",
+        "useZh": "皇家印章",
+        "example": "The document bore the royal seal.",
+        "exampleZh": "文件上盖有皇家印章。"
       },
       "mark": {
         "def": "标记",
         "vs": "广义,任何记号",
-        "use": "a stamp mark"
+        "use": "a stamp mark",
+        "useZh": "邮戳",
+        "example": "The envelope had a clear stamp mark.",
+        "exampleZh": "信封上有一个清晰的邮戳。"
       },
       "postage": {
         "def": "邮资",
         "vs": "侧重邮票费",
-        "use": "first-class postage"
+        "use": "first-class postage",
+        "useZh": "一等邮资",
+        "example": "First-class postage is more expensive now.",
+        "exampleZh": "一等邮资现在更贵了。"
       }
     }
   },
@@ -5697,17 +7200,26 @@
       "sun": {
         "def": "太阳,恒星",
         "vs": "侧重太阳类",
-        "use": "the morning sun"
+        "use": "the morning sun",
+        "useZh": "朝阳",
+        "example": "The morning sun rose over the hills.",
+        "exampleZh": "朝阳升上山丘。"
       },
       "celestial body": {
         "def": "天体",
         "vs": "正式,天文",
-        "use": "a celestial body"
+        "use": "a celestial body",
+        "useZh": "天体",
+        "example": "The moon is a celestial body in the sky.",
+        "exampleZh": "月亮是天空中的天体。"
       },
       "luminary": {
         "def": "发光体,名人",
         "vs": "侧重发光或名流",
-        "use": "a luminary in science"
+        "use": "a luminary in science",
+        "useZh": "科学界的泰斗",
+        "example": "She became a luminary in science.",
+        "exampleZh": "她成为了科学界的泰斗。"
       }
     }
   },
@@ -5731,17 +7243,26 @@
       "depot": {
         "def": "车站,仓库",
         "vs": "侧重大型站",
-        "use": "the bus depot"
+        "use": "the bus depot",
+        "useZh": "公交总站",
+        "example": "The bus depot is near the city center.",
+        "exampleZh": "公交总站在市中心附近。"
       },
       "terminal": {
         "def": "终点站,航站楼",
         "vs": "侧重起点终点",
-        "use": "airport terminal"
+        "use": "airport terminal",
+        "useZh": "航站楼",
+        "example": "We arrived at the airport terminal early.",
+        "exampleZh": "我们早早到达了航站楼。"
       },
       "stop": {
         "def": "站点",
         "vs": "侧重停靠处",
-        "use": "a bus stop"
+        "use": "a bus stop",
+        "useZh": "公交车站",
+        "example": "She waited at a bus stop for ten minutes.",
+        "exampleZh": "她在公交车站等了十分钟。"
       }
     }
   },
@@ -5765,17 +7286,26 @@
       "stalk": {
         "def": "茎,梗",
         "vs": "侧重主茎",
-        "use": "a corn stalk"
+        "use": "a corn stalk",
+        "useZh": "玉米秆",
+        "example": "The corn stalk grew very tall this year.",
+        "exampleZh": "今年玉米秆长得很高。"
       },
       "trunk": {
         "def": "树干",
         "vs": "侧重树主干",
-        "use": "a tree trunk"
+        "use": "a tree trunk",
+        "useZh": "树干",
+        "example": "The tree trunk was thick and sturdy.",
+        "exampleZh": "树干粗壮结实。"
       },
       "shoot": {
         "def": "嫩枝",
         "vs": "侧重新生",
-        "use": "a young shoot"
+        "use": "a young shoot",
+        "useZh": "嫩芽",
+        "example": "A young shoot appeared in the garden.",
+        "exampleZh": "花园里长出了嫩芽。"
       }
     }
   },
@@ -5799,17 +7329,26 @@
       "rod": {
         "def": "杆",
         "vs": "侧重直长",
-        "use": "a fishing rod"
+        "use": "a fishing rod",
+        "useZh": "钓鱼竿",
+        "example": "He used a fishing rod to catch a big fish.",
+        "exampleZh": "他用一根钓鱼竿钓到了一条大鱼。"
       },
       "branch": {
         "def": "树枝",
         "vs": "侧重树上的",
-        "use": "a fallen branch"
+        "use": "a fallen branch",
+        "useZh": "掉落的树枝",
+        "example": "She picked up a fallen branch from the ground.",
+        "exampleZh": "她从地上捡起一根掉落的树枝。"
       },
       "cane": {
         "def": "手杖",
         "vs": "侧重支撑用",
-        "use": "a walking cane"
+        "use": "a walking cane",
+        "useZh": "手杖",
+        "example": "The old man leaned on his walking cane.",
+        "exampleZh": "老人拄着他的手杖。"
       }
     }
   },
@@ -5833,17 +7372,26 @@
       "sock": {
         "def": "短袜",
         "vs": "侧重短款",
-        "use": "clean socks"
+        "use": "clean socks",
+        "useZh": "干净的袜子",
+        "example": "I need to put on clean socks before school.",
+        "exampleZh": "上学前我需要穿上干净的袜子。"
       },
       "hose": {
         "def": "袜子(古/正式)",
         "vs": "古英语,正式",
-        "use": "silk hose"
+        "use": "silk hose",
+        "useZh": "丝质长袜",
+        "example": "She wore silk hose to the formal ball.",
+        "exampleZh": "她穿着丝质长袜去参加正式舞会。"
       },
       "tights": {
         "def": "紧身裤袜",
         "vs": "侧重连体",
-        "use": "black tights"
+        "use": "black tights",
+        "useZh": "黑色连裤袜",
+        "example": "She wore black tights under her skirt.",
+        "exampleZh": "她在裙子里面穿了黑色连裤袜。"
       }
     }
   },
@@ -5867,17 +7415,26 @@
       "belly": {
         "def": "肚子",
         "vs": "口语,腹部",
-        "use": "a full belly"
+        "use": "a full belly",
+        "useZh": "饱腹",
+        "example": "After dinner, he patted his full belly.",
+        "exampleZh": "晚饭后，他拍了拍自己饱饱的肚子。"
       },
       "gut": {
         "def": "内脏,肠子",
         "vs": "侧重肠道或直觉",
-        "use": "trust your gut"
+        "use": "trust your gut",
+        "useZh": "相信直觉",
+        "example": "When in doubt, trust your gut feeling.",
+        "exampleZh": "犹豫不决时，相信你的直觉。"
       },
       "tummy": {
         "def": "小肚子",
         "vs": "儿语,亲切",
-        "use": "my tummy hurts"
+        "use": "my tummy hurts",
+        "useZh": "我肚子疼",
+        "example": "The little girl said my tummy hurts.",
+        "exampleZh": "小女孩说：“我肚子疼。”"
       }
     }
   },
@@ -5901,17 +7458,26 @@
       "shop": {
         "def": "商店",
         "vs": "侧重小店",
-        "use": "a corner shop"
+        "use": "a corner shop",
+        "useZh": "街角小店",
+        "example": "I bought milk at the corner shop.",
+        "exampleZh": "我在街角小店买了牛奶。"
       },
       "market": {
         "def": "市场",
         "vs": "侧重集市",
-        "use": "a farmer's market"
+        "use": "a farmer's market",
+        "useZh": "农贸市场",
+        "example": "We buy fresh vegetables at the farmer's market.",
+        "exampleZh": "我们在农贸市场买新鲜蔬菜。"
       },
       "outlet": {
         "def": "专卖店,折扣店",
         "vs": "侧重直销/折扣",
-        "use": "factory outlet"
+        "use": "factory outlet",
+        "useZh": "工厂直销店",
+        "example": "She found a great deal at the factory outlet.",
+        "exampleZh": "她在工厂直销店找到了很划算的东西。"
       }
     }
   },
@@ -5935,17 +7501,26 @@
       "road": {
         "def": "路",
         "vs": "侧重城外或交通",
-        "use": "the main road"
+        "use": "the main road",
+        "useZh": "主干道",
+        "example": "Drive carefully on the main road at night.",
+        "exampleZh": "晚上在主干道上开车要小心。"
       },
       "avenue": {
         "def": "大道",
         "vs": "侧重宽阔街",
-        "use": "a tree-lined avenue"
+        "use": "a tree-lined avenue",
+        "useZh": "林荫大道",
+        "example": "They walked along a beautiful tree-lined avenue.",
+        "exampleZh": "他们沿着一条美丽的林荫大道散步。"
       },
       "lane": {
         "def": "小巷,车道",
         "vs": "侧重窄道",
-        "use": "a country lane"
+        "use": "a country lane",
+        "useZh": "乡间小路",
+        "example": "We cycled down a quiet country lane.",
+        "exampleZh": "我们沿着一条安静的乡间小路骑车。"
       }
     }
   },
@@ -5969,17 +7544,26 @@
       "star": {
         "def": "恒星",
         "vs": "科学,广义",
-        "use": "a distant star"
+        "use": "a distant star",
+        "useZh": "遥远的星星",
+        "example": "The sun is just a nearby star to us.",
+        "exampleZh": "太阳对我们来说只是一颗近处的恒星。"
       },
       "sunlight": {
         "def": "阳光",
         "vs": "侧重日光",
-        "use": "warm sunlight"
+        "use": "warm sunlight",
+        "useZh": "温暖的阳光",
+        "example": "The warm sunlight felt good on my skin.",
+        "exampleZh": "温暖的阳光照在皮肤上感觉很舒服。"
       },
       "sol": {
         "def": "太阳(拉)",
         "vs": "拉丁语,正式",
-        "use": "sol invictus"
+        "use": "sol invictus",
+        "useZh": "不败的太阳",
+        "example": "The ancient Romans worshipped Sol Invictus.",
+        "exampleZh": "古罗马人崇拜不败的太阳。"
       }
     }
   },
@@ -6003,17 +7587,26 @@
       "desk": {
         "def": "书桌",
         "vs": "侧重工作用",
-        "use": "an office desk"
+        "use": "an office desk",
+        "useZh": "办公桌",
+        "example": "She organized her papers on the office desk.",
+        "exampleZh": "她在办公桌上整理文件。"
       },
       "stand": {
         "def": "架,几",
         "vs": "侧重小型支撑",
-        "use": "a music stand"
+        "use": "a music stand",
+        "useZh": "乐谱架",
+        "example": "He placed the sheet music on a music stand.",
+        "exampleZh": "他把乐谱放在乐谱架上。"
       },
       "board": {
         "def": "会议桌,板",
         "vs": "侧重正式或长方",
-        "use": "a board meeting"
+        "use": "a board meeting",
+        "useZh": "董事会会议",
+        "example": "The CEO called a board meeting for Monday.",
+        "exampleZh": "CEO召集了周一的董事会会议。"
       }
     }
   },
@@ -6037,17 +7630,26 @@
       "rear": {
         "def": "尾部",
         "vs": "侧重后端",
-        "use": "the rear of the car"
+        "use": "the rear of the car",
+        "useZh": "车尾",
+        "example": "The damage was at the rear of the car.",
+        "exampleZh": "损坏在车尾处。"
       },
       "end": {
         "def": "末端",
         "vs": "广义,最后部分",
-        "use": "the far end"
+        "use": "the far end",
+        "useZh": "远端",
+        "example": "The house is located at the far end of the street.",
+        "exampleZh": "房子位于街道的远端。"
       },
       "appendage": {
         "def": "附属物",
         "vs": "正式,生物附肢",
-        "use": "a tail appendage"
+        "use": "a tail appendage",
+        "useZh": "尾巴",
+        "example": "The lizard's tail is a movable appendage.",
+        "exampleZh": "蜥蜴的尾巴是一个可活动的附属物。"
       }
     }
   },
@@ -6071,17 +7673,26 @@
       "yarn": {
         "def": "纱线",
         "vs": "侧重织毛线用",
-        "use": "knitting yarn"
+        "use": "knitting yarn",
+        "useZh": "毛线",
+        "example": "She bought some soft knitting yarn for a scarf.",
+        "exampleZh": "她买了一些柔软的毛线来织围巾。"
       },
       "string": {
         "def": "细绳,线",
         "vs": "侧重较粗",
-        "use": "a piece of string"
+        "use": "a piece of string",
+        "useZh": "一根细绳",
+        "example": "He tied the package with a piece of string.",
+        "exampleZh": "他用一根细绳捆扎包裹。"
       },
       "fiber": {
         "def": "纤维",
         "vs": "侧重组成材料",
-        "use": "natural fiber"
+        "use": "natural fiber",
+        "useZh": "天然纤维",
+        "example": "This shirt is made from natural fiber.",
+        "exampleZh": "这件衬衫是由天然纤维制成的。"
       }
     }
   },
@@ -6105,17 +7716,26 @@
       "gullet": {
         "def": "食道",
         "vs": "侧重吞咽通道",
-        "use": "down the gullet"
+        "use": "down the gullet",
+        "useZh": "顺着食道",
+        "example": "The food went smoothly down the gullet.",
+        "exampleZh": "食物顺利地顺着食道下去了。"
       },
       "pharynx": {
         "def": "咽",
         "vs": "医学术语",
-        "use": "the upper pharynx"
+        "use": "the upper pharynx",
+        "useZh": "上咽部",
+        "example": "The doctor examined the upper pharynx.",
+        "exampleZh": "医生检查了上咽部。"
       },
       "neck": {
         "def": "脖子",
         "vs": "侧重外部",
-        "use": "around the neck"
+        "use": "around the neck",
+        "useZh": "绕在脖子上",
+        "example": "She wore a silver necklace around the neck.",
+        "exampleZh": "她脖子上戴着一条银项链。"
       }
     }
   },
@@ -6139,17 +7759,26 @@
       "digit": {
         "def": "指头(医)",
         "vs": "医学,指/趾",
-        "use": "the first digit"
+        "use": "the first digit",
+        "useZh": "第一指",
+        "example": "The doctor examined the first digit for any injury.",
+        "exampleZh": "医生检查了第一指是否有任何损伤。"
       },
       "pollex": {
         "def": "拇指(医)",
         "vs": "专业医学",
-        "use": "the pollex bone"
+        "use": "the pollex bone",
+        "useZh": "拇指骨",
+        "example": "The surgeon carefully repaired the pollex bone.",
+        "exampleZh": "外科医生仔细修复了拇指骨。"
       },
       "finger": {
         "def": "手指",
         "vs": "广义,手指",
-        "use": "five fingers"
+        "use": "five fingers",
+        "useZh": "五根手指",
+        "example": "She counted the five fingers on her left hand.",
+        "exampleZh": "她数了数左手上的五根手指。"
       }
     }
   },
@@ -6173,17 +7802,26 @@
       "pass": {
         "def": "通行证",
         "vs": "侧重通行许可",
-        "use": "a backstage pass"
+        "use": "a backstage pass",
+        "useZh": "后台通行证",
+        "example": "He showed his backstage pass to the security guard.",
+        "exampleZh": "他向保安出示了他的后台通行证。"
       },
       "stub": {
         "def": "票根",
         "vs": "侧重撕下半张",
-        "use": "a ticket stub"
+        "use": "a ticket stub",
+        "useZh": "票根",
+        "example": "She kept the ticket stub as a souvenir.",
+        "exampleZh": "她保留了票根作为纪念品。"
       },
       "voucher": {
         "def": "代金券",
         "vs": "侧重兑换凭证",
-        "use": "a meal voucher"
+        "use": "a meal voucher",
+        "useZh": "餐券",
+        "example": "The hotel gave us a meal voucher for breakfast.",
+        "exampleZh": "酒店给了我们一张早餐餐券。"
       }
     }
   },
@@ -6207,17 +7845,26 @@
       "digit": {
         "def": "指头(医)",
         "vs": "医学,手/脚指",
-        "use": "the toe digit"
+        "use": "the toe digit",
+        "useZh": "脚趾",
+        "example": "The patient broke a toe digit in the accident.",
+        "exampleZh": "病人在事故中折断了一个脚趾。"
       },
       "phalanx": {
         "def": "趾骨,指骨",
         "vs": "医学术语",
-        "use": "a broken phalanx"
+        "use": "a broken phalanx",
+        "useZh": "骨折的指骨",
+        "example": "The X-ray showed a broken phalanx in his foot.",
+        "exampleZh": "X光显示他脚上有一根骨折的趾骨。"
       },
       "tiptoe": {
         "def": "脚尖",
         "vs": "侧重脚尖动作",
-        "use": "on tiptoe"
+        "use": "on tiptoe",
+        "useZh": "踮着脚尖",
+        "example": "She stood on tiptoe to reach the top shelf.",
+        "exampleZh": "她踮着脚尖去够顶层架子。"
       }
     }
   },
@@ -6241,17 +7888,26 @@
       "lingua": {
         "def": "舌(拉)",
         "vs": "拉丁,医学",
-        "use": "the lingua"
+        "use": "the lingua",
+        "useZh": "舌头",
+        "example": "The doctor examined the lingua for signs of infection.",
+        "exampleZh": "医生检查了舌头是否有感染迹象。"
       },
       "speech": {
         "def": "言语",
         "vs": "引申义,语言",
-        "use": "slip of the tongue"
+        "use": "slip of the tongue",
+        "useZh": "口误",
+        "example": "His slip of the tongue embarrassed everyone at the meeting.",
+        "exampleZh": "他的口误让会议上的每个人都感到尴尬。"
       },
       "language": {
         "def": "语言",
         "vs": "引申义,母语",
-        "use": "mother tongue"
+        "use": "mother tongue",
+        "useZh": "母语",
+        "example": "Spanish is her mother tongue and she speaks it fluently.",
+        "exampleZh": "西班牙语是她的母语，她说得很流利。"
       }
     }
   },
@@ -6275,17 +7931,26 @@
       "fang": {
         "def": "尖牙",
         "vs": "侧重锋利长牙",
-        "use": "sharp fangs"
+        "use": "sharp fangs",
+        "useZh": "尖牙",
+        "example": "The wolf bared its sharp fangs at the hunter.",
+        "exampleZh": "狼向猎人露出了它锋利的尖牙。"
       },
       "molar": {
         "def": "臼齿",
         "vs": "侧重磨牙",
-        "use": "a wisdom molar"
+        "use": "a wisdom molar",
+        "useZh": "智齿",
+        "example": "The dentist pulled out his painful wisdom molar.",
+        "exampleZh": "牙医拔掉了那颗疼痛的智齿。"
       },
       "ivory": {
         "def": "象牙",
         "vs": "侧重材料",
-        "use": "ivory keys"
+        "use": "ivory keys",
+        "useZh": "象牙琴键",
+        "example": "The antique piano had beautiful ivory keys.",
+        "exampleZh": "那架古董钢琴有漂亮的象牙琴键。"
       }
     }
   },
@@ -6309,17 +7974,26 @@
       "city": {
         "def": "城市",
         "vs": "侧重更大",
-        "use": "a big city"
+        "use": "a big city",
+        "useZh": "大城市",
+        "example": "She moved from a small town to a big city for work.",
+        "exampleZh": "她为了工作从小镇搬到了大城市。"
       },
       "village": {
         "def": "村庄",
         "vs": "侧重更小",
-        "use": "a small village"
+        "use": "a small village",
+        "useZh": "小村庄",
+        "example": "They live in a small village surrounded by mountains.",
+        "exampleZh": "他们住在一个群山环绕的小村庄里。"
       },
       "municipality": {
         "def": "市政区",
         "vs": "正式,行政区",
-        "use": "the municipality of"
+        "use": "the municipality of",
+        "useZh": "……市",
+        "example": "The municipality of Paris has many historic landmarks.",
+        "exampleZh": "巴黎市有许多历史地标。"
       }
     }
   },
@@ -6343,17 +8017,26 @@
       "locomotive": {
         "def": "火车头",
         "vs": "侧重机车",
-        "use": "a steam locomotive"
+        "use": "a steam locomotive",
+        "useZh": "蒸汽机车",
+        "example": "The old steam locomotive still runs on weekends.",
+        "exampleZh": "那台老式蒸汽机车周末仍在运行。"
       },
       "railway": {
         "def": "铁路",
         "vs": "侧重轨道系统",
-        "use": "the railway system"
+        "use": "the railway system",
+        "useZh": "铁路系统",
+        "example": "The railway system connects all major cities in the country.",
+        "exampleZh": "铁路系统连接了全国所有主要城市。"
       },
       "express": {
         "def": "快车",
         "vs": "侧重快速直达",
-        "use": "the morning express"
+        "use": "the morning express",
+        "useZh": "早班快车",
+        "example": "She caught the morning express to the capital.",
+        "exampleZh": "她赶上了去首都的早班快车。"
       }
     }
   },
@@ -6377,17 +8060,26 @@
       "platter": {
         "def": "大浅盘",
         "vs": "侧重上菜大盘",
-        "use": "a serving platter"
+        "use": "a serving platter",
+        "useZh": "大浅盘",
+        "example": "The waiter brought a large serving platter of fish.",
+        "exampleZh": "服务员端来了一大浅盘的鱼。"
       },
       "salver": {
         "def": "托盘(正式)",
         "vs": "正式,贵金属",
-        "use": "a silver salver"
+        "use": "a silver salver",
+        "useZh": "银托盘",
+        "example": "The butler carried the letters on a silver salver.",
+        "exampleZh": "管家用银托盘端着信件。"
       },
       "plate": {
         "def": "盘",
         "vs": "广义,任何盘",
-        "use": "a dinner plate"
+        "use": "a dinner plate",
+        "useZh": "餐盘",
+        "example": "She put the steak on a clean dinner plate.",
+        "exampleZh": "她把牛排放在一个干净的餐盘上。"
       }
     }
   },
@@ -6411,17 +8103,26 @@
       "plant": {
         "def": "植物",
         "vs": "广义类别",
-        "use": "a green plant"
+        "use": "a green plant",
+        "useZh": "绿色植物",
+        "example": "A green plant can brighten up any room.",
+        "exampleZh": "一盆绿色植物能照亮任何房间。"
       },
       "sapling": {
         "def": "幼树",
         "vs": "侧重小树",
-        "use": "a young sapling"
+        "use": "a young sapling",
+        "useZh": "小树苗",
+        "example": "He planted a young sapling in the backyard.",
+        "exampleZh": "他在后院种了一棵小树苗。"
       },
       "timber": {
         "def": "木材,大树",
         "vs": "侧重作为建材",
-        "use": "forest timber"
+        "use": "forest timber",
+        "useZh": "森林木材",
+        "example": "The company harvests forest timber for construction.",
+        "exampleZh": "这家公司采伐森林木材用于建筑。"
       }
     }
   },
@@ -6445,17 +8146,26 @@
       "pants": {
         "def": "裤子(美)",
         "vs": "美式日常",
-        "use": "a pair of pants"
+        "use": "a pair of pants",
+        "useZh": "一条裤子",
+        "example": "She bought a new pair of pants for the interview.",
+        "exampleZh": "她为面试买了一条新裤子。"
       },
       "slacks": {
         "def": "长裤(休闲)",
         "vs": "侧重休闲长裤",
-        "use": "casual slacks"
+        "use": "casual slacks",
+        "useZh": "休闲裤",
+        "example": "He wore casual slacks to the office party.",
+        "exampleZh": "他穿着休闲裤去参加办公室派对。"
       },
       "bottoms": {
         "def": "下装",
         "vs": "侧重下身衣服",
-        "use": "matching bottoms"
+        "use": "matching bottoms",
+        "useZh": "配套的下装",
+        "example": "She wore a top with matching bottoms for the yoga class.",
+        "exampleZh": "她穿着上衣和配套的下装去上瑜伽课。"
       }
     }
   },
@@ -6479,17 +8189,26 @@
       "parasol": {
         "def": "阳伞",
         "vs": "侧重遮阳",
-        "use": "a beach parasol"
+        "use": "a beach parasol",
+        "useZh": "一把沙滩遮阳伞",
+        "example": "She opened a beach parasol to block the sun.",
+        "exampleZh": "她撑开一把沙滩遮阳伞来遮挡阳光。"
       },
       "brolly": {
         "def": "伞(英俚)",
         "vs": "英式俚语",
-        "use": "forgot my brolly"
+        "use": "forgot my brolly",
+        "useZh": "忘了带我的伞",
+        "example": "I forgot my brolly at the pub last night.",
+        "exampleZh": "昨晚我把伞忘在酒吧了。"
       },
       "canopy": {
         "def": "遮蓬,华盖",
         "vs": "侧重大型遮盖",
-        "use": "a tree canopy"
+        "use": "a tree canopy",
+        "useZh": "树冠",
+        "example": "We sat under a tree canopy for shade.",
+        "exampleZh": "我们坐在树冠下乘凉。"
       }
     }
   },
@@ -6513,17 +8232,26 @@
       "partition": {
         "def": "隔断",
         "vs": "侧重分隔室内",
-        "use": "office partition"
+        "use": "office partition",
+        "useZh": "办公室隔断",
+        "example": "They installed an office partition for privacy.",
+        "exampleZh": "他们安装了一个办公室隔断来保护隐私。"
       },
       "barrier": {
         "def": "障碍物",
         "vs": "侧重阻挡",
-        "use": "a language barrier"
+        "use": "a language barrier",
+        "useZh": "语言障碍",
+        "example": "A language barrier made communication difficult.",
+        "exampleZh": "语言障碍使得交流变得困难。"
       },
       "screen": {
         "def": "屏风,遮挡",
         "vs": "侧重遮挡视线",
-        "use": "a privacy screen"
+        "use": "a privacy screen",
+        "useZh": "隐私屏风",
+        "example": "A privacy screen hides the changing area.",
+        "exampleZh": "隐私屏风遮挡了更衣区。"
       }
     }
   },
@@ -6547,17 +8275,26 @@
       "timepiece": {
         "def": "计时器",
         "vs": "正式,统称",
-        "use": "a fine timepiece"
+        "use": "a fine timepiece",
+        "useZh": "一块好表",
+        "example": "He inherited a fine timepiece from his grandfather.",
+        "exampleZh": "他从祖父那里继承了一块好表。"
       },
       "clock": {
         "def": "时钟",
         "vs": "侧重墙挂或台式",
-        "use": "the wall clock"
+        "use": "the wall clock",
+        "useZh": "挂钟",
+        "example": "The wall clock struck twelve at midnight.",
+        "exampleZh": "挂钟在午夜敲响了十二下。"
       },
       "wristwatch": {
         "def": "腕表",
         "vs": "侧重戴在手腕",
-        "use": "a digital wristwatch"
+        "use": "a digital wristwatch",
+        "useZh": "一块数字手表",
+        "example": "She wears a digital wristwatch for running.",
+        "exampleZh": "她跑步时戴着一块数字手表。"
       }
     }
   },
@@ -6581,17 +8318,26 @@
       "disc": {
         "def": "圆盘",
         "vs": "侧重平圆",
-        "use": "a brake disc"
+        "use": "a brake disc",
+        "useZh": "刹车盘",
+        "example": "The mechanic replaced the worn brake disc.",
+        "exampleZh": "机械师更换了磨损的刹车盘。"
       },
       "rotor": {
         "def": "转子",
         "vs": "侧重旋转部件",
-        "use": "helicopter rotor"
+        "use": "helicopter rotor",
+        "useZh": "直升机旋翼",
+        "example": "The helicopter rotor spun rapidly overhead.",
+        "exampleZh": "直升机旋翼在头顶快速旋转。"
       },
       "tire": {
         "def": "轮胎",
         "vs": "侧重橡胶外胎",
-        "use": "a flat tire"
+        "use": "a flat tire",
+        "useZh": "一个瘪胎",
+        "example": "He had to fix a flat tire on the highway.",
+        "exampleZh": "他不得不在高速公路上修理一个瘪胎。"
       }
     }
   },
@@ -6615,17 +8361,26 @@
       "lash": {
         "def": "鞭打",
         "vs": "侧重鞭笞动作",
-        "use": "twenty lashes"
+        "use": "twenty lashes",
+        "useZh": "二十鞭",
+        "example": "The prisoner received twenty lashes as punishment.",
+        "exampleZh": "囚犯被处以二十鞭作为惩罚。"
       },
       "cane": {
         "def": "藤条",
         "vs": "侧重藤鞭",
-        "use": "a bamboo cane"
+        "use": "a bamboo cane",
+        "useZh": "一根竹杖",
+        "example": "He used a bamboo cane to support his walk.",
+        "exampleZh": "他用一根竹杖支撑行走。"
       },
       "switch": {
         "def": "细枝鞭",
         "vs": "侧重细软鞭",
-        "use": "a willow switch"
+        "use": "a willow switch",
+        "useZh": "一根柳条",
+        "example": "The boy cut a willow switch from the tree.",
+        "exampleZh": "男孩从树上砍下一根柳条。"
       }
     }
   },
@@ -6649,17 +8404,26 @@
       "pipe": {
         "def": "管乐器",
         "vs": "侧重管状乐器",
-        "use": "a tin pipe"
+        "use": "a tin pipe",
+        "useZh": "一根锡管",
+        "example": "He played a simple tune on a tin pipe.",
+        "exampleZh": "他用一根锡管吹奏了一首简单的曲子。"
       },
       "flute": {
         "def": "长笛",
         "vs": "侧重精细乐器",
-        "use": "a silver flute"
+        "use": "a silver flute",
+        "useZh": "一支银笛",
+        "example": "She performed a solo on a silver flute.",
+        "exampleZh": "她用一支银笛演奏了一首独奏曲。"
       },
       "blower": {
         "def": "吹奏器",
         "vs": "侧重吹的工具",
-        "use": "a leaf blower"
+        "use": "a leaf blower",
+        "useZh": "吹叶机",
+        "example": "He used a leaf blower to clear the driveway.",
+        "exampleZh": "他用吹叶机清理车道。"
       }
     }
   },
@@ -6683,17 +8447,26 @@
       "pane": {
         "def": "窗玻璃",
         "vs": "侧重玻璃片",
-        "use": "a window pane"
+        "use": "a window pane",
+        "useZh": "一块窗玻璃",
+        "example": "A bird flew into the window pane and broke it.",
+        "exampleZh": "一只鸟撞上了窗玻璃，把它撞碎了。"
       },
       "casement": {
         "def": "窗扇",
         "vs": "侧重整扇窗",
-        "use": "a casement window"
+        "use": "a casement window",
+        "useZh": "一扇平开窗",
+        "example": "She opened the casement window to let in air.",
+        "exampleZh": "她打开平开窗让空气进来。"
       },
       "opening": {
         "def": "开口",
         "vs": "广义,任何开口",
-        "use": "a small opening"
+        "use": "a small opening",
+        "useZh": "小开口",
+        "example": "There was a small opening in the cave wall.",
+        "exampleZh": "洞穴墙壁上有一个小开口。"
       }
     }
   },
@@ -6717,17 +8490,26 @@
       "pinion": {
         "def": "翼(诗)",
         "vs": "文学,大翅",
-        "use": "strong pinions"
+        "use": "strong pinions",
+        "useZh": "强壮的翅膀",
+        "example": "The eagle spread its strong pinions and soared.",
+        "exampleZh": "雄鹰展开强壮的翅膀翱翔。"
       },
       "fin": {
         "def": "鳍",
         "vs": "侧重鱼/水生",
-        "use": "a shark fin"
+        "use": "a shark fin",
+        "useZh": "鲨鱼鳍",
+        "example": "The shark's fin cut through the water surface.",
+        "exampleZh": "鲨鱼鳍划破了水面。"
       },
       "flap": {
         "def": "翼,垂片",
         "vs": "侧重可拍动部分",
-        "use": "the wing flap"
+        "use": "the wing flap",
+        "useZh": "襟翼",
+        "example": "The pilot adjusted the wing flap for landing.",
+        "exampleZh": "飞行员调整了襟翼准备着陆。"
       }
     }
   },
@@ -6751,17 +8533,26 @@
       "cord": {
         "def": "绳,线",
         "vs": "侧重布/塑料",
-        "use": "an electric cord"
+        "use": "an electric cord",
+        "useZh": "一根电线",
+        "example": "The electric cord was frayed and dangerous.",
+        "exampleZh": "那根电线磨损了，很危险。"
       },
       "cable": {
         "def": "电缆",
         "vs": "侧重粗股",
-        "use": "a power cable"
+        "use": "a power cable",
+        "useZh": "一根电源线",
+        "example": "They buried a power cable under the street.",
+        "exampleZh": "他们把一根电源线埋在了街道下面。"
       },
       "strand": {
         "def": "一股,丝",
         "vs": "侧重单根",
-        "use": "a single strand"
+        "use": "a single strand",
+        "useZh": "一根单股线",
+        "example": "A single strand of wire held the fence together.",
+        "exampleZh": "一根单股线把篱笆固定在一起。"
       }
     }
   },
@@ -6785,17 +8576,26 @@
       "larva": {
         "def": "幼虫",
         "vs": "科学,昆虫幼形",
-        "use": "a caterpillar larva"
+        "use": "a caterpillar larva",
+        "useZh": "毛毛虫幼虫",
+        "example": "The caterpillar larva will soon become a butterfly.",
+        "exampleZh": "毛毛虫幼虫很快就会变成蝴蝶。"
       },
       "grub": {
         "def": "幼虫,蛴螬",
         "vs": "侧重肉乎乎",
-        "use": "white grubs"
+        "use": "white grubs",
+        "useZh": "白色蛴螬",
+        "example": "The gardener found white grubs in the soil.",
+        "exampleZh": "园丁在土壤里发现了白色蛴螬。"
       },
       "earthworm": {
         "def": "蚯蚓",
         "vs": "侧重土中",
-        "use": "a long earthworm"
+        "use": "a long earthworm",
+        "useZh": "一条长蚯蚓",
+        "example": "A long earthworm wriggled out of the ground.",
+        "exampleZh": "一条长蚯蚓从土里钻了出来。"
       }
     }
   }

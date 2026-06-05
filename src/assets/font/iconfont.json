@@ -6,6 +6,27 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "933718",
+      "name": "循环",
+      "font_class": "xunhuan",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "7964499",
+      "name": "考试",
+      "font_class": "kaoshi",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "10467873",
+      "name": "文献",
+      "font_class": "wenxian",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
       "icon_id": "1621486",
       "name": "声音",
       "font_class": "shengyin",

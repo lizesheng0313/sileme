@@ -23,50 +23,46 @@ export default function WordStudyCard({ word, categoryText = 'zh', footer = null
 
   const selectAccent = nextAccent => {
     setAccent(nextAccent)
-    play('word', undefined, nextAccent)
   }
 
   const playPron = (event, nextAccent) => {
     event?.stopPropagation?.()
-    selectAccent(nextAccent)
+    setAccent(nextAccent)
+    play('word', undefined, nextAccent)
   }
 
   return (
     <View className='word-study-card'>
+      <View className='word-accent-bar'>
+        <Text className='word-accent-title'>发音口音</Text>
+        <View className='word-accent-switch'>
+          <View className={`word-accent-option ${accent === 'uk' ? 'active' : ''}`} onClick={() => selectAccent('uk')}>
+            <Text>UK 英式</Text>
+          </View>
+          <View className={`word-accent-option ${accent === 'us' ? 'active' : ''}`} onClick={() => selectAccent('us')}>
+            <Text>US 美式</Text>
+          </View>
+        </View>
+      </View>
+
       <View className='word-hero-card'>
         <Text className='word-category'>{category?.[categoryText] || category?.zh}</Text>
         <Text className='word-hero-main'>{word.word}</Text>
 
-        <View className='word-pron-row'>
-          <View className={`word-pron-item ${accent === 'us' ? 'active' : ''}`} onClick={() => selectAccent('us')}>
-            <Text className='word-pron-tag us'>美</Text>
-            <Text className='word-pron-text'>{word.ipaUs}</Text>
-            <Button className='word-sound-btn' onClick={event => playPron(event, 'us')}><SoundIcon /></Button>
-          </View>
-          <View className={`word-pron-item ${accent === 'uk' ? 'active' : ''}`} onClick={() => selectAccent('uk')}>
-            <Text className='word-pron-tag uk'>英</Text>
-            <Text className='word-pron-text'>{word.ipaUk}</Text>
-            <Button className='word-sound-btn' onClick={event => playPron(event, 'uk')}><SoundIcon /></Button>
-          </View>
+        <View className='word-pron-current'>
+          <Text className={`word-pron-tag ${accent}`}>{accent === 'uk' ? '英' : '美'}</Text>
+          <Text className='word-pron-text'>{accent === 'uk' ? word.ipaUk : word.ipaUs}</Text>
+          <Button className={`word-sound-btn ${accent}`} onClick={event => playPron(event, accent)}><SoundIcon /></Button>
         </View>
       </View>
 
       <View className='word-info-card'>
         <View className='word-title-row'>
-          <Text className='word-info-label'>意思</Text>
-          <Button className='word-mini-listen' onClick={() => play('definition')}><SoundIcon /></Button>
+          <Text className='word-info-label'>释义</Text>
+          <Button className={`word-mini-listen ${accent}`} onClick={() => play('definition')}><SoundIcon /></Button>
         </View>
         <Text className='word-meaning-en'>{word.definition}</Text>
         <Text className='word-meaning-zh'>{word.zh}</Text>
-      </View>
-
-      <View className='word-info-card'>
-        <View className='word-title-row'>
-          <Text className='word-info-label'>例句</Text>
-          <Button className='word-mini-listen' onClick={() => play('example')}><SoundIcon /></Button>
-        </View>
-        <Text className='word-example-en'>{word.example}</Text>
-        {word.exampleZh ? <Text className='word-example-zh'>{word.exampleZh}</Text> : null}
       </View>
 
       {word.core ? (
@@ -81,9 +77,8 @@ export default function WordStudyCard({ word, categoryText = 'zh', footer = null
           <Text className='word-info-label'>近义词</Text>
           <View className='word-syn-row'>
             {word.synonyms.map(item => (
-              <View key={item} className='word-syn-chip' onClick={() => play('synonym', item)}>
+              <View key={item} className='word-syn-chip'>
                 <Text>{item}</Text>
-                <SoundIcon />
               </View>
             ))}
           </View>
@@ -103,9 +98,12 @@ export default function WordStudyCard({ word, categoryText = 'zh', footer = null
                   <Text className='word-detail-word'>{item}</Text>
                   <Text className='word-detail-line'>释义：{detail.def}</Text>
                   <Text className='word-detail-line strong'>区别：{detail.vs}</Text>
-                  <Text className='word-detail-line'>场景：{detail.use}</Text>
+                  <Text className='word-detail-line'>常见搭配：{detail.use}</Text>
+                  {detail.useZh ? <Text className='word-detail-line use-zh'>搭配中文：{detail.useZh}</Text> : null}
+                  {detail.example ? <Text className='word-detail-line example'>例句：{detail.example}</Text> : null}
+                  {detail.exampleZh ? <Text className='word-detail-line example-zh'>译文：{detail.exampleZh}</Text> : null}
                 </View>
-                <Button className='word-row-listen' onClick={() => play('synUsage', item)}><SoundIcon /></Button>
+                <Button className={`word-row-listen ${accent}`} onClick={() => play('synUsage', item)}><SoundIcon /></Button>
               </View>
             )
           })}

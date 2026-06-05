@@ -10,6 +10,7 @@ import './index.scss'
 export default function WordPage() {
   const router = useRouter()
   const word = getWordById(router.params.id)
+  const isFromReview = router.params.from === 'review'
   const shareQuery = word ? `id=${encodeURIComponent(word.id)}` : ''
   const [isLearned, setIsLearned] = useState(false)
 
@@ -44,7 +45,7 @@ export default function WordPage() {
     try {
       await syncLearned(word.id)
       setIsLearned(true)
-      Taro.showToast({ title: '已加入学习', icon: 'none' })
+      Taro.showToast({ title: isFromReview ? '已学会' : '已加入学习', icon: 'none' })
     } catch (error) {
       Taro.showToast({ title: '保存失败', icon: 'none' })
     }
@@ -64,7 +65,7 @@ export default function WordPage() {
 
             {!isLearned ? (
               <View className='inline-actions'>
-                <Button className='secondary-btn' onClick={addLearned}>加入已学习</Button>
+                <Button className='secondary-btn' onClick={addLearned}>{isFromReview ? '已学会' : '加入已学习'}</Button>
               </View>
             ) : null}
           </>

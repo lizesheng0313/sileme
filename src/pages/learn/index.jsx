@@ -65,12 +65,16 @@ export default function LearnPage() {
     const categoryList = WORDS.filter(item => item.category === mode)
     return categoryList.length ? categoryList : WORDS
   }, [mode])
+  const totalWordsInMode = useMemo(() => {
+    if (mode === 'random') return WORDS.length
+
+    return WORDS.filter(item => item.category === mode).length
+  }, [mode])
   const activeWords = remainingWords.length ? remainingWords : fallbackWords
   const currentWord = activeWords[currentIndex] || activeWords[0]
-  const totalProgress = (learnedIds.length / WORDS.length) * 100
-  const categoryWords = WORDS.filter(item => item.category === currentWord?.category)
-  const categoryLeftCount = categoryWords.filter(item => !learnedIds.includes(item.id)).length
-  const currentStep = activeWords.length ? currentIndex + 1 : 0
+  const currentStep = totalWordsInMode
+    ? Math.min(totalWordsInMode, totalWordsInMode - remainingWords.length + currentIndex + 1)
+    : 0
 
   useEffect(() => {
     if (currentIndex >= activeWords.length) {
@@ -91,10 +95,9 @@ export default function LearnPage() {
       const nextLearnedIds = data.learnedIds || []
       const learnedSet = new Set(nextLearnedIds)
       const nextRemainingWords = activeWords.filter(item => !learnedSet.has(item.id))
-      const nextWord = nextRemainingWords[currentIndex] || nextRemainingWords[0]
 
       setLearnedIds(data.learnedIds || [])
-      setCurrentIndex(nextWord ? nextRemainingWords.findIndex(item => item.id === nextWord.id) : 0)
+      setCurrentIndex(nextRemainingWords.length ? Math.min(currentIndex, nextRemainingWords.length - 1) : 0)
     } catch (error) {
       Taro.showToast({ title: '保存失败', icon: 'none' })
     }
@@ -122,14 +125,14 @@ export default function LearnPage() {
   return (
     <View className='page-shell learn-page'>
       <View className='learn-head'>
-        <Text className='learn-back'>‹</Text>
+        <View className='learn-head-side' />
         <View className='learn-step'>
-          <Text className='learn-step-text'>{currentStep} / {activeWords.length}</Text>
+          <Text className='learn-step-text'>{currentStep} / {totalWordsInMode}</Text>
           <View className='learn-step-track'>
-            <View className='learn-step-fill' style={{ width: `${activeWords.length ? (currentStep / activeWords.length) * 100 : 0}%` }} />
+            <View className='learn-step-fill' style={{ width: `${totalWordsInMode ? (currentStep / totalWordsInMode) * 100 : 0}%` }} />
           </View>
         </View>
-        <Text className='learn-more'>•••</Text>
+        <View className='learn-head-side' />
       </View>
 
       <ScrollView className='learn-mode-scroll' scrollX showScrollbar={false}>
@@ -147,15 +150,6 @@ export default function LearnPage() {
 
       <View key={currentWord.id} className='learn-card-wrap'>
         <WordStudyCard word={currentWord} />
-      </View>
-
-      <View className='learn-summary'>
-        <Text>已学 {learnedIds.length} / {WORDS.length}</Text>
-        <Text>{remainingWords.length ? `当前分类还剩 ${categoryLeftCount} 个` : '这一组已学完，当前显示复习词'}</Text>
-        <Text>学会的词可在“我的-已学词”里找回。</Text>
-        <View className='summary-track'>
-          <View className='summary-fill' style={{ width: `${totalProgress}%` }} />
-        </View>
       </View>
 
       <View className='learn-actions'>

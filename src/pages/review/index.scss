@@ -1,49 +1,92 @@
 .review-page {
-  .review-intro {
-    margin-top: 0;
+  .review-head-card,
+  .review-list-card {
+    border: 2rpx solid rgba(228, 232, 244, 0.86);
+    border-radius: 30rpx;
+    background: #fff;
+    box-shadow: 0 16rpx 36rpx rgba(35, 42, 84, 0.06);
+  }
+
+  .review-head-card {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    padding: 34rpx 32rpx;
+  }
+
+  .review-title {
+    font-size: 44rpx;
+    line-height: 1;
+    font-weight: 900;
+    color: var(--ink);
+    letter-spacing: -0.05em;
+  }
+
+  .review-count {
+    font-size: 54rpx;
+    line-height: 0.9;
+    font-weight: 900;
+    color: #28674d;
+  }
+
+  .review-list-card {
+    margin-top: 24rpx;
+    padding: 4rpx 30rpx;
   }
 
   .review-item {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 26rpx 0;
+    padding: 30rpx 0;
     border-bottom: 2rpx solid #eef1f6;
     gap: 20rpx;
   }
 
   .review-item:last-child {
     border-bottom: none;
-    padding-bottom: 0;
   }
 
   .review-word {
     display: block;
-    font-size: 42rpx;
+    font-size: 44rpx;
     line-height: 1.08;
     font-weight: 900;
-    letter-spacing: -0.03em;
+    letter-spacing: -0.04em;
     color: var(--ink);
   }
 
   .review-zh {
     display: block;
-    margin-top: 12rpx;
+    margin-top: 10rpx;
     font-size: 27rpx;
     color: var(--ink-soft);
   }
 
-  .review-tag {
+  .review-arrow {
     flex-shrink: 0;
-    padding: 12rpx 18rpx;
-    border-radius: 999rpx;
-    background: #eaf4ef;
-    color: #28674d;
-    font-size: 23rpx;
+    color: #b3bdcc;
+    font-size: 48rpx;
+    line-height: 1;
     font-weight: 900;
   }
 
-  .review-actions {
-    margin-top: 28rpx;
+  .review-empty {
+    padding: 82rpx 20rpx;
+    text-align: center;
+  }
+
+  .review-empty-title {
+    display: block;
+    font-size: 32rpx;
+    font-weight: 900;
+    color: var(--ink);
+  }
+
+  .review-empty-meta {
+    display: block;
+    margin-top: 14rpx;
+    font-size: 25rpx;
+    color: var(--ink-faint);
   }
 }
