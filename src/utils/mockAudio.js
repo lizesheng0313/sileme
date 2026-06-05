@@ -22,6 +22,7 @@ export function getAudioUrl({ accent = 'uk', type, wordId, text }) {
   if (type === 'example') return `${AUDIO_BASE_URL}/${accent}/example/${safeWordId}`
   if (type === 'synonym') return `${AUDIO_BASE_URL}/${accent}/synonym/${safeWordId}/${safeText}`
   if (type === 'synUsage') return `${AUDIO_BASE_URL}/${accent}/synUsage/${safeWordId}/${safeText}`
+  if (type === 'synExample') return `${AUDIO_BASE_URL}/${accent}/synExample/${safeWordId}/${safeText}`
 
   return ''
 }

@@ -19,24 +19,18 @@
       "alert": {
         "def": "警觉的",
         "vs": "侧重精神警醒",
-        "use": "stay alert",
-        "useZh": "保持警惕",
         "example": "You must stay alert during the night shift.",
         "exampleZh": "夜班期间你必须保持警觉。"
       },
       "conscious": {
         "def": "有意识的",
         "vs": "侧重未昏迷",
-        "use": "fully conscious",
-        "useZh": "完全清醒",
         "example": "The patient is fully conscious after the surgery.",
         "exampleZh": "手术后病人完全清醒。"
       },
       "up": {
         "def": "起床的(口)",
         "vs": "口语,起来了",
-        "use": "up and about",
-        "useZh": "起床活动",
         "example": "Grandpa is up and about early every morning.",
         "exampleZh": "爷爷每天清晨就起床活动了。"
       }
@@ -62,24 +56,18 @@
       "poor": {
         "def": "差的",
         "vs": "侧重质量低",
-        "use": "poor quality",
-        "useZh": "质量差",
         "example": "The poor quality of the fabric disappointed me.",
         "exampleZh": "这块布料质量差，让我很失望。"
       },
       "awful": {
         "def": "糟糕的",
         "vs": "侧重令人不悦",
-        "use": "awful weather",
-        "useZh": "糟糕的天气",
         "example": "We canceled the picnic due to awful weather.",
         "exampleZh": "因为糟糕的天气，我们取消了野餐。"
       },
       "wicked": {
         "def": "邪恶的",
         "vs": "侧重道德邪恶",
-        "use": "a wicked smile",
-        "useZh": "坏笑",
         "example": "He gave her a wicked smile before leaving.",
         "exampleZh": "他离开前对她露出了一个邪恶的坏笑。"
       }
@@ -105,24 +93,18 @@
       "curved": {
         "def": "弯曲的",
         "vs": "侧重平滑弯曲",
-        "use": "a curved line",
-        "useZh": "曲线",
         "example": "The artist drew a smooth curved line on paper.",
         "exampleZh": "艺术家在纸上画了一条平滑的曲线。"
       },
       "twisted": {
         "def": "扭曲的",
         "vs": "侧重旋转弯",
-        "use": "twisted metal",
-        "useZh": "扭曲的金属",
         "example": "The car crash left twisted metal everywhere.",
         "exampleZh": "车祸现场到处是扭曲的金属。"
       },
       "crooked": {
         "def": "歪的",
         "vs": "侧重不直",
-        "use": "a crooked smile",
-        "useZh": "歪嘴笑",
         "example": "She gave him a crooked smile and walked away.",
         "exampleZh": "她对他歪嘴笑了笑，然后走开了。"
       }
@@ -148,24 +130,18 @@
       "sour": {
         "def": "酸的",
         "vs": "侧重酸味",
-        "use": "a sour taste",
-        "useZh": "酸味",
         "example": "The lemon left a strong sour taste in my mouth.",
         "exampleZh": "柠檬在我嘴里留下了强烈的酸味。"
       },
       "harsh": {
         "def": "刺耳/严酷",
         "vs": "侧重粗糙难忍",
-        "use": "harsh words",
-        "useZh": "刺耳的话",
         "example": "His harsh words made her cry silently.",
         "exampleZh": "他刺耳的话让她默默流泪。"
       },
       "tart": {
         "def": "酸涩的",
         "vs": "侧重微酸涩",
-        "use": "a tart flavor",
-        "useZh": "酸涩的味道",
         "example": "The green apple has a pleasant tart flavor.",
         "exampleZh": "这个青苹果有一种宜人的酸涩味道。"
       }
@@ -191,24 +167,18 @@
       "azure": {
         "def": "天蓝色",
         "vs": "侧重明亮蓝",
-        "use": "azure sky",
-        "useZh": "蔚蓝的天空",
         "example": "The azure sky stretched endlessly above us.",
         "exampleZh": "蔚蓝的天空在我们头顶无边无际地延伸。"
       },
       "navy": {
         "def": "深蓝色",
         "vs": "侧重海军蓝",
-        "use": "navy suit",
-        "useZh": "海军蓝西装",
         "example": "He wore a sharp navy suit to the interview.",
         "exampleZh": "他穿着一套挺括的海军蓝西装去面试。"
       },
       "sapphire": {
         "def": "宝石蓝",
         "vs": "侧重宝石色",
-        "use": "sapphire eyes",
-        "useZh": "蓝宝石般的眼睛",
         "example": "Her sapphire eyes sparkled in the sunlight.",
         "exampleZh": "她蓝宝石般的眼睛在阳光下闪闪发光。"
       }
@@ -234,24 +204,18 @@
       "sure": {
         "def": "确信的",
         "vs": "日常口语",
-        "use": "sure thing",
-        "useZh": "没问题",
         "example": "Don't worry, it's a sure thing we'll win.",
         "exampleZh": "别担心，我们赢是没问题的事。"
       },
       "definite": {
         "def": "明确的",
         "vs": "侧重无疑",
-        "use": "a definite answer",
-        "useZh": "明确的答案",
         "example": "I need a definite answer by tomorrow morning.",
         "exampleZh": "我需要在明天早上之前得到一个明确的答案。"
       },
       "positive": {
         "def": "肯定的",
         "vs": "侧重正面确认",
-        "use": "positively sure",
-        "useZh": "绝对肯定",
         "example": "I am positively sure she will come today.",
         "exampleZh": "我绝对肯定她今天会来。"
       }
@@ -277,24 +241,18 @@
       "chilly": {
         "def": "凉飕飕",
         "vs": "侧重微冷",
-        "use": "a chilly morning",
-        "useZh": "寒冷的早晨",
         "example": "A chilly morning greeted us as we stepped out.",
         "exampleZh": "我们出门时，一个寒冷的早晨迎接了我们。"
       },
       "icy": {
         "def": "冰冷的",
         "vs": "侧重像冰一样",
-        "use": "icy roads",
-        "useZh": "结冰的道路",
         "example": "Drive carefully because the roads are icy.",
         "exampleZh": "小心驾驶，因为道路结冰了。"
       },
       "freezing": {
         "def": "冻结的",
         "vs": "侧重极冷",
-        "use": "freezing temperatures",
-        "useZh": "冰点以下的温度",
         "example": "The freezing temperatures made us stay indoors.",
         "exampleZh": "冰点以下的温度让我们待在室内。"
       }
@@ -320,24 +278,18 @@
       "whole": {
         "def": "整个的",
         "vs": "侧重整体",
-        "use": "the whole truth",
-        "useZh": "全部真相",
         "example": "You must tell me the whole truth now.",
         "exampleZh": "你现在必须告诉我全部真相。"
       },
       "entire": {
         "def": "全部的",
         "vs": "侧重完整不可分",
-        "use": "the entire team",
-        "useZh": "整个团队",
         "example": "The entire team worked hard on this project.",
         "exampleZh": "整个团队在这个项目上都很努力。"
       },
       "total": {
         "def": "总的",
         "vs": "侧重总和",
-        "use": "total chaos",
-        "useZh": "一片混乱",
         "example": "The party ended in total chaos last night.",
         "exampleZh": "昨晚派对以一片混乱告终。"
       }
@@ -363,24 +315,18 @@
       "mean": {
         "def": "刻薄的",
         "vs": "侧重小心眼",
-        "use": "a mean comment",
-        "useZh": "刻薄的评论",
         "example": "She regretted making such a mean comment.",
         "exampleZh": "她后悔说了那么刻薄的评论。"
       },
       "brutal": {
         "def": "残暴的",
         "vs": "侧重残忍",
-        "use": "a brutal attack",
-        "useZh": "残忍的攻击",
         "example": "The news reported a brutal attack last night.",
         "exampleZh": "新闻昨晚报道了一起残忍的攻击事件。"
       },
       "heartless": {
         "def": "无情的",
         "vs": "侧重无同情心",
-        "use": "a heartless person",
-        "useZh": "无情的人",
         "example": "He is a heartless person who never helps others.",
         "exampleZh": "他是个无情的人，从不帮助别人。"
       }
@@ -406,24 +352,18 @@
       "black": {
         "def": "黑的",
         "vs": "侧重纯黑",
-        "use": "black hole",
-        "useZh": "黑洞",
         "example": "Scientists study the mysterious black hole.",
         "exampleZh": "科学家研究神秘的黑洞。"
       },
       "dim": {
         "def": "暗淡的",
         "vs": "侧重光线弱",
-        "use": "a dim light",
-        "useZh": "昏暗的灯光",
         "example": "She read by a dim light in the corner.",
         "exampleZh": "她在角落里借着昏暗的灯光读书。"
       },
       "shadowy": {
         "def": "阴暗的",
         "vs": "侧重阴影笼罩",
-        "use": "shadowy figures",
-        "useZh": "模糊的身影",
         "example": "Shadowy figures moved behind the curtain.",
         "exampleZh": "模糊的身影在窗帘后面移动。"
       }
@@ -449,24 +389,18 @@
       "lifeless": {
         "def": "无生命的",
         "vs": "侧重无生气",
-        "use": "a lifeless body",
-        "useZh": "没有生命的躯体",
         "example": "The lifeless body lay still on the ground.",
         "exampleZh": "那具没有生命的躯体静静地躺在地上。"
       },
       "gone": {
         "def": "已逝的",
         "vs": "委婉,离开了",
-        "use": "long gone",
-        "useZh": "早已消失",
         "example": "Her grandmother is long gone now.",
         "exampleZh": "她的祖母早已离开了人世。"
       },
       "deceased": {
         "def": "已故的",
         "vs": "正式,法律语境",
-        "use": "the deceased person",
-        "useZh": "已故的人",
         "example": "The deceased person left no will.",
         "exampleZh": "这位已故的人没有留下遗嘱。"
       }
@@ -492,24 +426,18 @@
       "beloved": {
         "def": "心爱的",
         "vs": "侧重深爱",
-        "use": "my beloved wife",
-        "useZh": "我亲爱的妻子",
         "example": "He wrote a poem for his beloved wife.",
         "exampleZh": "他为心爱的妻子写了一首诗。"
       },
       "precious": {
         "def": "宝贵的",
         "vs": "侧重珍视",
-        "use": "precious memories",
-        "useZh": "珍贵的回忆",
         "example": "She cherishes those precious memories of childhood.",
         "exampleZh": "她珍视那些宝贵的童年回忆。"
       },
       "costly": {
         "def": "昂贵的",
         "vs": "侧重价格高",
-        "use": "a costly mistake",
-        "useZh": "代价高昂的错误",
         "example": "That was a costly mistake for the company.",
         "exampleZh": "对公司来说，那是一个代价高昂的错误。"
       }
@@ -535,24 +463,18 @@
       "fragile": {
         "def": "易碎的",
         "vs": "侧重易破",
-        "use": "fragile glass",
-        "useZh": "易碎的玻璃",
         "example": "Please handle the fragile glass with care.",
         "exampleZh": "请小心拿放易碎的玻璃。"
       },
       "fine": {
         "def": "精细的",
         "vs": "侧重精致",
-        "use": "fine china",
-        "useZh": "精美的瓷器",
         "example": "She served tea in fine china cups.",
         "exampleZh": "她用精美的瓷器杯子端上茶。"
       },
       "tender": {
         "def": "嫩的,娇嫩的",
         "vs": "侧重柔嫩",
-        "use": "tender skin",
-        "useZh": "娇嫩的皮肤",
         "example": "The baby has very tender skin.",
         "exampleZh": "婴儿的皮肤非常娇嫩。"
       }
@@ -578,24 +500,18 @@
       "distinct": {
         "def": "明显不同的",
         "vs": "侧重明显区别",
-        "use": "distinct flavors",
-        "useZh": "独特的味道",
         "example": "The two wines have distinct flavors.",
         "exampleZh": "这两种酒有独特的味道。"
       },
       "unlike": {
         "def": "不像的",
         "vs": "侧重不相似",
-        "use": "unlike his brother",
-        "useZh": "不像他的兄弟",
         "example": "Unlike his brother, he loves sports.",
         "exampleZh": "不像他的兄弟，他热爱运动。"
       },
       "various": {
         "def": "各种各样的",
         "vs": "侧重种类多",
-        "use": "various options",
-        "useZh": "各种选择",
         "example": "We offer various options for you.",
         "exampleZh": "我们为你提供各种选择。"
       }
@@ -621,24 +537,18 @@
       "soiled": {
         "def": "弄脏的",
         "vs": "侧重沾上污物",
-        "use": "soiled napkin",
-        "useZh": "弄脏的餐巾",
         "example": "He threw away the soiled napkin.",
         "exampleZh": "他扔掉了弄脏的餐巾。"
       },
       "filthy": {
         "def": "肮脏的",
         "vs": "侧重极脏",
-        "use": "filthy water",
-        "useZh": "肮脏的水",
         "example": "Do not drink the filthy water.",
         "exampleZh": "不要喝那肮脏的水。"
       },
       "grubby": {
         "def": "邋遢的",
         "vs": "侧重日常脏",
-        "use": "grubby hands",
-        "useZh": "脏兮兮的手",
         "example": "The child came in with grubby hands.",
         "exampleZh": "那孩子进来时手脏兮兮的。"
       }
@@ -664,24 +574,18 @@
       "arid": {
         "def": "干旱的",
         "vs": "侧重缺水",
-        "use": "arid climate",
-        "useZh": "干旱气候",
         "example": "The region has an arid climate.",
         "exampleZh": "这个地区属于干旱气候。"
       },
       "parched": {
         "def": "焦干的",
         "vs": "侧重极干渴",
-        "use": "parched throat",
-        "useZh": "干渴的喉咙",
         "example": "He drank water for his parched throat.",
         "exampleZh": "他喝水来缓解干渴的喉咙。"
       },
       "dehydrated": {
         "def": "脱水的",
         "vs": "侧重失去水分",
-        "use": "dehydrated fruit",
-        "useZh": "脱水水果",
         "example": "She bought some dehydrated fruit.",
         "exampleZh": "她买了一些脱水水果。"
       }
@@ -707,24 +611,18 @@
       "untrue": {
         "def": "不真实的",
         "vs": "侧重与事实不符",
-        "use": "untrue statement",
-        "useZh": "不实陈述",
         "example": "His statement was completely untrue.",
         "exampleZh": "他的陈述完全不真实。"
       },
       "fake": {
         "def": "假的",
         "vs": "侧重伪造",
-        "use": "fake news",
-        "useZh": "假新闻",
         "example": "Don't believe everything in fake news.",
         "exampleZh": "不要相信假新闻里的一切。"
       },
       "wrong": {
         "def": "错误的",
         "vs": "侧重不对",
-        "use": "the wrong answer",
-        "useZh": "错误答案",
         "example": "He gave the wrong answer again.",
         "exampleZh": "他又给出了错误答案。"
       }
@@ -750,24 +648,18 @@
       "weak": {
         "def": "虚弱的",
         "vs": "广义,力量弱",
-        "use": "a weak voice",
-        "useZh": "微弱的声音",
         "example": "She spoke in a weak voice.",
         "exampleZh": "她用微弱的声音说话。"
       },
       "frail": {
         "def": "脆弱的",
         "vs": "侧重易倒",
-        "use": "a frail old man",
-        "useZh": "虚弱的老人",
         "example": "A frail old man sat on the bench.",
         "exampleZh": "一位虚弱的老人坐在长椅上。"
       },
       "faint": {
         "def": "微弱的",
         "vs": "侧重微弱可感",
-        "use": "a faint sound",
-        "useZh": "微弱的声音",
         "example": "I heard a faint sound outside.",
         "exampleZh": "我听到外面有微弱的声音。"
       }
@@ -793,24 +685,18 @@
       "feminine": {
         "def": "女性化的",
         "vs": "侧重女性特质",
-        "use": "feminine charm",
-        "useZh": "女性魅力",
         "example": "She has a natural feminine charm.",
         "exampleZh": "她有一种自然的女性魅力。"
       },
       "woman": {
         "def": "女的",
         "vs": "侧重成年女性",
-        "use": "a woman doctor",
-        "useZh": "女医生",
         "example": "The woman doctor saved his life.",
         "exampleZh": "那位女医生救了他的命。"
       },
       "girl": {
         "def": "女孩的",
         "vs": "侧重年轻",
-        "use": "girl power",
-        "useZh": "女孩力量",
         "example": "The song celebrates girl power.",
         "exampleZh": "这首歌颂扬女孩力量。"
       }
@@ -836,24 +722,18 @@
       "silly": {
         "def": "傻气的",
         "vs": "侧重幼稚",
-        "use": "a silly mistake",
-        "useZh": "愚蠢的错误",
         "example": "It was just a silly mistake.",
         "exampleZh": "那只是一个傻气的错误。"
       },
       "stupid": {
         "def": "愚蠢的",
         "vs": "语气重,贬义",
-        "use": "a stupid idea",
-        "useZh": "愚蠢的想法",
         "example": "That is a really stupid idea.",
         "exampleZh": "那真是个愚蠢的想法。"
       },
       "unwise": {
         "def": "不明智的",
         "vs": "侧重判断不佳",
-        "use": "an unwise choice",
-        "useZh": "不明智的选择",
         "example": "It was an unwise choice to quit.",
         "exampleZh": "辞职是个不明智的选择。"
       }
@@ -879,24 +759,18 @@
       "coming": {
         "def": "将到来的",
         "vs": "侧重即将到",
-        "use": "the coming year",
-        "useZh": "即将到来的一年",
         "example": "We are preparing for the coming year with new plans.",
         "exampleZh": "我们正在为新的一年做准备，制定新计划。"
       },
       "upcoming": {
         "def": "即将发生的",
         "vs": "侧重近期内",
-        "use": "upcoming events",
-        "useZh": "即将到来的活动",
         "example": "Check the schedule for upcoming events this month.",
         "exampleZh": "查看本月即将到来的活动日程。"
       },
       "forthcoming": {
         "def": "即将出现的",
         "vs": "正式,即将到来",
-        "use": "forthcoming book",
-        "useZh": "即将出版的书",
         "example": "Her forthcoming book will be released next spring.",
         "exampleZh": "她即将出版的书将于明年春天发行。"
       }
@@ -922,24 +796,18 @@
       "emerald": {
         "def": "翠绿色",
         "vs": "侧重宝石绿",
-        "use": "emerald eyes",
-        "useZh": "翡翠般的眼睛",
         "example": "She has beautiful emerald eyes that sparkle in the light.",
         "exampleZh": "她有一双美丽的翡翠般的眼睛，在光下闪闪发光。"
       },
       "lime": {
         "def": "青柠色",
         "vs": "侧重黄绿",
-        "use": "lime green",
-        "useZh": "酸橙绿",
         "example": "The walls were painted a bright lime green color.",
         "exampleZh": "墙壁被漆成了明亮的酸橙绿色。"
       },
       "verdant": {
         "def": "翠绿的(文)",
         "vs": "文学,葱郁",
-        "use": "verdant fields",
-        "useZh": "翠绿的田野",
         "example": "We walked through the verdant fields after the rain.",
         "exampleZh": "雨后我们穿过了翠绿的田野。"
       }
@@ -965,24 +833,18 @@
       "sick": {
         "def": "生病的",
         "vs": "日常口语",
-        "use": "feel sick",
-        "useZh": "感到恶心",
         "example": "I feel sick after eating that spoiled food.",
         "exampleZh": "吃了那变质的食物后我感到恶心。"
       },
       "unwell": {
         "def": "不舒服的",
         "vs": "委婉,身体不适",
-        "use": "feeling unwell",
-        "useZh": "感觉不舒服",
         "example": "She has been feeling unwell since yesterday morning.",
         "exampleZh": "她从昨天早上起就一直感觉不舒服。"
       },
       "poorly": {
         "def": "身体差的(英)",
         "vs": "英式口语",
-        "use": "a bit poorly",
-        "useZh": "有点不舒服",
         "example": "My grandmother is a bit poorly today, so she stayed home.",
         "exampleZh": "我奶奶今天有点不舒服，所以待在家里。"
       }
@@ -1008,24 +870,18 @@
       "final": {
         "def": "最终的",
         "vs": "侧重不再继续",
-        "use": "the final round",
-        "useZh": "最后一轮",
         "example": "He won the final round of the competition easily.",
         "exampleZh": "他轻松赢得了比赛的最后一轮。"
       },
       "ultimate": {
         "def": "终极的",
         "vs": "侧重最高终极",
-        "use": "the ultimate goal",
-        "useZh": "最终目标",
         "example": "Winning the championship is our ultimate goal this season.",
         "exampleZh": "赢得冠军是我们本赛季的最终目标。"
       },
       "ending": {
         "def": "结尾的",
         "vs": "侧重结束",
-        "use": "the ending scene",
-        "useZh": "结尾场景",
         "example": "The ending scene of the movie made everyone cry.",
         "exampleZh": "电影的结尾场景让每个人都哭了。"
       }
@@ -1051,24 +907,18 @@
       "tardy": {
         "def": "迟到的",
         "vs": "正式,常用学校",
-        "use": "a tardy student",
-        "useZh": "迟到的学生",
         "example": "The teacher marked the tardy student as absent.",
         "exampleZh": "老师把那个迟到的学生记为缺席。"
       },
       "delayed": {
         "def": "延误的",
         "vs": "侧重被延后",
-        "use": "a delayed flight",
-        "useZh": "延误的航班",
         "example": "Our delayed flight finally took off at midnight.",
         "exampleZh": "我们延误的航班终于在午夜起飞了。"
       },
       "behind": {
         "def": "落后的",
         "vs": "侧重进度落后",
-        "use": "behind schedule",
-        "useZh": "落后于计划",
         "example": "The project is behind schedule and needs more work.",
         "exampleZh": "这个项目落后于计划，需要更多努力。"
       }
@@ -1094,24 +944,18 @@
       "port": {
         "def": "左舷的",
         "vs": "航海/航空术语",
-        "use": "port side",
-        "useZh": "左舷",
         "example": "The captain turned the ship to the port side.",
         "exampleZh": "船长将船转向左舷。"
       },
       "sinister": {
         "def": "左的(古/拉)",
         "vs": "古英语,引申不祥",
-        "use": "sinister hand",
-        "useZh": "左手",
         "example": "In ancient texts, the sinister hand was considered unlucky.",
         "exampleZh": "在古代文献中，左手被认为是不吉利的。"
       },
       "leftward": {
         "def": "向左的",
         "vs": "侧重方向",
-        "use": "leftward turn",
-        "useZh": "左转",
         "example": "Make a leftward turn at the next intersection.",
         "exampleZh": "在下一个路口向左转。"
       }
@@ -1137,24 +981,18 @@
       "slack": {
         "def": "松弛的",
         "vs": "侧重不紧绷",
-        "use": "slack rope",
-        "useZh": "松弛的绳子",
         "example": "Pull the slack rope tight before tying the knot.",
         "exampleZh": "在打结前把松弛的绳子拉紧。"
       },
       "free": {
         "def": "自由的,松开的",
         "vs": "侧重未束缚",
-        "use": "break free",
-        "useZh": "挣脱",
         "example": "The bird managed to break free from the cage.",
         "exampleZh": "那只鸟设法挣脱了笼子。"
       },
       "unbound": {
         "def": "未捆绑的",
         "vs": "侧重未约束",
-        "use": "unbound papers",
-        "useZh": "散落的文件",
         "example": "The unbound papers scattered across the floor.",
         "exampleZh": "散落的文件散落在地板上。"
       }
@@ -1180,24 +1018,18 @@
       "noisy": {
         "def": "吵闹的",
         "vs": "侧重持续噪音",
-        "use": "a noisy room",
-        "useZh": "嘈杂的房间",
         "example": "The children made the room too noisy to study.",
         "exampleZh": "孩子们把房间弄得嘈杂，无法学习。"
       },
       "booming": {
         "def": "轰隆的",
         "vs": "侧重深沉巨响",
-        "use": "a booming voice",
-        "useZh": "洪亮的声音",
         "example": "His booming voice could be heard across the hall.",
         "exampleZh": "他洪亮的声音在大厅里都能听到。"
       },
       "thunderous": {
         "def": "雷鸣般的",
         "vs": "侧重震耳欲聋",
-        "use": "thunderous applause",
-        "useZh": "雷鸣般的掌声",
         "example": "The audience gave thunderous applause after the performance.",
         "exampleZh": "演出后观众报以雷鸣般的掌声。"
       }
@@ -1223,24 +1055,18 @@
       "short": {
         "def": "矮的",
         "vs": "侧重身高/长度",
-        "use": "a short man",
-        "useZh": "矮个子男人",
         "example": "The short man had to stand on a chair to reach the shelf.",
         "exampleZh": "那个矮个子男人不得不站在椅子上才能够到架子。"
       },
       "lowered": {
         "def": "降低的",
         "vs": "侧重被调低",
-        "use": "lowered voices",
-        "useZh": "压低的声音",
         "example": "They spoke in lowered voices so no one would hear.",
         "exampleZh": "他们压低声音说话，以免被人听到。"
       },
       "beneath": {
         "def": "在下方",
         "vs": "侧重位置低于",
-        "use": "beneath the surface",
-        "useZh": "表面之下",
         "example": "There is a hidden cave beneath the surface of the hill.",
         "exampleZh": "小山表面之下有一个隐藏的洞穴。"
       }
@@ -1266,24 +1092,18 @@
       "combined": {
         "def": "合并的",
         "vs": "侧重合在一起",
-        "use": "combined efforts",
-        "useZh": "共同努力",
         "example": "Their combined efforts led to a successful project.",
         "exampleZh": "他们的共同努力促成了项目的成功。"
       },
       "assorted": {
         "def": "杂的,各色的",
         "vs": "侧重种类多",
-        "use": "assorted candies",
-        "useZh": "什锦糖果",
         "example": "She bought a box of assorted candies for the party.",
         "exampleZh": "她为派对买了一盒什锦糖果。"
       },
       "blended": {
         "def": "调和的",
         "vs": "侧重融为一体",
-        "use": "a blended family",
-        "useZh": "重组家庭",
         "example": "They created a blended family after getting married.",
         "exampleZh": "他们结婚后组成了一个重组家庭。"
       }
@@ -1309,24 +1129,18 @@
       "thin": {
         "def": "细的",
         "vs": "侧重宽度小",
-        "use": "a thin line",
-        "useZh": "细线",
         "example": "She drew a thin line on the paper.",
         "exampleZh": "她在纸上画了一条细线。"
       },
       "tight": {
         "def": "紧的",
         "vs": "侧重空间狭窄",
-        "use": "a tight squeeze",
-        "useZh": "拥挤",
         "example": "It was a tight squeeze in the narrow hallway.",
         "exampleZh": "狭窄的走廊里拥挤不堪。"
       },
       "slim": {
         "def": "细长的",
         "vs": "侧重纤细",
-        "use": "slim chance",
-        "useZh": "渺茫的机会",
         "example": "There is only a slim chance of winning.",
         "exampleZh": "获胜的机会十分渺茫。"
       }
@@ -1352,24 +1166,18 @@
       "aged": {
         "def": "年长的",
         "vs": "正式,有年纪的",
-        "use": "the aged",
-        "useZh": "老年人",
         "example": "The aged man walked slowly with a cane.",
         "exampleZh": "那位年长的老人拄着拐杖慢慢走。"
       },
       "ancient": {
         "def": "古老的",
         "vs": "侧重古代",
-        "use": "ancient ruins",
-        "useZh": "古代遗迹",
         "example": "We explored the ancient ruins in Greece.",
         "exampleZh": "我们探索了希腊的古代遗迹。"
       },
       "elderly": {
         "def": "年纪大的",
         "vs": "委婉,礼貌",
-        "use": "elderly woman",
-        "useZh": "老妇人",
         "example": "An elderly woman sat quietly in the park.",
         "exampleZh": "一位老妇人安静地坐在公园里。"
       }
@@ -1395,24 +1203,18 @@
       "contrary": {
         "def": "相反的",
         "vs": "侧重对立",
-        "use": "on the contrary",
-        "useZh": "相反",
         "example": "On the contrary, I think it's a good idea.",
         "exampleZh": "相反，我认为这是个好主意。"
       },
       "reverse": {
         "def": "反向的",
         "vs": "侧重相反方向",
-        "use": "reverse order",
-        "useZh": "倒序",
         "example": "Please list the names in reverse order.",
         "exampleZh": "请按倒序列出名字。"
       },
       "facing": {
         "def": "面对的",
         "vs": "侧重正对",
-        "use": "the facing wall",
-        "useZh": "对面的墙",
         "example": "The painting hangs on the facing wall.",
         "exampleZh": "那幅画挂在对面的墙上。"
       }
@@ -1438,24 +1240,18 @@
       "common": {
         "def": "公众的,公共的",
         "vs": "侧重大众共有",
-        "use": "common areas",
-        "useZh": "公共区域",
         "example": "Please keep the common areas clean.",
         "exampleZh": "请保持公共区域整洁。"
       },
       "general": {
         "def": "一般的,公众的",
         "vs": "侧重广泛",
-        "use": "the general public",
-        "useZh": "大众",
         "example": "The general public is invited to attend.",
         "exampleZh": "欢迎大众前来参加。"
       },
       "open": {
         "def": "开放的",
         "vs": "侧重对所有人",
-        "use": "open to all",
-        "useZh": "对所有人开放",
         "example": "This event is open to all ages.",
         "exampleZh": "这个活动对所有人开放。"
       }
@@ -1481,24 +1277,18 @@
       "uneven": {
         "def": "不平的",
         "vs": "侧重高低不平",
-        "use": "uneven ground",
-        "useZh": "不平整的地面",
         "example": "Be careful walking on the uneven ground.",
         "exampleZh": "在不平整的地面上走路要小心。"
       },
       "coarse": {
         "def": "粗糙的",
         "vs": "侧重质地粗",
-        "use": "coarse fabric",
-        "useZh": "粗糙的布料",
         "example": "The coarse fabric irritated her skin.",
         "exampleZh": "粗糙的布料刺激了她的皮肤。"
       },
       "bumpy": {
         "def": "颠簸的",
         "vs": "侧重凹凸不平",
-        "use": "a bumpy road",
-        "useZh": "颠簸的路",
         "example": "We drove slowly along the bumpy road.",
         "exampleZh": "我们沿着颠簸的路慢慢行驶。"
       }
@@ -1524,24 +1314,18 @@
       "unhappy": {
         "def": "不快乐的",
         "vs": "中性,日常",
-        "use": "an unhappy child",
-        "useZh": "不开心的孩子",
         "example": "The unhappy child refused to eat dinner.",
         "exampleZh": "那个不开心的孩子拒绝吃晚饭。"
       },
       "sorrowful": {
         "def": "悲伤的",
         "vs": "侧重深切忧伤",
-        "use": "sorrowful eyes",
-        "useZh": "悲伤的眼睛",
         "example": "She looked at him with sorrowful eyes.",
         "exampleZh": "她用悲伤的眼睛看着他。"
       },
       "blue": {
         "def": "忧郁的(口)",
         "vs": "口语,情绪低落",
-        "use": "feeling blue",
-        "useZh": "感到忧郁",
         "example": "I've been feeling blue all week.",
         "exampleZh": "我整个星期都感到忧郁。"
       }
@@ -1567,24 +1351,18 @@
       "secure": {
         "def": "安全可靠的",
         "vs": "侧重稳固保护",
-        "use": "secure connection",
-        "useZh": "安全连接",
         "example": "Make sure you have a secure connection.",
         "exampleZh": "确保你有安全连接。"
       },
       "protected": {
         "def": "被保护的",
         "vs": "侧重受保护",
-        "use": "protected species",
-        "useZh": "受保护物种",
         "example": "This is a protected species of bird.",
         "exampleZh": "这是一种受保护的鸟类。"
       },
       "sound": {
         "def": "完好的",
         "vs": "侧重无损坏",
-        "use": "safe and sound",
-        "useZh": "安然无恙",
         "example": "The children arrived home safe and sound.",
         "exampleZh": "孩子们安然无恙地到家了。"
       }
@@ -1610,24 +1388,18 @@
       "hidden": {
         "def": "隐藏的",
         "vs": "侧重藏起来",
-        "use": "hidden treasure",
-        "useZh": "隐藏的宝藏",
         "example": "They searched for the hidden treasure.",
         "exampleZh": "他们寻找隐藏的宝藏。"
       },
       "private": {
         "def": "私密的",
         "vs": "侧重私人",
-        "use": "private affair",
-        "useZh": "私事",
         "example": "Please don't discuss my private affair.",
         "exampleZh": "请不要谈论我的私事。"
       },
       "confidential": {
         "def": "保密的",
         "vs": "侧重不公开",
-        "use": "confidential info",
-        "useZh": "机密信息",
         "example": "This document contains confidential info.",
         "exampleZh": "这份文件包含机密信息。"
       }
@@ -1653,24 +1425,18 @@
       "brief": {
         "def": "简短的",
         "vs": "侧重时间短",
-        "use": "a brief meeting",
-        "useZh": "简短会议",
         "example": "We had a brief meeting this morning.",
         "exampleZh": "今天早上我们开了一个简短会议。"
       },
       "small": {
         "def": "小的",
         "vs": "侧重整体小",
-        "use": "a small portion",
-        "useZh": "一小份",
         "example": "She only ate a small portion of cake.",
         "exampleZh": "她只吃了一小份蛋糕。"
       },
       "stubby": {
         "def": "短粗的",
         "vs": "侧重又短又粗",
-        "use": "stubby fingers",
-        "useZh": "粗短的手指",
         "example": "The baby has cute stubby fingers.",
         "exampleZh": "宝宝有可爱的粗短手指。"
       }
@@ -1696,24 +1462,18 @@
       "closed": {
         "def": "关着的",
         "vs": "中性,常用",
-        "use": "closed door",
-        "useZh": "关着的门",
         "example": "Please keep the closed door locked.",
         "exampleZh": "请把关着的门锁好。"
       },
       "sealed": {
         "def": "密封的",
         "vs": "侧重严密封闭",
-        "use": "sealed envelope",
-        "useZh": "密封的信封",
         "example": "He handed me a sealed envelope.",
         "exampleZh": "他递给我一个密封的信封。"
       },
       "locked": {
         "def": "上锁的",
         "vs": "侧重有锁",
-        "use": "locked drawer",
-        "useZh": "锁着的抽屉",
         "example": "The money is in the locked drawer.",
         "exampleZh": "钱在锁着的抽屉里。"
       }
@@ -1739,24 +1499,18 @@
       "easy": {
         "def": "容易的",
         "vs": "侧重无难度",
-        "use": "an easy task",
-        "useZh": "简单的任务",
         "example": "This is an easy task for beginners.",
         "exampleZh": "这对初学者来说是个简单的任务。"
       },
       "plain": {
         "def": "朴素的",
         "vs": "侧重无修饰",
-        "use": "plain text",
-        "useZh": "纯文本",
         "example": "Please send the document as plain text.",
         "exampleZh": "请以纯文本形式发送文档。"
       },
       "basic": {
         "def": "基本的",
         "vs": "侧重基础层面",
-        "use": "basic skills",
-        "useZh": "基本技能",
         "example": "You need to master basic skills first.",
         "exampleZh": "你需要先掌握基本技能。"
       }
@@ -1782,24 +1536,18 @@
       "sluggish": {
         "def": "迟缓的",
         "vs": "侧重无活力",
-        "use": "sluggish movement",
-        "useZh": "缓慢的动作",
         "example": "His sluggish movement worried the doctor.",
         "exampleZh": "他迟缓的动作让医生担心。"
       },
       "gradual": {
         "def": "逐渐的",
         "vs": "侧重渐进",
-        "use": "gradual change",
-        "useZh": "逐渐变化",
         "example": "We noticed a gradual change in weather.",
         "exampleZh": "我们注意到天气逐渐变化。"
       },
       "leisurely": {
         "def": "从容的",
         "vs": "侧重悠闲",
-        "use": "a leisurely walk",
-        "useZh": "悠闲散步",
         "example": "We took a leisurely walk in the park.",
         "exampleZh": "我们在公园里悠闲散步。"
       }
@@ -1825,24 +1573,18 @@
       "little": {
         "def": "小的",
         "vs": "侧重情感小",
-        "use": "a little dog",
-        "useZh": "小狗",
         "example": "She adopted a little dog from the shelter.",
         "exampleZh": "她从收容所领养了一只小狗。"
       },
       "tiny": {
         "def": "微小的",
         "vs": "侧重极小",
-        "use": "a tiny ant",
-        "useZh": "小蚂蚁",
         "example": "I saw a tiny ant on the table.",
         "exampleZh": "我看到桌子上有一只小蚂蚁。"
       },
       "mini": {
         "def": "迷你的",
         "vs": "侧重缩小版",
-        "use": "a mini car",
-        "useZh": "迷你车",
         "example": "He drives a mini car to work daily.",
         "exampleZh": "他每天开一辆迷你车上班。"
       }
@@ -1868,24 +1610,18 @@
       "gentle": {
         "def": "温和的",
         "vs": "侧重温柔",
-        "use": "a gentle touch",
-        "useZh": "轻柔的触碰",
         "example": "She gave him a gentle touch on the arm.",
         "exampleZh": "她轻轻触碰了他的手臂。"
       },
       "tender": {
         "def": "嫩的",
         "vs": "侧重柔嫩",
-        "use": "tender meat",
-        "useZh": "嫩肉",
         "example": "The steak was surprisingly tender meat.",
         "exampleZh": "牛排出乎意料地嫩。"
       },
       "supple": {
         "def": "柔韧的",
         "vs": "侧重柔软有弹性",
-        "use": "supple leather",
-        "useZh": "柔软的皮革",
         "example": "This bag is made of supple leather.",
         "exampleZh": "这个包是用柔软的皮革制成的。"
       }
@@ -1911,24 +1647,18 @@
       "hard": {
         "def": "硬的",
         "vs": "侧重不易变形",
-        "use": "hard rock",
-        "useZh": "硬岩",
         "example": "The path was covered with hard rock.",
         "exampleZh": "小路上覆盖着硬岩。"
       },
       "firm": {
         "def": "坚实的",
         "vs": "侧重稳固",
-        "use": "firm ground",
-        "useZh": "坚实的地面",
         "example": "We finally stood on firm ground.",
         "exampleZh": "我们终于站在了坚实的地面上。"
       },
       "dense": {
         "def": "密实的",
         "vs": "侧重密度大",
-        "use": "dense material",
-        "useZh": "致密材料",
         "example": "This dense material blocks all sound.",
         "exampleZh": "这种致密材料能隔绝所有声音。"
       }
@@ -1954,24 +1684,18 @@
       "unique": {
         "def": "独特的",
         "vs": "侧重独一无二",
-        "use": "a unique style",
-        "useZh": "独特风格",
         "example": "She has a unique style of painting.",
         "exampleZh": "她有一种独特的绘画风格。"
       },
       "particular": {
         "def": "特定的",
         "vs": "侧重指定",
-        "use": "a particular reason",
-        "useZh": "特定原因",
         "example": "He left for a particular reason.",
         "exampleZh": "他因为特定原因离开了。"
       },
       "exceptional": {
         "def": "卓越的",
         "vs": "侧重超乎寻常",
-        "use": "exceptional talent",
-        "useZh": "非凡才能",
         "example": "Her exceptional talent amazed everyone.",
         "exampleZh": "她非凡的才能让所有人惊叹。"
       }
@@ -1997,24 +1721,18 @@
       "odd": {
         "def": "古怪的",
         "vs": "日常,稍奇怪",
-        "use": "an odd habit",
-        "useZh": "古怪习惯",
         "example": "He has an odd habit of humming.",
         "exampleZh": "他有一个哼歌的古怪习惯。"
       },
       "weird": {
         "def": "诡异的",
         "vs": "侧重让人不安",
-        "use": "a weird feeling",
-        "useZh": "一种奇怪的感觉",
         "example": "I had a weird feeling about this place.",
         "exampleZh": "我对这个地方有一种奇怪的感觉。"
       },
       "unfamiliar": {
         "def": "不熟悉的",
         "vs": "侧重陌生",
-        "use": "unfamiliar territory",
-        "useZh": "陌生的领域",
         "example": "We ventured into unfamiliar territory.",
         "exampleZh": "我们冒险进入了陌生的领域。"
       }
@@ -2040,24 +1758,18 @@
       "slim": {
         "def": "苗条的",
         "vs": "褒义,匀称瘦",
-        "use": "a slim figure",
-        "useZh": "苗条的身材",
         "example": "She maintains a slim figure through yoga.",
         "exampleZh": "她通过瑜伽保持苗条的身材。"
       },
       "slender": {
         "def": "纤细的",
         "vs": "侧重优雅瘦",
-        "use": "slender fingers",
-        "useZh": "纤细的手指",
         "example": "The pianist has slender fingers.",
         "exampleZh": "这位钢琴家有纤细的手指。"
       },
       "slight": {
         "def": "瘦小的",
         "vs": "侧重身材小",
-        "use": "a slight build",
-        "useZh": "瘦小的体格",
         "example": "Despite his slight build, he is strong.",
         "exampleZh": "尽管他体格瘦小，但他很强壮。"
       }
@@ -2083,24 +1795,18 @@
       "pale": {
         "def": "苍白的",
         "vs": "侧重淡白",
-        "use": "a pale face",
-        "useZh": "苍白的脸",
         "example": "She had a pale face after the illness.",
         "exampleZh": "病后她的脸很苍白。"
       },
       "ivory": {
         "def": "象牙白",
         "vs": "侧重微黄白",
-        "use": "ivory keys",
-        "useZh": "象牙琴键",
         "example": "The piano has beautiful ivory keys.",
         "exampleZh": "这架钢琴有漂亮的象牙琴键。"
       },
       "snowy": {
         "def": "雪白的",
         "vs": "侧重纯白",
-        "use": "snowy peaks",
-        "useZh": "白雪皑皑的山峰",
         "example": "We could see snowy peaks in the distance.",
         "exampleZh": "我们能看到远处白雪皑皑的山峰。"
       }
@@ -2126,24 +1832,18 @@
       "incorrect": {
         "def": "不正确的",
         "vs": "正式,与正确相对",
-        "use": "incorrect answer",
-        "useZh": "错误的答案",
         "example": "The teacher marked the incorrect answer.",
         "exampleZh": "老师标记了错误的答案。"
       },
       "mistaken": {
         "def": "误解的",
         "vs": "侧重弄错了",
-        "use": "a mistaken belief",
-        "useZh": "错误的信念",
         "example": "He held a mistaken belief about her.",
         "exampleZh": "他对她抱有错误的信念。"
       },
       "false": {
         "def": "虚假的",
         "vs": "侧重不真实",
-        "use": "a false claim",
-        "useZh": "虚假的说法",
         "example": "The company denied the false claim.",
         "exampleZh": "公司否认了虚假的说法。"
       }

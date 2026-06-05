@@ -91,19 +91,17 @@ export default function WordStudyCard({ word, categoryText = 'zh', footer = null
           {word.synonyms.map(item => {
             const detail = word.synDetail?.[item]
             if (!detail) return null
+            const summary = [detail.def, detail.vs].filter(Boolean).join(' · ')
 
             return (
               <View key={item} className='word-detail-row'>
                 <View className='word-detail-copy'>
                   <Text className='word-detail-word'>{item}</Text>
-                  <Text className='word-detail-line'>释义：{detail.def}</Text>
-                  <Text className='word-detail-line strong'>区别：{detail.vs}</Text>
-                  <Text className='word-detail-line'>常见搭配：{detail.use}</Text>
-                  {detail.useZh ? <Text className='word-detail-line use-zh'>搭配中文：{detail.useZh}</Text> : null}
-                  {detail.example ? <Text className='word-detail-line example'>例句：{detail.example}</Text> : null}
-                  {detail.exampleZh ? <Text className='word-detail-line example-zh'>译文：{detail.exampleZh}</Text> : null}
+                  {summary ? <Text className='word-detail-summary'>{summary}</Text> : null}
+                  {detail.example ? <Text className='word-detail-example'>{detail.example}</Text> : null}
+                  {detail.exampleZh ? <Text className='word-detail-translation'>{detail.exampleZh}</Text> : null}
                 </View>
-                <Button className={`word-row-listen ${accent}`} onClick={() => play('synUsage', item)}><SoundIcon /></Button>
+                <Button className={`word-row-listen ${accent}`} onClick={() => play('synExample', item)}><SoundIcon /></Button>
               </View>
             )
           })}
