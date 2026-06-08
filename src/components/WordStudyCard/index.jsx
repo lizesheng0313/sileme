@@ -59,16 +59,25 @@ export default function WordStudyCard({ word, categoryText = 'zh', footer = null
       <View className='word-info-card'>
         <View className='word-title-row'>
           <Text className='word-info-label'>释义</Text>
-          <Button className={`word-mini-listen ${accent}`} onClick={() => play('definition')}><SoundIcon /></Button>
         </View>
         <Text className='word-meaning-en'>{word.definition}</Text>
         <Text className='word-meaning-zh'>{word.zh}</Text>
+        {word.core ? (
+          <View className='word-core-block'>
+            <Text className='word-info-label'>核心意象</Text>
+            <Text className='word-core-text'>{word.core}</Text>
+          </View>
+        ) : null}
       </View>
 
-      {word.core ? (
-        <View className='word-info-card compact'>
-          <Text className='word-info-label'>核心意象</Text>
-          <Text className='word-core-text'>{word.core}</Text>
+      {word.example ? (
+        <View className='word-info-card'>
+          <View className='word-title-row'>
+            <Text className='word-info-label'>例句</Text>
+            <Button className={`word-mini-listen ${accent}`} onClick={() => play('example')}><SoundIcon /></Button>
+          </View>
+          <Text className='word-example-en'>{word.example}</Text>
+          {word.exampleZh ? <Text className='word-example-zh'>{word.exampleZh}</Text> : null}
         </View>
       ) : null}
 
